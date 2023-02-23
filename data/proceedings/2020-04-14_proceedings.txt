@@ -1,0 +1,1261 @@
+Representantene Jan Bøhler og Solfrid Lerbrekk , som har vært permittert, har igjen tatt sete.
+Før sakene på dagens kart tas opp til behandling, vil presidenten opplyse om at voteringen fra nå av vil foregå på vanlig måte, dvs. ved bruk av knappene på representantenes plasser.
+Presidenten vil derfor be representantene om raskt å sette seg på sin egen plass når det ringes inn til votering, slik at voteringen kan gjennomføres uten unødig opphold.
+Etter ønske fra kommunal- og forvaltningskomiteen vil presidenten ordne debatten slik:
+ 3 minutter til hver partigruppe og 3 minutter til medlemmer av regjeringen.
+Videre vil det – innenfor den fordelte taletid – bli gitt anledning til inntil tre replikker med svar etter innlegg fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten utover den fordelte taletid, får også en taletid på inntil 3 minutter.
+Først vil jeg takke komiteen for et konstruktivt samarbeid under krevende forhold.
+Saken gjelder at Kunnskapsdepartementet har foreslått endringer i statsborgerloven og introduksjonsloven.
+Disse endringene foreslås på bakgrunn av EUs personvernforordning.
+Stortinget vedtok i mai 2018 en ny personopplysningslov, som gjennomfører EUs personvernforordning.
+Før denne trådte i kraft, var statsborgermyndighetenes behandling av personopplysninger hjemlet i nødvendighetskriteriet i den forrige personopplysningsloven, og Utlendingsdirektoratet hadde konsesjon fra Datatilsynet for å behandle personopplysninger.
+I den nye personopplysningsloven gis ikke lenger Datatilsynet anledning til å gi en slik konsesjon, og statsborgermyndighetene trenger, ifølge den nye forordningen, et supplerende rettsgrunnlag for behandling av personopplysninger.
+Videre regulerer også forordningen adgangen til å bruke automatiserte avgjørelser og fastsetter at adgangen til å ta i bruk automatiserte avgjørelser skal forankres i et rettsgrunnlag.
+Det er på bakgrunn av disse praktiske endringene eller tilpasningene til nye lover at denne proposisjonen har kommet på plass.
+For komiteen har det vært stor enighet om behovet for endringene og at nødvendige hjemler tilpasses, slik at man har det nødvendige rettsgrunnlaget for å behandle personopplysninger etter EUs nye forordning.
+Komiteen har understreket viktigheten av å ivareta individers personvern.
+Det er bare SV som har avvikende forslag fra det som foreslås i proposisjonen.
+Jeg går ut fra at de vil redegjøre for sitt syn selv.
+– Med det slutter i hvert fall Fremskrittspartiet seg til forslaget fra regjeringen.
+I dag behandler vi en sak med bakgrunn i en ny personvernforordning i EU.
+Departementet foreslår statsborgermyndighetenes adgang til å innhente nødvendige opplysninger fra ulike instanser, uten hinder av taushetsplikt, i forbindelse med kravene i statsborgerloven om norskopplæring og kunnskaper i norsk muntlig og samfunnskunnskap.
+I introduksjonsloven foreslår departementet å inkludere bruk av automatiserte avgjørelser i forskriftshjemmelen i introduksjonsloven.
+Arbeiderpartiet er enig i at bruk av automatiserte avgjørelser kan innebære både økt effektivitet og bedre ressursutnyttelse.
+Samtidig må vi ha med oss at utfallet av en søknad om norsk statsborgerskap har store konsekvenser for søker, og det stiller store krav til rammene for slike beslutninger.
+For å ivareta tilliten til offentlig forvaltning og for å sikre at teknologiens muligheter kan utnyttes effektivt, er det avgjørende å legge til grunn åpenhet, pålitelighet og etterprøvbarhet når det gjelder både automatiserte beslutninger og automatiserte beslutningsgrunnlag som har vesentlig betydning for den det gjelder.
+I arbeidet med Nasjonal transportplan vedtatt i 2017 heter det:
+«Stortinget ber regjeringen om å legge frem et forslag som sikrer åpenhet om algoritmer som gir grunnlag for beslutninger som har vesentlig betydning for enkeltindivider eller samfunnet.
+Forslaget bør vurdere behovet for og hvem som eventuelt bør sertifisere og kontrollere slike algoritmer.»
+Arbeiderpartiet savner en klargjøring av krav til åpenhet og hvem som har ansvaret for å kontrollere grunnlaget for de automatiske beslutningene.
+Det er synd regjeringen ikke tok seg tid til å klargjøre dette.
+En slik kontroll er av stor betydning, både for å sikre pålitelighet og korrekte beslutninger, og for å sikre at mer avanserte automatiseringer i framtiden ikke reproduserer systematiske skjevheter i de historisk manuelle beslutningene, såkalt algoritmisk diskriminering.
+I Nasjonal strategi for kunstig intelligens etableres gode etiske prinsipper for bruk av kunstig intelligens, men dette må følges opp i praktisk handling i forvaltningen.
+Å få på plass disse rammene fra starten av vil bidra til at den nødvendige tilliten og rammene er på plass for å kunne utnytte mer avansert teknologi i framtiden.
+SV er enig i at bruk av automatiserte avgjørelser kan innebære både økt effektivitet og bedre ressursutnyttelse, og støtter forslaget om en hjemmel for bruk av automatiserte avgjørelser etter introduksjonsloven.
+SV støtter derimot ikke forslaget om bruk av automatiserte avgjørelser i statsborgersaker.
+Utfallet av en søknad om norsk statsborgerskap har store konsekvenser for søkeren, og det er avgjørende at automatiserte avgjørelser knyttes til spesifikke og angitte saksporteføljer i lovs form, ikke til en fullmakt til å avgjøre hvilke saker dette skal omfatte, i en forskrift.
+Flere høringsinstanser har kommet med vektige innvendinger om at vilkårene bak lovforslaget om at behandlingen må være forsvarlig, og at «avgjørelsen ikke inneholder skjønnsmessige vurderinger», er for vagt i forslaget.
+En avgrensning kan f.eks. være at automatiserte avgjørelser bare brukes ved innvilgelser og – som flere høringsinstanser har påpekt – at det må kreves manuell gjennomgang av alle avslag.
+SV mener at alle vedtak som berører barn, må behandles manuelt.
+Barn har egne rettigheter, og vi viser også til at det i fortalepunkt 71 framgår at helautomatiserte avgjørelser, inkludert profilering, ikke bør gjelde barn.
+Regjeringens svar på det er at dette ikke i så stor grad gjør seg gjeldende for barn i statsborgersaker.
+De viser til at det ofte vil være den som har foreldreansvaret, eller vergen, som opptrer på vegne av barnet overfor myndighetene, og legger til grunn at de foresatte vil ivareta barnets rettigheter og friheter.
+Det er verdt å merke seg at Utlendingsdirektoratet i sin høringsuttalelse uttaler at selv om enkelte bestemmelser og vilkår i statsborgerskapsregelverket er skjønnsmessig utformet, vil det være mulig å avgjøre enkeltsaker på bakgrunn av forhåndsdefinerte kriterier som ikke innebærer bruk av skjønn.
+Dette understreker betydningen av hvilke saker det kan tas i bruk automatiserte avgjørelser i, og må være definert i lovs form for å sette klare grenser.
+Regjeringen viser også selv til at hjemmelen for automatiserte avgjørelser kan omfatte saker som er underlagt vilkår som er formulert skjønnsmessig, og trekker fram vilkåret om klarlagt identitet som et eksempel.
+SV mener det ikke er tilstrekkelig at alle klager skal behandles manuelt, at lovhjemmelen må avgrenses mye mer enn det regjeringen legger opp til, og at vilkårene for bruk av automatiserte avgjørelser bør framgå av statsborgerloven, ikke av forskriften.
+Det bør også gå fram av loven at alle klager skal behandles manuelt.
+Jeg vil med det ta opp SVs forslag i saken.
+Representanten Lars Haltbrekken har tatt opp SVs forslag.
+Føremålet med endringane me i dag vedtek, er å gje statsborgarmyndigheitene ein klar heimel for behandling av personopplysningar i statsborgarsaker.
+Statsborgarmyndigheitene sine oppgåver etter statsborgarregelverket føreset behandling av personopplysningar om mange – eit stort tal – utanlandske og norske borgarar.
+I statsborgarlova føreslår departementet ein generell heimel for behandling av personopplysningar i ein ny § 29 a.
+Forslaget inneber at statsborgarmyndigheitene kan behandla nødvendige personopplysningar når dette er nødvendig for å utøva myndigheit eller utføra andre oppgåver etter statsborgarlova.
+Høgre støttar dette.
+I introduksjonslova føreslår departementet å inkludera bruk av automatiserte avgjerder i forskriftsheimel i § 25.
+Høgre støttar også dette.
+Statsborgarskap er ein rett såframt søkjaren oppfyller visse vilkår.
+Etter hovudregelen i statsborgarlova § 7 vert det stilt krav om at identiteten til søkjaren er klarlagd, og at søkjaren har fylt tolv år.
+Vidare vert det stilt krav om at søkjaren skal vera busett i Noreg og ha til hensikt å halda fram med det, og at søkjaren har eller fyller vilkåra for permanent opphald etter utlendingslova og har til saman sju års opphald i Noreg i løpet av dei ti siste åra.
+Søkjaren må fylla krav om gjennomført norskopplæring og norskkunnskapar i norsk munnleg og samfunnskunnskap.
+Søkjarar som er dømde til straff eller andre reaksjonar for straffbare forhold, må ha vore gjennom karenstid.
+I mange saker kan desse vilkåra som eg no ramsa opp, og som vert stilte som krav for rett til norsk statsborgarskap, verta avgjorde på grunnlag av enkle førehandsdefinerte kriterium som kan automatiserast.
+Statsborgarsaker, både godkjenning og avslag, er difor godt eigna for maskinell behandling.
+Søkjarar skal ha rett til manuell overprøving av avgjerda.
+Dette vil gjelda klagebehandlinga både i Utlendingsdirektoratet og i Utlendingsnemnda.
+Utlendingsdirektoratet skal også ha jamlege manuelle kontrollar av bruken av automatiserte avgjerder, og både positive og negative vedtak skal kontrollerast.
+Så eg føler meg trygg på at rettstryggleiken vert godt vareteken ved bruk av automatiserte avgjerder.
+Personvernforordningen i EU krever et supplerende rettsgrunnlag for behandling av alminnelige og særlige kategorier av personopplysninger ved utøvelsen av offentlig myndighet.
+I proposisjonen foreslås det endringer i statsborgerloven og introduksjonsloven i samsvar med dette.
+Det foreslås en generell hjemmel i statsborgerloven for behandling av personopplysninger.
+Forslaget innebærer at det vil framgå uttrykkelig av statsborgerloven at statsborgermyndigheten kan behandle personopplysninger når det er nødvendig for å utøve myndighet eller utføre andre oppgaver etter statsborgerloven.
+Det skal ikke innhentes eller på annen måte behandles flere opplysninger enn det som formålet med behandlingen krever.
+Det foreslås at Kongen kan gi nærmere regler i forskrift om bl.a. hvilke formål personopplysninger kan behandles for, bruk av automatiserte avgjørelser og adgangen til videre behandling av personopplysninger til nye formål.
+I mange saker kan vilkårene som stilles for rett til norsk statsborgerskap, avgjøres på grunnlag av enkle, forhåndsdefinerte kriterier, slik flere talere i saken har vært inne på.
+Statsborgerskapssaker er derfor godt egnet for maskinell behandling.
+Avgjørelser som utelukkende er basert på automatisert behandling av personopplysninger, vil ikke kunne bygge på skjønnsmessige lov- eller forskriftsvilkår, med mindre avgjørelsen er utvilsom.
+Søkere skal gis rett til manuell overprøving av avgjørelsen, og UDI skal også foreta jevnlige manuelle kontroller av bruken av automatiserte avgjørelser.
+Slike kontroller og manuell klagebehandling er gode tiltak for å verne den registrertes rettigheter, friheter og berettigede interesser etter personvernforordningen.
+Det samme gjelder reglene i forvaltningsloven om veilednings- og utredningsplikt, forhåndsvarsling og kontradiksjon, begrunnelsesplikt og klageadgang.
+Når det gjelder vedtak som berører barn, legges det til grunn at de foresatte vil ivareta barnets rettigheter og friheter.
+Videre er adgangen til å bruke helautomatiserte avgjørelser begrenset til saker som ikke inneholder skjønnsmessige vurderinger.
+Barn er i denne sammenhengen derfor ikke mer sårbare enn andre søkere.
+Søkernes plikter og statsborgermyndighetenes adgang til å innhente nødvendige opplysninger fra andre offentlige organer er i dag samlet i samme hjemmel.
+I proposisjonen foreslås det at andre organers opplysningsplikt skilles ut i en egen paragraf i loven, slik at vi får en bedre struktur og gjør bestemmelsene mer brukervennlige.
+Statsborgermyndighetene innhenter i dag utdanningsopplysninger som er nødvendige for å vurdere om språkkravet i statsborgerloven er oppfylt av søkerne.
+Hensynet til effektivitet og kontroll taler for at disse opplysningene innhentes uten å gå via søkerne.
+Derfor foreslås det nødvendig hjemmel for det i proposisjonen.
+Til slutt:
+ Endringene som foreslås i introduksjonsloven, åpner for at departementet kan gi forskrift om bruk av automatiserte avgjørelser.
+Innvandrere må ta avsluttende prøver i norsk og samfunnskunnskap etter introduksjonsloven, og noen av disse prøvene sensureres i et automatisk system.
+Forskriften om bruk av automatiserte avgjørelser med hjemmel i introduksjonsloven vil bli sendt på høring.
+Det blir replikkordskifte.
+Arbeiderpartiet savner, som allerede nevnt fra talerstolen, en klargjøring av krav til åpenhet og hvem som har ansvaret for å kontrollere grunnlaget for de automatiske beslutningene.
+En slik kontroll er av stor betydning både for å sikre pålitelige og korrekte beslutninger og for å sikre at mer avansert automatisering i framtiden ikke reproduserer systematiske skjevheter i de historisk manuelle beslutningene, såkalt algoritmisk diskriminering.
+Mitt spørsmål blir da:
+ Hvorfor tok ikke regjeringen seg tid til å klargjøre krav til åpenhet og hvem som har ansvaret for å kontrollere grunnlaget for de automatiske beslutningene?
+Takk for spørsmålet.
+Representanten peker på et veldig viktig spørsmål.
+Det er viktig at en sånn automatisert beslutning ikke går på bekostning av rettssikkerheten, og det mener vi er godt ivaretatt.
+Det gis jo rett til manuell overprøving av avgjørelsen.
+Alle har mulighet til å klage inn en avgjørelse, og den blir behandlet manuelt.
+I tillegg skal UDI foreta jevnlige manuelle kontroller av bruken, slik at man bl.a. tar stikkprøver.
+Det gjør man både for dem som har fått godkjent statsborgerskap, og også for dem som har fått avvist det.
+På den måten mener vi at vi har gode tiltak for å verne den enkeltes rettigheter, men også for å unngå det som representanten pekte på, nemlig at det blir en algoritmisk skjevhet.
+I Nasjonal strategi for kunstig intelligens etableres det gode etiske prinsipper for bruk av nettopp kunstig intelligens.
+Videre påpekes det at dette må følges opp i praktisk handling i forvaltningen, og å få på plass disse rammene fra starten av vil bidra til at den nødvendige tilliten og rammene er på plass for å kunne utnytte mer avansert teknologi i framtiden.
+Så hvorfor hastet det så med dette arbeidet at regjeringen ikke tok seg tid til å klargjøre rammene for håndtering av automatiske beslutninger i et større perspektiv?
+Min mening er at det er godt klargjort hvordan bruken av automatiserte beslutninger skal kontrolleres i denne saken, både ved at man har klageadgangen som gir rett til manuell overprøving, og at UDI skal foreta kontroll.
+Jeg har veldig god tiltro til at dette blir fulgt opp på en god måte.
+Jeg mener også at dette er en type saker som egner seg veldig godt for en automatisk behandling, i og med at det er veldig klare og tydelige kriterier som skal oppfylles.
+Og så er det også veldig tydelig hvilke saker som ikke skal være en del av den automatiserte behandlingen.
+Så oppfatningen min er at dette er veldig godt ivaretatt i denne saken.
+Replikkordskiftet er omme.
+Flere har ikke bedt om ordet til sak nr. 1.
+Etter ønske fra familie- og kulturkomiteen vil presidenten ordne debatten slik:
+ 5 minutter til hver partigruppe og 5 minutter til medlemmer av regjeringen.
+Videre vil det – innenfor den fordelte taletid – bli gitt anledning til inntil fem replikker med svar etter innlegg fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten utover den fordelte taletid, får en taletid på inntil 3 minutter.
+Det er veldig gledelig at vi i dag skal vedta ny lov om tros- og livssynssamfunn.
+Jeg vil begynne med å takke komiteen for det arbeidet som er lagt ned i den forbindelse.
+Jeg er selvfølgelig veldig glad for den enigheten som nå foreligger om loven, og også for den velviljen som alle partier har utvist med tanke på å skrive seg sammen i flest mulig komitémerknader.
+Nærmere 85 pst. av Norges befolkning tilhører et tros- eller livssynssamfunn.
+Blant disse er Den norske kirke det klart største med sine 3,7 millioner medlemmer og tilhørige.
+I dag er det om lag 860 tros- og livssynssamfunn i landet vårt, og disse representerer et rikt tilbud av fellesskap og aktiviteter til ulike grupper i befolkningen – alt fra aktiviteter for barn og ungdom, til familierådgivning, besøkstjenester, integreringsarbeid, rusarbeid og diakoni, bare for å nevne noe.
+De driver et utstrakt sosialt arbeid og utgjør samlet sett en betydelig del av sivil sektor.
+Samfunnet vårt er i rask endring, og den nye tros- og livssynsloven fornyer og forenkler lovgivningen.
+Tre lover blir nå til én, og det at eldre lovverk nå revitaliseres og tilpasses nåtiden, gir gode rammer for en bærekraftig framtid for et livssynsåpent samfunn.
+Et klart mål for denne trossamfunnsloven har vært å legge til rette for å føre en aktiv og støttende tros- og livssynspolitikk, som sikrer tros- og livssynsmangfold, og som har rom for tro og for uttrykk for tro i det offentlige rom.
+Forholdet mellom stat, samfunn, religion og livssyn har de siste tiår fått stadig større oppmerksomhet i Norge, som i andre land, og den loven vi i dag skal vedta, vil kunne bidra til likebehandling og større helhet og sammenheng i lovgivningen for tros- og livssynssamfunnene.
+Denne dagen har også et historisk sus over seg, da det siste arbeidet med å skille kirke og stat endelig er i mål.
+Den norske kirke får nå sin selvstendighet gjennom en egen rammelov og blir fri fra overstyring fra Stortinget.
+Kirkemøtet overtar den myndigheten som tidligere lå til staten, og får myndighet til å fastsette nærmere regler om kirkelig organisering og inndeling, kirkelige organer og kirkevalg.
+Loven anerkjenner like fullt at Den norske kirke fortsatt skal ha en viktig rolle både i samfunnet og i enkeltmenneskers liv.
+Den norske kirke er bærer av vår kulturarv og er viktig for ivaretakelse av både tradisjoner og identitet.
+Den offentlige støtten til tros- og livssynssamfunnene er en anerkjennelse av hva de betyr for enkeltindividene og som en samfunnsbyggende kraft, og den skal også gi et finansielt grunnlag for at tros- og livssynssamfunnene kan være aktive bidragsytere i samfunnet vårt.
+Den nye loven viderefører i stor grad dagens finansieringsordning, som både ivaretar Den norske kirke og likebehandler alle tros- og livssynssamfunn.
+Det delte finansieringsansvaret mellom stat og kommune opprettholdes.
+Det vil si at staten fortsatt skal gi tilskudd til prestetjenesten og Kirkens virksomhet nasjonalt og regionalt, og at kommunene skal finansiere Kirkens virksomhet lokalt og ha det økonomiske ansvaret for drift og vedlikehold av kirkebyggene.
+Dette er med på å sikre stabilitet og nødvendig forutsigbarhet.
+Det slås også fast at tros- og livssynssamfunn med minst 50 medlemmer kan få tilskudd, og at barn regnes med som tellende medlemmer.
+Samtidig har det vært et behov for å klargjøre i hvilke tilfeller tros- og livssynssamfunn kan nektes tilskudd, selv om terskelen her fortsatt skal være høy.
+For svært mange mennesker utgjør tros- og livssynssamfunnene viktige fellesskap som har betydning for menneskers tilhørighet og identitet.
+Det er derfor viktig at også de legger til rette for demokrati, åpenhet og representasjon.
+Jeg er glad for at vi i dag skal vedta en ny tros- og livssynslov – en lov som anerkjenner troens betydning i menneskers liv, og som slår fast at Norge er et livssynsåpent samfunn, hvor trosfrihet og fri religionsutøvelse er en grunnleggende menneskerettighet.
+Norge har en kristen og humanistisk arv, og Arbeiderpartiet vil at vi skal ta med oss den i møtet med dagens mangfoldige samfunn.
+Trosfrihet er en menneskerett.
+Friheten til å tro og utøve sin religion skal stå side om side med friheten til å ikke tro, konvertere, frafalle eller kritisere religion.
+Demokratiet er ikke et demokrati uten trosfrihet, og trosfriheten er ikke en frihet uten et demokrati.
+I de urolige tidene vi lever i nå, ser vi tydelig hvordan tro og livssyn preger våre liv.
+Barmhjertig og solidarisk vier mennesker livet sitt til å hjelpe andre fordi de tror det er rett.
+Vi ser menigheter som bidrar med frivillig arbeid, livssynshus og kirker som ivaretar sine medlemmer og deres tro i en vanskelig tid for mange.
+Men vi ser også menigheter og forkynnere som utnytter utrygghet, og som bruker det til kynisk utnyttelse av sårbare mennesker.
+Som i politikken, nasjonalt og internasjonalt, er det også tydelig polarisering innen tros- og livssynsfeltet.
+Antall tros- og livssynssamfunn er økt fra 488 til ca. 850 de siste 20 årene.
+Antall medlemmer er nå nærmere doblet, til 655 000.
+For drøye ti år siden fikk vi det brede kirkeforliket, som slo fast løsere bånd mellom stat og kirke, med formål om å videreføre og styrke folkekirken, og vi fikk Stålsett-utvalgets gjennomgang og lovforslag i 2013.
+I regjeringas høringsnotat sa man seg enig med Stålsett-utvalget i behovet for et høyere antallskrav for trossamfunn for å bli registrert, søke økonomisk støtte og få vigselsrett.
+Videre sies det at for å kunne føre en mer effektiv og inngående kontroll med oppfyllelse av lovbestemte krav og vilkår må antall tros- og livssynssamfunn reduseres vesentlig.
+Det ble også vist til forenklings- og effektiviseringshensyn og færre vigslere å kontrollere og følge opp.
+Regjeringa foreslo en minstegrense på 500 medlemmer.
+Mulighetene for å kunne gå sammen i en organisatorisk overbygning og unntak ble angitt, og det ble vist til Sverige, der antall medlemmer er satt til 3 000.
+Det er lett å forstå at Kristelig Folkepartis representanter er tilfreds med et antallskrav på 50.
+En kan bare undre seg over at de øvrige regjeringspartier og et helt frittgående Fremskrittsparti har akseptert dette.
+Arbeiderpartiet stiller seg bak regjeringas opprinnelige forslag og fremmer våre forslag om det.
+I debatten om retningslinjer for statsstøtte og tilbaketrekking har argumentene handlet om at tros- og livssynssamfunnene må vernes.
+Det er Arbeiderpartiet enig i, og det er derfor det trengs klare retningslinjer.
+Uansett hvilke rammer man pakker undertrykking inn i, er undertrykking uakseptabelt.
+Diskriminering og ekskludering av mennesker med grunnlag i kjønn, etnisitet, sosial status eller seksuell legning er uakseptabelt.
+Den overordnede verdien er at alle mennesker har rett til å være den de er, og bli møtt med respekt og likeverd.
+Friheten til å ikke bli diskriminert må veie tyngre enn friheten til å diskriminere.
+Arbeiderpartiet har god dialog med mange tros- og livssynssamfunn.
+Det mener vi er viktig fordi tros- og livssynssamfunn og staten forvalter hver sine viktige stolper i demokratiet.
+Vi mener det er behov for mer dialog, ikke mindre.
+I fellesskap må vi finne veier ut av diskriminerende praksis og bidra til prosesser som sikrer at de endres, at tros- og livssynssamfunnene blir mer åpne, demokratiske og inkluderende.
+Det, tror vi, vil styrke tilliten til tros- og livssynssamfunnene.
+Denne dialogen har vi kalt samfunnskontrakten.
+Staten har hatt en årelang, bred og åpen dialog med Den norske kirke om bl.a. kvinnelige prester og homofilt samliv.
+De demokratiske prosessene og lovene som kom, ga kvinner og homofile sterkt rettsvern også i Kirken.
+Det er en kjensgjerning at troende mennesker i Norge i dag utsettes for det som kan beskrives som teologiske overgrep.
+Det handler bl.a. om helbredelse fra og fordømmelse av seksuell legning og om ekskludering dersom man bruker stemmeretten – den viktigste rettigheten i et demokrati.
+En slik praksis kan ikke støttes av en stat som forsvarer menneskerettigheter.
+For mange mennesker utgjør tros- og livssynssamfunnene viktige fellesskap.
+De har betydning for tilhørighet og identitet og kan være et ankerfeste for bredt frivillig engasjement.
+Behovet for mer dialog med tros- og livssynssamfunnene og ivaretakelse av folkekirken og dens samarbeid med lokalsamfunnene er viktig for Arbeiderpartiet.
+Jeg viser til innstillinga og tar opp de forslagene vi er en del av.
+Da har representanten Kari Henriksen tatt opp Arbeiderpartiets forslag og de forslag Arbeiderpartiet er en del av.
+Ja, kjære forsamling:
+ Dette er en historisk dag.
+Den nye trossamfunnsloven som vi vedtar i dag, markerer det endelige skillet mellom stat og kirke.
+Jeg er glad for at komiteen er samstemt i at målet med loven er at vi skal legge til rette for en aktiv, liberal og åpen tros- og livssynspolitikk i Norge.
+Det har siden 1800-tallet vært en reformprosess av lovgivningen vedrørende Den norske kirke.
+Det har vært en stadig delegasjon fra staten til de valgte kirkelige organer.
+Lovfesting av støtte til trossamfunn utenom Den norske kirke ble vedtatt i 1962, og det er en anerkjennelse av at vi ikke har et ensartet samfunn lenger.
+Gjønnes-utvalget startet prosessen med endringer i statskirkeordningen, og av den fulgte en demokratireform.
+I 2012 fikk Kirkerådet tilsettingsmyndighet over både proster og biskoper, etter en tidligere lang diskusjon, og Den norske kirke ble et eget rettssubjekt i 2017.
+Kirken fikk nå også arbeidsgiveransvaret for proster, biskoper og den øvrige administrasjonen tilknyttet Kirken.
+Vel å merke ble statens finansieringsansvar for Kirken uendret, og soknenes selvstendige rettslige stilling som den minste grunnleggende enhet i Den norske kirke ble videreført.
+Det er også videreført her i den nye loven.
+Hvorfor dette historiske tilbakeblikk?
+Jo, fordi samfunnet endrer seg, og lovene endrer seg i takt med det.
+Dette er ikke en hurtig prosess, men en langsom prosess, og jeg tror det har vært bra, for vi er som sagt ikke et ensartet folk lenger.
+Andelen som ikke er medlem av tros- og livssynssamfunn, er stigende, og det dukker også opp mange livssyns- og trossamfunn utenom Den norske kirke og det kanskje største vi har av livssynssamfunn:
+ Human-Etisk Forbund.
+Vi har trossamfunn for muslimer, jøder, sikher og katolikker, og særlig den katolske menigheten er økende som et resultat av innvandring.
+Jeg er glad for at tilskuddsordningene skal understøtte nettopp dette med tros- og livssynsfriheten.
+Det er et bumerke i et demokratisk samfunn, og det bidrar også til et åpent samfunn.
+Fra Høyres side er vi glad for videreføringen av den offentlige finansieringen av Den norske kirke, og at vi får en tilskuddsordning for andre tros- og livssynssamfunn.
+Så noterer jeg at det er en debatt om dette med antallet medlemmer som skal ha rett til tilskudd.
+For oss har det vært viktig å lytte til alle som har ment noe om dette, og vi har landet på at det er 50 medlemmer som skal være taket på det.
+Det er faktisk også ganske mange samfunn med under 50 medlemmer som lever et aktivt og godt liv i sitt trossamfunn.
+Man skal legge til rette for demokrati, åpenhet og representasjon – det har komiteen vært tydelig på i merknadene – men det skal gjøres på en slik måte at vi tar vare på trosfriheten, og vi skal ikke gripe inn i livssynssamfunnenes teologiske overveielser, selv om det kan være aldri så fristende.
+Men retten til å utøve sin tro er ikke absolutt.
+Noen ganger må den avveies mot grunnleggende rettigheter, f.eks. menneskerettighetene.
+Det har vært behov for å klargjøre i loven i hvilke tilfeller tros- og livssynssamfunn kan nektes tilskudd.
+Det er helt klart at utøvelse av vold, tvang og krenking av andres rettigheter og friheter gir en mulighet til å frata tilskudd, men det kan også være straffbart.
+Det er også i loven lagt inn betydelige krav om rapportering til dem som får tilskudd.
+Nå er det Kirkemøtet som overtar myndighetene som tidligere lå til staten, og får myndighet til å fastsette nærmere regler om organiseringen.
+Jeg mener Kirken er best til å ivareta disse anliggendene, ikke Stortinget, og i tråd med Kirkens eget ønske opprettholdes det delte finansieringsansvaret mellom stat og kommune.
+Det er vi glad for.
+Tro er noe av det viktigste i mange av oss menneskers liv, men tro er også noe av det mest personlige vi har.
+Det er vår egen personlige kontakt med de høyere makter vi måtte velge eller ikke velge å sette vår lit til, og det er vår kontakt med det som ikke kan forklares, men som likevel kan være noe av det mest meningsfulle vi har.
+Derfor mener Fremskrittspartiet at offentlige myndigheter skal ha en svært, svært begrenset rolle i hver og en sitt forhold til nettopp dette:
+ tro.
+Når det er sagt, har vi stor respekt for og anerkjenner at tro og de menighetsmessige fellesskap, som også ofte er en del av vårt familiefellesskap, er en veldig viktig del av folks liv.
+Men det prinsipielle, nemlig at tro er noe ytterst personlig – og at man ikke skal pådyttes andres normer og levesett, noe som dessverre ikke er tilfellet i en lang rekke land i verden i dag – gjør at Fremskrittspartiet mener at tro er en privatsak, og at drift av trossamfunn ikke bør finansieres av det offentlige.
+Det er derfor en glede på vegne av Fremskrittspartiet å ta opp forslaget fra komitébehandlingen om å avskaffe offentlig finansiering av trossamfunn.
+Dessverre har ingen andre partier gitt sin støtte til Fremskrittspartiets prinsipielle holdning, og dette forslaget vil derfor falle her i dag.
+Vi har derfor hatt samtaler og diskusjoner med regjeringspartiene, og Fremskrittspartiet er glad for at vi har fått noen viktige og tydelige gjennomslag for subsidiært å støtte regjeringspartiene.
+Jeg vil derfor også gratulere statsråden og regjeringspartiene med at de i dag får gjennomslag for sin sak, men vil snakke mer om de gjennomslagene som Fremskrittspartiet har fått, og som vi er stolte av.
+Bakgrunnen for disse gjennomslagene for Fremskrittspartiet er at vi i verden i dag har altfor mange eksempler på at radikale ideer og ekstremisme spres, at ukultur og diskriminering av minoriteter iverksettes, og at individets grunnleggende friheter undertrykkes og settes til side i religionens navn.
+Dette årtusenet startet på mange måter med 11. september-angrepet, og kampen mot IS og terrorangrep som har preget både Europa og andre steder, har dessverre også vært en del av de siste to tiårene.
+Det har vist at religionen ofte brukes for å spre radikale religiøse ideer, islamisme eller andre typer religiøse vrangforestillinger, på ulike nivåer.
+Det kan være gjennom YouTube og internett, det kan være gjennom etter-skole-tilbud og det kan være på andre måter.
+Og selv om religion er noe veldig viktig i vårt liv, har vi også en plikt til å stoppe dem som bruker religion til å fronte den typen radikale ideer.
+I Fremskrittspartiet er vi derfor glad for at vi i dag har flertall i denne salen for å vedta en lovtekst som gjør at trossamfunn som mottar støtte fra land som ikke selv respekterer retten til religionsfrihet, ofte autoritære land, mister retten til støtte fra Norge, altså at de trossamfunn som tar imot støtte fra slike land, mister retten til støtte fra Norge.
+Vi godtar ikke at land som ikke selv respekterer religionsfriheten, skal være med og styre over norske trossamfunn.
+Vi har også over lengre tid vært kjent med at norske ungdommer med innvandrerbakgrunn sendes til utlandet for å delta på såkalte koranskoler.
+I høst avslørte Aftenposten hvordan vi også i Norge har hatt denne typen koran-SFO-er, som vi mener har vært uheldig fordi dette er faste undervisningsopplegg, uten åpenhet og innsyn, som kan bidra til segregering og være integreringshemmende.
+Vi er derfor glad for at det også er flertall i denne salen for å be regjeringen komme tilbake med en sak som forbyr denne typen undervisningsopplegg som har overnatting, og som kan være hemmende for integreringen.
+Jeg er også glad for at det vedtas i dag at man ønsker fortgang i arbeidet med å hindre at barn og unge også kan sendes til utlandet på koranskole.
+Dette er noe vi vet skjer.
+Det har vært flere historier i media den siste tiden om ungdom, født og oppvokst i Norge, som mot sin vilje sendes til utlandet og plasseres på koranskoler hvor det er bevist at det er både tortur, bruk av vold og andre typer ting som vi ikke kan være bekjent av.
+Det er viktig at det settes en stopper for at barn og unge sendes til denne typen skoler.
+Alt i alt er Fremskrittspartiet glad for den saken som vi i dag behandler.
+Det er en viktig sak som behandles.
+Vi har dessverre ikke fått gjennomslag for vårt primærstandpunkt om avskaffelse av offentlig finansiering av trossamfunn, men vi støtter regjeringens forslag, med noen tydelige gjennomslag som er viktig for oss, ikke minst på koranskolefeltet.
+Representanten Himanshu Gulati har tatt opp det forslaget han refererte til.
+Tros- og livssynsfeltet handler om grunnleggende menneskerettigheter, som er gitt vern i Grunnloven.
+Religion og livssyn er nemlig en sentral dimensjon i mange menneskers liv, og mange religioner er også store tradisjons- og kulturbærere, noe som ikke minst gjelder Den norske kirke, den viktige folkekirken vår.
+Senterpartiet mener at kirke, religion og livssyn fortsatt skal være et offentlig anliggende, og da spiller både staten og kommunen en viktig rolle for å understøtte folks muligheter til å utøve tro og livssyn.
+I dag vedtar vi å slå sammen tre lover på tro- og livssynsfeltet til én.
+Senterpartiet mener at en slik samordning og harmonisering av lovverket kan være hensiktsmessig.
+Vi som parti er opptatt av at i det pluralistiske Norge vi har i dag, må vi støtte opp under alle former for likebehandling av tro og livssyn.
+Derfor er symbolverdien av denne nye loven god.
+Men vi mener nok at gevinsten med denne felles loven først og fremst bare handler om forenkling og enkelte presiseringer, den innebærer ikke en reell styrking av trosfriheten eller en mer aktiv og støttende tros- og livssynspolitikk enn det gjeldende lovverk gjør.
+Dessuten mener vi i Senterpartiet at den nye loven går altfor langt i å deregulere Den norske kirke, sett i lys av den særskilte stillingen den har i folket vårt, intensjonen i kirkeforliket og viktigheten av å opprettholde grunnlaget for en lokal tilstedeværelse som en reell folkekirke.
+Ministeren inviterte til et bredt forlik om en så viktig lov som dette, og vi i Senterpartiet ønsker å være konstruktive i slike forhandlinger, særlig for å kunne forbedre det viktige kapitlet om Den norske kirke, slik at vi i framtiden kan være sikre på at vi som stat virkelig har lagt til rette for at folkekirken får mulighet til å bety og bidra så mye som den har potensial for – i hele landet og i alle sokn.
+Men som alle vet, landet ministeren plutselig en avtale med Fremskrittspartiet, og resultatet ble et så deregulert kapittel om Den norske kirke at det kanskje ville vært like greit heller å ha en egen kirkelov, hvor Stortinget i større grad kunne ha fokusert på hvordan folkekirken vår skal fortsette å utvikle seg til å bli enda mer relevant.
+Så i dag stemmes dessverre flere forslag for å styrke folkekirken ned, som at kirkevalg skal holdes sammen med kommunevalg.
+Det samme gjelder Senterpartiets forslag om at regjeringen må komme tilbake med en sak om å styrke soknets stilling og videreføre en lovfesting av fellesråd og en klargjøring av plassering av arbeidsgiveransvaret for kirkelig ansatte lokalt.
+Jeg har noen år bak meg som kommunens representant i fellesrådet på Notodden.
+Både i det virket og når jeg har besøkt mange menigheter rundt omkring i landet i det siste, fortelles det om hvor viktig fellesrådet er når det gjelder å bygge bro mellom kommuner og menighet, og også som arbeidsgiver.
+Det undrer meg stort at regjeringen ikke kan være med på å sikre framtiden for denne viktige funksjonen.
+Mer gledelig er det da at regjeringen på tampen av komitéarbeidet ble med på i alle fall å lovfeste at det kommunale tilskuddet også skulle gjelde for noen av de stillingene som var utelatt i lovforslaget, som organist og kantor.
+Det blir viktig for å sikre kvalitet i folkekirken framover og for forvaltingen av og rekrutteringen til kirkemusikken, som er en betydelig del av kulturarven vår.
+Når det gjelder resten av loven som fremmes i dag, er det positivt at en samlet komité fremmer flere forslag sammen.
+Men det er mange ting vi i Senterpartiet er uenig i, særlig når det gjelder kravene som bør stilles for å få statstilskudd.
+Regjeringen foreslår å sette et minstekrav på 50 medlemmer for å kunne motta tilskudd.
+Vi mener at antallskravet bør justeres til 100 medlemmer, og viser til Stålsett-utvalgets utredning fra 2013, hvor et flertall gikk inn for det.
+Det vil gi bedre kontroll, tilsyn og oppfølging enn ved bare 50 – i tillegg til reell mulighet til dialog med de ulike tros- og livssynssamfunnene.
+Senterpartiet fremmer derfor eget forslag om det.
+Senterpartiet mener ellers at det er nødvendig med gode og effektive kontrollmekanismer som sikrer at lovens intensjoner og betingelsene som ligger til grunn for tildeling av tilskudd, etterleves.
+I tillegg er det også viktig med tanke på tillit og ordningens legitimitet i befolkningen.
+Utover årlig rapportering fra tros- og livssynssamfunn, jf.
+§ 7, fremmer vi i Senterpartiet derfor forslag om at tilsyn gjennom fysiske og uanmeldte besøk også må finne sted.
+Senterpartiet har sammen med Arbeiderpartiet og Sosialistisk Venstreparti flere andre forslag, som også vil sørge for bedre fordeling av statstilskudd, og er selvfølgelig skuffet over at ikke regjeringen blir med på disse som det kloke forslaget om å evaluere de nye retningslinjene for statstilskudd, og selvfølgelig forslaget om at vi på dette området, som ellers i samfunnet, skal sette krav til 40 pst. representasjon av kvinner i styringsorganer som får offentlig støtte.
+Jeg må på tampen si at jeg synes det er et paradoks at Stortinget i dag løfter fram viktigheten av likestilling mellom tros- og livssynssamfunn, men at regjeringen og Fremskrittspartiet samtidig ikke synes det er like viktig med likestilling i de samme tros- og livssynssamfunnene.
+Med det hjertesukket tar jeg opp Senterpartiets forslag.
+Representanten Åslaug Sem-Jacobsen har tatt opp Senterpartiets forslag.
+Dette er en lov og en proposisjon som rører ved noe av det dypeste hos mange mennesker, ved store samfunnsspørsmål og ved store og små virksomheters rammevilkår.
+Derfor mener jeg det er synd at regjeringen ikke gikk til hele opposisjonen for å lage et samlende forlik om tros- og livssynspolitikken, sånn som Stortinget har gjort før.
+I stedet fikk regjeringen knappest mulig flertall, sammen med bare ett parti, Fremskrittspartiet.
+Så store spørsmål og så mange berørte fortjener forutsigbarhet, at alle partiene finner sammen til et resultat som kan stå seg over tid.
+Fra SVs side har det uansett vært et mål å oppnå så mye enighet som mulig i denne saken, og vi har heldigvis kunnet skrive oss sammen om en god del i komiteen.
+I det arbeidet har SV ønsket å være en pådriver for en aktiv, liberal og åpen tros- og livssynspolitikk som sikrer tros- og livssynsmangfold, likestilling og en fullføring av skillet mellom stat og kirke.
+Vi skal være støttende til et mangfold av tro og livssyn, også i det offentlige rom.
+Men vi skal ikke favorisere enkeltes syn på andres bekostning, og det krever en sekulær stat som kan støtte opp om alle, på lik linje.
+Den beste måten å verne om viktige verdier som likestilling og respekt for menneskerettighetene i tros- og livssynssamfunnene på er ikke med tilbaketrekking fra samfunnet, men tvert imot med en aktiv tros- og livssynspolitikk med kontaktpunkter og dialog mellom samfunn og trossamfunn.
+Det er et viktig mål for en åpen tros- og livssynspolitikk å verne om tros- og livssynsfriheten, for det er en grunnleggende menneskerettighet at alle mennesker har rett til både tankefrihet, samvittighetsfrihet og trosfrihet.
+Dette settes på spissen i kampen mot diskriminering, hat og hets på bakgrunn av religion eller antatt religiøs bakgrunn.
+Islamofobi og antisemittisme, bl.a. fra et framvoksende høyreekstremt miljø som flere ganger har slått til med terrorangrep mot våre gudshus, viser hvor viktig denne kampen er nå.
+Da har storsamfunnet en viktig rolle i å ta vare på våre religiøse minoriteter og passe på hva slags debattklima vi selv bidrar til.
+Men vi skal være tydelige i vår dialog med tros- og livssynssamfunnene, særlig når det gjelder kampen mot negativ sosial kontroll, for likestilling, for skeives rettigheter og for vern av barns rettigheter.
+Den viktige kampen foregår i samfunnet selv, for heller ikke tro er noe uforanderlig – modige kvinner og menn som går foran i tabubelagte spørsmål, sunne interne debatter som går framover.
+Den kampen må vi støtte opp om og bidra til.
+Da mener SV at vi må ta en mer aktiv rolle, og den viktigste måten å gjøre det på er gjennom dialog, stadig åpne kanaler til alle tros- og livssynssamfunn.
+Det kan ta tid, det er krevende, men det fungerer.
+Skal dialog føre fram, må vi ha økt åpenhet om hva som skjer i tros- og livssynssamfunnene.
+Det kan ikke være noen lukkede rom i Tros-Norge, og vi må være tydeligere på kravene, med et ris bak speilet, slå tydeligere ned på grove overtramp, for trosfriheten kan ikke brukes som et frikort for å frarøve folk andre grunnleggende menneskerettigheter.
+Derfor fremmer SV flere forslag i denne salen om å tydeliggjøre de nye kriteriene for å frata statsstøtte og stille flere krav i tillegg.
+Vi kan f.eks. ikke bare uten videre godta at trossamfunn benytter seg av unntaksadgangen fra likestillings- og diskrimineringslovverket.
+SV skal altså være med på bl.a. forslagene nr. 2, 3 og 4 – selv om det ikke ble med i innstillingen – om bl.a. krav til likestilling i styringsorganer.
+Til slutt noe om Den norske kirke og finansiering:
+ Så lenge Den norske kirke har sin grunnlovfestede rolle som en landsomfattende folkekirke, mener vi det er rett å stille noen krav i lovs form.
+Det gjelder også å opprettholde noen flere krav fra den forrige loven, som et inkluderende kirkedemokrati eller krav til ryddige arbeidsgiverforhold lokalt.
+Derfor er SV med på slike forslag.
+Men det er verdt å minne om at Stortinget i denne sesjonen har til behandling et grunnlovsforslag fra SV om å fullføre skillet mellom stat og kirke.
+I en situasjon hvor kirken ikke har den nåværende stillingen i Grunnloven, ville dette også stilt seg annerledes.
+Når det gjelder finansiering, er jeg glad for at vi fikk med oss flertallet i komiteen på å påpeke at det må være bærekraftig på sikt.
+Med det tar jeg opp de forslagene SV er alene om.
+Representanten Freddy André Øvstegård har tatt opp de forslagene han refererte til.
+De siste ukers hendelser har gjort sitt til at viktige og kanskje til og med historiske hendelser her i Stortinget har kommet noe i bakgrunnen.
+En av problemstillingene som har havnet i koronaskyggen, er vedtaket om lov om tros- og livssynssamfunn.
+Den er en milepæl i en utvikling av forholdet mellom stat og kirke som begynte med den franske revolusjonen – intet mindre – og som i vår vestlige tradisjon gradvis har ført til en, etter mitt syn, nødvendig oppløsning av forholdet mellom verdslig makt og tro.
+I 2008 vedtok Stortinget med utgangspunkt i Gjønnes-utvalgets innstilling å oppheve eller endre sju grunnlovsparagrafer om forholdet mellom stat og kirke.
+Den gang markerte Venstres representant Trine Skei Grande seg i debatten ved å vise til at staten ikke lenger trenger Kirken til å utøve sin makt.
+Det er presist sagt og den prinsipielle årsaken til at vi står her vi står i dag.
+Den rasjonelle myndighetsutøvelsen har til slutt hjemsøkt vårt land.
+En parafrase over Bibelen er på sin plass:
+ Stortinget har fått det som Stortingets er, og Gud har fått det som Guds er.
+Så er det de som hevder at loven om tros- og livssamfunn markerer det endelige skillet mellom stat og kirke i den norske forfatningen.
+Det er åpenbart ikke tilfellet.
+Paragraf 4 i Grunnloven står der fortsatt, den som pålegger Kongen alltid å måtte bekjenne seg til, som det heter, «den evangelisk-lutherske religion» og som står i sterk motstrid til § 16 om at alle innbyggere i riket «har fri religionsutøvelse».
+Å fjerne denne paragrafen, § 4, har vært Venstres holdning lenge, og er det fortsatt.
+Enda mer spesiell er årsaken til at vi fortsatt har denne merkelige overlevende bestemmelsen.
+Det dreier seg om at Kongen, etter en nøyaktig oppskrift fra den tilsvarende konstitusjonsbehandlingen i Sverige noen år før, grep direkte inn i lovprosessen.
+Jeg kan ikke se det på noen annen måte enn at dette tilhører en merkverdighet i vår forfatning, og som vi trenger å se nærmere på – uten at dette er tidspunktet for en lengre utlegning av temaet.
+I dag dreier det seg om troens plass i vårt samfunn i bredere forstand.
+«God is Back», argumenterte to britiske akademikere med tette bånd til magasinet The Economist i en mye omtalt bok fra 2009.
+De argumenterte med at troen, selv i gjennomsekulariserte samfunn, har fått en sterkere plass.
+De to mener dette har å gjøre med en pågående demokratisering av religiøse samfunn.
+Det er ikke vanskelig å se at dette også skjer i vårt samfunn.
+Kirkerommet har fått en helt annen status i dag enn for 60 år siden, den gang jeg ble sendt av gårde på søndagsskole med salmevers og flanellograf.
+På 1950-tallet var det helt utenkelig at kirkene, i hvert fall på mine hjemtrakter, kunne fylles av rockekonserter og debatter over sekulære temaer, der alle religiøse samfunn eller mennesker med ulik seksuell legning med samme toleranse ble ønsket velkommen inn.
+Paradoksalt nok har denne – og jeg vil også kalle det en demokratiserende utvikling – gått parallelt med en økende grad av ritualisme, i alle fall i Den norske kirke.
+Riter og symboler har fått en plass som for et halvt århundre siden ville blitt oppfattet som litt for pompøst eller katolsk, som noen ville ha kalt det.
+Det har f.eks. vært forsket på hvordan dette har kommet til uttrykk gjennom forskjellen i signingsseremoniene i 1958 og 1991.
+Slik jeg ser det, har det med identitetsbygging å gjøre, noe som ikke står i motstrid til den nedbygging av mystisismen i vår kirke – understreket ved at det nå er under halvparten av medlemmene i kirken som lar sine barn døpe.
+Det er åpenbart stadig flere som i dag betrakter vievannet over hodet til et ubevisst barn som i overkant mystisk og kanskje også unødvendig.
+Til gjengjeld er innslaget av voksendåp stadig mer omseggripende.
+Mitt poeng er – i den grad noen i denne salen lurer på hvor jeg vil hen – at troen i dagens samfunn nå i større grad er uttrykk for et bevisst, opplyst og reflektert valg, i mindre grad enn refleks av nedarvede forestillinger og sosialt press.
+En slik utvikling mener jeg det foreliggende lovutkastet bygger opp under.
+Slik sett setter jeg særlig pris på den brede enigheten som loven bygger på her i salen.
+Dette er en stor dag, en dag med historisk sus over seg og en dag som jeg har gledet meg lenge til.
+Stortinget vedtar i dag en ny tros- og livssynssamfunnslov – det siste steget i skillet mellom stat og kirke der tre lover blir én, en lov som underbygger trossamfunnenes skapende kraft, og som ivaretar det mangfoldet av tros- og livssynssamfunn som vi har i Norge.
+Den underbygger også viktigheten av tro i menneskets liv, og jeg vil si at det er passende at Stortinget midt i en forferdelig tid der koronaviruset rammer sterkt, får behandlet disse sakene som er så viktige i menneskets liv.
+I 2012 vedtok Stortinget historiske endringer i Grunnloven, der tros- og livssynsfriheten understrekes, at Den norske kirke har status som folkekirke, og at alle tros- og livssynssamfunn skal understøttes på lik linje.
+Det norske tros- og livssynslandskapet er i stadig endring, og lovforslaget tar utgangspunkt i at staten skal føre en aktiv, støttende tros- og livssynspolitikk som anerkjenner at tro og livssyn er viktige aspekter ved menneskelig livsutfoldelse, og at tro og livssyn har en naturlig plass i samfunnslivet.
+Tilskuddsordningene understøtter tros- og livssynsfriheten og bidrar til et livssynsåpent samfunn.
+Den offentlige finansieringen av Den norske kirke og en tilskuddsordning for tros- og livssynssamfunn basert på likebehandling videreføres.
+Tros- og livssynssamfunn med 50 eller flere medlemmer skal ha rett til tilskudd.
+Det har vært viktig for meg at de mindre samfunn skal kunne få støtte nettopp for å ivareta det mangfoldet vi har i dag.
+Samtidig forenkler vi tilskuddsordningene for tros- og livssynssamfunn ved at staten overtar kommunenes finansieringsansvar.
+Tros- og livssynssamfunn må selvsagt forholde seg til norsk lov.
+Samtidig har det vært et behov for å klargjøre i hvilke tilfeller tros- og livssynssamfunn kan nektes tilskudd.
+Tros- og livssynssamfunn skal være trygge for alle, og terskelen for å nekte tilskudd skal være høy.
+Lovforslaget innebærer en nedskalering og forenkling av lovbestemmelsene om Den norske kirke i tråd med Kirkemøtets ønske om en kortfattet rammelov og er en naturlig konsekvens når stat og kirke skal skilles.
+Kirkemøtet overtar den myndighet som tidligere lå til staten, og får myndighet til å fastsette nærmere regler om kirkelig organisering og inndeling, kirkelige organer og kirkevalg.
+Jeg registrerer at den rød-grønne opposisjonen ikke er helt enig i dette og ønsker å beholde statens myndighet på flere områder.
+Her er vi prinsipielt uenige.
+Jeg mener Kirken er best til å ivareta sine anliggender og ikke Stortinget.
+Soknene er og blir de grunnleggende enhetene, og de videreføres som selvstendige enheter som ikke kan løses fra Den norske kirke.
+Kirkemøtet kan bestemme at ett eller flere organer skal ivareta oppgavene for flere sokn.
+I tråd med Kirkens eget ønske opprettholdes det delte finansieringsansvaret mellom stat og kommune.
+Staten skal fortsatt gi et tilskudd til prestetjenesten og Kirkens virksomhet nasjonalt og regionalt.
+Kommunene skal finansiere Kirkens virksomhet lokalt og ha det økonomiske ansvaret for drift og vedlikehold av kirkebyggene.
+Jeg viser i den forbindelse til Stortingets behandling etterpå av meldingen om Opplysningsvesenets fond og den løsningen som vi har funnet der.
+Kommunene skal videre sikre at soknene har tilfredsstillende bemanning med gudstjenester og kirkelige handlinger og tilstrekkelig administrativ hjelp.
+Lovreguleringen av det kommunale ansvaret overfor Den norske kirke er utformet noe annerledes enn i dag og er tilpasset den budsjettstyrte rammefinansieringen av Kirken, som i stor grad praktiseres av kommunene.
+Jeg har merket meg at komiteen har sett behov for å tydeliggjøre i lovteksten at kommunene også skal dekke kirketjener, klokker, organist og kantor ved hver kirke.
+Dette var også intensjonen bak regjeringas forslag.
+Når det gjelder gravplassforvaltningen, videreføres dagens normalordning med gravplassmyndighet lagt til et lokalt organ i Den norske kirke, men Fylkesmannen kan etter søknad fra kommunen avgjøre at gravplassansvaret overføres til kommunen.
+Som jeg startet med:
+ Dette er en gledens dag.
+Jeg er veldig glad for at vi nå har kommet så langt at Stortinget kan vedta ny, felles lov om tros- og livssynssamfunn som en tydelig forankring av det livssynsåpne samfunnet.
+Det er en svært viktig verdi for å skape et godt og inkluderende samfunn for alle, og jeg takker komiteen for viktig arbeid.
+Det blir replikkordskifte.
+Arbeiderpartiet ønsker å følge tros- og livssynsamfunnene tett opp gjennom økt dialog.
+Derfor foreslår vi en forebyggende og kontinuerlig dialog mellom staten og tros- og livssynssamfunnene.
+Regjeringa satte i høringsnotatet fram forslag om 500 medlemmer for å få støtte.
+Det ble begrunnet med at kontrollen ikke fungerte godt nok, og at oppfølgingsmulighetene var utfordrende – i en tid med langt færre trossamfunn å kontrollere og følge opp.
+Da lovforslaget kom til Stortinget, var antallskravet redusert til 50 medlemmer, uten at kontrolltiltakene var styrket med økte ressurser.
+Hvilke vurderinger har regjeringa gjort som ligger til grunn for at behovet for kontroll er så kraftig redusert samtidig med at antall trossamfunn er så betydelig økt?
+Først vil jeg si at jeg ikke skal diskutere eller si hva som var begrunnelsen for regjeringa i den tida man sendte ut et antallskrav på 500.
+I livssynssamfunnloven var kravet 500, og da man slo sammen de to lovene, regner jeg med at 500 spilte inn på den måten.
+Det er ikke tvil om at det har vært viktig for Kristelig Folkeparti å få gjennomslag for et lavere antallskrav enn det som var.
+Som flere har vært inne på; høringen var massiv, det var knapt støtte til antallskravet på 500, og da mener jeg det er riktig av regjeringa å lytte til det.
+Jeg registrerer at Arbeiderpartiets forslag på 500 ville bidratt til at 649 trossamfunn i 2018 – tallene er derfra – ville mistet sin støtte.
+Det mener jeg ville vært dramatisk for det mangfoldet av tros- og livssynsamfunn som man har i landet.
+Jeg mener at også mindre trossamfunn bør kunne få støtte.
+Så reagerer jeg også litt på den argumentasjonen som flere har, om at dette skal bidra til mer dialog.
+Jeg tror ikke det.
+Jeg tror det tvert imot kan bidra til at det blir mer lukkede trossamfunn.
+Derfor er den dialogen representanten startet med, viktig å fokusere på.
+Vi snakker om tro også her.
+Statsråden sier at 649 samfunn ville mistet støtte, og mange står i fare for å miste støtte.
+Da tror jeg statsråden ikke har lest høringsutkastet som ble lagt fram for regjeringa før Kristelig Folkeparti kom i regjering, godt nok, for der står det også beskrevet gode ordninger for unntak, at man kan ha overbygning av trossamfunn.
+Det er bl.a. gjort i Sverige, som jeg sa i innlegget mitt, der antallet er satt til 3 000 medlemmer for å få støtte.
+Men det jeg spør om, og som statsråden ikke svarer på, er kontrollen.
+For noe av hensikten, som også denne regjeringa med Kristelig Folkeparti er opptatt av, er å tydeliggjøre kontrollen.
+Det sier regjeringa er viktig, men de legger altså ingen føringer på bordet, verken ressurser eller kapasitet for at Fylkesmannen skal følge dette bedre opp, nå når vi nesten har fått en dobling av antall medlemmer og trossamfunn.
+Det er en beskrivelse jeg ikke er enig i i det hele tatt.
+Nå er tydelig rapportering knyttet til det å få tilskudd, og jeg ser da også for meg en forenklet prosess, at det blir enkelt for trossamfunnene å fylle ut, og på den måten vil en kunne få bedre oversikt.
+Det er klart at dersom det gjennom rapporteringer eller på andre måter avdekkes noe som man er bekymret for, har vi nå tydeliggjort i lovverket som blir vedtatt, grunnlaget for å kunne nekte eller trekke tilbake tilskudd.
+Samtidig kan mistanke gjøre at man trenger å gjennomføre ytterligere tilsyn.
+Så jeg mener at her er det styrket, både det som går på kontroll, og det som går på å få mer oversikt over det man er bekymret for.
+Men så er det også en balanse her – og jeg tenkte da jeg hørte representanten Kari Henriksens innlegg i stad:
+ Skjer det virkelig noe positivt i regi av tros- og livssynssamfunn?
+For man fokuserer bare på alt det negative.
+Derfor vil jeg også presisere at det skjer så mye fantastisk arbeid i regi av disse organisasjonene, og det bygger på at man i utgangspunktet skal ha en tillit – dette er frivillige organisasjoner som gjør en fantastisk innsats for sine medlemmer.
+Jeg tror statsråden og jeg kan være enige om at skillet nå er sterkere mellom stat og kirke, men jeg synes det var et godt innlegg fra representanten fra Venstre, med noen gode påpekninger om at vi ikke er helt der ennå.
+Men vi er et godt stykke på vei.
+Vi vet at Fremskrittspartiet og Kristelig Folkeparti primært er uenige om finansieringsmodellen, for Fremskrittspartiet vil fjerne all støtte til tros- og livssynssamfunn.
+Jeg vil gjerne spørre statsråden om noe som er litt på siden, og som igjen ble aktualisert i påsken.
+Det gjelder mennesker som har levd lange liv i trossamfunn som er veldig kontroversielle og gjerne kontrollerende – mennesker som rett og slett er nødt til å søke hjelp for å bryte eller for å kunne få et godt liv på utsiden av trossamfunnet.
+Der ser vi at bl.a. Hjelpekilden har vært en viktig faktor.
+Vil statsråden vurdere hvordan man kan hjelpe også disse som bryter?
+Takk for et viktig spørsmål.
+Jeg er enig i at det dessverre er trossamfunn som opptrer på en måte som ikke er god.
+Det trenger heller ikke nødvendigvis å være ulovlig det som blir gjort, men man har påført medlemmer skade, som i visse tilfeller kan være alvorlig.
+Før representanten selv sa det, hadde jeg tenkt å vise til Hjelpekilden, som jeg også har et veldig godt inntrykk av, som gjør et viktig arbeid for at man kan møte personer som har opplevd det samme.
+Vi er også opptatt av at det finnes den typen hjelpetjenester, og så er det klart at det ordinære løpet med helsetjenester også er ekstremt viktig for dem.
+Men jeg tror at det lovverket som i dag blir vedtatt, kan bidra til at det blir mer åpenhet og mer rapportering knyttet til aktiviteter, og forhåpentligvis vil man kunne avdekke om det er noe som ikke er bra for medlemmene.
+Jeg registrerer, president, at man har byttet ut vann med sprit i Stortinget.
+Det kan være symbolsk at det var fra vann til vin, men her ble det sprit.
+Jeg tror nok at det å ha 50 som krav vil gjøre det verre med kontroll.
+Jeg skulle nok ønske at komiteen stilte seg bak vårt forslag om tilsyn.
+Jeg tror også at når det er så mange som det skal føres tilsyn med, eller i hvert fall følges opp, vil byråkratiet mest sannsynlig spise opp det vi får igjen av forenkling ved å slå sammen de tre lovene.
+Over til noe annet:
+ Den loven vi vedtar i dag, forskyver balansen mellom nasjonalt og lokalt nivå i Den norske kirke – og da i lokalkirkens disfavør, mener jeg.
+Den svekker også, etter mitt syn, folkekirkens mulighet til å bli mer relevant, bl.a. ved at vi ikke lovfester fellesrådets funksjoner.
+Det ville sikret bedre kvalitet på alle de områdene som befolkningen nå er veldig opptatt av i sin lokale folkekirke.
+Ei heller vil regjeringen og ministeren være med på at vi skal ha kirkevalgene samtidig med kommune- og fylkestingsvalgene, som garantert vil føre til mer oppslutning rundt kirkevalgene.
+Er ministeren kanskje ikke så opptatt av at folkekirken skal være like bra som nå, eller at den skal få utviklet seg?
+Jeg er glad i folkekirken, og jeg kjemper for den.
+Derfor er jeg veldig stolt over det regelverket vi har fått til i dag, som vil være med på å underbygge folkekirken som den både landsdekkende og frie folkekirken som har mulighet til å kunne fatte avgjørelser på egen hånd.
+Det denne saken nettopp handler om, er å fullføre det som ble startet, at man skal gi Kirken og Kirkemøtet mer selvstyre – at det sånn sett er mindre som styres fra denne sal.
+Det mener jeg er positivt.
+Jeg mener Kirken selv er best til å fatte avgjørelser på egne vegne om hva de mener tjener Kirken best.
+Derfor er jeg faktisk litt overrasket over at Senterpartiet går så langt.
+En ting er det jeg respekterer og har sett, at Senterpartiet har hatt et større ønske knyttet til statskirke og styring enn det Kristelig Folkeparti og regjeringa har hatt, men at man også på kontrollsporet er opptatt av et antallskrav på 100, som vil bidra til at 150 trossamfunn ville mistet støtten mer enn de gjør i dag, er i grunnen det jeg er mest overrasket over.
+Men jeg opptatt av en sterk og god folkekirke, og lovverket underbygger det.
+Tros- og livssynspolitikken er et område som berører noe veldig viktig for folk.
+Det handler også om rammevilkår for en del ganske store virksomheter – og veldig mange små.
+Derfor har Stortinget før gått sammen om forlik for å finne sammen om det som er det beste resultatet som kan stå seg over tid.
+Akkurat i denne saken valgte altså regjeringspartiene etter mye fram og tilbake å danne flertall for en avtale med kun ett parti, Fremskrittspartiet, uten resten av opposisjonen.
+Et så knapt flertall bak en så viktig lov gir jo mindre forutsigbarhet.
+Er statsråden enig i at viktige samfunnsspørsmål som dette hadde vært tjent med et forlik?
+Hvorfor valgte ikke regjeringspartiene å invitere hele opposisjonen inn for et samlende resultat?
+Jeg mener at det i viktige samfunnsspørsmål alltid er positivt hvis det er flere partier som stiller seg bak, og at en har et bredt forlik.
+Men jeg vil også si at hvis en sammenligner med f.eks. stat–kirke-forliket, har dette mindre betydning enn det de vedtakene som ble fattet den gangen, hadde.
+Jeg ser også at hovedlinjene i lovforslaget slutter stort sett alle partier seg til, så jeg er veldig trygg på at det som blir vedtatt i dag, er noe som kan stå seg over lang tid.
+Jeg registrerer at det er en uenighet om f.eks. antallskravet, kravet om 40 pst. i styrer og den typen spørsmål, men jeg tror med respekt å melde at vi ikke hadde blitt enige selv om vi hadde diskutert det enda lenger enn det som ble gjort.
+Derfor fokuserer jeg på at det overordnet viktigste, rammeloven for Den norske kirke, er det et bredt flertall bak.
+Når Kirkemøtet har mulighet til å legge premissene for folkekirken framover, tror jeg dette er et lovverk som kommer til å stå seg godt over lang tid.
+Replikkordskiftet er omme.
+De talere som heretter får ordet, har en taletid på inntil 3 minutter.
+Vi i Kristelig Folkeparti er glade for at vi nå vedtar en ny tros- og livssynslov som ikke legger opp til et livssynsnøytralt, men til et livssynsåpent samfunn.
+I forbindelse med behandlingen av denne loven har det for Kristelig Folkeparti vært spesielt viktig med respekt for trossamfunnenes selvstendighet:
+ at de har rett til å styre seg selv og til å velge sine ledere.
+Vi har sørget for at antallskravet til menigheter for å kunne motta statsstøtte ikke er høyere enn 50 medlemmer, og at også barn regnes som tellende medlemmer, hvilket er en tydelig anerkjennelse av barns tro som like viktig som voksnes tro.
+Vi vet at dersom Arbeiderpartiet hadde fått flertall for sitt antallskrav på 500 medlemmer for å motta statsstøtte, ville hele tre fjerdedeler, altså over 600 trossamfunn, mistet statsstøtten eller blitt tvunget sammen i unaturlige sammenslutninger.
+Det er alvorlig.
+Bare innenfor kristne trossamfunn har vi et helt spekter av menigheter.
+Det mangfoldet er verdifullt fordi det gir ulike mennesker mulighet til å finne sin menighet – der de har sin identitet, der de har sitt åndelige hjem.
+Jeg registrerer også – og det er vel verdt for velgere å merke seg – at Senterpartiet med sitt forslag om et antallskrav på 100 medlemmer nå legger seg på den samme autoritære linjen som Arbeiderpartiet, med å tvangssammenslå trossamfunn og føre en politikk som går ut over de små trossamfunnene.
+Den linjen legger ikke Kristelig Folkeparti seg på.
+Vi forsvarer mangfoldet, tros- og livssynsfriheten og menneskers rett til å finne et trossamfunn som passer dem.
+I innstillingen som foreligger, ser vi at merknadene fra opposisjonen, og særlig Arbeiderpartiets merknader og forslag, er gjennomsyret av en intensjon om overstyring.
+Ja, det er tydelig at Arbeiderpartiet nærmest klør i fingrene etter å kontrollere tros- og livssynssamfunnene gjennom forpliktende samfunnskontrakter, antallskrav og krav til kjønnsrepresentasjon.
+Det er på tide at Arbeiderpartiet tar inn over seg at tros- og livssynssamfunnene dypest sett er frivillige organisasjoner – med sin autonomi og sin egenart.
+De er et mål i seg selv, ikke et middel for å oppnå Arbeiderpartiets politiske mål.
+Kontroll og kontrakt er det motsatte av tillit og dialog.
+Den dialogen og tilliten vi har mellom stat og trossamfunn i dag, er veldig god, og den er en verdi vi skal hegne om.
+Kristelig Folkeparti har tillit til tros- og livssynssamfunnene.
+Derfor ønsker vi å føre en aktiv og støttende tros- og livssynspolitikk.
+Jeg er virkelig glad for at det er Kristelig Folkeparti og ikke Arbeiderpartiet som sitter med hånden på rattet i tros- og livssynspolitikken i landet vårt.
+Tros- og livssynssamfunn spiller en viktig rolle i mange enkeltmenneskers liv.
+Religionsfrihet er et grunnleggende element i Fremskrittspartiets politikk, for vi er faktisk et liberalistisk folkeparti.
+De liberale verdiene som Norge og Vesten bygger på, kommer i stor grad fra den kristne kulturarven, en arv som Fremskrittspartiet er stolt av og vil hegne om.
+Trosstøtten bør imidlertid ikke være hellig.
+Fremskrittspartiet har programfestet at vi ønsker å avvikle statsstøtten til tros- og livssynssamfunn.
+Fremskrittspartiet vil at trossamfunnene skal finansieres av egne medlemmer, og dermed fristille religiøse bevegelser fra et avhengighetsforhold til politikerne.
+Vår primærpolitikk innebærer å kutte dagens tilskuddsordning for trossamfunn, men vi ønsker en finansieringsløsning for å ivareta vedlikehold av f.eks. kirkebygg av kulturhistorisk verdi.
+Tro er en privatsak og bør ikke finansieres av folks skattepenger.
+Derfor fremmer Fremskrittspartiet et eget forslag om avvikling av trosstøtten i sin helhet i dag.
+Vi mener altså at tro er en privatsak, og at folk bør finansiere troen sin selv.
+Fremskrittspartiet har funnet fram til enighet med regjeringen flere steder i denne loven, men det som gjaldt avvikling av trosstøtten, kom vi ikke til enighet om, som kjent.
+Fremskrittspartiet står alene om dette forslaget, og dessverre blir det trolig ikke flertall for det her i salen i dag heller.
+Jeg tror at det kunne skapt engasjement blant tros- og livssynssamfunnene der ute dersom man hadde vært avhengig av privat finansiering.
+Innsamlingsaksjoner, dugnader osv. gir en større opplevelse av samhold og tilhørighet enn om midlene automatisk kommer fra staten.
+Folk selv bør finansiere sine egne tros- og livssynsorganisasjoner.
+Da unngår man diskusjonen om hvilke religiøse agendaer som er verdig statlig støtte.
+Det er rett og slett en debatt vi egentlig bør holde oss for god til.
+Så lenge Grunnloven krever likhet for ulike tros- og livssynssamfunn og det er et bredt flertall i denne sal som ønsker å fortsette å gi Den norske kirke penger over statsbudsjettet, har vi ikke veldig mange valgmuligheter.
+Den eneste grunnlovsgyldige løsningen er å kutte all støtte til tros- og livssynsamfunn, og det er også Fremskrittspartiets foretrukne løsning.
+Vår kristne kulturarv fremmer viktige verdier som er med på å gi nasjonen identitet.
+Tro er en privatsak, mens kulturarven vår er felles.
+Derfor fremmer Fremskrittspartiet et eget forslag om avvikling av trosstøtten i sin helhet i dag.
+Norge skal være et livssynsåpent samfunn, der trosfrihet og fri religionsutøvelse er en grunnleggende menneskerett.
+Det betyr også å kjempe for dem som tror helt annerledes enn oss.
+I 2012 vedtok Stortinget historiske endringer i Grunnloven, hvor alle tros- og livssynssamfunn skulle understøttes på lik linje.
+Vedtaket i dag er siste steget i skillet mellom stat og kirke sett med mine øyne.
+Samtidig anerkjenner loven at Den norske kirke fortsatt skal ha en viktig rolle, og at Kirken fortsatt skal stå for viktige tradisjoner og identitet.
+Det er i dag over 850 tros- og livssynssamfunn rundt om i våre lokalsamfunn.
+Disse representerer mengder frivillig arbeid med aktiviteter for barn og ungdom, forebygging av radikalisering, fremme av integrering og veldig mye annet, på tvers av religiøs tilhørighet.
+At de utgjør en stor del av vår frivillige sektor, er noe vi skal anerkjenne.
+Derfor er jeg bekymret når Arbeiderpartiet varsler omkamp for å heve grensen fra 50 til 500 medlemmer.
+Tall fra 2018 viser, som vi har hørt allerede i dag, at 649 tros- og livssynssamfunn ville mistet støtten med dette kravet.
+Det vil føre til mindre dialog og åpenhet og i verste fall flere lukkede trossamfunn.
+Når vi i Høyre snakker om fri religionsutøvelse, vektlegger vi nettopp ordet «fri».
+Da gjør vi ikke som deler av opposisjonen, som vil lovregulere f.eks. kvinnerepresentasjon i beslutningsorganene.
+Det er et paradoks når de samme partiene ikke ser forskjell på at Høyre ikke vil lovregulere hvordan styrene i tros- og livssynssamfunn med voksne mennesker skal settes sammen på den ene siden, mens vi på den andre siden er opptatt av innstramming i etter-skole-tilbud for å forhindre mulig segregering, negativ sosial kontroll og radikalisering av barn og unge.
+Vi vil ivareta barnas rettigheter for å gi dem et vern for sin tankefrihet, samvittighetsfrihet og religionsfrihet.
+Det frihetsvernet bør i denne sammenhengen ikke likestilles med kvinnerepresentasjon i styrer.
+Jeg er glad for at vi i dag ber regjeringen komme tilbake med forslag til nødvendige lovendringer, med sikte på å forby faste etter-skole-tilbud med overnatting over lengre tid for å sikre barn og unge med svak tilknytning til det norske samfunnet en god inkludering på våre fellesarenaer.
+Der enkelte vil bruke tros- og livssynssamfunnene til kontroll, handler vår trosfrihet om å sikre alle muligheten til å tro uten press utenfra.
+Der enkelte partier vil at trossamfunnene skal signere en samfunnskontrakt for å få tilskudd, mener vi at trossamfunnene skal få drive sin religiøse virksomhet fritt og uten politisk innblanding i indre forhold.
+Jeg skal bruke litt tid på å snakke litt om de flosklene som denne proposisjonen om trossamfunnsloven begynner med.
+Det er interessant å se hvilke påstander som fremsettes uten at det egentlig er noen debatt rundt påstandene.
+Dette er ønsketenkning; man problematiserer ikke.
+Allerede på side 10 i proposisjonen står det f.eks.:
+«Religion og tro har utvilsomt også en stor, samfunnsskapende kraft.
+Først og fremst fordi de skaper fellesskap, og virker som et «samfunnslim».»
+Ja vel.
+Det er muligens et «samfunnslim» i Den norske kirke, men er det tilfellet når det gjelder moskeer og islam?
+Hvorfor tas ikke det opp og diskuteres på et ærlig vis?
+Er det den erfaringen vi har når det gjelder islam, over hele verden, at det skapes et «samfunnslim»?
+Selvsagt ikke, og det vet alle som sitter her, men det er politisk ukorrekt å si det.
+På samme side i proposisjonen står det:
+«For det første bygger tros- og livssynssamfunnene fellesskap som kultur- og verdibærere.»
+Jaha, hvilke verdier er det man da snakker om?
+Videre står det at det er «en arena for å drøfte spørsmål om tro, tvil og etikk».
+Er det tilfellet med islam?
+Er det det man hører fra imamene?
+Snakker man om hvordan man skal drøfte ulike sider av tro?
+Det er ikke den erfaringen vi har, og det vet også alle.
+Et tredje sitat er:
+ skaper tilhørighet.
+Tros- og livssynssamfunn er «vedlikeholdere» av slike fellesverdier.»
+Hvilke verdier er det?
+Er det verdier som likestilling, ekteskap/skilsmisse, familie, barns rettigheter, demokrati og sosial kontroll?
+Er det dette vi har erfaring med fra islam?
+Tør vi å si det høyt?
+Neppe, men det er faktisk sannheten.
+Det burde også stått i innledningen her.
+Dette er erfaringen, ikke bare i Norge, men også globalt.
+Vi har et annet eksempel, fremdeles fra side 10:
+«Et eksempel på dette er menneskerettighetene.
+Menneskerettighetene kan begrunnes ut i fra ulike tros- eller livssynsmessige tradisjoner, men likevel fungere som fundamentale samhandlingsprinsipper globalt og lokalt.»
+Igjen det samme:
+ Det finnes ingen dokumentasjon på dette.
+Vi kan titte ut av vinduet og se at dette ikke stemmer.
+Likevel står dette allerede på side 10.
+Hele debatten dreier seg altså om de punktene som ikke stemmer – eller flosklene – som man er enige om, åpenbart.
+På side 10 står også mitt femte eksempel:
+«For det andre bygger tros- og livssynssamfunnene naturlige fellesskap og velferdssamfunn nedenfra.»
+Er det erfaringen med islam, at det kommer nedenfra og opp?
+Eller kommer det ovenfra og ned?
+Er det slik at man forteller imamer og andre lærde i moskeene hvordan tro skal forstås, og at man diskuterer tro og tvil?
+Neppe, det er ikke vår erfaring med islam.
+Jeg har en rekke andre punkter, men jeg ser at tiden løper ut.
+Jeg synes det er uverdig for Stortinget at vi ikke kan diskutere det som er uenigheten og utfordringene, og at man slår fast at vi alle er enige om noe som ikke er sant.
+Hvorfor skal vi finansiere trossamfunn dersom disse er løst fra båndene til verdslig styre og stell?
+Jeg mener svaret på dette er åpenbart:
+ Tro er en del av vår identitet.
+Det er vanskelig å se for seg et samfunn der alt er rasjonelt forklart, og der intet etterlates til undring, det uforklarte og søking etter svar som det er vanskelig å finne grunnlag for i vitenskap, utredninger – eller for den saks skyld i stortingsmeldinger.
+Også i overført betydning bygger troen en himmel over vår tilværelse, på samme måte som musikk, bildende kunst og litteratur.
+Tro er refleksjon.
+I vår kulturelle sfære er den uttrykk for en humanistisk tradisjon og nestekjærlighet.
+Å bygge opp under dette er et godt beredskapstiltak – for å bruke dagens sjargong.
+Vi skal ikke være redd for troens plass i vårt samfunn, så fremt det ikke blandes sammen med sekulær maktutøvelse.
+Tvert imot bør vi være rause med å oppfordre til aktiv deltakelse i den demokratiske prosessen knyttet til alle livssyns- og trossamfunn.
+Når nesten fire millioner nordmenn tilhører Den norske kirke, betyr det bl.a. at det vil oppleves som positivt at kirkevalg og stortingsvalg finner sted på samme tid, og jeg er glad for at Kirkemøtet med et overveldende flertall – flertallsvedtak i 2018 – støtter dette.
+Vi bør også på denne måten oppfordre til at flere benytter sjansen til å søke innflytelse i det trossamfunn man tilhører.
+Jeg nevnte identitet i mitt forrige innlegg også.
+Spør man muslimske jenter om hvorfor de går med hijab i Norge, får man som oftest til svar at de ønsker å ikle seg et identitetsmerke for sin tro.
+Ofte kommer disse jentene fra moderne, relativt sekulariserte miljøer, med stor vekt på behov for utdannelse og selvvalgte jobber.
+Man behøver altså ikke å være for tvangsgifte, paternalisme og en «Kinder, Küche»-ideologi for å gå med dette hodeplagget – det noen feilaktig oppfatter som fundamentalistisk religionsutøvelse.
+Vi bør være rause også i vår statlige støtte til andre trossamfunn enn det som tradisjonelt gjennom tusen år har preget det norske samfunnet.
+Avslutningsvis vil jeg derfor igjen vise til representanten Skei Grande, under en debatt i 2012.
+Hun sa:
+«Jeg mener det er viktig, for å beholde bredden i ulike tros- og livssynssamfunn, at staten støtter den type aktiviteter godt og raust, som vi gjør i dag.
+Grunnen til at jeg syns det er viktig, er at vi ser at i de landene der tros- og livssynssamfunn ikke blir finansiert på en raus måte fra statens side, vil pengemakta få mer og mer makt.
+For meg er marerittet en kirke styrt av oljepenger fra Texas, og en muslimsk verden støttet av oljepenger fra andre oljeproduserende land – noe som ville gitt pengene altfor stor makt i trossamfunn.»
+Dette slutter jeg meg helt og fullt til.
+Og derfor er jeg glad for at Fremskrittspartiets forslag om å kutte all støtte til trossamfunn lider nederlag her i dag.
+Jeg har respekt for at Fremskrittspartiets representanter i behandlingen av denne loven har behov for å gi uttrykk for sin primærpolitikk.
+Jeg har likevel behov for å adressere deres påstand om at tro er en privatsak, og at vi derfor burde fjerne statsstøtte til tros- og livssynssamfunnene.
+Det at enkelte mennesker opplever sin tro som noe svært personlig, skal selvfølgelig respekteres.
+Men dersom vi som samfunn begynner å se på tro og livssyn som noe utelukkende privat, mister vi noe verdifullt, og jeg synes dessverre at Fremskrittspartiets uttalelser her gir uttrykk for en veldig snever forståelse av hva tros- og livssynssamfunnene betyr for samfunnet.
+At hele 85 pst. av alle i Norge tilhører et trossamfunn, forteller oss at tro og tilhørighet er viktig for folk.
+Det er noe som betyr enormt mye både for enkeltmennesker og som en samfunnsbyggende kraft.
+Å kutte statsstøtten ville ramme mange små trossamfunn i hele landet, men det ville være spesielt dramatisk for Den norske kirke.
+Mange lokalsamfunn ville mistet det eneste aktive trossamfunnet dersom de skulle bli tvunget til bare å drive lønnsomme menigheter.
+70 pst. av alle nordmenn tilhører Den norske kirke.
+Det betyr ikke nødvendigvis at alle har et veldig nært og aktivt forhold til sin tro, men at de likevel setter pris på hva Kirken tilbyr av rammer for høytider og spesielle dager i livet, slik som dåp, konfirmasjon, bryllup og begravelser.
+Jeg ønsker ikke en amerikansk finansieringsmodell for tros- og livssynssamfunnene våre, der man er helt avhengig av rike onkler for å ha en prest i kirken eller å ha et forsamlingslokale.
+Den modellen vi har i Norge i dag, og som fungerer veldig godt, er nettopp at vi gir noe statsstøtte i bunnen, som genererer enormt mye frivillig aktivitet.
+Vi får så mye igjen!
+Fjerner vi statsstøtten, ville det kunne ta knekken på masse frivillig arbeid, fordi man mister forutsigbarhet, man mister kanskje den ene ansatte som koordinerer alle de frivillige og givertjenesten – eller man mister kanskje tilgangen på de lokalene der all den positive aktiviteten skjer.
+Statsstøtten har en stor praktisk betydning, spesielt for Den norske kirke.
+Den har også en symbolsk verdi, fordi vi viser tros- og livssynssamfunnene at de har en viktig plass i samfunnet vårt.
+Det er en ordning som Kristelig Folkeparti er stolt av at vi har prioritert i Norge over lang tid, og som vi mener at vi skal fortsette å prioritere i framtiden.
+Når vi i dag snakker om skillet av kirke og stat, snakker vi også og har en debatt om tillit versus kontroll.
+Jeg er opptatt av at vi nå gir tillit til Den norske kirke, vi gir tillit til Kirkemøtet.
+Vi gir også en tillit til dem som skal få støtte.
+Samtidig har vi sagt at vi har et behov for kontroll.
+Likestilling ble nevnt tidligere i debatten, og jeg vil understreke at alle som får statsstøtte, skal ha en årsrapport.
+I den årsrapporten skal det gjøres rede for hvilke tiltak det enkelte samfunn har for å fremme bl.a. likestilling.
+Tilsynsmyndigheten har også mulighet til å pålegge andre rapporteringer, f.eks. rapportering på hvordan barns rettigheter blir ivaretatt.
+Sånn sett har vi, om man kan si det, noe ris bak speilet.
+Man får støtte, men man forventer også at man lever i tråd med det som er Stortingets ønske.
+Religionsfrihet er en hjørnestein i en rettsstat.
+Det kan være religioner som har praksis som vi ikke liker, men vi har nå klart, ved disse årsrapportene, å få til at vi skal ha et tilsyn med dem, for det skal være en åpenhet.
+Når det gjelder tillit, har vi nå gitt Kirkemøtet en tillit.
+Det undrer meg litt at man har denne voldsomme trangen til å styre.
+Jeg mener at Kirkemøtet har både kompetanse og kapasitet til å foreta de nødvendige valg for hvordan Kirken skal styres.
+Det er tross alt Kirkens egne som sitter der.
+Jeg er også opptatt av den dialogen som man er bekymret for at kommunene ikke skal ha med både Kirken og de ulike tros- og livssynssamfunnene.
+Som kommunepolitiker hadde jeg mange møter med Den norske kirke og andre tros- og livssynssamfunn.
+Nå er det så mange Senterparti-ordførere rundt i landet, så jeg kan ikke skjønne at dette kan bekymre Senterpartiet i det hele tatt.
+Det var historisk da vi i 2008 ikke bare ble enige, men at vi ble det enstemmig, om de reformene som nå gjennomføres og stort sett er gjennomført, i forholdet mellom stat og kirke.
+En av de tingene vi ble enige om, var at Kirkens organisering fortsatt skulle nedfelles i en kirkelov.
+Det skal den fortsatt gjøre, men regjeringspartiene gjør et stort nummer ut av at vi ikke skal mene noe om hvordan kirkevalgene skal gjennomføres.
+For meg må det være noe av det helt grunnleggende i en kirkelov hvordan demokratiet i denne kirken ivaretas.
+Det er f.eks. helt meningsløst å skrive i loven at Kirkemøtet skal være Kirkens øverste organ, uten samtidig å si hva som konstituerer dette Kirkemøtet – hvordan det Kirkemøtet skal velges.
+Alle over 15 år skal ha stemmerett, men utover det står det ingenting om sikring f.eks. av direkte valg, adgang til valgene og mulighet for deltagelse.
+Den gamle ordningen besto av at man avholdt valg indirekte, først til bispedømmerådet – etter gudstjeneste, hvor stort sett de aller, aller mest aktive deltok – og så valgte bispedømmerådet sine medlemmer til Kirkemøtet.
+Demokratisering var helt sentralt i kirkeforliket, og det er derfor uforklarlig at ikke partnerne fra den gangen fortsatt er med på å sikre de demokratiske rammene rundt Kirken.
+Så til dette med antall medlemmer og krav til trossamfunnene for å få støtte.
+For det første er det helt utrolig, synes jeg, at Kristelig Folkepartis representant omtaler synet til dem av oss som mener at grensen kunne ha vært noe høyere enn 50, som en autoritær linje – jeg tror det var det representanten Gleditsch Lossius kalte Arbeiderpartiets og Senterpartiets syn.
+Fremskrittspartiets syn, derimot, om at grensen skal gå ved 3,4 millioner, blir omtalt som respekt for Fremskrittspartiets primærstandpunkt.
+Det er altså forskjell på hvordan man behandler ulike partiers standpunkter.
+Tybring-Gjeddes innlegg blir av saksordføreren forbigått i stillhet – vel, man velger sine partnere med omhu.
+Det er trosfrihet i Norge, men det er ikke rett til statstilskudd – det er rett til statstilskudd på like vilkår, som det står i Grunnloven.
+Hvis vilkårene er noen knesatte prinsipper for hva denne støtten skal gå til, vil det være i full overensstemmelse med like vilkår for støtte, og overhodet ikke gå ut over det enkelte trossamfunns trosfrihet.
+Jeg har behov for å si at jeg som arbeiderpartimedlem opplever det som ganske underlig å stå her og høre på den mangel på ydmykhet som jeg opplever blir presentert fra denne talerstolen overfor Arbeiderpartiet i tros- og livssynssaken.
+Statsråden spør litt retorisk – jeg vet ikke om det er ironisk eller et forsøk på å være morsom – om det ikke skjer noe bra i tros- og livssynsorganisasjoner.
+Da kan i hvert fall ikke ministeren ha hørt på mye av det jeg har snakket om når det gjelder tros- og livssynspolitikken.
+Det som er poenget, er at Arbeiderpartiet alltid har lyttet til undertrykte mennesker.
+Vi lytter til undertrykte mennesker også i tros- og livssynsamfunn, og det er de som fremmer problemstillingene som Arbeiderpartiet reiser i sine forslag:
+ om å styrke likestillingen
+ om å sørge for at homofile ikke blir diskriminert
+ om å sørge for at valgene skal skje på demokratisk vis
+Dette er ikke noe Arbeiderpartiet sitter på et lønnkammer og pønsker ut.
+Levende, troende mennesker henvender seg til Arbeiderpartiet fordi de tror og vil tilhøre det som er så viktig for dem, nemlig et tros- og livssynssamfunn.
+Men tros- og livssynssamfunnets praksis setter en sperre for at de kan utøve sin grunnleggende tro i den menigheten de hører hjemme.
+Det er det vi diskuterer i dag, og det er det denne regjeringa har satt en stopper for i paragrafen om å nekte tilskudd, og der er vi helt på linje.
+Det er det som er kontrollen, ikke om vi vil ha en samfunnskontrakt eller ikke.
+Det er en avsporing av debatten og en måte å diskutere på som jeg finner – jeg må si det fra denne talerstolen – litt usmakelig fra Kristelig Folkepartis ståsted.
+Det at Kristelig Folkeparti fraviker den lange tradisjonen om å finne brede forlik i disse sakene, mener jeg sier mer om Kristelig Folkeparti og retningsvalg enn det sier om Arbeiderpartiets behov for kontroll.
+Jeg synes det er beklagelig at Kristelig Folkeparti har fått med seg Høyre, Venstre og Fremskrittspartiet på den type kontroll og den type politikk, men slik er det.
+Når jeg leser at Kristelig Folkeparti-ministeren er bekymret for at Arbeiderpartiet vil ta omkamp, når de ikke har løftet en finger for å få flertall, undrer det meg.
+Jeg føler også for å følge opp representantene fra Arbeiderpartiet, som reagerte på hvordan Kristelig Folkeparti omtalte partiet.
+Jeg er enig i at det egentlig var litt overraskende at man kan gå så langt i en beskrivelse.
+At vi blir omtalt som totalitære fordi vi vil ha 50 flere i et antallskrav, kan jeg for så vidt leve godt med, men det hadde vært flott hvis vi hadde hatt et forlik.
+Da tror jeg kanskje også at tonen hadde vært annerledes.
+Dette er et så pass viktig tema at jeg synes det er litt trist at man går til de ytterlighetene for å poengtere forskjellene.
+Representanten Giske sa at vi skulle forbigå representanten Tybring-Gjeddes innlegg i stillhet, men jeg har behov for å si at det er morsomt, oppsiktsvekkende, å se hva slags los i hvert fall den representanten, og ofte Fremskrittspartiet, har når det kommer til islam versus alle de andre tros- og livssynene som vi faktisk lager en lov for i dag – godt over 800 – når vi snakker om hva alle disse samfunnene betyr som lim i lokalsamfunnet sitt, i frivillighetsarbeidet sitt.
+Det likte jeg dårlig.
+Det jeg likte, var representanten Kristin Ørmen Johnsens store tro på at alle kommunene lenger enn de neste tre og et halvt årene mest sannsynlig skal ha Senterparti-ordførere.
+Det deler jeg, og med det tror jeg kanskje at dialogen mellom Kirken og kommunene kan være god.
+Men av erfaring vet jeg også at med en gang vi har en kirkeverge og vi har den ordningen vi nå har med fellesrådene, er den dialogen automatisk.
+Det er veldig synd at den ikke ble lovfestet.
+Jeg har ikke behov for å forlenge debatten, men jeg har behov for å replisere til representanten Henriksen:
+ Det kan være at jeg ikke hadde humoristisk sans da jeg sa det jeg sa, men jeg har fulgt debatten over lengre tid, og min opplevelse har vært at representanten Henriksen har hatt mer fokus på alle utfordringene og alt det negative knyttet til trossamfunn enn det positive.
+Derfor vil jeg fra denne talerstol si tydelig at jeg vet at representanten Henriksen har et stort engasjement for Den norske kirke og for ulike trossamfunn.
+Det har ikke vært mitt ønske å stemple noen, annet enn å si at jeg synes at en i debatten har vel så mye fokus på alt det negative, og da glemmer en det positive.
+Så vil jeg også si at det må være lov å ha en politisk debatt og uenighet knyttet til disse spørsmålene.
+For veldig mange trossamfunn er f.eks. antallskravet helt avgjørende.
+Det er ikke slik at Kristelig Folkeparti presset Høyre og Venstre, og for så vidt Fremskrittspartiet, til å legge fram denne proposisjonen.
+Tvert imot, dette har vært et langt arbeid der tidligere statsråder, som har hatt både Høyre- og Venstre-tilhørighet, har jobbet med spørsmålene.
+Det har vært arbeid som følger opp Stålsett-utvalget på en god måte, følger opp høringsinstansene, som hadde mange innspill, og som det har vært jobbet med over lang tid.
+Min tydelige opplevelse er at dette har vært en viktig sak for Kristelig Folkeparti, men det har også vært en viktig sak for alle regjeringspartiene.
+Det som også er interessant, er at når vi har valgt de løsningene vi har gjort, er det mye på bakgrunn av de innspillene som har kommet i høringen.
+Så dette er en historisk viktig avgjørelse som tas, som har bred støtte i de ulike tros- og livssynsorganisasjonene i dette landet, og jeg er sikker på at det ivaretar, som representanten Henriksen sier, kontroll- og tilskuddsaspektet.
+Der er vi langt på vei enige om den paragrafen, som er mye tydeligere nå enn det den har vært før knyttet til når en ikke kan få statstilskudd, eller når det kan trekkes tilbake.
+Det ivaretar også det andre aspektet, ved at en får et større selvstyre ikke minst i Den norske kirke, men en sikrer også at trossamfunnene skal ha frihet i lærespørsmål, som er viktig for oss.
+Jeg tar ordet på nytt, litt fordi det er interessant å høre en representant som er så arrogant at han hever seg over en annen representants argumenter.
+Da har man tapt debatten umiddelbart.
+Jeg inviterer gjerne Trond Giske til å ta en debatt om dette – kanskje ikke akkurat nå, men gjerne en annen gang, hvis Giske er interessert i det.
+Om han kunne være så snill å komme ned på mitt nivå og diskutere det på seriøst vis, hadde det vært interessant.
+Så en kommentar til representanten fra Venstre som snakket om at hijab var så populært, at det var et så hyggelig plagg, at det var så fint, og at det visstnok var de mest sekulære muslimene som bar det.
+Har representanten satt seg inn i hva det symboliserer?
+Det er et seksualisert plagg som skal dekke håret for mannen, slik at han ikke skal bli fristet, og det er i tråd med Muhammeds ord.
+Det er noe man bør reflektere over.
+Det er ikke snakk om at man blir sekularisert ved å gå med hijab.
+Det er allerede et symbol på at man aksepterer at kvinnen skal ha respekt for mannen, og at håret kun skal synes innenfor hjemmets fire vegger.
+Det er noe helt annet enn at det er sekulært, populært og in osv., som det er så viktig å si i dag.
+Representanten fra Kristelig Folkeparti nevnte at det var 800 trossamfunn, så hvorfor snakkes det så mye om islam?
+Jo, for det første er islam en ganske raskt voksende religion, og det er tross alt islam vi har utfordringer med over hele verden, om det gjelder kriger eller opprør, om det er mellom sjia- og sunniislam eller ulike grupper av islam.
+Det er stort sett der det er.
+Kan vi være enige om det i denne salen, eller mener man at man kan finne noen andre konflikter som er verre enn det?
+Jeg håper at vi kan være enige om det.
+Det leser vi om hver dag i avisene, at det er konflikter i ulike grener av islam.
+Det er derfor man er i Libya, i Syria og i Irak.
+Og jeg kan nevne omtrent alle land i Afrika, bortsett fra noen kristne hvor det ikke er den slags bråk.
+Jeg kan personlig være enig i noen av de kravene Arbeiderpartiet og SV vil stille i denne loven, om konsekvenser for trossamfunn, f.eks. om likestilling – at det ikke skal være som i moskeer, hvor kvinner må gå inn en egen inngang og sette seg bakerst i salen, og av og til også bak et forheng.
+Hvorfor diskuteres ikke det?
+Hvis SV og Arbeiderpartiet er villig til å frata dem som praktiserer egne innganger for kvinner, støtten, kan de sette i gang med en gang, for det er bare ett eksempel av mange på hvordan islam diskriminerer, hvordan de ikke står opp for kvinners rettigheter.
+Det gjelder også for Fremskrittspartiets representanter.
+Det er i alle fall noe jeg står for:
+ likestilling også i moskeer og i de muslimske miljøer.
+Jeg hadde også et ønske om å svare opp noen av de tingene som er sagt om Fremskrittspartiet i denne debatten.
+Fremskrittspartiets syn om å avskaffe offentlig finansiering av trossamfunn ble bl.a. betegnet som at vi har et snevert syn på trossamfunnenes rolle.
+Det er jeg sterkt uenig i. Trossamfunnene er en viktig del av folks liv, og trossamfunn er også en viktig del av limet i samfunnet.
+I Norge har vi nok en tradisjon for at staten er alles mor, men ikke alt som er viktig, trenger statlig finansiering, og religion er nok en av de tingene som er så personlig og privat og er av en sånn karakter at det bør være minst mulig statlig innblanding.
+Derfor mener Fremskrittspartiet at staten ikke bør finansiere driften av de rundt 900 trossamfunnene som vi har i Norge.
+Representanten Sem-Jacobsen stusset også over at Fremskrittspartiet har dratt fram islam i denne debatten.
+Vel, flere av de tingene vi vedtar i dag, handler nettopp om utfordringer som kanskje primært er knyttet til islam.
+Når vi sier nei til eller sier at vi ikke liker finansiering av trossamfunn fra land som selv ikke respekterer religionsfrihet, så har det ofte en sammenheng med at land som selv ikke respekterer minoriteter, som fronter wahhabisme og andre, mer ekstreme, tolkninger av religionen, ønsker å øve innflytelse på andre land, også vårt land.
+Det handler i stor grad om islam, og derfor er det viktig å snakke om det.
+Vi vedtar flere ting hva gjelder undervisningstilbud som også inkluderer koranskoler, koranskole-SFO-er og det å sende barn til koranskoler i utlandet.
+Det handler først og fremst om utfordringer knyttet til dem som ønsker å spre mer ekstreme former av islam.
+Over 400 norske barn og unge er sendt til utlandet de siste to årene, og mange av dem har havnet på koranskoler.
+Det er viktig at vi tør å snakke om de problemene som eksisterer, og ikke feier dette under teppet.
+Vi skal ha respekt for alle religioner.
+Det skal være likebehandling av religioner i Norge, religioner er viktige, men hvis vi ikke tør å snakke om det som er problemene, det som er utfordringene – og dessverre er det en del utfordringer når det gjelder dem som støtter en mer ekstrem form for islam – hvis vi ikke tør å ta opp de problemene, så har vi et problem.
+Representanten Kari Henriksen har hatt ordet to ganger tidligere og får ordet til en kort merknad, begrenset til 1 minutt.
+Jeg skal bare til slutt begrunne litt hvorfor vi mener en samfunnskontrakt er viktig.
+Så kan jeg bare slå fast fra denne talerstolen etter denne debatten at alle nå er enige i at staten skal sette strengere krav til tros- og livssynssamfunn.
+Det står i § 6.
+Det er null diskusjon om det, og det er alle enige om.
+Det vi diskuterer, og grunnen til at vi vil ha en dialog, gjelder at det er et tolkningsspørsmål om hvor lovens grense går opp mot trosfriheten.
+Det mener vi er en god ting å snakke med tros- og livssynssamfunnene om på forhånd, også fordi det i lovforslaget, som alle er enige om, står om konsekvensene når tros- og livssynssamfunn «bryter» det som listes opp, «eller på andre måter alvorlig krenker andres rettigheter og friheter».
+De har vi konkretisert i noen punkter, som regjeringspartiene og Fremskrittspartiet stemmer ned.
+Jeg synes det er beklagelig, men that’s life.
+La meg først oppklare en helt åpenbar misforståelse.
+Jeg har ikke oppfordret noen til å la være å diskutere med Tybring-Gjedde.
+Jeg bare konstaterte at Kristelig Folkeparti ikke var opptatt av å diskutere med Tybring-Gjedde, men derimot var mer opptatt av å kalle Senterpartiets grense, på 100 istedenfor 50, for en autoritær linje.
+En skal lure på hva representanten Gleditsch Lossius da ville sagt om Høyres statsråd Hellelands forslag om en grense på 500, som ble sendt ut på høring.
+Det er en enstemmig komité som i sin innstilling sier at:
+«et tros- eller livssynssamfunn, eller enkeltpersoner som opptrer på vegne av samfunnet, og som utøver vold eller tvang, fremsetter trusler, krenker barns rettigheter, bryter lovbestemte diskrimineringsforbud eller på andre måter alvorlig krenker andres rettigheter og friheter, kan nektes tilskudd.»
+Det er altså, som representanten Henriksen sier, enighet i denne sal om at det finnes en grense før man faktisk kan bli fratatt tilskuddet.
+Det vi foreslår, er at man i dialog med tros- og livssynssamfunnene skal finne fram til en god kontrakt som setter rammene rundt dette.
+Tros- og livssynssamfunn kan ikke melde seg ut av det samfunnet de er en del av.
+De er omfattet av regnskapsloven, de er omfattet av vegtrafikkloven, de er omfattet av straffeloven.
+De er omfattet av en rekke regler, normer og lover i det norske samfunnet.
+Spørsmålet er hvor grensen går for hvor trosfriheten gir en ekstra ramme rundt denne friheten.
+Det er en debatt resten av salen i liten grad synes å være villig til å gå inn i.
+Fremskrittspartiet går så langt som til å si at man mener det ikke skal gis noen støtte til tros- og livssynssamfunnene.
+Det er interessant, for det vil ganske raskt kunne føre til at dette ekskluderer dem som ikke har økonomi til å delta.
+Men det som er ekstra interessant, er at Fremskrittspartiets argumentasjon for denne løsningen er at det gir frihet til tros- og livssynssamfunnene, og at dette er en organisasjon som man går inn i etter egen overbevisning.
+Det nøyaktig samme resonnementet kan jo føres om politiske partier.
+Hvorfor i all verden foreslår ikke Fremskrittspartiet at vi skal frata alle politiske partier statlig støtte?
+Der også går vi jo inn med en overbevisning, det er frivillig, og det er en frihet til å innta egne stillinger.
+Eller hva med ideelle organisasjoner, hvor man går inn med overbevisning, og hvor man skal ha frihet til å handle selv?
+Hva med idrettslag eller hva som helst?
+Dette resonnementet henger rett og slett ikke på greip.
+Helt til slutt, om Fremskrittspartiets opphenging i islam:
+ Ja, det finnes ekstreme muslimske trosmiljøer, men det finnes kristne sekter som nekter medlemmene å stemme, det finnes kristne trossamfunn som nekter for likestilling, og det finnes kristne sekter som nekter å godta skilsmisse, osv.
+Den fanatismen og ekstremismen tror jeg vi finner i flere trossamfunn enn i islam.
+Flere av opposisjonspartiene er svært opptatt av å sette et 40 pst.-krav til kjønnsrepresentasjon i råd og styrer i tros- og livssynssamfunnene, og det til tross for at likestillingsombudet selv, på besøk hos komiteen, har sagt at det vil være et veldig lite hensiktsmessig grep å gjøre.
+Denne typen endringer må vokse fram innenfra og naturlig over tid for at de skal være verdt noe, mente hun.
+Dette er i likhet med Kristelig Folkeparti, for vi mener også at dette handler om dialog, bevisstgjøring og veiledning.
+Nå som vi går mot slutten av debatten, vil jeg gjerne få takke komiteen for godt arbeid og friskt engasjement.
+Frisk debatt til tross tenker jeg det er viktig å skille mellom ordene «autoritær» og «totalitær», men det er sagt mye godt om tros- og livssynssamfunnenes rolle i denne debatten og som understreker deres betydning for enkeltmennesker og for oss som samfunn.
+Som saksordfører tenker jeg at forståelsen av religion og trosfrihet som en grunnleggende menneskerettighet må ligge til grunn for hele religions- og livssynspolitikken.
+Jeg hører at vi alle er opptatt av dialog mellom tros- og livssynssamfunn og stat, men vi har nok i denne sammenhengen et nokså ulikt syn på hva dialog er, og hva som forutsetter den gode dialogen.
+Med forskjellig ideologisk utgangspunkt er det også tydelig at man har ulikt syn på i hvor stor grad det er i orden at staten skal kunne stille krav til trossamfunnene, og hvor omfattende rapportering de skal kunne pålegges.
+For vi må huske at tros- og livssynssamfunnene dypest sett er frivillige organisasjoner, og at de dermed må få lov til å styre seg selv.
+Jeg registrerer også i debatten at opposisjonen når det gjelder Den norske kirke, ønsker å beholde statens myndighet på flere områder.
+Her er vi prinsipielt uenige.
+Som en naturlig konsekvens av at stat og kirke skilles, innebærer det en nedskalering og en forenkling av lovbestemmelsene om Den norske kirke, og de får nå en kortfattet rammelov i tråd med Kirkemøtets eget ønske.
+Nå får Kirken selv myndighet til å fastsette nærmere regler om kirkelig organisering og inndeling, kirkelige organer og kirkevalg.
+Kristelig Folkeparti er helt trygg på at Kirken selv og ikke Stortinget er den beste til å ivareta Kirkens egne anliggender, og jeg vil i den forbindelse ønske Den norske kirke lykke til med det spennende arbeidet som ligger foran.
+Jeg vil igjen takke for en god debatt.
+Jeg er veldig glad for at vi nå har kommet så langt at Stortinget kan vedta en ny, felles lov om tros- og livssynssamfunn som en tydelig forankring av det livsynsåpne samfunn.
+Det er en særdeles viktig verdi for å skape et inkluderende samfunn for alle.
+Flere har ikke bedt om ordet til sak nr. 2.
+Etter ønske fra familie- og kulturkomiteen vil presidenten ordne debatten slik:
+ 3 minutter til hver partigruppe og 3 minutter til medlemmer av regjeringen.
+Videre vil det – innenfor den fordelte taletid – bli gitt anledning til inntil fem replikker med svar etter innlegg fra medlemmer av regjeringen, og de som måtte tegne seg på talerlisten utover den fordelte taletid, får også en taletid på inntil 3 minutter.
+Som saksordførere retter vi fra denne talerstolen som oftest en automatisk takk til komiteen for arbeidet i en sak, men i denne saken vil jeg virkelig med hånden på hjertet takke komiteen for et svært godt og konstruktivt samarbeid i en viktig sak, nemlig behandlingen av meldingen om Opplysningsvesenets fond – en god melding med et historisk tilbakeblikk på fondet og dets utvikling siden opprettelsen i 1821.
+OVF har vært omstridt siden den gang, og vi i komiteen er glade for at vi nå endelig avklarer eierrettighetene og veien videre.
+I meldingen presenterer departementet to alternativer som aktuelle:
+ enten at verdiene i fondet blir overført til Den norske kirke i sin helhet, eller at verdiene blir delt mellom staten og Kirken.
+Departementet konkluderer med at verdiene i fondet bør deles ved at eiendommene av særlig kirkelig verdi overføres til Den norske kirke, mens staten blir eier av det gjenværende Opplysningsvesenets fond.
+Komiteen støtter, som de fleste høringsinstansene, en slik oppdeling av fondet.
+Videre har det for komiteen vært viktig at Stortinget legger noen føringer for oppdelingsprosessen for å sikre forutsigbarhet, og har derfor kommet fram til fem konkrete forslag om oppdelingsprosessen, som både hensyntar Stortingets intensjoner og Den norske kirkes ønsker.
+Jeg leser ikke disse forslagene ordrett, men de handler om at staten og Kirken skal være likeverdige parter i oppdelingsprosessen, der Kirkens verdier skal skilles ut først, at betingelsene for delingen av fondet er at staten øker sin innsats for bevaring av kulturhistoriske kirkebygg tilsvarende verdien av det som er gjenværende i fondet, og at statens økte innsats overfor kirkebyggene ikke skal avløse kommunenes økonomiske ansvar for kirkebyggene eller andre tiltak eller ordninger som finnes på området, og at man skal sette i gang ulike bevaringsprogrammer for ulike kategorier av kirkebygg, i samråd med både kirkelige instanser og antikvariske myndigheter.
+I tillegg til forslagene om fordelingsprosessen fremmer komiteen i fellesskap i dag et forslag om at regjeringen bes utarbeide en plan for utbedring av verneverdige kirkebygg.
+Det gleder meg stort at komiteen med dette understreker hvor opptatt også vi på Stortinget er av å ta fatt på det store etterslepet innenfor kirkevedlikehold, selv om jeg skulle ønske at alle sammen også ble med på et finansieringsforslag.
+Komiteen slutter seg i dag i fellesskap også til et annet forslag som er av stor betydning for meg både som saksordfører og senterpartist, nemlig at Stortinget må få til behandling en grundig sak om hvordan det som er igjen av fondet etter at Kirken har fått sin del, skal forvaltes.
+Meldingen tar nemlig ikke opp det spørsmålet.
+For saksordføreren og resten av komiteen er denne problemstillingen svært viktig, og vi mener det er helt nødvendig at prosessen forankres i Stortinget:
+ bl.a. fondets formål, fondets samfunnsansvar, dets eiendeler, tilgangen til eiendommene for frivillige lag og foreninger, salg av eiendommer og eventuell forkjøpsrett f.eks. for kommuner, for ikke å snakke om nasjonal sikkerhet og konsekvenser av et eventuelt salg til utlandet.
+Jobben med den viktige saken ser jeg fram til.
+Med det tar jeg opp de forslagene Senterpartiet står bak.
+Da har representanten Aslaug Sem-Jacobsen tatt opp de forslagene hun refererte til.
+Opphevingen av statskirkeordningen i Grunnloven i 2012 og lovendringene i forholdet mellom staten og Den norske kirke i 2016 gjør det naturlig å få en endelig avklaring av eierrettighetene til Opplysningsvesenets fond.
+Fondet, som antas å ha en verdi på 10–12 mrd. kr, har en særskilt beskyttelse i Grunnloven § 116, og eierskapsrettighetene har vært gjenstand for betydelig, også juridisk, uenighet.
+Jeg vil takke saksordføreren for å ha bidratt til at Stortinget nå tar initiativ til viktige føringer for det viktige arbeidet med avklaringene.
+Dette sikrer at også Stortinget blir delaktig i det videre arbeidet.
+Stortinget kommer i dag til å vedta at regjeringa skal lage en plan for utbedring av verneverdige kirkebygg.
+Dette temaet har også tidligere vært viet betydelig oppmerksomhet i Stortinget, og jeg vil på vegne av Arbeiderpartiet uttrykke betydelig utålmodighet.
+Kirkens arbeidsgiverorganisasjon, KA, har gjennomført en tilstandsundersøkelse i 2017–2018 over tilstanden til de ulike kategoriene kirkebygg.
+Også Norsk institutt for kulturminneforskning bidrar med faglig og viktig kunnskap.
+Det er liten tvil om at vi har tilgang på nok kunnskap om våre mest sårbare og verdifulle kirker, at det nå haster med en plan, og at vi burde sett for oss en større grad av konkretisering fra regjeringas side allerede nå.
+Arbeiderpartiet vil ha et sterkt og forpliktende samarbeid med kommunene for å sikre at arealutnyttelsen i kommunene skjer til beste for utvikling og miljø og ikke etter ensidige økonomiske interesser.
+Dette er i tråd med oppfordringene fra kommunenes interesseorganisasjon, KS.
+Vi vil også at avklaringer rundt eierforholdene til Opplysningsvesenets fond brukes til å sikre at de rundt 6 400 festekontraktene nå kan tilbys innløst.
+Vi fremmer forslag i tråd med det.
+Jeg tar opp forslaget Arbeiderpartiet har sammen med SV.
+Jeg vil også si at Arbeiderpartiet skal støtte forslagene nr. 3 og 4, fra henholdsvis Senterpartiet og SV, og SV.
+Representanten Kari Henriksen har tatt opp det forslaget hun refererte til.
+Da grunnlovsbestemmelsene som regulerte statskirkeordningen ble opphevet i 2012, ble det åpnet for reformer av forholdet mellom stat og kirke.
+Og da staten ble skilt fra Kirken i 2017, ble det helt naturlig å vurdere eierskapet til det 200 år gamle Opplysningsvesenets fond – litt mystisk, egentlig.
+Siden opprinnelsen har det vært stridigheter om fondet.
+Det har en finanskapital på 2,6 mrd. kr.
+Mange har vært interessert i å bruke midlene, bl.a. kommunene, til det beste, for rett og slett å sette i stand mange kirker.
+Fondet besitter landbrukseiendommer, stabbur, setre, skog, kraftverk og prestegårder, så det er en betydelig andel eiendommer i fondet.
+Høyre har fått henvendelser fra kommuner og private næringsdrivende som har ønsket dialog med Opplysningsvesenets fond for å kjøpe ut eiendommer, fordi de båndlegger areal, noe som hindrer utvikling i kommuner og for næringsvirksomhet.
+Dette har vist seg vanskelig, men vi tror at det nå vil løse seg.
+En enstemmig komité ønsker velkommen avklaringer om eierforholdene, og vi er veldig positive til modellen som er foreslått:
+ en deling der eiendommer av særlig kirkelig verdi går til kirkene, mens staten blir eier av øvrige eiendeler.
+Denne brede oppslutningen om modellen er viktig, for løsningen krever politisk oppfølging i flere år framover.
+Departementet har gitt tydelige signaler om at de vil forplikte seg til istandsetting av verneverdige kirkebygg.
+Dette er noe komiteen har vært særlig opptatt av.
+Vi ønsker en forsterket innsats og strategi for de bevaringsverdige steinkirkene.
+Komiteens enstemmige forslag til vedtak i saken gir trygghet for at dette vil skje.
+Stortinget har lagt noen føringer i det videre arbeidet:
+ at stat og kirke skal være likeverdige parter i prosessen
+ at kirkens verdier skilles ut først
+ at staten øker innsatsen for rehabilitering av kulturhistoriske kirker
+ at dette skal ikke gå på bekostning av kommunenes innsats
+Stortinget ber også departementet om å komme tilbake til en sak om fondseiendommene som staten overtar.
+Så får vi smøre oss med litt tålmodighet i utålmodigheten.
+Vi får kanskje også glede oss over at fondet har bidratt til å bygge Norge som kunnskapsnasjon, for fondet var en viktig finansieringskilde for utbygging av allmueskolen, og det har vi nytt godt av.
+Jeg er glad for at det er større enighet i denne saken enn det var i den forrige.
+Jeg vil også her gratulere statsråden med saken.
+Det er en enstemmig komité som står bak.
+Uklarhetene rundt eierspørsmålet knyttet til Opplysningsvesenets fond har eksistert over lang tid.
+Likevel har Grunnlovens tydelige føringer om at fondets verdier skal komme kirkelige formål til gode, gjort at fondets forvaltning har hatt en meget god og viktig forutsigbarhet.
+Det er bra at denne avklaringen endelig kommer.
+Det er bra at det er et samlet storting som står bak.
+Det er også en løsning som forplikter staten til økt innsats hva gjelder vedlikehold av kirkebygg framover, noe som er viktig.
+I tillegg føler jeg at man har funnet en fornuftig deling av fondets verdier, noe også Kirken er enig i, der de byggene som brukes nesten daglig av Kirken, får en mer direkte styring fra Kirken, mens det som er av mer kommersiell formuesmasse, beholdes i fondet og hos staten.
+Så dette er en viktig avklaring som det er bra at Stortinget står samlet om, og som vi i Fremskrittspartiet ønsker velkommen.
+Jeg er veldig glad for at vi har funnet sammen om en omforent løsning når det gjelder Opplysningsvesenets fond.
+Listen med forslag, som alle partiene i komiteen har stilt seg bak, gir forutsigbarhet for Kirken og et nytt grunnlag for et godt bevaringsprogram for kulturhistorisk viktige kulturbygg.
+Ikke minst, og dette er viktig særlig for SV, gir den gir en klar bestilling i forslaget til vedtak, II, om å få en egen sak om fondseiendommene som staten overtar etter at Opplysningsvesenets fond er oppdelt.
+Den bestillingen lyder at saken må drøfte spørsmål om formålet, dets samfunnsansvar, organisering, vilkår for salg av eiendommer, sikkerhetsspørsmål samt andre forhold som er av betydning for forvaltningen av det gjenværende fondet som staten overtar.
+Her er SVs forventninger for den saken klare – som at festekontrakter tilbys innløst, at det må tas bredere samfunnshensyn enn det som følger av et inntjeningsbehov alene.
+For det er klart at det her er snakk om store eiendommer som er veldig viktige for mange lokalsamfunn rundt om.
+Der må vi ta ansvar for at lokalsamfunnene skal kunne utvikle seg uten at fondet blir en sperre for det.
+Så til slutt et spørsmål som SV står overraskende alene om å problematisere i denne innstillingen:
+ I denne saken legger vi opp til å servere Den norske kirke en rekke eiendommer som også kan være skikkelige indrefileter i et lokalsamfunn, som er tilknyttet Kirken selv.
+Og det er helt ok – det er en god inndeling.
+Men vi stiller ingen krav til hva som skjer etter det.
+Det kan fort tenkes at Kirken får svært lukrative eiendommer midt i sentrum av byer og bygder som Kirken etter hvert ser verdien av, vil avvigsle og kanskje selge.
+Det er ingen mistenkeliggjøring av Kirken som ligger bak det, det er sånn utviklingen kan gå.
+Her er det altså viktige eiendommer i mange lokalsamfunn som kan komme på private hender uten at samfunnet får noe igjen for det.
+Det er en problematikk som flertallet i komiteen burde vært med SV på.
+Derfor har vi også foreslått at regjeringen skal utrede en hjemfallsrett for disse eiendommene.
+Dette forslaget, som SV står alene om, tar jeg nå opp.
+Ellers er vi glade for den enigheten vi har kommet til.
+Det er en viktig avklaring av Opplysningsvesenets fond.
+Det var på høy tid.
+Da har representanten Freddy André Øvstegård tatt opp det forslaget han refererte til.
+Denne reformen av Opplysningsvesenets fond er en viktig opprydding i eierskapet til verdier som ligger i fondet.
+Helt siden dannelsen av fondet ved lov av 1821 har det vært en diskusjon om eiendomsretten til dette fondet.
+I dag ser det ut som vi går inn for en god landing av dette spørsmålet, nesten 200 år etterpå.
+Dette vil forhåpentlig også legge grunnlaget for istandsetting og sikring av de kulturhistorisk viktige kirkebyggene i Norge.
+Det setter Venstre stor pris på, også jeg personlig.
+I mitt valgdistrikt har vi 21 middelalderkirker som sårt trenger oppussing og vedlikehold.
+Jeg vil takke dem som lokalt har stått på i denne saken, og en særlig takk går til den tidligere kulturministeren, som har hatt et personlig engasjement i dette.
+Venstre og jeg selv har lenge vært bekymret for hvordan det skal gå med den nasjonalskatten de norske kirkene er, uten å sette av store midler til dette.
+Allerede på begynnelsen av 2000-tallet ble det beregnet et samlet vedlikeholdsetterslep på om lag 10 mrd. kr for kirkebyggene.
+Etterslepet var økende, og forfallet var akselererende.
+En økende vedlikeholdsinnsats de siste ti årene har bidratt til å forhindre at det samlede vedlikeholdsetterslepet har økt ytterligere.
+Nøkkeltallsrapporten for tilstanden for de norske kirkene fra 2017 viser imidlertid at det er mye ugjort.
+I rapporten heter det:
+«Undersøkelsen viser en alvorlig svak tilstand for yttervegger i middelalderkirkene i stein og 1700-tallskirkene, hvor andelen med mindre bra eller dårlig tilstand for ytterveggene ligger på henholdsvis 37 og 35 pst.»
+For Venstre er kulturminnevernet en del av samfunnsoppdraget.
+Kirkene er i en særstilling som kulturminner og blant de fremste eksemplene innen arkitektur, kunsthistorie og håndverk fra de siste tusen årene.
+For framtiden vil vi forhåpentlig kunne ta vare på denne sentrale delen av vår historie fullt og helt.
+Det vi nå diskuterer, henger også sammen med den saken vi nettopp har behandlet i denne salen, trossamfunnsloven.
+Det vil si at det handler om mer enn kulturminner, det handler også om at fysiske rom er viktige for mennesker i dag.
+Kirkerommet skal være åpent, både for utøvelse av tro og for mennesker som har liten tilknytning til religiøs tro.
+Til slutt:
+ Med dette vedtaket kan vi i Norge ta vare på Norges kirkehistorie ved å sette oss selv, vår bakgrunn og vår identitet inn i en større sammenheng.
+Kristelig Folkeparti er også glad for at eierspørsmålet omkring Opplysningsvesenets fond nå endelig avklares, at staten og Kirken skal fordele verdiene i fondet seg imellom, forutsatt at staten forplikter seg til en styrket innsats for istandsetting av landets kulturhistorisk verdifulle kirkebygg.
+De eiendelene som har en særlig kirkelig verdi, skal skilles ut fra fondet og overføres til Den norske kirke, og det gjenværende Opplysningsvesenets fond vil staten bli eier av.
+Statens innsats over tid skal minst svare til den verdien som det gjenværende fondet representerer for staten.
+Samlet sett betyr løsningen at hele fondet kommer Den norske kirke til gode.
+Vi i Kristelig Folkeparti er også glade for den enigheten vi har i komiteen, og for de felles forslagene vi har kommet fram til, der vi ber regjeringen sørge for å ivareta viktige momenter ved oppdelingen.
+Det må sikres at statens økte innsats svarer til beregning av reell verdi, og det er også viktig at statens økte innsats overfor kirkebyggene på ingen måte avløser kommunenes økonomiske ansvar for kirkebyggene.
+Videre er det av betydning at man får på plass en oversikt der man i samråd med kirkelige instanser og antikvariske myndigheter igangsetter bevaringsprogrammer av kirkebygg i en prioritert rekkefølge, ut fra kriterier som alder, verneverdi og vedlikeholdstilstand.
+Vi har mange flotte, verneverdige kirker i landet vårt, og dessverre er vedlikeholdsetterslepet stort.
+Derfor er Kristelig Folkeparti veldig glade for at eierspørsmålet omkring Opplysningsvesenets fond nå endelig blir avklart, og at det vil bety en styrket innsats for istandsetting og sikring av de verneverdige kirkene våre.
+Dette er et arbeid som må skje systematisk og over tid, men komiteens enstemmige forslag til vedtak i saken gir trygghet for at det vil bli ivaretatt på en god måte.
+Den forrige saken var viktig og historisk, og det må vi vel kunne si denne også er.
+Som flere har vært inne på, er Opplysningsvesenets fond 200 år, og det har vært strid om eiendomsretten siden den gang.
+Fordi fondet har sin opprinnelse i eiendommer som var forbeholdt Kirken og prestene, mener mange at fondet tilhører Den norske kirke.
+Andre mener at det er staten som har eiendomsretten.
+Det er ikke underlig at det har vært strid om eiendomsretten, for da fondet ble etablert i 1821, omfattet det så mye som 10–15 pst. av all fast eiendom i Norge.
+Det er få som vet det i dag, men Opplysningsvesenets fond var på den tida den største formuen staten hadde hånd om.
+Den systematiske utbyggingen av folkeskolevesenet i Norge var knapt mulig uten bidrag fra OVF.
+Så lenge Kirken var en del av staten og Grunnloven stiller opp betingelser for bruken av fondets midler, har spørsmålet om eiendomsretten hatt liten praktisk betydning.
+Nå er spørsmålet om eiendomsretten kommet i en annen stilling.
+Også fra kirkelig hold har det kommet ønske om at eierspørsmålet skal få en politisk avklaring.
+Gjennom stortingsmeldinga om Opplysningsvesenets fond har regjeringa lagt eierspørsmålet fram for Stortinget.
+Konklusjonen vår er tydelig:
+ Verdiene i fondet bør deles mellom staten og Kirken.
+Eiendeler som har en særlig kirkelig verdi, bør skilles ut fra fondet og overføres til Den norske kirke.
+Det gjenværende OVF vil staten bli eier av.
+Betingelsen er at staten forplikter seg til å styrke sin innsats for sikring og istandsetting av landets kulturhistorisk verdifulle kirkebygg.
+Denne innsatsen skal over tid minst svare til den verdien som det gjenværende fondet representerer for staten.
+Samlet sett betyr løsningen at hele fondet kommer Den norske kirke til gode.
+En enstemmig komité slutter seg til denne løsningen.
+Det er jeg glad for.
+Jeg har forstått det sånn at også fra kirkelig hold er en tilfreds.
+Denne brede oppslutningen er svært viktig, for løsningen krever politisk oppfølging i årene framover.
+Ikke minst er det viktig at statens økte innsats overfor kirkebyggene blir fulgt opp systematisk og over tid.
+Komiteens enstemmige forslag til vedtak i saken gir trygghet for at dette vil skje.
+Dette er et avgjørende punkt i historien om OVF.
+Vi har kommet til en avklaring som knapt noen så for seg noen år tilbake.
+Men vi er ikke ved veis ende.
+Nå skal vi følge opp innstillinga og de ulike vedtakene som i dag fattes, og mitt mål er at vi kan komme med et lovforslag om fondet til behandling her i Stortinget våren 2021.
+Det blir replikkordskifte.
+Jeg er enig, det er en historisk dag:
+ Nå blir Opplysningsvesenets fonds verdier delt mellom Den norske kirke og staten.
+Da kunne vi ha benyttet muligheten til å få ryddet opp i og avskaffet ordningen med tomtefeste på Opplysningsvesenets fonds grunn, ettersom fondet er en av de store eiendomsbesitterne i landet og har tusenvis av festekontrakter i sin portefølje.
+Jeg har tidligere kalt tomtefesteinstituttet siste rest av husmannsvesenet, og det mener jeg fortsatt.
+Nå kunne vi ha fått avskaffet det, men slik jeg leser stortingsmeldingen, blir det videreført.
+Ja, fortsatt er det nå slik – hvis jeg forstår meldingen riktig – at situasjonen kan bli at både Kirken og staten blir bortfestere av eiendom.
+Hvorfor vil ikke statsråden ordne opp i og avskaffe tomtefesteordningen?
+Denne meldingen handler om eierspørsmålet knyttet til Opplysningsvesenets fond.
+Det viktige der har vært at vi sier, en gang for alle, at verdiene til fondet skal komme Den norske kirke til gode.
+Så har komiteen heldigvis sluttet seg enstemmig til det og også vedtatt at vi nå skal jobbe med oppfølging av det, og at vi da skal jobbe med de verdiene som staten får hånd om, og med hvordan vi skal bruke verdiene for å istandsette kirkebyggene.
+Spørsmålet om tomtefesteloven ligger i Justisdepartementet.
+Jeg var med på vedtak knyttet til tomtefesteloven, sammen med representanten Henriksen, i forrige periode, og er kjent med at det er uenighet knyttet til det spørsmålet.
+Men det er ikke i tilknytning til denne saken, eller til OVF, at vi eventuelt skulle ha gjort noe med tomtefesteloven.
+Det får være en sak som representanten kan ta opp med justisministeren.
+Det er bare delvis riktig, for vi har tidligere diskutert i Stortinget – til og med grunnlovsforslag – etter en høyesterettsdom i 2010 om den tidligere instruksen som ble vedtatt under Stoltenberg-regjeringen, om innløsning av festekontrakter på Opplysningsvesenets fonds grunn.
+Opplysningsvesenets fond har en egen beskyttelse, blir det til og med kalt, i Grunnloven – jeg er litt usikker på om det er et godt begrep – noe som gjorde at regjeringens vedtak ikke kunne iverksettes.
+Så dette har absolutt noe med Opplysningsvesenets fond å gjøre, og det er en svært stor bortfester av eiendommer – både boligeiendommer, fritidseiendommer og næringseiendommer.
+Jeg må understreke at det først og fremst er boligeiendommene jeg er opptatt av.
+At folk som har hatt en eiendom, stelt den og brukt penger på den i kanskje 40–50 år, ikke har eiendomsrett til den tomta, hører ingen steder hjemme.
+Hvorfor vil ikke statsråden ordne opp i dette?
+Hvis det ikke gjelder hele tomtefesteinstituttet, er jeg enig i at det er relevant, og jeg vet at det ene forslaget handler om festetomtene som ligger under Opplysningsvesenets fond.
+Men som sagt:
+ Det er et spørsmål vi skal komme tilbake til, og også hvordan disse verdiene og eiendommene blir fordelt mellom stat og kirke, og hva som skjer med de eiendelene som faller på statens hånd.
+Men jeg er ikke enig i premisset, for som boligeier har man muligheten til å innløse en festekontrakt, bortsett fra at det vel foreligger et unntak for landbrukseiendom – nå ser jeg på Senterpartiet fordi de heller ikke var med på forslaget her i innstillinga.
+Så det ligger iallfall som et utgangspunkt, uten at jeg kan tomtefesteloven ut og inn.
+Tomtefesteloven kan heller ikke jeg ut og inn, men mitt parti er veldig opptatt av denne problematikken.
+Det var også en av grunnene til at det var så viktig for meg – og jeg opplever også for komiteen – å få en sak tilbake om hva vi skal gjøre med alle tingene, hvordan vi skal forvalte fondet senere.
+Jeg er også veldig opptatt av hva vi gjør når det gjelder kommunene ellers, eller lokale lag og foreninger.
+Når det gjelder eierspørsmålet, det å forvalte videre:
+ Når tror du vi kan få det arbeidet, og hvor opptatt vil ministeren være av både kommuners og frivillige lag og foreningers muligheter til bedre å få benytte seg av de eiendommene – og også i et sikkerhetspolitisk perspektiv?
+Vi vet at en del land liker å kjøpe opp områder som kan være interessante for dem, bl.a. langs norskekysten.
+Presidenten minner om at talen skal rettes til presidenten.
+Takk for viktige spørsmål.
+Som sagt vil det når det gjelder fordeling av eiendommer, kunne ta litt tid.
+Her vil det være en prosess – også komiteen understreker tydelig at det skal være mellom kirke og stat å finne og identifisere de viktige eiendelene som Kirken skal ta hånd om.
+Så vil en kontinuerlig framover jobbe med en fordeling av det.
+Jeg ser for meg at det kan ta flere år.
+Når det gjelder selve lovsaken, er mitt mål som sagt å komme til Stortinget og følge opp det som komiteen sier, allerede neste vår.
+Vi får håpe at den tidsplanen holder.
+Så vil det hele tida måtte være en utredning knyttet til hvordan en skal forvalte disse verdiene på best en mulig måte, hvordan finansieringen av kirkebyggene skal være.
+Derfor er vi også veldig opptatt av å se på de momentene som representanten peker på, og også hvilke kirker en skal prioritere først.
+Jeg ser for meg at når det er et så stort etterslep og så mye ressurser som skal brukes til vedlikehold, vil det ta ganske lang tid å få gjort noe med det.
+Som meldingen varsler og statsråden nevner, skal det komme en lovproposisjon om dette etter hvert.
+Derfor ønsker jeg å stille et spørsmål til statsråden rundt nettopp det SV har stått alene om å problematisere, nemlig at man i denne oppdelingen gir et stort antall – vil vi tro – eiendommer, og det er rett og rimelig, men mange av de eiendommene vil det fortsatt være en samfunnsinteresse for i lokalsamfunnet.
+Vil statsråden i lovproposisjonen som kommer, også drøfte samfunnets muligheter for å sikre f.eks. hjemfall til de eiendommene dersom de skulle bli avvigslet, solgt eller på annen måte ende på private hender, utenfor samfunnets kontroll?
+Det kan godt være at det spørsmålet kommer til å bli omtalt i den lovproposisjonen, men utgangspunktet til representanten er kanskje at en får et inntrykk av at Kirken kommer til å bli overført veldig mange eiendommer som man senere bare kan selge.
+Men det bryter med de forutsetningene komiteen også slutter seg til, nemlig at det skal være viktige bygg eller viktig eiendom for Den norske kirke – «særskilt verdi» er vel formuleringen som brukes.
+Dermed skal en ikke oppnå noen økonomisk gevinst til å kunne bruke på andre formål.
+Samtidig, i et tenkt tilfelle, ser jeg for meg at en prestebolig som blir overtatt i dag, potensielt ikke nødvendigvis er så godt egnet om noen år.
+At Kirken må ha fleksibilitet til å kunne selge den og kjøpe en ny eiendom, synes jeg har noe for seg.
+Derfor synes jeg at en ikke må hoppe på det forslaget, og jeg er glad for at komiteen ikke hopper på det.
+Så skal vi heller se på det når lovsaken kommer til Stortinget.
+Replikkordskiftet er omme.
+De talerne som heretter får ordet, har også en taletid på inntil 3 minutter.
+I 2012 fremmet jeg et grunnlovsforslag sammen med de daværende stortingsrepresentantene Gerd Janne Kristoffersen og Steinar Gullvåg om endring av Grunnloven § 106.
+Forslaget gjaldt forvaltning av geistlighetens benefiserte gods, altså Opplysningsvesenets fond.
+Grunnlovsforslaget ble behandlet i Stortinget i 2016.
+Da forslaget ble fremmet, gjaldt det § 106 i Grunnloven.
+Den var i mellomtida, etter stortingsvedtak i 2014, blitt til § 116, og det er den jeg refererer til i dag.
+Grunnlovsforslaget dreide seg egentlig ikke om Opplysningsvesenets fond, men det politiske bakteppet for forslaget dreide seg om tomtefeste.
+At folk ikke skal eie tomta til huset sitt, hører ingen steder hjemme.
+En tomt som en har stelt, vedlikeholdt, utviklet og brukt penger på i kanskje både 40 og 50 år, skal en altså ikke ha eiendomsretten til.
+Tomtefesteinstituttet hadde aldri i verden blitt vedtatt i dag.
+Derfor ønsket regjeringen Stoltenberg, med justisminister Storberget i spissen, å rydde opp i spørsmål som hadde med tomtefeste å gjøre.
+Det er her Opplysningsvesenets fond kommer inn i bildet, som en av landets største grunneiere og som bortfester av tusenvis av eiendommer.
+Opp gjennom årene har jeg hatt kontakt med mange fortvilte tomtefestere, og Opplysningsvesenets fond har ingen ærerik historie med tanke på hvordan de har behandlet mange tomtefestere.
+Så vil jeg også legge til at jeg har inntrykk av at kontakten mellom Opplysningsvesenets fond og festerne har blitt bedre de siste årene, og dessuten har mange innløst tomtene sine de siste årene, men mange gjenstår fortsatt og er en del av tomtefesteordningen hos Opplysningsvesenets fond.
+Regjeringen Stoltenberg vedtok derfor en instruks om innløsning og regulering av festeavgift i festeforhold i statlige og statsstyrte virksomheter, inkludert Opplysningsvesenets fond.
+Så ble det en stor debatt, og til slutt slo Høyesteretts flertall fast at den ikke kunne gjennomføres, og at den var grunnlovsstridig.
+Høyesteretts beslutning kom i 2010, og derfor fremmet vi grunnlovsforslaget i 2012, som dessverre ikke fikk flertall i 2016, om å endre Grunnlovens bestemmelser om Opplysningsvesenets fond.
+Nå går vi et skritt videre.
+Nå blir Opplysningsvesenets fonds verdier delt, og da kunne vi også ha benyttet anledningen til å avskaffe ordningen med tomtefeste på Opplysningsvesenets fonds eiendommer.
+Jeg kjenner at jeg ser fram til representanten Myrlis engasjement også når vi skal snakke mer om dette når vi får tilbake sak om hvordan vi skal forvalte Opplysningsvesenets fond senere.
+Jeg ser også fram til det engasjementet som jeg opplever at komiteen har for kirkevedlikehold, som er et hjertebarn for Senterpartiet og også for mange andre.
+Det var viktig for meg som senterpartist å få forsikringer om at dette faktisk skal gå til kirkevedlikehold når vi litt overraskende, vil jeg vel si, ble presentert for meldingen om Opplysningsvesenets fond og forslaget om å dele.
+Jeg tror nok at hvis ikke den betingelsen lå der, hadde dette vært en mye vanskeligere sak.
+Når det er sagt, vil jeg – etter å ha takket komiteen både for debatten og for engasjementet i saken – rette en takk til ministeren, som i denne saken utviste et veldig stort ønske om samarbeid, la vekk prestisje og ikke syntes det var problematisk at en opposisjonspolitiker som meg som saksordfører, eller komiteen, pekte på at det kunne være mangelfullt ved meldingen at den ikke omtalte hva som ville skje med fondet i etterkant.
+Den dialogen vi har hatt, mellom både komité, regjering og opposisjon, og med meg i en forholdsvis koordinerende rolle, synes jeg har vært veldig oppløftende.
+Og sett i lys av hvordan Stortinget har jobbet sammen den siste tiden under koronakrisen, er det fint å ha noen saker hvor vi kjenner på at vi løfter i fellesskap.
+Dette har vært en slik sak for meg, og det vil jeg takke alle for.
+Fleire har ikkje bedt om ordet til sak nr. 3.
+Etter ønske frå familie- og kulturkomiteen vil presidenten ordna debatten slik:
+ 3 minutt til kvar partigruppe og 3 minutt til medlemer av regjeringa.
+Vidare vil det – innanfor den fordelte taletida – verta gjeve høve til inntil fem replikkar med svar etter innlegg frå medlemer av regjeringa, og dei som måtte teikna seg på talarlista utover den fordelte taletida, får ei taletid på inntil 3 minutt.
+La meg også her innledningsvis få takke forslagsstillerne for initiativet og ikke minst komiteen for samarbeidet underveis i arbeidet med dette representantforslaget.
+Vi har jo tidligere i dag behandlet og debattert trossamfunnsloven, og der var vi innom temaet som tas opp i dette representantforslaget.
+Komiteen valgte derfor å kjøre en parallell behandling av de to sakene.
+Med bakgrunn i dette er det derfor i Innst.
+208 L for 2019–2020 fremmet et romertallsforslag som samtlige partier står bak:
+«Stortinget ber regjeringen komme tilbake til Stortinget med forslag til nødvendige lovendringer med sikte på å forby faste etter-skole-tilbud med overnatting over lengre tid for å forhindre segregering, parallellsamfunn, negativ sosial kontroll eller radikalisering.»
+For Høyres del var det naturlig at problemstillingen representantforslaget adresserer, fikk en omtale i forbindelse med trossamfunnsloven.
+Jeg vil uttrykke glede over at en samlet komité var med på dette.
+Allikevel velger i dag Arbeiderpartiet og SV å fremme et mindretallsforslag i denne saken – et forslag som i realiteten er identisk med det refererte forslag i innstillingen til trossamfunnsloven.
+Det var flere oppslag i media tilbake i november i fjor som var bakgrunnen for at tematikken ble løftet.
+Her kunne man frykte at barn og unge kunne utsettes for segregering, negativ sosial kontroll eller andre skadelige konsekvenser for de berørte, under alibiet fritidstilbud.
+I Norge har vi gjennom flere år jobbet for å forebygge og bekjempe negativ sosial kontroll.
+Som samfunn skal vi forsvare de unges rettigheter.
+En samlet komité mener barns rett til å medvirke og bestemme selv i spørsmål om tro og livssyn er av stor betydning.
+Så må det balanseres opp mot foreldrenes rett til å velge trosopplæring for sine barn.
+Staten er etter Barnekonvensjonen forpliktet ikke bare til å sikre barns religions- og livssynsfrihet, men også til generelt å sikre gode oppvekstsvilkår for barn og å gi beskyttelse mot vold og overgrep.
+De aktuelle forslagene i forbindelse med trossamfunnsloven kan ses på som verktøy i så henseende.
+Det er også viktig å vise til at tros- og livssynssamfunn og andre ideelle og humanitære organisasjoners aktiviteter er viktige arenaer for dialog, samarbeid og møteplasser på tvers av kulturer og religioner.
+I Norge har vi lang tradisjon for bl.a. speiderbevegelser og konfirmasjonsleirer – som noen eksempler.
+Det er viktig at vi ikke rammer slike aktiviteter.
+Det er ivaretatt ved at man snakker om omfang over lengre tid i nevnte innstilling.
+I Norge står trosfriheten sterkt, og det samme gjør målet om å trygge barns rettigheter.
+Disse ble styrket i 2014 gjennom vedtak av ny § 104 i Grunnloven.
+Bestemmelsene bygger på FNs barnekonvensjon, som gir barn og unge under 18 år et særlig menneskerettsvern som gjelder for nettopp barn.
+Foreldres rettigheter til å oppdra barn i samsvar med sitt livssyn kan ikke stå over barns menneskerettsvern og ikke over norsk lov.
+Det bekrefter vi når Stortinget i dag gir et tydelig oppdrag til regjeringa, der målet er å forby faste etter-skole-tilbud med overnatting over lengre tid for å hindre segregering, parallellsamfunn og negativ sosial kontroll.
+I Hjelpekildens rapport, «Små sko, stor tro», fortelles det om flere problemer med å være barn i religiøse miljøer, noe som har ført til negative konsekvenser for dem.
+Der fortelles det også om problemer med å kunne forlate religiøse miljøer.
+Dette bekrefter med all tydelighet et behov for økt kontroll og et større engasjement fra samfunnet for å bidra, slik at barn og unge får relevant hjelp.
+Og det viser at regjeringas opprinnelige forslag om å styrke tilsynet bl.a. ved organisatoriske grep for færre tros- og livssynssamfunn hadde fortjent en bedre skjebne enn det stortingsflertallet i dag var villig til å gi.
+Jeg vil også vise til Arbeiderpartiets tidligere forslag om tiltak mot sosial kontroll og æresvold og Stortingets vedtak i forbindelse med behandlingen av Dokument 8:118 S for 2017 –2018, der regjeringa bes om å gjøre tilsyn med og åpenhet om opplegget i koranskoler og andre trossamfunnsskoler til en del av betingelsene for å få statsstøtte.
+Da foreslo Arbeiderpartiet også å ikke gi tilskudd til menigheter som gjennomfører ærbarhetstester og søskenbarnekteskap, for å nevne noe.
+Det ble da stemt ned.
+Jeg vil derfor gjenta behovet for at det utvikles en samfunnskontrakt mellom myndighetene og registrerte tros- og livssynssamfunn.
+En begrunnelse for dette handler særskilt om barn og unges integreringsmuligheter, f.eks. når det gjelder å kunne delta på ulike fellesarenaer.
+Dialog i forkant og kontinuerlig fremfor kun kontrollrapportering – det tror vi i Arbeiderpartiet på.
+Jeg tar herved opp forslaget fra Arbeiderpartiet og SV.
+Då har representanten Kari Henriksen teke opp det forslaget ho refererte til.
+Jeg vil begynne med å gi forslagsstillerne ros for å ta opp et viktig tema.
+Jeg vil også takke dem for at de stemmer for de forslagene som har vært viktige for Fremskrittspartiet når det gjelder trossamfunnsloven, som etter alt å dømme blir vedtatt i dag, og som er nokså identiske med dette forslaget, slik at man får det forbudet som trengs.
+Jeg synes at forslagene til trossamfunnsloven også går lenger og er mer dekkende, for ikke bare tar man der for seg såkalte koranskole-SFO-er og lignende tilbud i Norge, man vedtar også flere ting, bl.a. hvordan man kan hindre at flere barn og unge sendes til utlandet, noe som vi vet foregår på en organisert måte, både med reklamevideoer på nett og med agenter som rekrutterer foreldre til å sende barn på den type tilbud.
+Jeg nevnte i mitt tidligere innlegg i dag at over 400 barn og unge skal være sendt til utlandet mot sin vilje de siste to årene.
+Blant annet NRK har gjort et utrolig godt stykke arbeid med å avsløre noen av skolene i utlandet som norske barn er havnet i – når vi snakker om koranskoler – bl.a. Gargaar-skolen i Mogadishu i Somalia, der det så sent som for noen uker siden har vært norske ungdommer plassert mot sin vilje.
+Vi har også hatt en sak for kort tid siden der politiet har tatt ut tiltale – eller det var muligens siktelse – mot foreldre som har sendt sine barn til denne typen skoler.
+Vi trenger en koordinert innsats mot undervisningsopplegg uten åpenhet som kan bidra til parallellsamfunn, segregering, negativ sosial kontroll og i verste fall ekstremisme her i Norge, og som også kan hindre at barn og unge sendes til utlandet til den typen skoler.
+Kampen mot negativ sosial kontroll er en frihetskamp sammen med kvinner, menn og barn som utsettes for skadelig kontroll og segregering.
+Derfor var det mange som reagerte da det tidligere ble avdekket at det er noen trossamfunn som driver omfattende og lukket undervisningsopplegg med overnatting over lengre tid uten at tilbudene har vært åpne for samfunnets innsyn.
+Det er særlig den manglende åpenheten – det er lukkede rom hvor dette foregår – som har vært så alvorlig med denne typen tilbud.
+Vi er nødt til å verne særlig barn mot kontroll og segregering i lukkede rom.
+Derfor har SV vært tydelig på at en slik praksis uten samfunnets innsyn ikke kan tillates, og derfor fremmet vi forslaget vi behandler nå for å sikre akkurat det.
+Så ble det åpenbart, særlig etter at Fremskrittspartiet gikk ut av regjering, at dette forslaget ville få flertall i Stortinget, og så ble det senere inngått en avtale i forbindelse med tros- og livssynsloven mellom de borgerlige partiene, hvor det foreslås å gjøre akkurat det SV foreslår i denne saken.
+Det er det jo bare å juble for.
+Her tar vi et viktig grep for å verne barn mot negativ sosial kontroll og kaste lys over de lukkede rommene i trossamfunnene.
+Det er jeg veldig glad for at vi har fått gjennomslag for i salen for i dag.
+Så fremmer vi fortsatt anmodningsvedtaket her, sånn at det blir en tydelig historie for ettertiden at dette forslaget var bakgrunnen for at dette blir gjort, og at vi nå til slutt klarer å få stoppet slike lukkede overnattingstilbud – og at det også har bred støtte i Stortinget.
+Forslagsstillerne er bekymret for negative virkninger av lukkede fritids- og undervisningsopplegg med overnatting over lengre tid i trossamfunn.
+Bekymringen er at slike opplegg innebærer eller fører til segregering, negativ sosial kontroll eller andre skadelige konsekvenser for barn.
+Regjeringa vil jobbe for å hindre segregering, parallelle samfunn, negativ sosial kontroll og radikalisering.
+Samtidig er tros- og livssynsfriheten en grunnleggende menneskerettighet og en rettighet som står sterkt i vårt liberale demokrati.
+Som komiteen også påpeker, er det viktig å understreke at terskelen for å gripe inn i indre anliggender i trossamfunn skal være svært høy.
+Regjeringa er opptatt av å anerkjenne foreldres rett til å oppdra sine barn i samsvar med religionen og livssynet deres og rett og plikt til å veilede sine barn om slike spørsmål.
+Regjeringa har lagt fram et forslag til ny trossamfunnslov, som blir vedtatt i dag.
+Det inneholder flere forslag som er med på å styrke barns rettigheter.
+For det første er barns rett til å medvirke i saker som gjelder barns religion og livssyn, løftet fram i en egen lovbestemmelse.
+For det andre kan krenkelse av barns rettigheter i tros- eller livssynssamfunn gi grunnlag for å nekte eller trekke tilbake tilskudd.
+Negativ sosial kontroll er omfattet av dette.
+For det tredje foreslår vi at tros- og livssynssamfunnene skal rapportere om sine aktiviteter og tilbud til barn og unge.
+Er trosopplæringen en del av samfunnets virksomhet, vil opplæringen være omfattet av rapporteringsplikten.
+Regjeringspartiene og Fremskrittspartiet har i Innst.
+208 L forslag om et anmodningsvedtak der en ber regjeringa komme tilbake til Stortinget med forslag til nødvendige lovendringer med sikte på å føre tilsyn med eller forby faste etter-skole-tilbud med overnatting over lengre tid til barn og unge som kan ha en hemmende effekt på integreringen, og som kan bidra til parallelle samfunn, segregering, radikalisering eller negativ sosial kontroll.
+Dette skal vi følge opp på en forsvarlig og god måte.
+Aktiviteter og tilbud til barn og unge med tros- og livssynsformål er viktige arenaer for dialog og samarbeid og som møteplasser på tvers av kulturer og religioner.
+Det er ikke slike aktiviteter og tilbud denne debatten handler om.
+Jeg er opptatt av å ivareta barns tankefrihet, samvittighetsfrihet og religionsfrihet.
+Det omfatter også frihet til å kunne hvile og delta i lek og fritidsaktiviteter som passer barnets alder.
+Derfor må fritidstilbud utformes slik at de tar hensyn til barns rettigheter.
+For barn og unge med svak tilknytning til det norske samfunnet er det spesielt viktig å legge til rette for at de blir inkludert på felles arenaer.
+Det viktigste tiltaket for å sikre at barna våre har det trygt der de ferdes, er åpenhet, tillit og god dialog.
+Dette er viktige verdier som det norske samfunnet bygger på, og jeg er glad for at de aller fleste trossamfunn er opptatt av å følge nettopp dette.
+Fleire har ikkje bedt om ordet til sak nr. 4.
+Sakene nr. 5–13 vil verta behandla under eitt.
+Ingen har bedt om ordet.
+Stortinget er da klar til å gå til votering.
+Under debatten har Lars Haltbrekken satt frem to forslag på vegne av Sosialistisk Venstreparti.
+Forslag nr. 2 lyder:
+«I statsborgerloven gjøres følgende endring:
+Ny § 29 a skal lyde:
+§ 29 a Behandling av personopplysninger
+Organene nevnt i § 2 kan behandle personopplysninger, herunder personopplysninger som nevnt i personvernforordningen artikkel 9 og 10, når dette er nødvendig for å utøve myndighet eller utføre andre oppgaver etter loven her.
+Kongen kan gi forskrift om behandlingen, blant annet om formålet med behandlingen, behandlingsansvar, hvilke personopplysninger som kan behandles, hvem det kan behandles personopplysninger om, adgangen til viderebehandling, utlevering, registerføring og tilgang til registre.»
+Det voteres alternativt mellom dette forslaget og komiteens innstilling til II ny § 29 a. Miljøpartiet De Grønne og Rødt har varslet støtte til forslaget.
+Komiteen hadde innstilt til Stortinget å gjøre følgende vedtak til
+Det voteres over forslag nr. 1, fra Sosialistisk Venstreparti.
+Forslaget lyder:
+«Stortinget ber regjeringen komme tilbake til Stortinget med et lovforslag med vilkår for bruk av automatiserte avgjørelser i statsborgerskapssaker der vilkårene og hvilke saksporteføljer dette skal gjelde er klart definert og avgrenset i statsborgerloven.
+Det må også gå klart frem av loven at påklaget vedtak skal være underlagt manuell klagebehandling».
+Miljøpartiet De Grønne og Rødt har varslet støtte til forslaget.
+Det voteres over I og III samt resten av II.
+Det voteres over lovens overskrift og loven i sin helhet.
+Lovvedtaket vil bli ført opp til andre gangs behandling i et senere møte i Stortinget.
+Under debatten er det satt frem i alt 22 forslag.
+Det er
+ forslagene nr. 1–6, fra Kari Henriksen på vegne av Arbeiderpartiet, Senterpartiet og Sosialistisk Venstreparti
+ forslagene nr. 7–9, fra Kari Henriksen på vegne av Arbeiderpartiet og Sosialistisk Venstreparti
+ forslagene nr. 10–12, fra Kari Henriksen på vegne av Arbeiderpartiet
+ forslag nr. 13, fra Himanshu Gulati på vegne av Fremskrittspartiet
+ forslagene nr. 14–19 og nr. 22, fra Åslaug Sem-Jacobsen på vegne av Senterpartiet
+ forslagene nr. 20 og 21, fra Freddy André Øvstegård på vegne av Sosialistisk Venstreparti
+Forslagene nr. 1–21 er tatt inn i innstillingen på side 40–42.
+Forslag nr. 22 er tilgjengelig i papirutgave i salen.
+Både innstillingen og det løse forslaget er publisert i salappen.
+Det voteres over forslag nr. 21, fra Sosialistisk Venstreparti.
+Forslaget lyder:
+«Stortinget ber regjeringen utrede og komme tilbake til Stortinget med en sak med forslag om en speiling av dagens gravplassansvar, slik at det er kommunene som har ansvaret, men har rett til å overføre dette til soknet.»
+Rødt har varslet støtte til forslaget.
+Det voteres over forslag nr. 20, fra Sosialistisk Venstreparti.
+Forslaget lyder:
+«Stortinget ber regjeringen komme tilbake til Stortinget med et forslag til lovendring som sikrer at den juridiske vielsen må sanksjoneres av det offentlige».
+Miljøpartiet De Grønne og Rødt har varslet støtte til forslaget.
+Det voteres over forslag nr. 19, fra Senterpartiet.
+Forslaget lyder:
+«Stortinget ber regjeringen komme tilbake til Stortinget med forslag som ivaretar inndelingslovens bestemmelser om økonomiske oppgjør ved kommunesammenslåinger eller endring av kommunegrenser».
+Det voteres over forslagene nr. 15 og 22, fra Senterpartiet.
+Forslag nr. 15 lyder:
+«Stortinget ber regjeringen utrede om statstilskudd kan trekkes tilbake eller nektes en bestemt menighet – uavhengig av dens tilknytning til et større tros- og livssynsamfunn og uavhengig av om det søkes statstilskudd fra sentralleddet i det konkrete tros- eller livssynssamfunnet – hvis/når menigheten bryter med vilkårene for tilskudd».
+Forslag nr. 22 lyder:
+«§ 4 første ledd skal lyde:
+Et tros- eller livssynssamfunn kan bli registrert når det er fast organisert og har minst 100 medlemmer som
+ a) selv har meldt seg inn, eller som har blitt innmeldt av dem som har foreldreansvaret
+ b) er bosatt i Norge
+ c) ikke er medlem i Den norske kirke eller et annet registrert tros- eller livssynssamfunn.
+§ 5 tredje ledd skal lyde:
+Tilskuddet beregnes etter antallet medlemmer i tros- eller livssynssamfunnet som oppfyller kravene i § 4 første ledd bokstav a til c.
+Tilskuddet tildeles ikke tros- og livssynssamfunn med færre enn 100 medlemmer.»
+Rødt har varslet støtte til forslagene.
+Det voteres over forslagene nr. 7–9, fra Arbeiderpartiet og Sosialistisk Venstreparti.
+Forslag nr. 7 lyder:
+«§ 6 første ledd første punktum skal lyde:
+Dersom et tros- og livssynssamfunn, eller enkeltpersoner som opptrer på vegne av samfunnet, utøver vold eller tvang, fremsetter trusler, krenker barns rettigheter, bryter lovbestemte diskrimineringsforbud eller på andre måter alvorlig krenker andres rettigheter og friheter, eller oppmuntrer til ytringer som rammes av lovforbud, kan samfunnet nektes tilskudd eller tilskudd kan avkortes».
+Forslag nr. 8 lyder:
+«§ 11 fjerde ledd skal lyde:
+I kommuner med flere sokn skal det i tillegg være et kirkelig fellesråd.
+Kirkemøtet kan fastsette at rådet omfatter flere kommuner med ett eller flere sokn.
+Fellesrådet forvalter offentlige tilskudd til soknene, har arbeidsgiveransvar for ansatte som lønnes over rådets budsjett, forvalter kirkebyggene og er lokal gravplassmyndighet med mindre annet er bestemt i henhold til gravplassloven.
+Kirkemøtet gir nærmere regler for oppgavefordeling mellom soknets organer.
+§ 11 femte ledd skal lyde:
+Kommunen kan oppnevne en representant til kirkelig fellesråd.
+Hvis rådet omfatter flere kommuner, kan kommunene oppnevne en representant hver».
+Forslag nr. 9 lyder:
+«Stortinget ber regjeringen utrede og komme tilbake til Stortinget med en egen sak om sanksjonsmuligheter knyttet til rapporteringsplikten».
+Miljøpartiet De Grønne og Rødt har varslet støtte til forslagene.
+Det voteres over forslag nr. 17, fra Senterpartiet.
+Forslaget lyder:
+«Stortinget ber regjeringen komme tilbake til Stortinget med forslag for å styrke soknets rettslige stilling og videreføre lovfesting av fellesråd, herunder oppgaver, organisering og finansieringsansvaret for dette framover».
+Sosialistisk Venstreparti har varslet subsidiær støtte til forslaget.
+Det voteres over forslagene nr. 14, 16 og 18, fra Senterpartiet.
+Forslag nr. 14 lyder:
+«Stortinget ber regjeringen forsterke tilsynet med tros- og livssynssamfunn som mottar statstilskudd – herunder inspeksjoner og uanmeldte tilsyn – for å sikre at virksomheten ikke er i strid med vilkårene for statstilskudd».
+Forslag nr. 16 lyder:
+«§ 11 femte ledd skal lyde:
+Kommunene oppnevner en representant til kirkelig fellesråd.
+I kommuner med bare ett sogn oppnevner kommunen en representant som tiltrer rådet når det behandler saker som i kommuner med flere sokn tilligger kirkelig fellesråd.
+Hvis fellesrådet omfatter flere kommuner, kan kommunene oppnevne én representant hver».
+Forslag nr. 18 lyder:
+«Stortinget ber regjeringen komme tilbake til Stortinget med forslag til en klargjøring av plassering av arbeidsgiveransvaret for lokalkirkelig ansatte».
+Sosialistisk Venstreparti og Rødt har varslet subsidiær støtte til forslagene.
+Det voteres over forslag nr. 13, fra Fremskrittspartiet.
+Forslaget lyder:
+«Stortinget ber regjeringen foreslå en modell hvor tros- og livssynssamfunn ikke får offentlig støtte».
+Det voteres over forslagene nr. 10–12, fra Arbeiderpartiet.
+Forslag nr. 10 lyder:
+«Stortinget ber regjeringen utvikle en samfunnskontrakt i samarbeid med tros- og livssynssamfunnenes organisasjoner».
+Forslag nr. 11 lyder:
+«§ 4 første ledd skal lyde:
+Et tros- eller livssynssamfunn kan bli registrert når det er fast organisert og har minst 500 medlemmer som
+ a) selv har meldt seg inn, eller som har blitt innmeldt av dem som har foreldreansvaret
+ b) er bosatt i Norge
+ c) ikke er medlem i Den norske kirke eller et annet registrert tros- eller livssynssamfunn.
+§ 5 første ledd skal lyde:
+Registrerte tros- og livssynssamfunn som har inngått samfunnskontrakt, kan kreve tilskudd fra staten.
+§ 5 tredje ledd skal lyde:
+Tilskuddet beregnes etter antallet medlemmer i tros- eller livssynssamfunnet som oppfyller kravene i § 4 første ledd bokstav a til c.
+Tilskuddet tildeles ikke tros- og livssynssamfunn med færre enn 500 medlemmer».
+Forslag nr. 12 lyder:
+«Stortinget ber regjeringen fremme forslag til vilkår for at selvstendige tros- eller livssynssamfunn kan gå sammen i en organisatorisk overbygning og få dispensasjonsadgang fra antallskravet.
+Dette utformes i tråd med regjeringens forslag i høringsnotatet».
+Det voteres over forslagene nr. 1 og 2, fra Arbeiderpartiet, Senterpartiet og Sosialistisk Venstreparti.
+Forslag nr. 1 lyder:
+«§ 13 første ledd skal lyde:
+Kirkelige valg skal holdes samtidig med offentlige valg og i umiddelbar nærhet av lokalene der det offentlige valget gjennomføres».
+Forslag nr. 2 lyder:
+«§ 14 andre ledd femte punktum skal lyde:
+I budsjettforslaget skal også tilskudd til kirkelige stillinger innen undervisning, diakoni og kirkemusikk inngå».
+Rødt har varslet støtte til forslagene.
+Det voteres over forslagene nr. 3–6, fra Arbeiderpartiet, Senterpartiet og Sosialistisk Venstreparti.
+Forslag nr. 3 lyder:
+«Stortinget ber regjeringen komme tilbake til Stortinget med en egen sak om status og evaluering av tros- og livssynsamfunnene etter innføring av nye retningslinjer for å motta statsstøtte».
+Forslag nr. 4 lyder:
+«Stortinget ber regjeringen stille krav om minst 40 pst. representasjon av kvinner i styringsorganer som forvalter offentlig støtte».
+Forslag nr. 5 lyder:
+«Stortinget ber regjeringen stille krav til personer som kommer til Norge for å praktisere som religiøse ledere, om at de skal ha eller skaffe seg kunnskap om den religiøse rådgivningsrollen i møte med vold i nære relasjoner, eksilerfaringer og sentrale verdier i det norske samfunnet».
+Forslag nr. 6 lyder:
+«Stortinget ber regjeringen stille krav om at representanter i styringsorganer som forvalter statlig støtte hos tros- og livssamfunn, er demokratisk valgt».
+Miljøpartiet De Grønne og Rødt har varslet støtte til forslagene.
+Det voteres først over A I § 5 første ledd.
+Arbeiderpartiet har varslet at de vil stemme imot.
+Det voteres over A I § 4 første ledd og § 5 tredje ledd.
+Rødt har varslet subsidiær støtte til innstillingen.
+Arbeiderpartiet og Senterpartiet har varslet at de vil stemme imot.
+Det voteres over A I § 6 første ledd første punktum og § 11 fjerde ledd.
+Rødt har varslet subsidiær støtte.
+Arbeiderpartiet, Sosialistisk Venstreparti og Miljøpartiet De Grønne har varslet at de vil stemme imot.
+Det voteres over A I § 14 andre ledd tredje punktum.
+Arbeiderpartiet, Sosialistisk Venstreparti og Rødt har varslet at de vil stemme imot.
+Det voteres over A I § 13 første ledd og § 14 andre ledd femte punktum.
+Rødt har varslet subsidiær støtte til innstillingen.
+Arbeiderpartiet, Senterpartiet og Sosialistisk Venstreparti har varslet at de vil stemme imot.
+Det voteres over resten av A.
+Det voteres over lovens overskrift og loven i sin helhet.
+Lovvedtaket vil bli ført opp til andre gangs behandling i et senere møte i Stortinget.
+Videre var innstilt:
+Arbeiderpartiet, Sosialistisk Venstreparti og Rødt har nå varslet subsidiær støtte til III.
+Under debatten er det satt frem i alt fire forslag.
+Det er
+ forslag nr. 1, fra Åslaug Sem-Jacobsen på vegne av Arbeiderpartiet, Senterpartiet og Sosialistisk Venstreparti
+ forslag nr. 2, fra Kari Henriksen på vegne av Arbeiderpartiet og Sosialistisk Venstreparti
+ forslag nr. 3, fra Åslaug Sem-Jacobsen på vegne av Senterpartiet og Sosialistisk Venstreparti
+ forslag nr. 4, fra Freddy André Øvstegård på vegne av Sosialistisk Venstreparti
+Det voteres over forslag nr. 4, fra Sosialistisk Venstreparti.
+Forslaget lyder:
+«Stortinget ber regjeringen utrede en hjemfallsrett for eiendommer som overføres til Den norske kirke, og komme tilbake til Stortinget med forslag i forbindelse med lovproposisjonen som etterfølger Meld.
+St. 29
+Arbeiderpartiet, Miljøpartiet De Grønne og Rødt har varslet støtte til forslaget.
+Det voteres over forslag nr. 3, fra Senterpartiet og Sosialistisk Venstreparti.
+Forslaget lyder:
+«Stortinget ber regjeringen komme tilbake til Stortinget på egnet vis med forslag til en langsiktig finansieringsplan for bevaring av de kulturhistorisk viktige kirkebyggene.»
+Arbeiderpartiet, Miljøpartiet De Grønne og Rødt har varslet støtte til forslaget.
+Det voteres over forslag nr. 2, fra Arbeiderpartiet og Sosialistisk Venstreparti.
+Forslaget lyder:
+«Stortinget ber regjeringen bruke anledningen som ligger i rettighetsavklaringen knyttet til Opplysningsvesenets fond, slik at dagens rundt 6 400 festekontrakter tilbys innløst.»
+Miljøpartiet De Grønne og Rødt har varslet støtte til forslaget.
+Det voteres over forslag nr. 1, fra Arbeiderpartiet, Senterpartiet og Sosialistisk Venstreparti.
+«Stortinget ber regjeringen tilrettelegge for et samarbeid med kommunene som sikrer at det tas bredere samfunnshensyn enn de som følger av et inntjeningsbehov alene.»
+Miljøpartiet De Grønne og Rødt har varslet støtte til forslaget.
+Under debatten har Kari Henriksen satt frem et forslag på vegne av Arbeiderpartiet og Sosialistisk Venstreparti.
+Forslaget lyder:
+«Stortinget ber regjeringen utrede og komme tilbake til Stortinget med forslag til nødvendige lovendringer for å sikre at ulike organisasjoner – herunder særlig ulike tros- og livssynssamfunn – ikke på lovlig vis kan drive omfattende og lukkede undervisningsopplegg med overnatting over lengre tid, som for eksempel koranskole, som kan innebære segregering, negativ sosial kontroll eller ha andre skadelige konsekvenser for barn under alibiet fritidstilbud.»
+Det voteres alternativt mellom dette forslaget og komiteens innstilling.
+Miljøpartiet De Grønne og Rødt har varslet støtte til forslaget.
+Komiteen hadde innstilt til Stortinget å gjøre følgende
+Sakene nr. 5–13 er andre gangs behandling av lovsaker og gjelder lovvedtakene 68–76.
+Det foreligger ingen forslag til anmerkning til noen av disse sakene.
+Stortingets lovvedtak er dermed bifalt ved andre gangs behandling og blir å sende Kongen i overensstemmelse med Grunnloven.
+Dermed er dagens kart ferdigbehandlet.
+Forlanger noen ordet før møtet heves?
+– Så synes ikke, og møtet er hevet.

@@ -1,0 +1,950 @@
+Det foreligger to permisjonssøknader:
+ fra Høyres stortingsgruppe om permisjon for representanten Ove Trellevik i tiden fra og med 19. februar til og med 22. februar for å delta i høringer i FN med Den interparlamentariske union i New York
+ fra Senterpartiets stortingsgruppe om permisjon for representanten Liv Signe Navarsete om permisjon i dagene 19. og 20. februar for å delta i møte i NATOs parlamentariske forsamling i Brussel
+Etter forslag fra presidenten ble enstemmig besluttet:
+Søknadene behandles straks og innvilges.
+Følgende vararepresentanter innkalles for å møte i permisjonstiden slik:
+For Hordaland fylke:
+ Sigurd Hille 19.–20. februar
+For Sogn og Fjordane fylke:
+ Steinar Ness 19.–20. februar
+Representanten Solfrid Lerbrekk vil fremsette et representantforslag.
+Eg vil på vegner av representantane Arne Nævra, Karin Andersen, Sheida Sangtarash, Freddy André Øvstegård, Torgeir Knag Fylkesnes, Audun Lysbakken og meg sjølv framsetja eit forslag om tryggleik, verdigheit og skikkeleg hjelp for folk som treng arbeidsavklaringspengar.
+Forslaget vil bli behandlet på reglementsmessig måte.
+Jeg viser til min redegjørelse i Stortinget 30. januar 2018 om tilgangsstyring og informasjonssikkerhet i Helse Sør-Øst.
+Jeg takker for muligheten til nå å holde en ny samlet redegjørelse om arbeidet innen IKT-området i denne regionen.
+I rapporten om Riksrevisjonens kontroll med forvaltningen av statlige selskaper i 2017 omtales to saker som angår IKT-utviklingen i Helse Sør-Øst spesielt.
+Rapporten ble lagt fram 6. november i fjor.
+Under punktet om resultater av den årlige kontrollen har Riksrevisjonen vurdert arbeidet som tidligere ble omtalt som Digital fornying, og som var den samlede planen for regionens arbeid innen IKT-området.
+Riksrevisjonen har videre gjennomført en egen forvaltningskontroll av Helse Sør-Østs gjennomføring av det regionale radiologiprogrammet RIS/PACS.
+Dette var et delprogram under Digital fornying.
+Jeg vil i min redegjørelse komme inn på begge disse undersøkelsene.
+Videre vil jeg bl.a. kommentere arbeidet med moderniseringen av IKT-infrastrukturen i Helse Sør-Øst, som var bakgrunnen for min redegjørelse i januar 2018.
+Jeg vil først kommentere Riksrevisjonens årlige selskapskontroll for 2017, hvor de spesielt så på arbeidet med Digital fornying i Helse Sør-Øst.
+I oktober 2012 behandlet styret i Helse Sør-Øst forslag til IKT-strategi og handlingsplan – et fornyingsprogram for standardisering og teknologiske løsninger, omtalt som Digital fornying.
+Helse Sør-Øst igangsatte programmet i 2013.
+Flere av løsningene som var omfattet, var imidlertid påbegynt før 2013, og økonomivurderingene for IKT-prosjektene strekker seg tilbake til 2010.
+Navnet Digital fornying benyttes ikke lenger for dette arbeidet.
+Navnet kan gi inntrykk av at dette er ett prosjekt for en avgrenset periode som skal avsluttes.
+Det er ikke tilfellet.
+Helse Sør-Øst vil til enhver tid ha en rekke store, pågående IKT-prosjekter.
+Dette er nødvendig for å møte helseforetakenes behov for IKT-løsninger som skal understøtte god behandling, pasientsikkerhet, kvalitet og informasjonssikkerhet.
+Alt dette utviklingsarbeidet ble en periode samlet under paraplyen Digital fornying.
+Digitalisering av helsesektoren har ført til endringer i måten de ulike aktørene samarbeider på.
+Digitalisering krever at den utøvende helsetjenesten må samarbeide om behandling av helseopplysninger og om valg av digitale løsninger på en annen måte enn tidligere.
+Dette og den teknologiske utviklingen gjør at det er behov for å gjøre endringer og tilpasninger i det løpende arbeidet med IKT-prosjektporteføljen.
+Etter at Helse Sør-Øst har vurdert planene for IKT-arbeidet i regionen på nytt og gjennomført en replanlegging, er det klart at de opprinnelige programmene og tidsplanene ikke lenger er en hensiktsmessig referanse for deres arbeid.
+Samtidig har det også kommet til flere nye prosjekter som påvirker totalbildet.
+Riksrevisjonen skriver i sin rapport fra selskapskontrollen for 2017 at målene som ble satt for Digital fornying, ikke er nådd, og at det ikke er noe klart bilde av sluttkostnaden.
+Riksrevisjonen mener at det er departementets ansvar å følge opp at de fastsatte målene blir nådd.
+Riksrevisjonen uttrykker også at Stortinget burde ha fått en samlet orientering om status for Helse Sør-Østs arbeid innen IKT-området.
+Jeg er derfor glad for at jeg nå har fått anledning til å gi en slik samlet redegjørelse for Stortinget, og med dette også en mulighet til å rette opp noen misforståelser og påstander som har kommet i sakens anledning.
+Riksrevisjonen har i sin rapport fokusert på differansen mellom en planlagt kostnad på 5,5 mrd. kr og en realisert kostnad på 6,2 mrd. kr.
+Tallene er imidlertid ikke direkte sammenlignbare.
+Tallet på 5,5 mrd. kr er hentet fra den økonomiske langtidsplanen for IKT-investeringer i Helse Sør-Øst i perioden 2014–2017.
+6,2 mrd. kr er de faktiske investeringer og driftskostnader i perioden 2010–2017.
+Her sammenliknes altså to ulike tidsperioder, og tall for investeringer sammenliknes mot tall for både drift og investeringer.
+Riksrevisor uttalte til NTB tirsdag 6. november 2018 at man ennå ikke kunne se noen «dokumenterte effekter» av programmet, som hadde en stipulert kostnad på 5,5 mrd. IKT-kroner.
+Dette er misvisende og uheldig.
+Heldigvis har enkelte journalister sett at dette var å trekke konklusjonen for langt, bl.a. i en kommentar i Aftenposten 12. november 2018.
+Under paraplyen Digital fornying, eller regionens arbeid innen IKT-området, har Helse Sør-Øst gjennomført en rekke vellykkede og viktige IKT-prosjekter.
+DIPS er innført som pasientjournal i alle helseforetak i regionen, både innen somatikk og psykisk helsevern.
+I tillegg er alle journalløsninger standardisert, slik at de bl.a. har samme oppsett og automatisert tilgangsstyring.
+Dette legger til rette for et pågående prosjekt som omhandler innsynsløsning mellom DIPS-installasjonene i regionen.
+Løsningen innebærer at en lege som f.eks. behandler en kreftpasient ved Sykehuset Østfold, kan lese journaldokumenter fra pasientens opphold ved Radiumhospitalet.
+Løsningen gir leger mulighet til å søke opp alle dokumenter som finnes på en pasient i de ulike helseforetakene i regionen.
+Løsningen vil være enkel i bruk, siden alle dokumenter er standardisert på samme måte i alle DIPS-installasjonene i regionen, og legen kan ut fra en oversikt velge ut de journaldokumentene det er aktuelt å lese.
+Dette er et viktig skritt på veien mot «Én innbygger – én journal».
+E-resept og kjernejournal er innført i alle helseforetak.
+Regional økonomi- og logistikkløsning er innført ved Akershus universitetssykehus, Sykehuset Østfold, Sykehuset i Vestfold, Sykehuset Telemark, Sunnaas sykehus, Vestre Viken, Sykehuspartner og Helse Sør-Øst RHF.
+Elektronisk kurve- og medikasjonsløsning er innført ved Akershus universitetssykehus, Oslo universitetssykehus, Sykehuset Østfold og Sykehuset Telemark.
+Ved Sykehuset Østfold er det innført såkalt lukket legemiddelsløyfe.
+Dette innebærer at helsepersonellet har elektronisk oversikt over hvilket medikament som er gitt til hvilken pasient, av hvilken helsearbeider og på hvilket tidspunkt.
+Dette har resultert i en klar nedgang i antall legemiddelfeil ved helseforetaket.
+Regional løsning for medikamentell kreftbehandling er tatt i bruk ved Sykehusapotekene, Oslo universitetssykehus, Sykehuset i Vestfold, Sykehuset Østfold, Vestre Viken og Sørlandet sykehus.
+Som ledd i løsningen er det etablert et regionalt kurbibliotek som inneholder en oversikt over alle kurer som blir gitt til pasienter med kreft.
+Kurbiblioteket ajourføres hver gang nye kreftmedisiner tas i bruk, og ansvaret for dette er lagt til Oslo universitetssykehus.
+På den måten legger den elektroniske løsningen til rette for både likeverdige og desentraliserte helsetjenester ved at alle pasienter i regionen er sikret lik behandling for samme kreftform uavhengig av hvilket sykehus behandlingen blir gitt ved.
+Elektronisk fødejournal er innført som standardisert løsning for alle helseforetakene i regionen.
+Det er med andre ord en lang liste over omfattende, viktige og vellykkede IKT-prosjekter i Helse Sør-Øst.
+Samtidig er det velkjent at det har vært problemer med gjennomføringen av andre viktige prosjekter.
+Jeg vil nå kommentere noen av disse, og jeg vil starte med Riksrevisjonens kontroll med forvaltningen av statlige selskaper i 2017 og deres undersøkelse av gjennomføringen av regionalt radiologiprogram i Helse Sør-Øst.
+Målet med regionalt radiologiprogram var å innføre en felles radiologiløsning i regionen.
+Styret i Helse Sør-Øst stoppet innføringen i februar 2018 og avbestilte ytterligere leveranse.
+Prosjektet ble stoppet som følge av erfaringene fra pilotprosjektet ved Sykehuset Innlandet og det faktum at de ikke lyktes med å etablere en regional løsning.
+Riksrevisjonen viser i den nevnte rapporten til at arbeidet med en felles radiologiløsning for helseforetakene i regionen har pågått i syv år, med betydelig ressursbruk og økonomiske tap.
+Videre påpekes det at det er kritikkverdig at Helse Sør-Øst ikke klarte å tydeliggjøre hvilken løsning sykehusene hadde behov for, eller å kvalitetssikre tilbudene godt nok.
+Riksrevisjonen mener at det er sterkt kritikkverdig at arbeidet med felles radiologiprogram ikke ble styrt etter nytte og risiko, og at styrende organer ikke forvaltet styringsmyndigheten sin på en målrettet og god måte.
+De mener videre at oppdragsgiveren ikke har fulgt opp leverandøren godt nok.
+Helse Sør-Øst har hatt betydelige økonomiske tap knyttet til prosjektet.
+I regnskapet for 2017 er det bokført et tap knyttet til radiologiløsningen på 114 mill. kr.
+Det er ikke forventet ytterligere tap i forbindelse med regnskapsavleggelsen for 2018.
+Sykehuset Innlandet er kompensert for deler av den merkostnaden helseforetaket hadde knyttet til innføring av løsningen.
+Det bokførte tapet på 114 mill. kr er ikke belastet Sykehuset Innlandet, men tatt som et tap i regnskapet til Helse Sør-Øst.
+Riksrevisjonen mener at arbeidet med radiologiløsningen kunne gi grunn til bekymring for pasientsikkerheten.
+Dette er Helse Sør-Øst enig i, men har også gitt uttrykk for at det er viktig å skille mellom uønskede hendelser og brudd på pasientsikkerheten.
+Ved melding om avvik eller uønskede hendelser skal det settes inn tiltak og gjøres endringer for å sikre forsvarlig behandling, og det skal forebygges at hendelser oppstår på nytt.
+Dette er innarbeidet i avvikssystemet.
+Ifølge Helse Sør-Øst har Sykehuset Innlandet, basert på avviksmeldinger, satt inn flere tiltak for å ivareta pasientsikkerheten og gi forsvarlig helsehjelp.
+Det har vært behov for mange manuelle kontrollrutiner og risikoreduserende tiltak.
+I tillegg har det vært behov for å gjennomgå store serier med røntgensvar for å kontrollere feil i overføring mellom radiologisystemet og pasientjournalsystemet.
+Helseforetaket har med andre ord iverksatt ekstraordinære tiltak for å sikre pasientsikkerheten.
+Styret i Helse Sør-Øst vurderte som nevnt at det ikke var tilrådelig å gå videre med prosjektet.
+Dette har Helse Sør-Øst tatt lærdom av, og bl.a. gjort endringer i organiseringen av IKT-prosjekt i regionen.
+Styret besluttet videre at Oslo universitetssykehus skulle få i oppdrag å anskaffe en radiologiløsning som dekker helseforetakets behov, samtidig som avtalen skulle kunne benyttes av de øvrige helseforetakene i regionen.
+Sykehuset Innlandet og de andre helseforetakene i regionen deltar i arbeidet som nå ledes av Oslo universitetssykehus.
+Senere i redegjørelsen vil jeg komme tilbake til tiltak som Helse Sør-Øst har iverksatt på bakgrunn av erfaringer med dette programmet.
+Jeg vil nå kommentere arbeidet med å modernisere IKT-infrastrukturen i Helse Sør-Øst.
+I denne forbindelse vil jeg minne om bakgrunnen for prosjektet.
+Helse Sør-Øst har en lite ensartet IKT-infrastruktur, og deler av denne representerer en utfordring med hensyn til informasjonssikkerhet.
+Fusjonen mellom Helse Sør og Helse Øst i 2007 økte kompleksiteten i arbeidet med å utvikle felles regionale IKT-løsninger og infrastruktur.
+Fusjonen medførte ifølge Helse Sør-Øst at man, bl.a. som følge av lov om offentlige anskaffelser, på enkelte områder måtte starte på nytt med å utvikle enhetlige IKT-løsninger og infrastruktur.
+De har derfor over flere år arbeidet for å konsolidere og modernisere IKT-infrastrukturen i helseforetakene.
+Styret i Helse Sør-Øst besluttet i styremøte i september 2016 at infrastrukturmoderniseringen skulle skje i samarbeid med en ekstern leverandør.
+Styret besluttet også at Sykehuspartner, som er Helse Sør-Østs felles IKT-tjenesteleverandør, skulle inngå kontrakt med den mest fordelaktige leverandøren.
+Det ble etter dette inngått kontrakt med det aktuelle selskapet.
+Det ble samtidig lagt til grunn at deler av Sykehuspartner skulle virksomhetsoverføres til den eksterne leverandøren.
+Min redegjørelse 30. januar 2018 fokuserte hovedsakelig på den svikten i tilgangsstyringen som ble avdekket i Sykehuspartners arbeid med modernisering av helseregionens IKT-infrastruktur.
+Av redegjørelsen gikk det fram at styret i Helse Sør-Øst i mai 2017 besluttet å stille moderniseringsprogrammet i bero.
+Beslutningen var basert på en foreløpig rapport fra foretakets revisor, PwC.
+Endelig rapport ble lagt fram 22. juni 2017.
+Denne bekreftet svikt i de forberedelsene som ble gjort for å overføre drift til den private leverandøren.
+PwCs gjennomgang viste at det hadde vært svikt både i tilgangsstyringen og i risikovurderingene.
+Samtidig slo PwC fast at det var lite sannsynlig at de aktuelle tilgangene som ble gitt, faktisk hadde blitt benyttet til å hente ut sensitive pasientopplysninger.
+Et viktig forhold å feste seg ved var at PwC i sin gjennomgang bekreftet behovet for en modernisering av IKT-infrastrukturen.
+Styret i Helse Sør-Øst behandlet i juni 2018 saken om det videre arbeidet med moderniseringen av IKT-infrastrukturen i regionen.
+Etter en samlet vurdering besluttet styret at kontrakten med selskapet DXC om standardisering og modernisering av IKT-infrastrukturen skulle avbestilles.
+Videre besluttet styret at driften av IKT-infrastrukturen ikke skulle settes ut til en
+ ekstern leverandør.
+Avviklingen av avtalen med DXC har hatt økonomiske konsekvenser for Helse Sør-Øst.
+I regnskapet for 2017 er det et bokført tap knyttet til avtalen med DXC på totalt 112 mill. kr.
+I oktober 2018 behandlet styret i Helse Sør-Øst det endelige oppgjøret for avbestilling av tjenesteavtalen mellom Sykehuspartner og DXC.
+Det går fram av styrevedtaket at det som en del av avslutningsoppgjøret er gjort et kjøp av maskin- og programvarer til 141,4 mill. kr, eksklusiv merverdiavgift.
+I tillegg kommer 10,2 mill. kr til forhåndsbetalt vedlikehold og support av dette utstyret.
+Disse beløpene er knyttet til utstyr som forventes å bli brukt videre, og er derfor ikke å betrakte som et tap.
+Utover dette er det betalt ca. 60 mill. kr til DXC som kompensasjon for påløpte kostnader hos DXC og deres underleverandører.
+Det vil bli framlagt en oversikt over samlet tap i forbindelse med regnskapsavleggelsen for 2018.
+Det pågår en vurdering av hvor mye av de gjenstående verdiene som kan gjenbrukes.
+På nåværende tidspunkt er det balanseført 142 mill. kr.
+I min redegjørelse for Stortinget 30. januar 2018 viste jeg til at det i Norge er bred enighet om at befolkningen skal ha tilgang til offentlig finansierte helsetjenester av høy kvalitet, og at dette krever at vi aktivt bruker ny teknologi for å understøtte tjenestene.
+Da må vi vurdere å ta i bruk de fremste metoder og teknologier i verden, og også forholde oss til at mye av teknologiutviklingen skjer i andre land enn i Norge.
+På bakgrunn av saken med mangelfull tilgangsstyring i Helse Sør-Øst fikk Direktoratet for e-helse i oppdrag å utarbeide en god og felles forståelse av hva som skal til for å sikre trygg og riktig bruk av både nasjonale og internasjonale leverandører.
+Direktoratet leverte en rapport om dette, som har blitt et viktig dokument for sektoren.
+Direktoratets rapport bekreftet at helse- og omsorgssektoren er avhengig av private IKT-leverandører, både nasjonale og internasjonale.
+Ansatte hos disse leverandørene må nødvendigvis få en viss tilgang til våre systemer for å installere og vedlikeholde både medisinsk-teknisk utstyr og programvare.
+Det må imidlertid alltid foreligge egnede risikovurderinger og databehandleravtaler for å ivareta nødvendig informasjonssikkerhet.
+Dette er spesielt viktig ved bruk av eksterne leverandører.
+I felles foretaksmøte med de regionale helseforetakene i januar 2018 ba jeg om at anbefalingene i rapporten fra Direktoratet for e-helse ble lagt til grunn i det videre arbeidet med informasjonssikkerhet.
+Jeg ba også Helse Sør-Øst om å legge særlig vekt på rapporten i sitt videre arbeid med å sikre nødvendig modernisering av IKT-infrastrukturen i sin region.
+Jeg viste i min redegjørelse i januar 2018 til datainnbruddet mot Helse Sør-Øst i januar 2018.
+Helse Sør-Øst ble utsatt for et omfattende datainnbrudd fra en avansert og profesjonell aktør.
+Saken ble politianmeldt, og PST innledet etterforskning om mulig brudd på straffelovens § 121.
+Bestemmelsen rammer ulovlig etterretningsvirksomhet som kan skade grunnleggende nasjonale interesser knyttet til samfunnets infrastruktur, som helseberedskapen i Norge.
+PST henla saken i desember 2018 på grunn av manglende opplysninger om hvem som sto bak innbruddet.
+Etterforskningen viste kompromittering av en server i ekstern sone.
+Det vil si at denne har vært tilgjengelig via internett, hvilket også var hensikten, da dette var en tjeneste rettet mot publikum.
+Konklusjonen etter PSTs etterforskning er i tråd med analysen som er gjort av Sykehuspartner.
+Sårbarhet i tjenesten rettet mot publikum ga trusselaktøren mulighet til å utføre kommandoer på operativsystemet på serveren, og derfra etablere et fotfeste for videre aktivitet.
+Gjerningspersonen har deretter tatt seg ulovlig videre til intern sone og skaffet seg administratortilgang.
+Denne tilgangen kunne ha blitt brukt til å stjele pasientopplysninger og forskningsdata.
+PST har opplyst at de, basert på sin etterforskning, ikke kan fastslå om slike opplysninger er stjålet eller ikke.
+De har samtidig heller ingen indikasjoner på at slike opplysninger har kommet på avveier.
+Helse Sør-Øst har opplyst at både Sykehuspartner og senter for informasjonssikkerhet i Norsk Helsenett, HelseCERT, har undersøkt datatrafikken i en lengre periode enn det PST har gjort, og at de heller ikke har funnet noen indikasjoner på at pasientopplysninger er tatt ut eller på annen måte misbrukt.
+I forkant av angrepet hadde Helse Sør-Øst besluttet at Sykehuspartners innbruddsdeteksjonssystem skulle etableres ved alle helseforetakene i regionen, et arbeid som i all hovedsak var fullført før angrepet mot Helse Sør-Øst.
+Systemet har vært viktig i både hendelseshåndteringen og etterforskningen, og har gitt så vel Sykehuspartner, HelseCERT og PST god innsikt i nettverkstrafikken før, under og etter angrepet.
+PST viser i sin pressemelding til at norske virksomheter må utvikle en god sikkerhetskultur, gjennomføre verdivurderinger og implementere nødvendige sikkerhetstiltak for å sikre sine datanettverk.
+Helse Sør-Øst legger vekt på at de gjennom Sykehuspartner, og i samarbeid med helseforetakene i regionen, har hatt en ekstra oppmerksomhet på dette fra våren 2017.
+Samtidig samarbeider helseregionene om erfaringsoverføring for å skape god sikkerhetskultur og kompetanse for å forebygge, avdekke og iverksette skadereduserende tiltak mot uautorisert tilgang til deres datanettverk.
+Direktoratet for e-helse og Norsk Helsenett deltar også i dette arbeidet.
+Sykehuspartner har også etablert et eget program for å styrke tilgangsstyringen og få bedre informasjonssikkerhet og personvern.
+I 2018 er det innenfor dette programmet prioritert tiltak for å styrke Sykehuspartners evne til å stå imot, oppdage og respondere på dataangrep.
+Både Sykehuspartner og Helse Sør-Øst gjennomfører også en intern evaluering av hendelsen.
+Jeg oppfatter det som naturlig at PSTs undersøkelser og evalueringsrapport fra Helsedirektoratet, samt Helse Sør-Østs egen evaluering, legges til grunn for videre arbeid i alle helseregioner.
+Departementet tok initiativ til et møte med berørte aktører i slutten av januar hvor dette var et tema.
+Overgangen fra en papirbasert til en digitalisert helse- og omsorgstjeneste endrer hvordan vi tilnærmer oss kravene til informasjonssikkerhet og behandling av helseopplysninger.
+Pasientjournalloven fra 2014 er en viktig del av dette skiftet.
+Gjennom EUs personvernforordning, GDPR, går vi ytterligere et skritt videre.
+I Helse Sør-Øst er det lagt ned mye arbeid med å implementere kravene som følger av personvernforordningen.
+Dette omfatter både personvern generelt og informasjonssikkerhet.
+Styringssystemet er gjennomgått og oppdatert regionalt, og alle helseforetakene har etablert personvernombud.
+Konsernrevisjonen i Helse Sør-Øst har nylig gjennomført en kartlegging av status i regionen.
+Arbeidet for å oppfylle kravene etter personvernforordningen er imidlertid en kontinuerlig prosess.
+Tiltakene har samlet hatt stor betydning for sikkerhetskulturen i regionen.
+Personvern og informasjonssikkerhet er nå en integrert del av alle relevante beslutningsprosesser.
+Riksrevisjonen skriver i sin rapport at det er departementets ansvar å følge opp at målene som er fastsatt, nås, og merker seg videre at Helse Sør-Øst ønsker tettere styring og oppfølging.
+Når det gjelder Riksrevisjonens henvisning til at Helse Sør-Øst ønsker tettere styring og oppfølging, har Helse Sør-Øst oppgitt at dette var et uttrykk for at de selv vil ha en tettere oppfølging av Sykehuspartner og arbeidet med regionale IKT-prosjekter.
+Her har Helse Sør-Øst allerede iverksatt flere organisatoriske og styringsmessige endringer for nettopp å svare på dette.
+Jeg setter overordnede rammer for driften av spesialisthelsetjenesten gjennom mine krav til de regionale helseforetakene, bl.a. gjennom vedtak i foretaksmøtene.
+De regionale IKT-prosjektene, herunder det tidligere programmet Digital fornying, er imidlertid en del av det regionale helseforetakets ansvar for å yte forsvarlige helsetjenester til befolkningen.
+Jeg har tatt en rekke initiativ knyttet til å styrke arbeidet med informasjonssikkerhet i helsesektoren, både i forbindelse med utfordringene ved moderniseringsprogrammet i Helse Sør-Øst i fjor, og etter datainnbruddet i januar 2018.
+Blant annet har jeg styrket styret i Helse Sør-Øst med kompetanse på informasjonssikkerhet.
+Jeg har forsikret meg om at Helse Sør Øst har delt sine erfaringer fra datainnbruddet med de øvrige helseregionene, for på den måten å sikre kunnskapsoverføring og bidra til en styrket beredskap i sektoren.
+Dette har blitt fulgt opp systematisk gjennom jevnlige møter mellom regionenes informasjonssikkerhetsledere.
+Jeg har ved flere anledninger tatt opp utfordringene knyttet til informasjonssikkerhet med ledelsen i helseforetakene, senest i et møte med alle sykehusdirektørene og direktørene for de regionale helseforetakene i november 2018.
+Her viste jeg til at det er særlig behov for tiltak for å redusere risiko og kompleksitet i IKT-prosjektene og å sikre riktig organisering.
+Jeg har tidligere nevnt krav stilt i foretaksmøtet i januar 2018.
+I foretaksmøtet nå i januar 2019 stilte jeg krav om å følge opp Riksrevisjonens funn og merknader.
+Dette innebærer bl.a. at Helse Sør-Øst skal rapportere til departementet fra arbeidet med oppfølgingen.
+I forbindelse med reorganiseringen av styring og oppfølging av større IKT-prosjekter har Helse Sør-Øst iverksatt flere tiltak.
+Det ble i mai og juni 2017 foretatt endringer i den administrative ledelsen både i Sykehuspartner og i Helse Sør-Øst, og hele styret i Sykehuspartner ble byttet ut.
+Det er ellers iverksatt ny organisering av teknologiområdet og e-helseområdet i regionen.
+De endringene som er iverksatt, skal bl.a. bidra til tydeliggjøring av roller og ansvar, og ansvaret er lagt i den ordinære linjen.
+Endringene skal sikre at helseforetakene blir bedre involvert, og at beslutninger blir bedre forankret både i helseforetakene og i ledelsen i de regionale helseforetakene.
+Fra og med tertialrapporten for 1. kvartal 2018 er rapporteringen i Helse Sør-Øst endret slik at det skal rapporteres til styret på hvert styrevedtatt prosjekt.
+På denne måten ønsker Helse Sør-Øst å få tydeliggjort utfordringene knyttet til gjennomføringen av de enkelte prosjektene i IKT-porteføljen.
+Dette vil også sette styret i bedre stand til følge opp de prosjektene de selv har vedtatt.
+Det er oppmerksomhet på avviksrapportering med beskrivelse av tiltak for å lukke påviste avvik.
+Riksrevisjonens undersøkelse av innføring av regional radiologiløsning peker på flere kritikkverdige punkter knyttet til organisatoriske forhold.
+Dette prosjektet er, som tidligere nevnt, stoppet, og Helse Sør-Øst har endret sin strategi.
+Helse Sør-Øst vil endre måten anskaffelser gjennomføres på.
+Dette innebærer bl.a. at det som hovedregel skal være en intern forhandlingsleder.
+Det skal legges større vekt på erfaring med tidligere anskaffelser og større bevissthet om å ivareta ulike behov i regionen.
+Leverandørstyringen skal styrkes.
+Helse Sør-Øst har dessuten styrket sin juridiske kapasitet og kompetanse innenfor avtaleområdet og vil koble denne kompetansen tettere på leverandørstyringen.
+IKT-prosjekter er omfattende og komplekse.
+Løsningene skal integreres med mange ulike systemer og griper inn i arbeidsprosesser i forskjellige deler av organisasjonen.
+IKT-prosjekter er derfor forbundet med høy risiko, men det er samtidig viktig å påpeke at det også er en betydelig risiko forbundet med det å ikke videreutvikle og modernisere IKT-løsningene.
+I denne gjennomgangen av IKT-området i Helse Sør-Øst vil jeg også nevne IKT-hendelsen fredag 18. januar i år, der en feil hos Sykehuspartner førte til at pasientjournalsystemet DIPS var nede eller ustabilt ved helseforetakene i Helse Sør-Øst.
+Alle helseforetakene i regionen med akuttbehandling av pasienter gikk i beredskap samme ettermiddag/kveld.
+Manuelle rutiner ble benyttet ved alle helseforetakene.
+Det ble ikke rapportert om fare for pasientbehandlingen.
+Sykehuspartner fikk systemene i helseforetakene tilbake i normal funksjon utover fredag kveld.
+Helseforetakene gikk av den grunn over i normal drift og avsluttet beredskapen suksessivt utover kvelden denne fredagen, 18. januar.
+Feilen ble rettet natt til mandag 21. januar, og samme ettermiddag gikk Sykehuspartner ut av beredskap og var tilbake i normal drift.
+Det er ikke funnet noen indikasjon på datainnbrudd.
+Sykehuspartner er i henhold til etablerte rutiner i ferd med å evaluere hendelsen og vil på bakgrunn av dette vurdere å implementere tiltak som reduserer risikoen for tilsvarende hendelser.
+Hendelser som dette understreker viktigheten av at det arbeides med å modernisere IKT-infrastrukturen i Helse Sør-Øst og å få på plass gode og sikre IKT-tjenester for å redusere risikoen for driftsavbrudd på viktige pasientsystemer.
+Hendelsen viser også at det er risiko forbundet med drift av IKT-tjenester, og at helseforetakene i regionen har gode manuelle rutiner når IKT-hendelser oppstår.
+Vi må være forberedt på at slike hendelser vil kunne skje også i framtiden, men Helse Sør-Øst vil være mer robust i møte med disse når de har fått på plass en modernisert IKT-infrastruktur.
+Det er viktig at helseforetakene har en åpenhet rundt sin håndtering av informasjonssikkerhet, også knyttet til medisinsk-teknisk utstyr, og at det rutinemessig meldes fra til Datatilsynet når det skjer avvik.
+Dette er ikke uvanlig, og tilsynet vil relativt ofte ha slike saker til behandling.
+Det går fram av denne redegjørelsen at det har vært flere uheldige og krevende hendelser i Helse Sør-Øst innen IKT-området de siste årene.
+Det er viktig at sektoren lærer av disse.
+Parallelt med disse hendelsene har det skjedd endringer i våre omgivelser, både i den teknologiske utviklingen og i det internasjonale trusselbildet.
+Dette krever også tiltak for å sikre informasjonssikkerheten.
+Helse Sør-Øst har gjennomført flere tiltak for å redusere risiko og kompleksitet i sitt IKT-arbeid og vil fortsette dette arbeidet.
+Blant annet er ansvarslinjene presisert for å få en bedre forankring av beslutninger om IKT-prosjekter.
+Dette er i tråd med Riksrevisjonens anbefaling.
+For meg har det vært viktig å ha oppmerksomhet på trygge og sikre IKT-systemer i min overordnede eierstyring.
+Det pågår som kjent mange store og viktige IKT-prosjekter i alle helseregioner.
+Jeg vil prioritere å følge opp dette arbeidet i min styringsdialog, både med helseregionene, Direktoratet for e-helse og Norsk Helsenett.
+Jeg har derfor i felles foretaksmøte med de regionale helseforetakene nå i januar bedt helseregionene om å samarbeide gjennom erfaringsoverføring – dette for å skape god sikkerhetskultur og utvikle kompetanse for både å forebygge, avdekke og iverksette skadereduserende tiltak mot bl.a. uautorisert tilgang til sektorens datanettverk.
+Direktoratet for e- helse og Norsk Helsenett deltar også i dette arbeidet.
+Disse må i fellesskap bidra til å redusere risiko og kompleksitet i sektorens IKT-prosjekter og sikre riktig organisering med klare ansvarslinjer og ledelsesforankring.
+Jeg vil avslutningsvis nevne at Riksrevisjonen nå planlegger å gjennomføre en undersøkelse om helseforetakenes beskyttelse av sine IKT-systemer.
+Denne forventes å gi oss nyttig kunnskap for å forebygge og forsterke helseforetakenes forsvar mot nye dataangrep.
+Vi er generelt positive til Riksrevisjonens undersøkelser av vår sektor, og de danner ofte et godt grunnlag for ytterligere forbedring.
+Det har de også gjort i denne sammenheng.
+Presidenten vil nå, i henhold til Stortingets forretningsorden § 45, foreslå at det åpnes for en kort kommentarrunde begrenset til ett innlegg på inntil 5 minutter fra hver partigruppe og avsluttende innlegg fra statsråden.
+– Det anses vedtatt.
+Helseministeren bruker Stortingets talerstol til å gå i rette med Riksrevisjonen i en sak som er avgitt fra kontroll- og konstitusjonskomiteen, og hvor statsråden har hatt full anledning til å svare på den kritikken og de vurderingene som Riksrevisjonen har gjort.
+Jeg synes det er litt spesielt.
+Men til selve redegjørelsen:
+ Under denne helseministeren har vi dessverre hatt for mange av disse skandaleprosjektene i denne helseregionen.
+Det er derfor statsråden må komme til Stortinget og forklare seg igjen og igjen.
+Det har kostet Helse-Norge dyrt, og det skyldes for dårlige prosesser, manglende respekt for advarsler fra fagmiljøet og en åpenbar politisk ideologi der troen på outsourcing følger en klassisk høyrepolitisk logikk.
+Fasiten er tapte penger og tapt tillit.
+Statsråden ble advart mot risikoene da det var snakk om outsourcing, men avviste det og forklarte Stortinget at dette skulle frigi midler til pasientbehandling.
+Det motsatte skjedde.
+I tillegg kommer også den mislykkede anskaffelsen av radiologisystemer som statsråden redegjorde for.
+For Arbeiderpartiet er målet at pasienter ved norske sykehus skal være trygge på at behandlingen kommer raskt i gang, og at tjenesten skal gis i et planlagt og uavbrutt forløp.
+Helsetjenestens IKT-systemer er grunnleggende for å oppnå de målsettingene.
+Pasientinformasjonen må flyte på en måte som sikrer god og riktig behandling, og som ivaretar datasikkerheten.
+For trygg og sikker databehandling vet vi at tre ting er avgjørende:
+ Det er konfidensialitet – at dataene ikke kommer på avveier eller havner hos noen som ikke skal ha tilgang til dem.
+Det er integritet – at ingen uvedkommende kan bryte seg inn i systemene.
+Det er tilgjengelighet – at pasientinformasjon blir tilgjengelig i alle deler av tjenesten som har betydning for pasientens behandling og sikrer kvaliteten på behandlingen.
+Dessverre har IKT-skandalen i Helse Sør-Øst vist at dette ikke har vært godt ivaretatt, og også alle disse hendelsene som har foregått, det gjentar statsråden i sin redegjørelse.
+Den 8. januar 2018 ble Sykehuspartner varslet om at det pågikk unormal aktivitet i systemene i regionen.
+Helseforetaket mistenkte at profesjonelle sto bak, og PST og Kripos ble koblet inn.
+Uvedkommende har kunnet få tilgang til sensitive pasientdata om 2,8 millioner nordmenn som hører til i området Sør-Øst.
+Dermed har sensitiv informasjon kunnet komme på avveier, uvedkommende har kunnet kartlegge en infrastruktur som kunne ha blitt brukt til sabotasje og til å lamme deler av helsetjenesten.
+Dette må vi ta lærdom av.
+Avtalen fikk massiv kritikk da den ble inngått, fordi fagfolk og sikkerhetseksperter advarte om at en outsourcing til utenlandske aktører ville være en trussel mot pasientsikkerheten.
+Argumentene for og mot dette kan man diskutere.
+Men argumentene for å løse disse oppgavene i egen regi er veldig gode.
+Derfor bør man løse dette «in-house», som de andre helseregionene har gjort, og den konklusjonen kom styret i Helse Sør-Øst til i juni i fjor.
+«Vi må ha kontrollen med dataene i eget selskap.
+Vi kom fram til at informasjonssikkerheten ikke kunne bli godt nok ivaretatt ved å sette ut driften».
+Det sa styreleder Svein Gjedrem i Helse Sør-Øst i juni i fjor.
+Det viser at det er best å legge de ideologiske skylappene til side.
+At helseopplysningene til halve Norges befolkning ikke har vært trygge, rokker ved tilliten til helsetjenesten, og forsvarlig behandling av disse opplysningene er en kjerneoppgave for helsetjenesten vår.
+Det er statsrådens ansvar.
+Det er bra og nødvendig at det digitale fornyingsarbeidet i Helse Sør-Øst fortsetter med styrke og kontroll.
+Det trenger pasientene.
+Jeg vil til slutt foreslå at redegjørelsen blir oversendt komiteen.
+Først vil eg få takke ministeren for ei grundig utgreiing om arbeidet med IKT i Helse Sør-Aust.
+For å sikre effektivisering gjennom auka digitalisering av det norske samfunnet må IKT-løysingar og digitale tenester vere tilstrekkeleg sikre og ikkje minst pålitelege.
+Verksemder og privatpersonar må ha tillit til at system og nettverk fungerer slik dei skal, og varetek personvernet til den enkelte.
+God IKT-sikkerheit og evne til å handtere uønskte digitale hendingar er ein føresetnad for å oppnå denne tilliten.
+IKT-løysingar som skal understøtte god behandling, pasientsikkerheit, kvalitet og informasjonssikkerheit, er eit kontinuerleg arbeid.
+Helse Sør-Aust og dei andre regionane vil framover måtte ha ei rekkje store, pågåande IKT-prosjekt.
+Digitalisering av helsesektoren har ført til endringar i måten dei ulike aktørane samarbeider på, og teknologisk utvikling gjer at det er behov for dynamikk òg i dette arbeidet.
+Det er kjent at det har vore problem med gjennomføringa av enkelte viktige prosjekt.
+Samtidig er det ein realitet at Helse Sør-Aust i dag har gjennomført ei rekkje vellykka og riktige IKT-prosjekt.
+Tiltak for å redusere risiko og kompleksitet i IKT-prosjekta og å sikre riktig organisering er heilt vesentleg at blir følgde opp på ein god måte.
+Utfordringane i det digitale rommet er grenseoverskridande, på tvers av land, sektorar og verksemder, og denne utviklinga går svært fort.
+Det er veldig positivt at ministeren sette i gong ei utgreiing med mål om å få ei felles forståing av kva som skal til for å ha ein trygg og riktig bruk av både nasjonale og internasjonale leverandørar i helsetenesta.
+Det er ikkje eit motsetningsforhold mellom informasjonssikkerheit og tenesteutsetjing.
+Trygg outsourcing krev god bestillarkompetanse, og kvar enkelt verksemd er nøydd til å gjennomføre grundige risiko- og sårbarheitsvurderingar i kvart enkelt tilfelle ved eventuell utflytting av den typen tenester.
+Det er ei vesentleg oppgåve for regjeringa å sikre ei berekraftig helseteneste, og det krev at vi tek denne erfaringa vi har med Helse Sør-Aust, inn over oss og ser på alle sider av heilskapen her.
+Som representanten frå Arbeidarpartiet peikte på, må vi leggje dei ideologiske skylappane til side.
+Vi er nøydde til å ta ei heilskapleg vurdering.
+Vi er òg nøydde til å ta inn over oss at vi lever i ei internasjonal verd når det gjeld IKT, og det er vesentleg at vi legg forholda til rette for at våre pasientar kan dra nytte av den utviklinga som vi er avhengige av på dette området.
+Jeg vil takke helseministeren for en god redegjørelse om et viktig tema.
+Den digitale utviklingen har utrolig mange positive sider ved seg, men det er ingen tvil om at den også byr på utfordringer.
+Vi har hatt mange IKT-prosjekter i offentlig regi gjennom årene som har gått galt fordi man har undervurdert kompleksiteten i prosjektene.
+Man har heller ikke hatt den kompetansen som er nødvendig for å håndtere prosjektene, i mange av tilfellene.
+Det er viktig å understreke at det også finnes gode eksempler på prosjekter som er vellykket i Helse Sør-Øst, ikke minst DIPS, innført som pasientjournal i alle helseforetakene i regionen.
+Dette er et viktig skritt mot én innbygger – én journal.
+Men det er bekymringsfullt at det er mange eksempler på prosjekter som har gått galt, ikke minst da moderniseringsprogrammet skulle gjennomføres i samarbeid med en ekstern leverandør, og det ble avdekket svikt både i tilgangsstyringen og i risikovurderingene.
+Dette understreker nok en gang hvor viktig det er med god kompetanse i disse prosjektene.
+Vi vil i Norge være avhengig av å bruke private leverandører, både nasjonale og internasjonale, til IKT-prosjekter, også i offentlig sektor.
+Da må man trå varsomt og være bevisst de farene og utfordringene som kan oppstå gjennom dette.
+Det er derfor bra at Direktoratet for e-helse har jobbet med å utarbeide en god og felles forståelse av hva som skal til for å sikre trygg og riktig bruk av både nasjonale og internasjonale leverandører.
+Dette må følges opp i praksis i sektoren.
+Det må foreligge risikovurderinger og databehandleravtaler for å ivareta informasjonssikkerheten.
+Våre helseopplysninger er noe av det mest private vi har.
+Vi stiller krav til de aktørene som oppbevarer denne informasjonen om oss.
+I denne sammenheng er datainnbruddet i Helse Sør-Øst i 2018 svært alvorlig.
+Vi må kunne stole på at vår helsetjeneste, som i Norge i stor grad er i offentlige hender, er i stand til å beskytte oss mot krefter som potensielt er ute etter private opplysninger om oss.
+Det er ikke indikasjoner på at pasientopplysninger er tatt i bruk eller misbrukt, men det er svært alvorlig at tilgangen kunne ha blitt brukt til å stjele pasientopplysninger og forskningsdata.
+I Norge har vi ikke lenger råd til å være naive.
+IKT-sikkerheten er ekstremt viktig.
+Fremskrittspartiet er glad for at dette er noe som er høyt på agendaen til regjeringen.
+Det er veldig bra at helseministeren følger dette tett opp.
+PST understreker at vi må utvikle en god sikkerhetskultur, gjennomføre verdivurderinger og implementere nødvendige sikkerhetstiltak for å sikre våre datanettverk.
+Vi forventer at dette er noe helseministeren og resten av regjeringen følger opp, også i et langsiktig perspektiv.
+Fremskrittspartiet er glad for at Riksrevisjonen planlegger å gjennomføre en undersøkelse om helseforetakenes beskyttelse av sine IKT-systemer.
+Det handler bl.a. om hvordan de beskytter potensielt sensitive helseopplysninger om deg og meg.
+Det er viktig at befolkningen har tillit til at dette gjøres på en god måte, og jeg er glad for at regjeringen og helseministeren tar dette på alvor og følger det opp.
+Takk for utgreiinga.
+Eg må òg seia at eg synest det er litt spesielt at vi får ei utgreiing om ei sak som har vore til behandling i kontroll- og konstitusjonskomiteen, og som dei har lagt fram innstilling om.
+Eg støttar det som representanten Ingvild Kjerkol sa om å få denne saka send over til komité.
+Eg vil innleiingsvis seia at eg synest det er spesielt at statsråden tala i ein halvtime utan å nemna noko om sikkerheitslova.
+Stortinget vedtok for vel eit år sidan ei ny sikkerheitslov, og det som er eit tema i ho òg etterpå, er om IKT i helsevesenet skal definerast inn under sikkerheitslov om skjermingsverdig informasjon.
+I dag høyrer vi at statsråden viser til at det er ansvaret til helseføretaka, og at han må halda seg til det – han kan gjera litt i oppdragsdokumenta og i styringsdialogen sin, men dette er ansvaret til dei regionale helseføretaka.
+Det er sant, men det er ei veldig forenkling av heile dette området.
+Etter sikkerheitslova er det Helse- og omsorgsdepartementet som har ansvaret for førebyggjande sikkerheit i helse- og omsorgssektoren.
+I dag er dei regionale helseføretaka og helseføretaka definerte inn under sikkerheitslova.
+Det same gjeld Norsk Helsenett.
+Men avgjerda om IKT-infrastrukturen skal definerast inn under sikkerheitslova, er etter lova delegert til Helse- og omsorgsdepartementet.
+At ein i dag ikkje seier noko om det, synest eg er veldig oppsiktsvekkjande.
+Senterpartiet har saman med SV fremja forslag om akkurat dette, om å definera grunnleggjande IKT-infrastruktur i helsevesenet inn under sikkerheitslova.
+Eg har enno ikkje fått svar på om dette skal skje, når det skal skje, og i tilfelle kvifor ikkje.
+Eg meiner det er opplagt at ein del av svaret på alle desse skandaleprosjekta når det gjeld IKT, er at ein må få ei mykje tydelegare styring frå toppen.
+Da er sikkerheitslova ein fin plass å begynna, og det kan ikkje ein statsråd la vera å nemna når ein vel å koma til Stortinget for å gjera greie for denne situasjonen.
+Blant dei prosjekta som er nemnde, har vi radiologiprogrammet i Helse Sør-Aust, som har vore i gang i sju år.
+Det har vore betydeleg ressursbruk og økonomisk tap, og løysinga er ikkje god nok.
+Dette vart Stortinget informert om i 2013.
+No er vi i 2019.
+Ein stor kritikk frå Riksrevisjonen er at Stortinget ikkje har vorte informert undervegs.
+Vi har lese om ting i media, men vi har ikkje fått ei utgreiing frå statsråden.
+Det er bra at ho er komen no – etter seks år og etter at Riksrevisjonen har etterlyst ho.
+Men spørsmålet mitt er:
+ Kvifor i alle dagar har ein ikkje vorte informert om dette undervegs?
+Og kan vi ha tiltru til at Stortinget vert informert dersom det er andre liknande prosjekt?
+Det same opplevde vi i IKT-saka i Helse Sør-Aust, med den outsourcinga som skjedde.
+Vi i opposisjonen tok det opp fordi vi fekk mange bekymringsmeldingar, men bekymringane vart blankt avviste.
+Vi fekk inga skikkeleg utgreiing.
+Eg føler vi vart ikkje haldne oppdaterte nok, og så skjedde det som skjedde.
+Ei anna bekymring – utanom Helse Sør-Aust – er når vi ser på kva som no skjer i Helse Midt-Noreg med Helseplattforma, eit kjempeviktig prosjekt som skal sikra betre samhandling og pasientsikkerheit.
+Òg der får vi no bekymringsmeldingar – frå Abelia, som var på budsjetthøyringa vår sist haust.
+Det er stor risiko, meiner dei, det er stor fare for ikkje å utnytta konkurransen i marknaden.
+Det er stor fare knytt til anbodsprosessane.
+Eg forventar at ein statsråd tar ansvar for at ein hindrar nye milliardtap i dei mislykka anbodsprosessane til helseføretaka, og informerer Stortinget dersom nokre slike alvorlege ting er på gang – og ikkje mange år etterpå og ting eigentleg er avslutta.
+Dette var ei litt vrien sak å handtere.
+Eg sit i kontrollkomiteen og er saksordførar for nettopp saka om selskapskontrollen, som statsråden adresserer i innlegget sitt.
+Vi har nettopp lagt fram innstilling, den 29. januar gjorde vi det, og den saka har ikkje vore oppe til debatt i Stortinget enno.
+Eg opplever at statsråden i stor grad diskuterer med Riksrevisjonen i denne utgreiinga, mens det er den diskusjonen, Riksrevisjons-debatten, som vi har hatt i kontrollkomiteen, altså at Riksrevisjonen gjennom selskapskontrollen legg eit løp og er i dialog med departementet – løpande.
+Der har Helsedepartementet full moglegheit til, og har også nytta seg av, å ha nær dialog med Riksrevisjonen og kome med innspel til Riksrevisjonen sine konklusjonar.
+Det har også påverka Riksrevisjonen sine vurderingar.
+Så startar prosessen overfor Stortinget og i kontrollkomiteen, der det også har vore ein dialog med Helsedepartementet, og samla sett har vi kome med ei innstilling til Stortinget når det gjeld selskapskontroll.
+Derfor meiner eg det er spesielt at statsråden nyttar § 45 i forretningsordenen til å kome med ei utgreiing som går direkte inn i ei sak som vi framleis ikkje har behandla – og polemiserer med Riksrevisjonen, i form av ei utgreiing – ei utgreiing som skal leggjast ved protokollen og ikkje gå til komité, slik det er lagt opp til.
+Det er ein veldig uryddig prosess, men eg trur at vi kan kome oss ut av det ved at denne utgreiinga, som er omfattande – ein halv time med tettpakka informasjon, vanskeleg for Stortinget å ta stilling til – blir behandla i komité.
+Da vil eg anbefale at helsekomiteen tar det, ettersom det ikkje berre er kontrollkomiteen sin etterpåklokskap som blir adressert her, men også dagens situasjon, som heilt konkret er helsekomiteen sitt domene.
+Det var det problematiske.
+Det positive med utgreiinga er at dette faktisk er ei oppfølging av noko som ligg i innstillinga til kontrollkomiteen, der ein samla komité viser til:
+«Regjeringen har også et ansvar for å informere Stortinget når store prosjekter av denne typen møter vesentlige utfordringer.
+I denne saken har ikke regjeringen informert samlet etter høsten 2013, selv om mange utfordringer har oppstått i etterkant.
+Komiteen mener at regjeringen bør ta lærdom av dette, og ber om at Stortinget får seg forelagt en samlet statusoversikt.
+Komiteen ber videre om at regjeringen sørger for å holde Stortinget løpende og samlet orientert framover, dersom det skulle oppstå nye utfordringer.»
+Det adresserer på mange måtar det som representanten Toppe tar opp, at her er Stortinget opptatt av å vere godt informert.
+Ein måte å vere godt informert på er at helsekomiteen kan ettergå utgreiinga, stille spørsmål og få tid til å gå skikkeleg gjennom sakskomplekset.
+Da meiner eg at ein hadde fått ei ryddig behandling.
+Så blir det ei utfordring for presidentskapet å finne ut korleis ein skal ta stilling til denne typen situasjonar, der vi har ei sak gåande i komité, som ikkje har vore til behandling i Stortinget enno, men der statsrådar ved å bruke § 45 i forretningsordenen kjem og uttalar seg, har orientering om den aktuelle saka.
+Det er ein situasjon som eg ikkje har vore borti tidlegare.
+Så vil eg berre understreke alvoret i dette.
+Det er fleire store program i Helse Sør-Aust.
+Dei kostar kolossalt mykje, det er dokumentert store overskridingar, det er uklart om ein i det heile har kome i mål, ein veit ikkje når ein skal kome i mål, ein har ikkje hatt full kontroll på datalekkasjar, tilgangskontroll, dei spørsmåla der – veldig alvorleg, alle er einige i det – og pasientsikkerheita i spesielt radiologiprogrammet har lidd.
+Kontrollkomiteen meiner det har vore alvorleg svikt i pasientsikkerheita.
+Det er omgrep ein finjusterer i kontrollkomiteen, med utgangspunkt i Riksrevisjonen sine vurderingar, som viser litt av tyngda i saka.
+Det har vore ein kostnadsgalopp her som har vore ute av kontroll, som ein må få kontroll på.
+Eg meiner det absolutt er på sin plass at helsekomiteen får utgreiinga og får gjort ein grundig jobb, sånn at Stortinget har kontroll med både pasientsikkerheit, kostnadsoverskridingar og datalekkasjar.
+Jeg vil også benytte anledningen til å takke helseministeren for denne redegjørelsen.
+Som han peker på, har det vært flere uheldige og krevende hendelser i Helse Sør-Øst innen IKT-området de siste årene, og jeg er enig med statsråden i at det er viktig at sektoren tar lærdom av dette.
+Norge er kanskje et av verdens mest digitaliserte land.
+Vi har vært framoverlente og valgt å bruke digitale løsninger for å løse viktige samfunnsoppgaver, men det er helt klart at det også gjør oss sårbare.
+Nettopp derfor må sikkerhet settes i høysetet når man velger digitale løsninger.
+Her har man en del å gå på, det viser denne redegjørelsen, som handler om IKT-løsninger innenfor Helse Sør-Øst.
+Jeg er glad for at Helse Sør-Øst følger opp Riksrevisjonens anbefaling, bl.a. med å presisere ansvarslinjene for å få en bedre forankring av beslutninger om IKT-prosjekter.
+Det er kjempeviktig.
+Jeg er også glad for at Riksrevisjonen – og det er det flere som har gitt uttrykk for – nå planlegger å gjennomføre en undersøkelse om helseforetakenes beskyttelse av IKT-systemer.
+Den uroen som er skapt ved at man har pekt på datainnbrudd og pasientopplysninger på avveier – det er klart det er noe vi ikke kan leve med.
+I likhet med statsråden er jeg veldig positiv til at Riksrevisjonen gjennomfører slike undersøkelser for på den måten å gjøre denne sektoren enda bedre.
+Jeg er veldig glad for denne redegjørelsen, og jeg er opptatt av at vi ikke stopper med dette.
+Jeg har på vegne av regjeringspartiene lyst til å gi uttrykk for at vi ønsker det samme som representanten Kjerkol, at denne redegjørelsen blir oversendt til komiteen.
+Så vil komiteen kunne ta stilling til hvordan Stortinget skal behandle denne redegjørelsen videre.
+Vi støtter det forslaget, vi håper det kan bli tatt hensyn til, og at vi får tid i komiteen til å gå enda nøyere igjennom redegjørelsen og på det grunnlaget vurdere hvordan vi skal følge det videre opp.
+Men dette er jo ikke en sak som eventuelt stopper her.
+Når det gjelder IKT og valg av IKT-løsninger innenfor helsesektoren, vet vi at dette er et område vi kommer til å møte i flere omganger.
+Jeg har også bakgrunn fra kontrollkomiteen – det var riktig nok i min første periode, og det begynner å bli noen år siden – men da var det IKT-løsninger knyttet til valg av løsninger ved Oslo universitetssykehus som viste seg å være en løsning som ikke var mulig å gjennomføre.
+Vi har kastet bort store ressurser på å velge løsninger som ikke har fungert.
+Men vi må hele tiden tenke sikkerhet, vi må tenke på hvordan vi bruker offentlige ressurser på best mulig måte – hvordan sikrer vi at de IKT-løsningene som man velger, ivaretar ikke minst pasientsikkerheten?
+Jeg er ganske sikker på at dette er saker som denne komiteen kommer til å måtte jobbe med også i tiden framover.
+Vi støtter som sagt at dette oversendes komiteen, så får komiteen ta en vurdering av hvordan vi skal følge dette arbeidet videre opp.
+Takk for tilbakemeldingene.
+Jeg vil bare understreke at jeg ikke har gått i rette med Riksrevisjonens rapporter.
+Det jeg hadde behov for å understreke, var riksrevisorens kommunikasjon med media i forbindelse med framleggelsen av rapportene, som skapte et inntrykk av at en her hadde to sammenlignbare tall, som faktisk ikke er sammenlignbare, for de representerer både ulikt grunnlag og ulik tidsperiode.
+Disse tallene fikk mye oppmerksomhet, og det var viktig for meg å understreke at dette ikke er sammenlignbare tall.
+Når det gjelder Riksrevisjonens rapporter, tror jeg hele min redegjørelse – gjennomgående – viste på hvilket alvor Helse- og omsorgsdepartementet tar riksrevisjonsrapportene, og på hvilke måter vi følger dem opp.
+Avslutningsvis ga jeg også uttrykk for at vi er glade for den jobben Riksrevisjonen gjør, og at vi ser fram til den rapporten som Riksrevisjonen jobber med nå, og som også sannsynligvis kommer til å bli veldig nyttig for oss i arbeidet med den videre oppfølgingen.
+Jeg finner det litt underlig at en kritiserer at en får en helhetlig redegjørelse, noe det er blitt påpekt at vi burde gi Stortinget.
+Når en skal holde en helhetlig redegjørelse, vil det være litt vanskelig å ta ut én av riksrevisjonsrapportene som kontroll- og konstitusjonskomiteen har behandlet, for redegjørelsen omfatter jo flere rapporter fra Riksrevisjonen, bl.a. en som var oppe til behandling i Stortinget den 5. februar i år, der jeg sa at jeg ville komme tilbake med en helhetlig redegjørelse, noe jeg har gjort i dag.
+Det var ingen fra kontroll- og konstitusjonskomiteen som hadde negative kommentarer til det i den debatten.
+Jeg vil også understreke at når det skapes inntrykk av at Stortinget ikke er informert, er det ikke det som kommer fram i Riksrevisjonens rapporter.
+Det som kommer fram, er at Stortinget ikke har fått en samlet informasjon.
+Det er det jeg har prøvd å gi her i dag.
+Men Stortinget har blitt informert i ulike dokumenter, saker og redegjørelser gjennom denne perioden.
+Så til spørsmålet om sikkerhetsloven:
+ Jeg, som helse- og omsorgsminister, bestemte at helseregionene skal omfattes av sikkerhetsloven – de omfattes selvfølgelig også av den nye sikkerhetsloven.
+Arbeidet med å definere hvilke objekter som er skjermingsverdige, pågår nå.
+Det er helt riktig at det er Helse- og omsorgsdepartementet som etter den gjennomgangen vil fastsette hvilke objekter som er skjermingsverdige, men det er nok litt mer komplisert enn bare å si at all IKT-infrastruktur er skjermingsverdig.
+Dette handler om en konkret vurdering av konkrete objekter, og det ville vært veldig rart hvis Stortinget hadde sluttet seg til Senterpartiets forslag, som ville innebære at Stortinget gikk inn og besluttet hvilke objekter som er skjermingsverdige, når loven sier at det er Helse- og omsorgsdepartementet og de andre ansvarlige departementene som skal gjøre den typen vurderinger.
+Jeg ser fram til komiteens videre behandling av denne redegjørelsen.
+Jeg vil selvfølgelig også svare på de spørsmålene som komiteen eventuelt måtte ha i forbindelse med den behandlingen.
+Det var viktig å få gitt denne samlede redegjørelsen for hvordan vi vurderer situasjonsbildet nå.
+Det har vi nå gjort, og jeg ser som sagt fram til den videre behandlingen av saken.
+Debatten om redegjørelsen er dermed avsluttet.
+Presidenten vil på bakgrunn av det som er uttalt i debatten, foreslå at helseministerens redegjørelse om IKT-området i Helse Sør-Øst sendes til helse- og omsorgskomiteen, i henhold til forretningsordenen § 45 c.
+– Det anses vedtatt.
+Etter ønske fra helse- og omsorgskomiteen vil presidenten foreslå at sakene nr. 2 og 3 behandles under ett.
+– Det anses vedtatt.
+Etter ønske fra helse- og omsorgskomiteen vil presidenten foreslå at taletiden blir begrenset til 5 minutter til hver partigruppe og 5 minutter til medlemmer av regjeringen.
+Videre vil presidenten foreslå at det – innenfor den fordelte taletid – blir gitt anledning til fem replikker med svar etter innlegg fra medlemmer av regjeringen, og at de som måtte tegne seg på talerlisten utover den fordelte taletid, får en taletid på inntil 3 minutter.
+– Det anses vedtatt.
+Som saksordfører for Prop.
+3 L for 2018–2019 vil jeg først vise til formålet med lovforslaget:
+ å legge til rette for å kompensere leverandører av lovpålagte spesialisthelsetjenester og statlige barnevernstjenester for historiske pensjonskostnader og slik styrke rammevilkårene for ideelle tjenesteleverandører.
+Komiteen understreker viktigheten av vekst i andelen ideelle.
+Komiteen slutter seg til at pensjonsrettighetene blir værende i KLP, selv om Hippe-utvalget foreslo at Statens pensjonskasse burde overta.
+Jeg viser til at departementet mener at det vil være mindre administrasjon om forpliktelsene blir værende i KLP, og vi legger det til grunn.
+Komiteen mener lovfesting av tilskuddsordningen vil gjøre administrasjonen av ordningen enklere, gi mottakerne større forutsigbarhet for hvor mye staten dekker, gi trygghet for at kostnadene dekkes så lenge disse påløper, og redusere risikoen for at de statsstøtterettslige vurderingene må gjøres hvert år.
+Dette står komiteen sammen om.
+Komiteen ser at det i proposisjonen påpekes at det potensielle omfanget av historiske pensjonskostnader for leverandører i kommunal sektor ikke er kjent, og at de bevilgningsmessige konsekvensene av en eventuell utvidelse av tilskuddsordningene kan være betydelige.
+En utredning om de økonomiske konsekvensene må gjennomføres etter behandlingen av denne proposisjonen i dag, slik Arbeiderpartiet også foreslår.
+Arbeiderpartiet mener det nå er for prematurt å kreve lovforslag og budsjettforslag som inkluderer kommunal sektor, og forutsetter at regjeringen kommer tilbake til Stortinget når vi vet hva dette handler om.
+Gjennom komiteens tilslutning til lovforslaget vil vi altså styrke rammevilkårene for ideelle tjenesteleverandører.
+De aller fleste organisasjonene som har uttalt seg i sakens anledning, påpeker også verdien av de ideelle, men vi må gå bredere til verks, slik at de ideelle faktisk får prioritet og kan løse flere oppgaver i sektoren.
+Da kan en ikke innføre svensk modell, slik regjeringserklæringen legger opp til i det som så finurlig kalles «fritt brukervalg».
+«Fritt firmavalg» hadde vel antakeligvis vært mer rett, for her er det slik at kommersielle aktører likestilles med ideelle tjenesteleverandører.
+Det må være sammenheng i politikken, i hva vi gjør fra dag til dag.
+Da må regjeringen også levere det Stortinget har bedt om, og fastslå et konkret mål om vekst i andelen av den samlede helse- og omsorgssektoren som skal være organisert og drevet som ideell virksomhet.
+Vi vil ha flere ideelle tjenesteleverandører.
+Vi har ambisjoner, og vi ønsker å komme dit raskere enn det ser ut til at regjeringen vil.
+For jeg sitter med et klart inntrykk av at iveren etter å få fram flere kommersielle aktører trumfer den ideelle ambisjonen hos den sittende regjering, dessverre.
+Med dette tar jeg opp forslaget vi har liggende inne i forbindelse med lovproposisjonen.
+Da har representanten Tore Hagebakken tatt opp det forslaget han viste til.
+Jeg var altså saksordfører for innstillingen om ideelle aktørers historiske pensjonsutgifter, og komiteen har blitt enig om at debatten om denne saken skal slås sammen med debatten om lov om tilskudd til visse private virksomheter, som det er blitt innledet med.
+Først noen ord om ideelle aktørers historiske pensjonsutgifter:
+ Denne saken er et representantforslag fra stortingsrepresentantene Knut Arild Hareide, Olaug V. Bollestad og Kjell Ingolf Ropstad fra Kristelig Folkeparti.
+Saken tar utgangspunkt i en anbefaling fra Hippe-utvalget om at staten bør kompensere pensjonskostnader for ideelle virksomheter som leverer eller har levert lovpålagte barnevernstjenester og spesialisthelsetjenester som staten nå er ansvarlig for.
+Det kan også bli aktuelt å finne løsninger i andre bransjer og tjenesteområder som leverer tjenester etter avtale med staten.
+I budsjettet for 2019 foreslo regjeringen 30 mill. kr til en tilskuddsordning for dekning av ideelle og enkelte andre virksomheters historiske pensjonskostnader knyttet til offentlig tjenestepensjonsordning.
+Gjennom budsjettavtalen mellom regjeringspartiene og Kristelig Folkeparti ble budsjettet styrket med ytterligere 18 mill. kr.
+Helse- og omsorgskomiteen er enig om at de ideelle aktørene på helse- og velferdsfeltet skal ha stabile og forutsigbare vilkår, og det er plass til flere ideelle aktører innenfor flere omsorgsområder, noe vi ønsker velkommen.
+Det er enighet om å utrede de økonomiske konsekvensene av å dekke ideelle organisasjoners historiske pensjonskostnader for kommunal og fylkeskommunal sektor.
+Utredningen skal også se på om dekningen bør skje gjennom å utvide den søknadsbaserte tilskuddsordningen som det i budsjettavtalen for 2019 ble enighet om å etablere.
+Som følge av dette anbefaler ikke flertallet i komiteen at representantforslaget vedtas i denne omgang, men vil vente til utredningen er gjennomført.
+Så over til innstillingen om lov om tilskudd til visse private virksomheter med offentlig tjenestepensjonsordning:
+ Dette er også en sak om historiske pensjonskostnader.
+Her viser vi fra regjeringspartiene til forliket om statsbudsjettet for 2019, der det ble enighet om å styrke denne budsjettposten med 18 mill. kr i forhold til det opprinnelige budsjettforslaget.
+Forliket innebærer enighet om å utvide den søknadsbaserte tilskuddsordningen for ideelle organisasjoners historiske pensjonskostnader til påløpte pensjonskostnader til og med 1. januar 2019.
+I denne saken står komiteen samlet i sin anbefaling om vedtak til ny lov.
+Senterpartiet støttar den lovproposisjonen som vert fremja i dag, om å kompensera leverandørar av lovpålagde spesialisthelsetenester og statlege barnevernstenester for historiske pensjonskostnadar, og at denne kompensasjonsordninga vert lovfesta.
+Vi støttar òg forslaget frå Kristeleg Folkeparti om ei søknadsbasert ordning som inkluderer alle ideelle aktørar som har levert tenester til det offentlege, inkludert til lågare forvaltningsnivå, og som har mottatt offentlege tilskot til drift av tenester som er samfunnsnyttige, og som omfattar andre tenester enn barneverns- og spesialisthelsetenester.
+Det er det eit mindretal som følgjer opp.
+Sjølvsagt må det siste greiast ut, men vi meiner at det er svært farleg om dette arbeidet blir utsett, fordi det eigentleg er liten politisk vilje til å prioritera det.
+Vi meiner at dette hastar.
+Vi meiner at det må prioriterast, og vi fremjar at det må koma på plass ei ordning for dette i statsbudsjettet for 2020.
+Det er akkurat same problemstillinga for ideell sektor som leverer tenester til kommunale eller andre statlege område, som for dei med avtalar innan barnevern og helseføretak.
+Eigentleg burde ein ha fremja forslag for heile sektoren samla og ikkje avgrensa det til berre å gjelda visse statlege sektorar.
+Fleire høyringsutsegner peikte nettopp på dette.
+I tillegg peikte ein del på at arbeidsmarknadstiltak, som har vore ein del av den offentlege tenesteproduksjonen, burde innlemmast.
+Hippe-utvalet slo fast at den kompensasjonsordninga som dei føreslo, berre gjeld for tenester som er leverte til staten.
+Men dei skreiv òg at dette følgde rammene for mandatet.
+Utvalet påpeikte at tilsvarande problemstillingar òg gjeld for verksemder som leverer og har levert helse- og sosialtenester til kommunar.
+Det finst òg verksemder som har leveranse både til stat og kommune innanfor same verksemd og same pensjonsordning i KLP.
+I innstillinga skriv regjeringspartia at dei meiner at kommunane bør vurdera å dekkja dei historiske pensjonskostnadane til ideelle aktørar som har levert tenester til kommunal sektor.
+Eg synest at det er litt spesielt å skriva dette.
+For kva meiner ein?
+Meiner ein at kommunane skal ta dette av eigen økonomi?
+Om dei meiner det, er det ei ansvarsfråskriving.
+Dei kommunane som vurderer dette, må sjølvsagt forventa at desse midlane kjem frå staten som øyremerkte midlar.
+Så meiner eg, som representanten Tore Hagebakken, at det er kritikkverdig at regjeringa enno ikkje har følgt opp vedtaket frå 2016 om å be regjeringa fastslå eit mål om vekst i den delen av helse- og omsorgssektoren som skal vera organisert og driven som ideell verksemd, og på eigna måte leggja fram dette for Stortinget med ein plan for kortsiktige og langsiktige tiltak for å oppnå det.
+Det aller verste er eigentleg at regjeringa meiner at dei har gjort det – at det er opposisjonen i Stortinget som har sagt at nei, dette har ein ikkje levert på.
+Ut frå det tviler eg på at regjeringa har eit reelt ønske om å auka omfanget av ideell verksemd på kostnad av kommersielle.
+Vi treng ei politisk avklaring på kva ein vil, kva målet er, og kor stort bidraget skal vera.
+Det vi diskuterer i dag, er jo verkemiddelet for å få dette til å skje – lik konkurranse.
+Representanten Tore Hagebakken var òg inne på at regjeringsplattforma er tydeleg om annan politikk som gjeld.
+Det er auka konkurranse mellom privat og offentleg sektor som skal vera det berande prinsippet.
+I ein slik politikk kjem dei ideelle i skvis.
+Det vi treng, er gode, langvarige avtalar med ideell sektor, basert på kvalitet, der den ideelle tilbydaren vert oppfatta som ein integrert del av offentleg sektor.
+Eg vil ønskja Kristeleg Folkeparti lykke til i regjering, for eg veit at dei vil kjempa for ideell sektor, men eg trur det må vera ein prøvelse.
+Eg vil ta opp forslaget som Senterpartiet har saman med SV.
+Så vil eg òg varsla at vi kjem til å røysta subsidiært for forslaget frå Arbeidarpartiet i Innst.
+155 S.
+Representanten har tatt opp det forslaget hun refererte til.
+Jeg takker for representanten Toppes lykkønskninger.
+Det tar jeg med meg.
+Jeg vet at Senterpartiet heier på alle som brenner for ideell sektor, og det er ingen tvil om at Kristelig Folkeparti ved flere anledninger har løftet nettopp ideell sektor.
+Ved flere anledninger har vi også tatt opp det som har med de historiske pensjonsutgiftene å gjøre, som denne sektoren har båret i lang tid, og som vi ved flere anledninger har utfordret regjeringen til å se på og finne en løsning for.
+Nå er vi langt på vei der at det ser ut til at vi har lyktes.
+Vi har fått på plass – senest i budsjettforliket for 2019 – å heve terskelen fra det som Hippe-utvalget pekte på, hvor man satte en terskel ved 2010.
+Vi fikk løftet det til 2019, noe som nå også er ivaretatt i lovproposisjonen.
+Så har jeg bare lyst til å minne om at jeg tror det kan være fornuftig av opposisjonspartiene å lese i regjeringsplattformen om det som har med ideell sektor å gjøre, at de går inn og leser det som står under næringskapittelet.
+Der er det en offensiv satsing på ideell sektor, og det er jo verdt å legge merke til at de som organiserer mye av ideell sektor, er veldig fornøyd med det som har kommet inn i plattformen.
+Jeg kan garantere at Kristelig Folkeparti kommer til å jobbe hver dag for å få realisert de punktene som har kommet på plass i denne plattformen.
+Vi lener oss ikke tilbake igjen og tror at alt løser seg selv bare ved at Kristelig Folkeparti har gått inn i regjering.
+Dette er et kontinuerlig arbeid som Kristelig Folkeparti kommer til å følge opp.
+Så til dette som gjelder måltall for å øke den ideelle andelen i denne sektoren.
+Ja, jeg kan være enig i noe av kritikken som har kommet om at regjeringen ikke har fulgt opp et stortingsflertall.
+Men i plattformen har det kommet på plass at regjeringen skal komme med nettopp et slikt måltall i forbindelse med budsjettet for 2020.
+Så allerede til høsten vil regjeringen levere på dette.
+Jeg ser fram til hva regjeringen, som nå også inkluderer Kristelig Folkeparti, vil komme med av forslag.
+På barnevernssektoren har vi fått inn et måltall om at den ideelle andelen skal øke til 40 pst. innen 2025.
+Jeg har en forventning om at det også skal være en betydelig økning i ideell andel av det som gjelder helse, rusomsorg osv.
+Jeg anbefaler at man leser regjeringsplattformen, leser om det vi har fått på plass når det gjelder ideell sektor.
+Der ligger det veldig mye bra.
+Jeg tror vi har mye god politikk i vente på dette området i tiden framover.
+På 1970-tallet var det gjengs oppfatning at lønns- og pensjonsordninger for ansatte i ideell sektor som leverte helse- og omsorgstjenester til det offentlige, skulle være tilnærmet like de ordningene som gjelder for offentlig ansatte.
+Mange har derfor hatt offentlig tjenestepensjonsordning for sine ansatte.
+Med en slik ordning følger også såkalte historiske pensjonskostnader.
+Det er kostnader som må betales lenge etter at opptjeningen er avsluttet, og som derfor oppleves som en hemsko bl.a. i konkurranse med andre.
+Jeg er fornøyd med at vi nå endelig kan vedta en lov som gjør det mulig å kompensere dem som har levert lovpålagte spesialisthelsetjenester og statlige barnevernstjenester, for disse kostnadene.
+Tilskuddet vil gi bedre rammevilkår for ideelle som driver rusbehandling, psykisk helsevern, rehabilitering, barnevernsinstitusjoner og sentre for foreldre og barn.
+Dette er et viktig bidrag til å nå målet om vekst i andelen helse- og omsorgstjenester som er organisert og drevet av ideell virksomhet.
+Lovforslaget bygger på de primære anbefalingene fra NOU 2016:
+ 12 Ideell opprydding.
+Men som følge av enigheten i budsjettforhandlingene er det gjort en vesentlig endring i komiteens innstilling.
+Tilskuddet foreslås beregnet ut fra pensjonsrettigheter som er opptjent før 1. januar 2019, istedenfor 1. januar 2010.
+Denne endringen gir virksomheten en vesentlig bedre dekning, den imøtekommer ønsket fra mange av høringsinstansene, og den tar langt på vei hensyn til forslaget i Dokument 8:235 S om ideelle aktørers historiske pensjonsutgifter, som ble fremmet av representantene Ropstad, Hareide og Bollestad.
+Tilskuddsordningen vil løpe så lenge det er pensjonister og etterlatte med rettigheter, dvs. fram mot år 2100.
+Virksomheten som søker, må ta del i ordningen én gang, og deretter gir de opplysninger som legges til grunn for årlig vedtak om tilskuddsbeløp.
+Regjeringen tar sikte på å vedta forskriften om tilskuddsordning så snart som mulig, sånn at søknadsprosessen kan starte.
+Forskriften må fastsettes i to omganger.
+Forskrift om detaljregulering av beregning av tilskudd må også sendes på høring før den kan fastsettes.
+Jeg er glad for at ordningen for leverandører til stat og regionale helseforetak ikke utsettes i påvente av en løsning som skal gjelde også for leverandørene i kommunesektoren.
+Når det er sagt, er det viktig å komme i gang med en utredning om å belyse bredden i ideelles forpliktelser.
+Omfanget er ikke kjent.
+Utredningsbehovet er omfattende, og det kan være store variasjoner fra kommune til kommune.
+Regjeringen vil derfor utrede de økonomiske konsekvensene av å dekke de ideelle organisasjonenes historiske pensjonskostnader for kommunal og fylkeskommunal sektor med sikte på at de dekkes av kommunene og fylkeskommunene.
+Utredningen skal også se på om dekningen bør skje gjennom å utvide den søknadsbaserte tilskuddsordningen som behandles i dag.
+Jeg opplever også at dette utredningsoppdraget er i tråd med intensjonen i representantforslaget som er til behandling samtidig.
+Dette er en historisk dag, og det omfatter historiske pensjonskostnader.
+Men alle som har fulgt denne debatten det siste tiåret, minst, vet at det ikke er noen selvfølge at denne loven i dag vedtas, og at denne ordningen kommer på plass.
+Nå har regjeringen, med Kristelig Folkeparti, gjort det som mange av de partiene som i dag kritiserer regjeringen, mente var nesten umulig da de selv satt med ansvaret.
+Det viser nettopp at det er forskjell på ord og handling når det gjelder synet på ideelle og viljen til å støtte opp om ideelle.
+Denne regjeringen, med Kristelig Folkeparti, viser handling, mens det for opposisjonen har vært mye ord, spesielt når de ikke er i posisjon til å gjennomføre løftene sine.
+Det blir replikkordskifte.
+Som statsråden var inne på, er lovvedtaket i dag viktig for rammevilkårene for ideelle tjenesteleverandører, som dette gjelder for.
+Men så er det snakk om veien videre.
+Vi i Arbeiderpartiet sier at det er for prematurt å forlange noen utvidelser nå, men vi ønsker å få fram fakta, en utredning.
+Hvor raskt vil statsråden kunne få fram de faktaene vi trenger?
+Hvordan ser statsråden for seg at finansieringen skal dekkes?
+Som jeg sa i mitt innlegg, må utredningsarbeidet komme i gang raskt.
+Hvor lang tid det tar, vet vi ikke nå, for, som representanten var inne på, dette er komplisert.
+Det er mer komplisert enn de forholdene som denne saken omfatter.
+Så omfatter dette historiske pensjonskostnader knyttet til fylkeskommunale og kommunale virksomheter.
+Hvis disse skal dekkes historisk, er det selvfølgelig naturlig at det er nettopp kommunene og fylkene som dekker det.
+Geir Jørgen Bekkevold viste til positive vendinger, eller mer formelt:
+ formuleringer, i regjeringserklæringen om ideelle.
+Men samtidig snakkes det om fritt brukervalg – etter svensk modell, må jeg understreke.
+Svensk modell betyr at kommersielle aktører likestilles med ideelle.
+Hva gjelder mest – det Bekkevold viser til, eller det som står om svensk modell og likestilling?
+Hvis representanten Hagebakken leser hele Granavolden-erklæringen, vil han finne mange veldig tydelige formuleringer om regjeringens syn på de ideelle og om viljen til å prioritere ideelle.
+Han kan også se på det som er gjort i handling, f.eks. det å reserve anbud i helseregionene til ideelle.
+Vi sørget for at ideelle rusinstitusjoner som var vedtatt nedlagt under Stoltenberg-regjeringen, faktisk fikk muligheten til å overleve på grunn av regjeringsskiftet i 2013 og nå drives og behandler pasienter som aldri før.
+Det er en vesentlig forskjell mellom Arbeiderpartiet og Høyre når det gjelder synet på ideelle.
+Høyre mener de ideelle har en verdi i seg selv, og at de vil tilføre samfunnet en ekstra verdi.
+Når jeg hører på retorikken fra Arbeiderpartiet, er det slik at ideelle har én verdi, og det er at de skal brukes i kampen mot kommersielle.
+Der er det en vesentlig forskjell mellom Høyre og Arbeiderpartiet.
+Jeg vil for det første si meg uenig i den måten å betrakte vår politikk på.
+Vi er minst like opptatt av ideell virksomhet som regjeringspartiene er, fordi det har stor verdi.
+Samtidig prioriterer vi helt klart de ideelle foran de kommersielle.
+Så til spørsmålet:
+ Ser statsråden for seg noen som helst negative sider ved svensk modell når vi snakker om fritt brukervalg, eller er det bare fryd og gammen og å kopiere?
+Det står ikke i Granavolden-plattformen at Norge skal kopiere den svenske modellen; det står at en skal gjennomføre en utredning for å sikre mer brukervalg i kommunene.
+Og i den utredningen skal vi bl.a. se til den svenske modellen.
+Det tror jeg er lurt.
+Men vi bør også se til erfaringer fra Danmark og andre land i et sånt arbeid.
+Målet er å sikre brukerne større valgfrihet i deres hverdag.
+Her også går det et tydelig politisk skille mellom denne regjeringen og Arbeiderpartiet.
+Vi ser på det å få muligheten til å få velge som en verdi seg selv.
+Det er faktisk sånn at mange, spesielt eldre, i Norge i dag ikke er fornøyd med de tjenestene som de får fra sin kommune.
+I dag har de en klagerett.
+Jeg ville gjerne sett at de også hadde en bytterett, at de faktisk hadde mulighet til å velge noe av det som er det mest grunnleggende og viktige i livet.
+Eg vil følgja opp føregåande talar.
+Det som står i regjeringsplattforma, bl.a. om fritt brukarval og svensk modell, gir grunn til bekymring.
+Er det slik at for statsråden og regjeringa er det konkurransen som er viktigast, at pasientane skal få velja, altså at det er konkurransen i seg sjølv som er det viktigaste?
+Og når det gjeld dei ideelle, er det viktigast at dei vinn eit anbod?
+Eller er det ein verdi i seg sjølv at dei ideelle vert styrkte på kostnad av dei kommersielle private?
+Svaret på det er enkelt:
+ Det som er viktig for regjeringen, er valgmuligheten til den enkelte, det har en egenverdi.
+Det å få muligheten til å gjøre valg på noen av livets viktigste områder gir en tilleggsverdi for den enkelte.
+Vi har innført fritt behandlingsvalg i spesialisthelsetjenesten.
+Det gir en stor verdi for de pasientene som f.eks. har mulighet til å velge å få den rusbehandlingen som akkurat de tror er den riktige for dem.
+Det som vi også ser, er at fritt behandlingsvalg i spesialisthelsetjenesten har gjort at ideelt drevne institusjoner som har tapt anbud – riktignok i skjermet anbud, der kun ideelle har mulighet til å delta, men som har tapt – allikevel ikke trenger å legges ned, nettopp fordi de melder seg på fritt behandlingsvalg-ordningen og kan drive videre fordi pasientene ønsker å velge dem.
+Det setter det enkelte mennesket foran systemer, og det er regjeringens politikk.
+Takk for svaret.
+Eg må utdjupa ein ting.
+Når det er valfridomen som er det viktigaste, betyr det at det er det same for statsråden og regjeringa om det er ein privat ideell tilbydar som vinn eit anbod, eller om det er ein privat kommersiell?
+Vi får jo valfridom uansett, men det er, i alle fall for Senterpartiet, stor forskjell på om vi får ein vekst i private kommersielle, eller om veksten skjer i private ideelle.
+Det er her eg meiner at regjeringa står langt frå både Senterpartiet og til dels Kristeleg Folkeparti, og det synest eg er viktig at statsråden svarer ærleg på.
+Som en ser i regjeringsplattformen, har ideelle en egenverdi for denne regjeringen.
+Vi har en rekke punkter i plattformen som handler om hvordan vi skal bygge opp under ideell virksomhet, skjerme ideell virksomhet og støtte opp under ideell virksomhet, fordi vi mener at dette er en tredje sektor i samfunnet vårt, som tilfører samfunnet ekstra verdier som verken det offentlige eller private ordninger kan representere.
+Derfor har regjeringen en rekke politikkområder som bygger opp under ideelles muligheter, bl.a. det som vi gjør i dag gjennom å kompensere for de historiske pensjonskostnadene, og det som jeg har gjort ved å stille krav om at det skal være egne anbud for ideelle, og at en også skal stille krav om at en skal opprettholde og øke antallet ideelle.
+Vi kommer i statsbudsjettet for 2020 tilbake med målsetning for økning av bruk av ideelle i helse- og omsorgssektoren, samlet sett.
+Men for brukeren er det valgfriheten som er viktig.
+Replikkordskiftet er omme.
+De talere som heretter får ordet, har en taletid på inntil 3 minutter.
+Eg har ein kort kommentar.
+Det har vore ein del snakk om regjeringsplattforma, og vi har vorte bedne om å lesa ho, spesielt det som står om næring og konkurranse.
+Det kapitlet har eg faktisk lese.
+Eg har lese igjennom ein del regjeringsplattformer, og eg veit at det som er det prinsipielle og ideologiske på helsefeltet, finn ein nettopp i det kapitlet.
+Det går ut på at ein ikkje vurderer produksjonen av helse- og omsorgstenester på nokon annan måte enn produksjonen av andre varer og tenester.
+Det sto i regjeringsplattforma i 2013.
+Det er reine ord for pengane.
+No er det ein litt annan variant, men det er eigentleg det same som står der.
+I regjeringsplattforma som kom i år, står det:
+«Regjeringen vil føre en politikk der offentlig sektor i større grad samarbeider med næringslivet der privat sektor har kapasitet og kompetanse til å bidra med nye løsninger og bedre tjenestetilbud.»
+Vidare står det at regjeringa vil
+«gjennomføre tiltak for å sikre like konkurransevilkår mellom offentlig og privat sektor, slik at flere private tjenestetilbydere i større grad kan bidra til å løse fellesskapets oppgaver».
+Ein nemner fritt brukarval i kommunane, etter svensk modell, og utviding av fritt behandlingsval.
+Heile plattforma er altså gjennomsyra av konkurransepolitikk, som er regjeringas løysing for å utvikla offentleg sektor og helse- og omsorgstenestene.
+Ja, det er eit fantastisk kapittel i regjeringsplattforma om ideell sektor – det skal Kristeleg Folkeparti ha – men kritikken vår går ikkje på det.
+Kritikken vår går på at næringskapitlet og det som vert skildra som den store løysinga for offentleg sektor, kan slå i hel dei andre forslaga.
+Det er bekymringa vår.
+Ein kan ikkje få i både pose og sekk.
+Skal ein ha ein så hard konkurransepolitikk i offentleg sektor, der ein reduserer kommunane til å verta marknadsaktørar som skal vera tilbydarar på lik linje med andre, private aktørar, vert dei ideelle skvisa ut, for vi har jo ein situasjon i Noreg med store, kommersielle selskap som ser på Noreg som ein attraktiv helsemarknad.
+Ideelle aktørar tåler ikkje å tape eit anbod, mens store, kommersielle aktørar tåler å tape eit anbod, for dei har musklar rundt seg og tåler det økonomisk.
+Det er difor ein slik konkurransepolitikk er ein fare for ideell sektor – ein mykje større fare enn det eg opplever vert kommunisert ut i denne salen.
+Så eg støttar bekymringa frå representanten Tore Hagebakken, og så får vi sjå.
+Eg hadde i alle fall behov for å utdjupa akkurat dette når vi har ei sak om rammevilkåra for ideell sektor til behandling.
+Det kan godt være at representanten Toppe har lest regjeringsplattformen.
+I så fall har hun hatt Senterpartiets rød-grønne briller på seg, for det sitatet hun trakk fram, er et sitat som bl.a. er knyttet til den helsenæringsmeldingen som regjeringen snart skal legge fram, og som jeg opplever har bred støtte i Stortinget, om at vi skal jobbe for å utvikle en helsenæring i Norge i et samarbeid mellom helsetjenesten og næringen.
+Det er en viktig del av det å finne nye løsninger på hvordan vi skal gi folk bedre helsehjelp, men det er også en viktig del av det å skape en ny, lønnsom næring i dette landet.
+Igjen hører jeg at det som virkelig får både Senterpartiets og Arbeiderpartiets hjerte til å banke for ideell sektor, er når de skal bruke ideell sektor til å skvise ut andre, private aktører.
+Det er for så vidt helt legitimt, det er deres motivasjon.
+Vår motivasjon er verdien av ideell sektor i seg selv – at ideell sektor ikke trenger å operere innenfor de rammene som offentlig sektor gjør, ikke trenger å operere innenfor de rammene som privat sektor gjør, og ikke minst at de tilfører den tilleggsverdien som frivillighet og idealisme gjør.
+Det norske velferdssamfunnet er ikke ferdig utviklet en gang for alle, og vi ser veldig ofte at det er nettopp ideell sektor som ser nye områder og nye mennesker som faller utenfor, og gir dem et tilbud.
+Siden blir det ofte en del av den offentlige tjenesten.
+Den historien er ikke over, og derfor skal vi ta vare på ideell sektor også videre.
+Representanten Kjersti Toppe har hatt ordet to ganger tidligere og får ordet til en kort merknad, begrenset til 1 minutt.
+Om det eine sitatet mitt var knytt til helsenæringsmeldinga, finst det dessverre mange andre punkt i regjeringsplattforma som går på kva ein vil med offentleg sektor, f.eks. å «legge til rette for å la private tilbydere konkurrere om å levere offentlig finansierte tjenester der det er fornuftig».
+Det finst mange slike eksempel, så det er heilt klart kva regjeringa vil.
+Når det gjeld f.eks. barnevern, står det «40 prosent» som måltal, men ein har tatt vekk det siste leddet i setninga som var i stortingsvedtaket, om at dette ikkje måtte gå ut over offentleg sektor.
+Ein har altså tatt vekk prinsippet om at dette skal gå ut over kommersielle private.
+Det er ei utruleg viktig presisering – i regjeringsplattforma er det ikkje tatt med.
+Om eg les med raud-grøne briller, er iallfall det betre enn ikkje å sjå klart.
+Representanten Toppe var nettopp inne på kjernen i forskjellen mellom oss og de rød-grønne, nemlig at der det er fornuftig, synes vi at vi skal legge til rette for andre alternative tilbydere – om de er ideelle eller private.
+Vårt utgangspunkt i politikken er å skape en best mulig helsetjeneste – og også på andre samfunnsområder en best mulig tjeneste – for våre innbyggere, slik at en får mest mulig igjen for de felles ressursene vi bruker.
+I noen tilfeller kan det være private tilbydere som gjør dette.
+Jeg er interessert i å vite om Senterpartiet mener at andre offentlige tjenester best gjøres i offentlig regi.
+Er de enig med de rød-grønne, som vil rekommunalisere over en lav sko?
+Det er en rekke felt der private er inne i dag.
+En trenger ikke gå lenger enn til når en bygger sykehus.
+De fleste fag som er involvert der, er jo private aktører.
+Er det riktig at private entreprenører, malere og andre grupper er inne og forsyner seg av våre helsebudsjetter?
+Det er noe uprinsipielt over tilnærmingen.
+Vår tilnærming er:
+ Vi vil jobbe for at vi får det beste ut av helsekronene, at vi sørger for valgfrihet, og at det offentlige blir utfordret, for det trenger de.
+I noen tilfeller er de ideelle bra, i andre tilfeller kan det være andre, mer kommersielle aktører som er best.
+Uansett er det viktigste for oss:
+ Vi har et press på offentlig sektor når det gjelder kostnader, og da kan vi få god hjelp av andre aktører, herunder kommersielle.
+Flere har ikke bedt om ordet til sakene nr. 2 og 3.
+Etter ønske fra helse- og omsorgskomiteen vil presidenten foreslå at taletiden blir begrenset til 3 minutter til hver partigruppe og 3 minutter til medlemmer av regjeringen.
+Videre vil presidenten foreslå at det – innenfor den fordelte taletid – blir gitt anledning til fem replikker med svar etter innlegg fra medlemmer av regjeringen, og at de som måtte tegne seg på talerlisten utover den fordelte taletid, får en taletid på inntil 3 minutter.
+– Det anses vedtatt.
+Først og fremst vil jeg takke forslagsstillerne for at vi nå retter oppmerksomheten mot et svært alvorlig samfunnsproblem.
+Ett barn utsatt for vold eller overgrep er ett for mye.
+Jeg er glad for at hele komiteen står samlet bak et ønske om å forebygge at vold og overgrep skjer.
+Det jobbes heldigvis godt med dette på alle nivåer, både i kommuner og i regjering.
+Kunnskap om konsekvenser for barn som utsettes for vold og overgrep, gjør at vi må handle.
+Vi vet at barn kan få livslange skader, og det forringer liv og muligheter og medfører traumer som også blir med inn i voksenlivet.
+Det er et sårt faktum at vi ikke makter å forhindre all vold – at barn utsettes for seksuelle overgrep uansett hva vi måtte bestemme her i salen.
+Det medfører at vi må sikre utsatte barn den aller beste behandlingen vi kan tilby, når skaden først har skjedd.
+Vi vet at kommunen har plikt til å gi voldsutsatte barn nødvendig hjelp og støtte, men at det kan svikte på kommunens kartlegging av barn og familier som har opplevd seksuelle overgrep eller vold i nære relasjoner.
+I noen tilfeller svikter også rettsvesenet og spesialisthelsetjenesten.
+Vi vet også at dette er familier som trenger koordinerte tjenester og ofte langvarig oppfølging på flere forvaltningsnivåer.
+Vi vet at tjenestene varierer fra kommune til kommune, og da har vi ikke et likeverdig hjelpetilbud til alle barn.
+En samlet helse- og omsorgskomité godtar ikke at de gode kreftene som skal bistå barn og familier, ikke spiller på lag med hverandre.
+Regjeringspartiene kommer ikke til å støtte forslagene som er framsatt her i dag.
+Det er ikke fordi vi er imot dem, men fordi det allerede arbeides godt med dette i regjeringen.
+Jeg kan forsikre forslagsstillerne om at dette er et område der regjeringen har fullt trykk.
+Det er igangsatt en rekke tiltak for å forbedre tilbudet til barn og familier som har opplevd vold i nære relasjoner.
+Videre skal regjeringen legge fram en økonomisk forpliktende – og jeg understreker forpliktende – opptrappingsplan for barn og unges psykiske helse.
+Jeg skjønner at det kan være krevende å lese regjeringsplattformer, de kommer jo på løpende bånd, men i dette tilfellet er det helt klinkende klart:
+ Regjeringen har vært, er og vil fortsatt være en pådriver for å utvikle gode modeller for samarbeid og samordning av tjenester.
+Det pågår allerede en rekke utredningsarbeider knyttet til å styrke samordning og koordinering av tjenester for utsatte barn og unge.
+Jeg vil således igjen takke for at oppmerksomheten rettes mot et område vi må ha høy og kontinuerlig politisk bevissthet om.
+Som jeg sa innledningsvis:
+ Ett barn utsatt for vold eller seksuelle overgrep er ett for mye.
+Som det er blitt sagt fra talerstolen her:
+ Mange barn opplever vold og overgrep – og altfor mange av sine nærmeste.
+Hjemmet er ikke et trygt sted for alle.
+Vi har etter hvert ganske mange tall, men mørketallene er dessverre betydelige.
+Bufdir oppgir at 21 pst. av ungdom i dag har vært utsatt for fysisk vold av foreldrene sine, 6 pst. har vært utsatt for grov vold, 8 pst. har erfart vold mellom foreldrene, og 15 pst. av norske menn og kvinner oppgir at de har vært utsatt for seksuelt overgrep før de fylte 18 år.
+I tillegg vet vi at en stor del av seksuelle overgrep mot barn begås av andre barn.
+Dette er overveldende tall.
+I hver eneste barnehage og på hver eneste skole sitter det noen som trenger fellesskapet som aller mest.
+Vi oppdager stadig flere, og politiet og samfunnet har tatt betydelige steg i riktig retning i kampen mot vold og overgrep i nære relasjoner.
+Det er bra.
+Men vi ser også at politiet trenger økte ressurser for å møte den økte saksmengden.
+Men det at overgrep og vold blir oppdaget, betyr ikke nødvendigvis at barna får den hjelpen de skulle hatt i ettertid.
+Hjelpeapparatet er rett og slett ikke godt nok.
+Etter hvert vet vi ganske mye om hva det gjør med et lite menneske å bli utsatt for vold eller overgrep:
+ vedvarende helseplager, konsekvenser for nevrologisk, kognitiv og emosjonell utvikling, tilknytningsproblemer, sosial tilbaketrekning, søvnvansker, lærevansker, aggresjonsproblemer og angst.
+Listen er lang.
+Allikevel klarer vi ikke å sørge for at disse barna får god oppfølging i ettertid.
+Kanskje er ikke behovet der etter én uke, to uker eller tre uker.
+Men når behovet melder seg, burde det være en selvfølge at rett hjelp var på plass til rett tid og godt koordinert.
+Om hjelpen er på plass, er altfor avhengig av enkeltpersoner og tilfeldige bekjentskaper.
+Nasjonalt har vi ikke sikret oss at de barna som blir oppdaget, dem vi vet er utsatt for vold og overgrep, og som trenger hjelpen som aller mest, får disse tjenestene godt koordinert.
+Barneombudets rapport er krystallklar.
+Barn opplever et fragmentert og mangelfullt oppfølgingstilbud.
+Arbeiderpartiet har fremmet dette forslaget nettopp for å sikre at barna skal få rett hjelp til rett tid godt koordinert.
+Dessverre stemmer regjeringspartiene ned dette forslaget i dag, et forslag som kunne gjort en forskjell, og viser til årevis med lange utredninger.
+Vil representanten ta opp forslag?
+Ja, jeg tar opp de forslagene Arbeiderpartiet står bak.
+Representanten Elise Bjørnebekk-Waagen har tatt opp de forslagene hun refererte til.
+Det er knapt noe som gjør meg mer opprørt enn saker som omhandler vold og overgrep mot barn og unge.
+En del av det som skjer, er rett og slett ikke til å fatte – at små barn og ungdom skal kunne bli utsatt for sånn ondskap.
+Det er utrolig bra at det er mer åpenhet nå, at det avdekkes mer, og at politiet er på de arenaene der disse overgrepene skjer, selv om vi vet at mye også skjer der politiet ikke ser.
+For barn og unge skal hjemmet være det stedet der de kan slappe av, det stedet der de skal føle seg trygge, det stedet der de skal kunne få være seg selv.
+Vi vet at for noen barn og unge er hjemmet det mest utrygge stedet de befinner seg.
+For andre er det utrygge stedet utenfor husets vegger.
+Det man ser knyttet til overgrep mot barn, f.eks. på nettet – folk som lokker barn til seg og misbruker dem – er så forferdelig at samfunnet har en plikt til å gjøre alt vi kan for å hjelpe.
+Jeg er utrolig glad for at regjeringen prioriterer innsatsen mot dette.
+Når det avdekkes, er det også utrolig viktig at de som har blitt utsatt for dette, får hjelp på en god måte.
+Noen av disse blir merket for livet uansett om de får hjelp, men hjelpen kan lindre.
+Andre klarer med slik hjelp å leve videre, fungere godt og ta del i de mulighetene som vårt samfunn gir dem.
+Derfor er et godt hjelpeapparat så utrolig viktig – at ulike instanser samarbeider, og at noen tar ansvar og sørger for å koordinere arbeidet.
+Derfor er jeg glad for at regjeringen nå utreder en lovfesting av plikt for kommunen til å utpeke en instans eller opprette en egen funksjon som skal ha ansvaret for å koordinere alle dem som har ansvar for disse tjenestene.
+Vi trenger ikke å sette i gang flere utredninger nå, men vi trenger å bli ferdig med den som pågår, og konkludere der.
+Når det gjelder tilgjengelig oversikt over hjelpeapparatet, finnes det på ung.no, på dinutvei.no, på bufdir.no.
+Det er ikke flere oversikter vi trenger, men vi trenger å gjøre dem som finnes, mer kjent blant barn og unge og dem som trenger å finne dem.
+Jeg er utrolig glad for at regjeringen prioriterer dette arbeidet.
+Det er noe av det viktigste et samfunn skal gjøre:
+ å ivareta våre barn og unge som trenger vår hjelp.
+I Barneombodets rapport med tittelen «Hadde vi fått hjelp tidligere, hadde alt vært annerledes», som kom i 2018, vert det vist til store hol i oppfølgingstilbodet til barn som har vore utsette for vald og overgrep.
+Senterpartiet er difor med på eit forslag saman med Arbeidarpartiet og SV om å be regjeringa utarbeida ei oversikt som er lett tilgjengeleg om kva hjelpetilbod som finst for barn som er utsette for vald og seksuelle overgrep og deira familiar i landets kommunar.
+Regjeringspartia viser til Mestre hele livet, ein strategi for god psykisk helse.
+I den står det:
+«Regjeringen vil også vurdere å lovfeste en plikt for kommunen til å utpeke en instans eller opprette en egen funksjon som skal ha ansvaret for å koordinere hjelpetjenester til barn og unge.»
+Det står òg at ein skal
+«utrede å ta inn en bestemmelse i de lovpålagte samarbeidsavtalene mellom de kommunale helse- og omsorgstjenestene og spesialisthelsetjenesten om samarbeid om barn og unge med behov for tjenester fra begge nivåer.
+Bestemmelsen kan omfatte flere sektorer enn helse- og omsorgstjenestene.»
+Senterpartiet meiner at ein ikkje treng å vurdera eller greia ut dette.
+Dette er noko ein faktisk berre kan vedta å innføra.
+Vi har allereie krav i den kommunale helse- og omsorgstenestelova om koordinator til brukarar med varige behov.
+Og no bør ein rett og slett berre innføra ei lovfesta plikt for kommunane til å peika ut ein instans, ei teneste, som har ansvaret for å samordna tilbod for valds- og overgrepsutsette barn og unge, utan at ein legg føringar for kva slags instans det skal vera.
+Det må kommunane sjølv få bestemma, men dei må ha den ei plikt til å peika ut dette.
+Vi har difor eit alternativt forslag der vi går lenger enn Arbeidarpartiet, som òg vil greia ut.
+Vi vil at regjeringa skal fremja eit forslag om ei lovfesta plikt for kommunane til å peika ut ein slik instans, og òg eit forslag om å få dette inn i dei lovpålagde samarbeidsavtalene mellom kommunar og helseføretak.
+Senterpartiet er ikkje imot å gi barn ein eksplisitt rett til samordna tenester, men det viktigaste no er at vi får den instansen dei skal kunna venda seg til.
+Det er eit ansvar allereie i dagens lov å leggja til rette for samhandling mellom ulike deltenester der det er nødvendig for å tilby tenester for brukarar.
+Med dette tar eg opp Senterpartiets forslag i saka.
+Da har representanten Kjersti Toppe tatt opp de forslagene hun refererte til.
+Vi har alle blitt veldig glad i denne setningen:
+ En god barndom varer livet ut.
+Men vi må også våge å ta inn over oss motsatsen:
+ En ødelagt barndom kan også vare livet ut.
+Jeg er helt enig med representanten Sylvi Listhaug i hennes beskrivelse av hvordan enkelte barn opplever sin hverdag, de som opplever å bli utsatt for de groveste ting.
+Det er sånn at du må våge å se det for i det hele tatt å tro det.
+Det som nesten blir helt uutholdelig å ta inn over seg, er det faktum at for noen barn er familien, hjemmet – det som skulle være den trygge havnen der barn kan få hjelp til å bearbeide de utfordringene samfunnet møter dem med – den farligste arenaen de kan befinne seg på.
+Og jeg er helt enig – det er vår plikt, det er samfunnets plikt, å stille opp for disse barna.
+Vi skal gjøre det vi kan.
+Det er dette som har vært drivkraften bak Kristelig Folkepartis arbeid for å få på plass en opptrappingsplan som nettopp skal bekjempe vold mot barn.
+Jeg er utrolig glad for at vi fikk flertall i Stortinget i forrige periode for det, og at regjeringen nå arbeider aktivt for å sette denne opptrappingsplanen ut i livet.
+Jeg er også veldig glad for at det er barne- og familieministeren, Kjell Ingolf Ropstad fra Kristelig Folkeparti, som nå sitter og skal ha det koordinerende ansvaret for dette viktige arbeidet.
+Dette hviler ikke bare på helseministerens skuldre.
+Det er flere statsråder som har fått et helt konkret ansvar for å følge opp denne opptrappingsplanen, og jeg ser fram til at den skal realiseres.
+Selv om plikten til samarbeid og samordning av tjenester allerede framgår av en rekke lovverk, er dette en utfordring som krever innsats på flere områder.
+Regjeringen har nå satt i gang en utredning, og vi er spent på hva regjeringen vil komme fram til.
+Dersom det etter en slik utredning foreslås regelverksendringer eller andre tiltak, vil disse bli viktige også med tanke på volds- og overgrepsutsatte barn.
+Og med tanke på forslagene som er fremmet i Dokument 8-forslaget, støtter vi altså ikke dem.
+Vi venter på at denne utredningen skal bli ferdig.
+Regjeringen vil prioritere arbeidet med å bekjempe vold og overgrep mot barn, voldtekt og vold i nære relasjoner.
+Selv om mange barn og unge får god og koordinert hjelp, er det fortsatt for mange som opplever at tjenestetilbudet er fragmentert, delt opp.
+For å sikre helhetlige tjenester for barn og unge er det behov for bedre koordinering av tjenestene.
+Når det gjelder representantenes forslag om å utarbeide en oversikt over hjelpetilbud i landets kommuner for barn som er utsatt for vold og seksuelle overgrep, og deres familier, viser jeg til at det allerede finnes flere steder som gir slik informasjon.
+Ung.no er det offentliges informasjonskanal for ungdom med en spørsmål-og-svar-tjeneste.
+Her gis det kvalitetssikret informasjon om spørsmål knyttet til kropp, helse, seksualitet, vold og overgrep.
+Det finnes også en oversikt over hjelpetjenester for ungdom som er utsatt for vold eller seksuelle overgrep.
+Videre gir dinutvei.no oversikt over hjelpetilbud, informasjon og kunnskap om vold i nære relasjoner, voldtekt og andre seksuelle overgrep.
+Bufdir.no gir fylkesvis oversikt over hjelpetilbudene for dem som er utsatt for vold.
+I opptrappingsplanen mot vold og overgrep har regjeringen forpliktet seg til å gi bedre informasjon om vold og overgrep til befolkningen generelt og til særskilte grupper.
+Dette er et løpende arbeid, og vi vil vurdere hvordan informasjonen om hjelpetilbudene rettet mot barn og unge kan styrkes.
+Så til forslaget om tiltak for bedre samarbeid og koordinering av hjelpetjenester og forslaget om en generell lovfesting av barn og unges rett til samordnede tjenester.
+Jeg viser til at det nå utredes rettslige tiltak som skal bidra til mer helhetlige og bedre koordinerte tjenester, i tråd med Mestre hele livet – Regjeringens strategi for god psykisk helse.
+Utredningen ser bl.a. på hvordan tjenester til barn og unge kan koordineres bedre, også når det gjelder samordning av individuelle planer innenfor sektorene.
+Det utredes også en eventuell lovfesting av en plikt for kommunene til å utpeke en instans eller opprette en egen funksjon som skal ha ansvaret for å koordinere hjelpetjenester til barn og unge.
+Dersom utredningen fører til at det foreslås regelverksendringer eller andre tiltak, vil disse være viktige også for volds- og overgrepsutsatte barn.
+Som flertallet påpeker, bør man derfor avvente dette utredningsarbeidet før det besluttes igangsatt nye utredninger.
+Det blir replikkordskifte.
+Som øverste ansvarlig for helsetjenestene i landet er jeg sikker på at statsråden tar på største alvor det Barneombudet beskriver i sin rapport – når det er en krevende situasjon og barn og unge ikke møter et hjelpeapparat som møter deres behov.
+I svarbrevet til komiteen beskriver tidligere statsråd Linda C. Hofstad Helleland, som også statsråden selv refererte til, et pågående utredningsarbeid.
+Da er jeg spent:
+ Hvor lenge skal vi vente på dette utredningsarbeidet?
+Når kan vi forvente at kommunene får en plikt til nettopp å se til at det er én tjeneste som har det overordnede ansvaret, og hvordan vil statsråden bære dette ansvaret?
+Det er helt riktig:
+ Dette er et veldig alvorlig område.
+Vi ser jo på flere områder at det nettopp er koordineringen som svikter.
+I mange av de sakene som også media har avdekket de siste årene knyttet til barn og unge som ikke har fått den hjelpen de skulle hatt, er ofte analysen i etterkant nettopp at de ulike instansene som vi har opprettet for å hjelpe, ikke har vært godt nok koordinert, og dermed har samfunnet sviktet.
+Derfor er dette et veldig viktig arbeid, som vi er godt i gang med, og som også er blitt forsterket gjennom den nye regjeringsplattformen, og vi vil selvfølgelig gjøre dette arbeidet ferdig så fort som mulig.
+Vi venter i spenning, og det er ingen tvil om at barna trenger disse endringene nå.
+I innstillingen, og i flere innlegg, vises det til den kommende opptrappingsplanen for barn og unges psykiske helse.
+Det skapes store forventninger til at dette skal være en forpliktende opptrappingsplan som nettopp skal møte mange av utfordringene som disse barna har.
+Da lurer jeg på:
+ Vil dette i realiteten bli en økonomisk forpliktende opptrappingsplan, eller vil vi se det samme som skjedde med opptrappingsplanen mot vold og overgrep?
+Vi er nødt til å se på hvert eneste budsjett, og vi venter og ser i spenning på hva som blir til overs av kroner og øre.
+Som det også framkommer av regjeringsplattformen, skal dette være en forpliktende opptrappingsplan for barn og unges psykiske helse.
+Så vet representanten godt at pengene til de ulike tiltakene kommer i de årlige budsjettene.
+Nå jobbes det godt med denne opptrappingsplanen, og som vi også har varslet Stortinget om, tar vi sikte på å legge den fram i løpet av våren.
+Det vert frå regjeringspartia vist til strategien for psykisk helse, Mestre hele livet, og at det der står at regjeringa vil vurdera å lovfesta ei plikt for kommunane til å utpeika ein instans som skal ha ansvaret for å koordinera hjelpetilbodet til barn og unge, og dette med å få til ei utviding av avtalane mellom kommunar og sjukehus for nettopp dei same gruppene.
+Eg er faktisk einig med statsråden i at ein ikkje treng nye utgreiingar.
+Eg synest det som står i strategien, er veldig bra.
+Men vi er meir utålmodige.
+No er det to år sidan den strategien vart lagd fram.
+Kvifor må ein bruka så lang tid på å vurdera å lovfesta dette?
+Senterpartiet meiner dette er ein veldig god idé, og at ein bør kunna vedta det, med dei nødvendige førebuingane.
+Ja, vi er i gang med å utrede dette.
+Den nye regjeringsplattformen er forsterket, utover det som står i strategien, på dette området.
+Det vil en også finne under det som er den nye likeverdsreformen.
+Så det å jobbe med dette har høy prioritet i regjeringen.
+Jeg er enig i at det er viktig å få på plass.
+Da forstår eg at det vert jobba for å få ei lovfesta plikt.
+Kor lang tid ser statsråden for seg at det vil ta før ein kjem med ei sak til Stortinget?
+Det er lov å prøve seg.
+Men som representanten Toppe vet, kan vi ikke varsle saker før vi formelt har varslet dem til Stortinget, men dette jobbes det med.
+Replikkordskiftet er omme.
+De talere som heretter får ordet, har en taletid på inntil 3 minutter.
+Det som er positivt med den debatten vi har hatt i dag, er at partiene vil konkurrere om å ha den beste politikken for de sårbare barna.
+Det er utrolig bra.
+Det har blitt mer åpenhet de siste årene om temaet vold og overgrep.
+Vi har blitt bedre på forebygging.
+Likevel er det fortsatt mye som gjenstår.
+Selv har jeg vært ordfører i Ski kommune.
+Der jobber vi med et program som heter Trygge lokalsamfunn.
+En av de tingene vi gjorde i Ski kommune, var å si at kampen mot vold og overgrep skulle være den viktigste satsingen i det programmet.
+Vi har tidligere jobbet mye med det fysiske miljøet:
+ trafikksikring, trygge skoleveier osv., men som flere har vært inne på her i dag, er det for noen hjemmet som er den mest utrygge plassen, og det er vi nødt til å gjøre noe med.
+Det vi har gjort i Ski kommune, er bl.a. å jobbe for å styrke barns egen kompetanse for å sette grenser for sin egen kropp.
+Vi har hatt fagdager for ansatte i barnehager og skoler.
+Vi har program for barn både i barnehager og på flere trinn i skolene for at de skal få bedre kompetanse selv.
+Som sagt har vi blitt bedre på åpenhet, og vi har blitt bedre på forebygging.
+Men det jeg som tidligere kommunepolitiker kjenner jeg har savnet, er at vi må bli bedre på hele kjeden.
+Vi må bli bedre på samhandling mellom kommunene og spesialisthelsetjenesten, og vi må bli bedre på behandlingstilbud etter at overgrep og vold er oppdaget i en familie.
+Dette handler om tilbud for dem som har vært utsatt for overgrep, men – ikke minst – et tilbud for dem som utfører overgrep.
+Som kollega Elise Bjørnebekk-Waagen var inne på, er det faktisk sånn at mange seksuelle overgrep blir begått av andre barn.
+Dette er barn som også sårt trenger et behandlingstilbud.
+Til slutt har jeg lyst til å si noe om kommende Nordre Follo kommune.
+Vi skal jo slås sammen med vår nabokommune Oppegård.
+Her har Nordre Follo Arbeiderparti et litt nyskapende punkt i sitt kommunevalgprogram.
+Vi går rett og slett til valg på å gjøre Nordre Follo kommune til en voldtektsfri sone.
+Mange synes kanskje det høres naivt ut, men hvis vi ikke setter oss hårete mål, hvor ender vi opp da?
+Det at ingen skal oppleve vold eller overgrep, at vi virkelig har en ambisjon om det, en visjon om at det ikke skal foregå i vår kommune, det synes jeg er bra, og det kunne vi gjerne hatt for hele landet også.
+Jeg synes det er bra at det er flere representanter som er opprørt og utålmodige.
+Men jeg registrerer også at Kristelig Folkeparti, kanskje etter at de gikk i regjering, har blitt litt mindre utålmodige og litt mer fornøyd med regjeringens politikk.
+Det vises til at nåværende statsråd Ropstad skal koordinere dette arbeidet, og man er nå strålende fornøyd med opptrappingsplanen mot vold og overgrep – en opptrappingsplan som av flere har blitt beskrevet som en problemskildring.
+Jeg er til og med fristet til å bruke Ropstads egne ord om planen, som var:
+«Jeg var fristet til å sende hele planen tilbake til regjeringen, så dårlig og lite forpliktende synes jeg den er.»
+Dette er det dokumentet som skal være fyrtårnet i arbeidet mot vold og overgrep.
+Planen er ikke forpliktende nok, den er ikke god nok, og den er av flere blitt beskrevet som en problemskildring.
+Jeg skulle ønske at Kristelig Folkeparti tok med seg sitt brennende engasjement i regjering til faktisk å sørge for at dette ble det gjort noe med, til å sørge for at disse planene ble økonomisk forpliktende, og til å sørge for at det ble en reell endring.
+Barneombudet har påpekt at det er hull i flere lover.
+I barnehageloven, i opplæringsloven, i sosialtjenesteloven, i lov om barnevern, i lov om krisesentre, i helse- og omsorgstjenesteloven – i flere lover – er det formuleringer som omhandler samordning og koordinering, men ordlyden er forskjellig, og noen steder er det til og med forskriftsfestet og ikke i lov.
+Det skaper uklarheter for dem som skal jobbe ute i feltet.
+Det er ikke like formuleringer, det er ikke koordinert.
+Det er behov for en overordnet generell lovfesting av plikt til koordinering.
+Dette er Barneombudet krystallklare på, og jeg kunne ikke vært mer enig.
+Det er behov for å tette hullene, det er behov for å sørge for at dette blir en generell plikt.
+Jeg vil gjerne ta imot den oppfordringen som representanten Bjørnebekk-Waagen nå kommer med til Kristelig Folkeparti, en oppfordring om å sørge for at opptrappingsplanen blir konkret, og at den har virkemidler som utgjør en forskjell.
+Takk for oppfordringen – den tar vi på strak arm.
+Jeg har lyst til bare å si lite grann til det som ble sagt om barne- og familieministerens uttalelse da regjeringen kom med denne opptrappingsplanen for første gang.
+Ja, det var en opptrappingsplan som ikke var forpliktende nok.
+Så gjorde vi noe annet enn det Arbeiderpartiet gjorde, for Arbeiderpartiet ville sende den tilbake.
+Det vi i Kristelig Folkeparti gjorde, var å sette oss ned og fremme en hel rekke konkrete tiltak, som vi fikk på plass i denne opptrappingsplanen.
+Vi valgte altså ikke passivt bare å sende den tilbake – i håp om at regjeringen skulle forstå et eller annet – vi valgte å sette oss ned og gjøre et grundig arbeid.
+Derfor har opptrappingsplanen blitt sånn som den har blitt, og vi skal følge opp det som vi har fått på plass der.
+Oppfordringen fra Bjørnebekk-Waagen om å sørge for at den blir konkret, og at den utgjør en forskjell, tar vi på strak arm.
+Representanten Elise Bjørnebekk-Waagen har hatt ordet to ganger tidligere og får ordet til en kort merknad, begrenset til 1 minutt.
+Jeg synes det er flott at representanten Geir Jørgen Bekkevold tar utfordringen på strak arm, og jeg håper virkelig at de lykkes i det arbeidet.
+Når Arbeiderpartiet valgte å be regjeringen utarbeide en ny opptrappingsplan, handler det om at dette var en opptrappingsplan som i bunn og grunn ikke var god nok.
+Det var temaer som var utelatt, og det var ikke økonomisk forpliktende.
+Det å pynte på det med små vedtak i Stortinget har ikke tettet hullene.
+Og selv om Kristelig Folkeparti har fått flere forslag inn i planen, er det fortsatt sånn at pengene ikke følger med.
+Når vi får budsjettene, ser vi år etter år at det er småkroner som følger med opptrappingsplanen.
+Når ikke kronene følger med, hjelper det ikke at Kristelig Folkeparti har fått gjennomslag for noen forslag til vedtak.
+Flere har ikke bedt om ordet til sak nr. 4.
+Da er Stortinget klar til å gå til votering.
+I sak nr. 1 foreligger det ikke noe voteringstema.
+Det voteres over lovens overskrift og loven i sin helhet.
+Lovvedtaket vil bli ført opp til andre gangs behandling i et senere møte i Stortinget.
+Under debatten er det satt frem i alt to forslag.
+Det er
+ forslag nr. 1, fra Tore Hagebakken på vegne av Arbeiderpartiet
+ forslag nr. 2, fra Kjersti Toppe på vegne av Senterpartiet og Sosialistisk Venstreparti
+Det voteres over forslag nr. 2, fra Senterpartiet og Sosialistisk Venstreparti.
+Forslaget lyder:
+«Stortinget ber regjeringen fremme forslag i statsbudsjettet for 2020 om en tilskuddsordning for dekning av historiske pensjonskostnader som inkluderer alle ideelle aktører som har levert tjenester til det offentlige, inkludert til lavere forvaltningsnivå, som har mottatt offentlige tilskudd til drift av tjenester som er samfunnsnyttige, og som også omfatter andre tjenesteområder enn barnevernet og spesialisthelsetjenesten.»
+Rødt har varslet støtte til forslaget.
+Det voteres over forslag nr. 1, fra Arbeiderpartiet.
+Forslaget lyder:
+«Stortinget ber regjeringen utrede de økonomiske konsekvensene av å dekke ideelles organisasjoners historiske pensjonskostnader for kommunal og fylkeskommunal sektor og for ideelle aktører utenom leverandører av statlige spesialisthelsetjenester og barneverntjenester og komme tilbake til Stortinget på egnet måte.»
+Miljøpartiet De Grønne har varslet støtte til forslaget.
+Senterpartiet, Sosialistisk Venstreparti og Rødt har varslet subsidiær støtte til forslaget.
+Jeg stemte feil.
+Jeg skulle ha stemt mot.
+Det korrigerer vi.
+Da blir det 50 stemmer mot og 45 stemmer for forslaget fra Arbeiderpartiet.
+Komiteen hadde innstilt til Stortinget å gjøre følgende
+Bak tilrådingen står Høyre, Fremskrittspartiet, Venstre, Kristelig Folkeparti og Miljøpartiet De Grønne.
+Under debatten er det satt frem i alt fem forslag.
+Det er
+ forslag nr. 1, fra Elise Bjørnebekk-Waagen på vegne av Arbeiderpartiet, Senterpartiet og Sosialistisk Venstreparti
+ forslagene nr. 2 og 3, fra Elise Bjørnebekk-Waagen på vegne av Arbeiderpartiet og Sosialistisk Venstreparti
+ forslagene nr. 4 og 5, fra Kjersti Toppe på vegne av Senterpartiet
+Det voteres over forslagene nr. 2 og 3, fra Arbeiderpartiet og Sosialistisk Venstreparti.
+Forslag nr. 2 lyder:
+«Stortinget ber regjeringen utrede og fremme forslag om hvordan én kommunal tjeneste kan utøve det overordnede ansvaret i kommunen for å kartlegge behov og følge opp barn og familier som har opplevd vold i nære relasjoner.
+I en slik utredning bør den kommunale helsetjenestens rolle vurderes særskilt.»
+Forslag nr. 3 lyder:
+«Stortinget ber regjeringen utrede en generell lovfesting av barn og unges rett til samordnede tjenester og komme tilbake til Stortinget på egnet måte.»
+Miljøpartiet De Grønne og Rødt har varslet støtte til forslagene.
+Det voteres over forslagene nr. 4 og 5, fra Senterpartiet.
+Forslag nr. 4 lyder:
+«Stortinget ber regjeringen legge frem forslag om en lovfestet plikt for kommunene til å utpeke en instans som har ansvaret for å samordne hjelpetjenester til utsatte barn og unge i kommunen.»
+Forslag nr. 5 lyder:
+«Stortinget ber regjeringen foreslå en bestemmelse i de lovpålagte samarbeidsavtalene mellom de kommunale helse- og omsorgstjenestene og spesialisthelsetjenesten som sikrer samarbeid om utsatte barn og unge som behøver tjenester fra begge nivåene.»
+Rødt har varslet subsidiær støtte til forslagene.
+Det voteres alternativt mellom innstillingen og forslag nr. 1, fra Arbeiderpartiet, Senterpartiet og Sosialistisk Venstreparti.
+Forslaget lyder:
+«Stortinget ber regjeringen utarbeide en offentlig og lett tilgjengelig oversikt over hvilke hjelpetilbud som finnes for barn utsatt for vold og seksuelle overgrep og deres familier i landets kommuner.
+For å sikre flere barn god hjelp må oversikten lages raskt, og det må sikres at både skoler, elevene og ulike helsetjenester i kommunene blir gjort kjent med denne oversikten.»
+Miljøpartiet De Grønne og Rødt har varslet støtte til forslaget.
+Det foreligger ikke noe referat.
+Dermed er dagens kart ferdigbehandlet.
+Forlanger noen ordet før møtet heves?
+– Så synes ikke, og møtet er hevet.

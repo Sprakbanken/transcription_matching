@@ -1,0 +1,961 @@
+Først vil jeg takke komiteen for samarbeidet om behandlingen av Prop.
+8 L for 2016–2017.
+Samferdselsdepartementet foreslår i denne proposisjonen lovendringer som legger til rette for velfungerende markeder i jernbanesektoren.
+De foreslåtte lovendringene muliggjør gjennomføring av europaparlaments- og rådsdirektiv 2012/34/EU av 21. november 2012 om etablering av et felles europeisk jernbaneområde i norsk rett.
+Flere av de nye bestemmelsene som gjennomføres, er blant forutsetningene for jernbanereformen.
+I tillegg foreslår departementet visse andre presiseringer og endringer i jernbaneloven og jernbaneundersøkelsesloven som det gjennom praktisering av lovene har vist seg å være behov for.
+Direktivet trådte i kraft 15. desember 2012.
+Direktivet er ennå ikke tatt inn i EØS-avtalen, men departementet finner det likevel hensiktsmessig å gjennomføre direktivet i norsk rett nå.
+Departementets begrunnelse er at det er sentralt å ha tydelige regler om strukturen i jernbanesektoren, rollefordeling, tilgang til jernbanerelaterte tjenester og markedsovervåkingsorganets stilling for å få utnyttet flere av de tiltenkte effektene av den pågående jernbanereformen.
+Departementet foreslår følgende endringer i jernbaneloven som muliggjør en fullstendig gjennomføring av direktivet i norsk rett:
+ ny § 5 a om serviceanlegg
+ presisering av § 8 om tilgang til det nasjonale jernbanenettet
+ ny § 11 b om tilsynsmyndigheten som markedsovervåkingsorgan
+I tillegg foreslår departementet visse andre presiseringer og endringer i jernbaneloven.
+Disse omfatter:
+ endringer i rusbestemmelsene i §§ 3 a og 3 c – harmoniseres med vegtrafikkloven
+ hjemmel for å gi forskrifter om sertifiseringsordninger for enhet med ansvar for vedlikehold av rullende materiell mv. i ny § 5 b
+ klargjøring av § 10 om byggegrenser langs jernbanen
+I proposisjonens kapittel 4 gjennomgås forslagene til endringer og presiseringer i jernbaneloven som muliggjør en fullstendig gjennomføring av direktivet i norsk rett.
+I kapittel 5 gjøres det rede for lovens bestemmelser om ruspåvirkning, mens det i kapittel 6 gjøres rede for lovens bestemmelser om vedlikehold av rullende materiell og en sertifiseringsordning for dette.
+I kapittel 7 gis en presisering av jernbaneloven § 10 – Tilgrensende eiendommer – og i kapittel 8 gjøres det rede for lovens bestemmelser om utveksling av taushetsbelagte opplysninger med nasjonale myndigheter.
+I kapittel 9 gjøres det rede for de foreslåtte endringene i jernbaneundersøkelsesloven.
+Det er en enstemmig komité som står bak merknadene og innstillingen.
+I disse tider, da det åpenbart er vanskelig å få enighet i dette hus i andre saker, kan vi i hvert fall konstatere at her er det enighet i komiteen.
+Vi har gått nøye inn i de foreslåtte lovendringene, spesielt i § 8.
+Etter en helhetlig vurdering er vi enig i de foreslåtte lovendringene.
+Vi anser det som helt greie oppryddinger, og alle er enig i de lovendringene som er foreslått, og som saksordføreren har lagt fram og presisert for Stortinget.
+Det er nok ikke helt sånn, for det gikk litt fort i svingene her.
+Vi er ikke med på tilrådningen om å stemme for, dermed skulle vi heller ikke vært med på komiteens merknader.
+Sekretariatet er gjort oppmerksom på dette.
+Vi er tydelige på at vi ikke støtter direktivet.
+Flere har ikke bedt om ordet til sak nr. 1.
+Etter ønske fra transport- og kommunikasjonskomiteen vil presidenten foreslå at taletiden blir begrenset til 5 minutter til hver partigruppe og 5 minutter til medlemmer av regjeringen.
+Videre vil presidenten foreslå at det – innenfor den fordelte taletid – blir gitt anledning til inntil seks replikker med svar etter innlegg fra medlemmer av regjeringen, og at de som måtte tegne seg på talerlisten utover den fordelte taletid, får en taletid på inntil 3 minutter.
+– Det anses vedtatt.
+Det har vært delte meninger i komiteen om hvor omfattende denne saken er.
+Jeg har oppfattet at Arbeiderpartiets representanter har ønsket å bruke denne saken til en omkamp om selve jernbanereformen, mens flertallet nok har sett på dette mer som en naturlig oppfølging av et vedtak som allerede er fattet.
+Det har imidlertid ført til at også Høyre, Fremskrittspartiet, Kristelig Folkeparti og Venstre i sine merknader har måttet minne om hovedformålet med reformen:
+ et skille mellom styrende og utførende enheter, like konkurransevilkår for private og offentlige aktører og kundenes behov – både privatpersoner og næringsliv.
+Jeg regner med at mindretallet selv vil redegjøre for sitt syn.
+Jeg kan imidlertid konstatere at det brede flertallet som sto bak vedtaket fra juni i fjor, igjen befestes.
+I Meld.
+St. 27 for 2014–2015, På rett spor – Reform av jernbanesektoren, legges grunnlaget for den framtidige organiseringen av jernbanesektoren.
+Jernbaneverket omdannes til et statsforetak som følger statsforetaksloven, infrastrukturforetaket Bane NOR SF, og et direktorat.
+Infrastrukturforetaket skal ha ansvar for operative oppgaver som drift, vedlikehold og bygging av jernbaneinfrastruktur, trafikkstyring mv.
+Direktoratet vil ha ansvar for strategiske og styrende oppgaver, dvs. langsiktig planlegging av infrastruktur, bestilling av togtilbud, koordinering av trafikktilbud på jernbane og samordning av tilbudet med annen kollektivtransport.
+Videre vil direktoratet ha et overordnet og helhetlig ansvar for sikkerhet og beredskap for jernbanen som en del av et samlet transportsystem.
+Reformen legger opp til mer konkurranse om persontransport med tog.
+Utføring av flere bygge-, drifts- og vedlikeholdsoppgaver skal gradvis settes ut på anbud.
+NSB-eide Mantena, som driver vedlikeholdstjenester på rullende materiell, vil bli et selvstendig selskap direkte under Samferdselsdepartementet.
+Eiendomsselskapet ROM Eiendom AS vil bli overført til det nye infrastrukturforetaket.
+Videre vil rullende materiell bli overført fra NSB AS til et nyopprettet aksjeselskap underlagt Samferdselsdepartementet.
+Dette togmateriellet vil bli brukt av de togselskapene som vinner konkurranse om trafikkpakkene.
+Med ny struktur og ny arbeidsdeling mellom aktørene i jernbanesektoren har det vært nødvendig å gå igjennom lovverket på nytt.
+Det er det vi behandler i dag.
+Prop.
+143 L for 2015–2016 er en oppfølging av Meld.
+St. 27 for 2014–2015, På rett spor – Reform av jernbanesektoren, som ble vedtatt i Stortinget den 15. juni 2015.
+Endringene er nødvendige i en reformert sektor av hensyn til sikkerhet, konkurranse og den nasjonale samfunnssikkerheten og beredskapen.
+Det er også gjort rede for departementets vurderinger der det ikke er foreslått lovendringer, men hvor hensynet til andre lover blir påvirket av reformen.
+Dette gjelder særlig plan- og bygningsloven, forvaltningsloven, offentlighetsloven, målloven og arkivloven.
+Saken kom opp under togstreiken, og det førte til at Arbeiderpartiet ba om lengre frist for tilbakemeldinger.
+I mellomtiden er streiken avsluttet, og regjeringen har fått ros for hurtig svar på Riksmeklerens forslag om nasjonale standarder for føreropplæring, og forslaget om å danne en bransjeorganisasjon som kan ta seg av viktige sikkerhetsspørsmål uavhengig av jernbaneaktører.
+Dette er kvittert ut med en felles merknad fra Høyre, Fremskrittspartiet, Kristelig Folkeparti og Venstre, hvor disse partiene slutter seg til hensiktsmessigheten med en bransjeforening for jernbanen, som særlig kan arbeide med felles utfordringer for å ivareta og helst styrke det gode sikkerhetsnivået vi har i dag.
+Som saksordfører Jegstad sa, er lovendringene som nå er til behandling, en oppfølging av den såkalte jernbanereformen.
+Jeg er nok litt usikker på om han helt har sine ord i behold når han sa at det var et bredt flertall som sto bak jernbanereformen.
+Det var et rimelig stort mindretall i Stortinget som stemte imot reformen slik den nå er vedtatt.
+Vi har et skille i Norge i dag mellom infrastruktur og togoperatør.
+Det er ikke noe tema som egentlig bør diskuteres.
+Det nye med jernbanereformen er en fullstendig konkurranseutsetting av alt – ikke bare av jernbanetrafikken.
+Det varsles også en storstilt konkurranseutsetting av tjenester som i dag produseres av Jernbaneverket.
+Reformen legger opp til konkurranseutsetting og privatisering av virksomhet som i dag foretas av offentlige aktører.
+Jernbanereformen har antakeligvis, eller ganske sikkert, kostet 500 mill. kr i direkte kostnader før reformen i det hele tatt har trådt i kraft.
+Reformen medfører, etter mindretallets mening, en ansvarspulverisering innenfor jernbanen, og vi bygger nå opp et enormt administrasjonsapparat.
+Nytt direktorat, nytt statlig foretak, og mange nye selskaper etableres som en følge av vingeklippingen av NSB.
+I det hele tatt:
+ Vi bygger opp et stort og dyrt administrasjonsapparat.
+Vår løsning er, i stedet for den såkalte jernbanereformen, å gjøre mer av det som har fungert de siste årene – bygge en mer moderne jernbane, kjøpe flere nye tog, sette NSB i stand til å yte enda flere og enda bedre tjenester til de reisende.
+Mellom Lillestrøm og Asker går det nå tog hvert tiende minutt.
+På den strekningen møter man nesten ikke misfornøyde folk i det hele tatt – fordi det fungerer.
+Ny dobbeltsporet jernbane, og nye tog – folk er fornøyde, og passasjerene strømmer til NSB, med det til følge at NSB i både 2014 og 2015 har levert rekordresultat.
+Det er uforståelig at en i en slik situasjon skal røske alt opp med rota, vingeklippe NSB og ha jernbanen ut på en storstilt konkurranseutsetting – et forsøk som ingen andre land i Europa har gjort maken til.
+Vi har i innstillingen tatt opp noen av de sakene som også kom fram under høringen som regjeringen gjennomførte om lovforslaget.
+Arbeiderpartiet og Senterpartiet fremmer derfor forslag om at det skal innføres en nasjonal sertifiseringsordning for lokførere.
+Vi er noe overrasket over at vi ikke får tilslutning til det forslaget.
+Vi har tolket og oppfattet regjeringspartiene og støttepartienes talsmenn i forbindelse med den før nevnte lokførerstreiken slik at det var enighet om at det skulle innføres en sertifiseringsordning.
+Det må være myndighetene som sertifiserer lokførere – uavhengig av hvilket selskap de skal kjøre for.
+Slik har vi det innenfor langtransporten.
+Slik har vi det innenfor øvrige transportformer.
+Det må være myndighetene som sertifiserer togpersonell og i særdeleshet lokførere.
+Vi har også fremmet forslag om at det skal innføres bestemmelser om kjøre- og hviletider for togpersonell.
+Ingen tilbakemeldinger, ingen argumenter imot, ingen av regjeringspartienes talsmenn har i det hele tatt – verken i innstillingen eller ved saksordføreren nå – argumentert imot forslaget.
+Etter vår oppfatning burde det vært en selvfølge.
+Vi har også foreslått at det skal innføres et felles regelverk for pensjonen til de ansatte i selskaper i jernbanesektoren for å rydde opp i det pensjonskaoset som nå er, særlig i NSB.
+Noen av enkeltendringene kunne nok isolert sett vært greie, men slik lovendringene er lagt opp, henvisningene til jernbanereformen, og slik det argumenteres for lovendringene i forarbeidene, kan vi ikke støtte dem.
+Vi kommer derfor til å stemme imot lovendringene.
+Jeg vil helt til slutt ta opp de tre forslagene fra Arbeiderpartiet og Senterpartiet.
+Representanten Sverre Myrli har tatt opp de forslagene han refererte til.
+Det er et bredt flertall i Stortinget som står bak jernbanereformen og målsettingene med denne, slik det er beskrevet i Meld.
+St. 27 for 2014–2015, På rett spor – Reform av jernbanesektoren.
+Reformen av jernbanesektoren har som overordnet mål å sikre et stadig bedre tilbud til forbrukerne gjennom en tydeligere og effektiv styring av sektoren, kombinert med et større mangfold av tilbydere innen persontransport på jernbanen.
+Reformen skaper debatt, og også i denne saken vil de partiideologiske skillelinjene tegne seg tydelig.
+Konkurranseutsetting i seg selv er ikke et mål for Fremskrittspartiet.
+Det er tilbudet og mangfoldet i tjenestetilbudet som er viktigst – og da av hensyn til brukerne.
+Gjennom denne proposisjonen redegjør regjeringen for hvilke strukturelle endringer det legges opp til i forbindelse med reformen.
+Dette svarer til stortingsflertallets målsetting om en konkurransedyktig sektor med klare rollefordelinger:
+ Det skal sikres en klar skillelinje mellom styrende og utførende enheter.
+De statlige selskapene skal ikke gis konkurransefordeler.
+Kundens behov skal stå i sentrum gjennom like rammebetingelser for alle aktører.
+Norsk jernbane skal være sentral i løsningen på mange av morgendagens transportutfordringer.
+Da må det nødvendigvis bety at vi gradvis må tilpasse oss det europeiske markedet og deres måte å drive persontransport med tog på.
+Vi kan slå fast at jernbanen fortsatt skal ha en sterk statlig styring, og regjeringen jobber aktivt med å løse usikkerhetsmomentene rundt endringene som nå foreslås gjennomført.
+Sikkerheten og forutsigbarheten for de ansatte og for forbrukerne skal være i førersetet gjennom det videre reformarbeidet.
+Det har statsråden vært meget tydelig på, og stortingsflertallet vil også følge dette opp.
+Denne regjeringen har satset massivt på jernbane, og det gir resultater.
+En økning i bevilgningene på nær 50 pst. har resultert i at vedlikeholdsetterslepet på jernbanen reduseres for første gang på flere tiår.
+Den samlede innsatsen på jernbanen med bevilgninger til investeringer, planlegging, vedlikehold og arbeidet med reform vil helt klart sikre et bedre togtilbud til de reisende.
+I forbindelse med reformarbeidet ble det den 17. oktober i år presentert en rapport fra selskapet Safetec, som har gjennomgått ulike risikofaktorer ved gjennomføringen av reformen.
+Selskapet konkluderer med at det er noen risikoer, men ingen som ikke kan lukes vekk ved enkle grep.
+Hovedkonklusjonen støtter opp om denne sals flertall, nettopp at tilbudet kan bli bedre dersom reformen gjennomføres riktig.
+Det er ganske åpenbart at strukturendringer vil åpne for noen nye spørsmål og en eventuell usikkerhet, men la det ikke være tvil:
+ Spørsmålene skal besvares grundig, og en eventuell usikkerhet skal fjernes.
+Vi opplevde i høst en omfattende streik i jernbanen knyttet til nettopp usikkerhet.
+Statsråden har gjentatte ganger vært tydelig på at opplæring av lokførere skal være grundig og lik for alle som skal operere togmateriell på norsk jernbane.
+Sammen med Jernbanetilsynet er fagforeningene og NSB invitert til å presisere den allerede etablerte forskriften for å tydeliggjøre og rette opp i eventuell usikkerhet.
+Regjeringen og stortingsflertallet er løsningsorientert og vil være på tilbudssiden gjennom hele denne prosessen.
+Det er derfor svært viktig at alle berørte jobber konstruktivt for å finne gode løsninger.
+Det vil alle være tjent med.
+Til Arbeiderpartiet, som er bekymret for at man må bruke noe penger for å starte en ny reform for så å kunne spare mye i framtiden, stiller jeg spørsmålet:
+ Hva er Arbeiderpartiets løsning for transportsektoren i Norge?
+Man er imot å bruke noe mer penger for å hente gevinsten, å kunne bygge dette landet sammenhengende, så jeg lurer på:
+ Hva er Arbeiderpartiets oppskrift?
+Man kaller det å kutte i byråkratiet, men har ingen løsning for hvordan man kan bygge mer effektivt og drifte mer effektivt – og da med kunden i sentrum.
+Fremskrittspartiet og Høyre har som mål å ha kunden og mennesket i sentrum.
+Det er det som er viktig – å løse folks hverdagsproblemer og gi et bedre tjenestetilbud til alle reisende i dette landet.
+Det forventes en betydelig befolkningsvekst i Norge de neste ti årene.
+Dette skaper økt behov for transport, ikke minst gjelder det i og rundt de største byene.
+Vi har et stort uutnyttet potensial på godssiden, og med nedkorting av reisetid med jernbane mellom flere av de større byene vil jernbanen framstå som et attraktivt reisealternativ også på de lengre strekningene.
+I klimaforliket har vi forpliktet oss til at veksten i persontransport i storbyområdene skal tas med kollektiv, sykkel og gange.
+På denne bakgrunn og av hensyn til framkommelighet og at jernbanen er et kapasitetssterkt og arealeffektivt transportmiddel, framstår dette kollektivtilbudet som den helt sentrale løsningen på framtidens transportutfordringer.
+Det er derfor Kristelig Folkeparti har stått bak behovet for ny jernbanereform.
+Vi ønsker å gjøre transporttilbudet jernbanen representerer, viktigere for flere reisende og flere vareeiere.
+Når vi skal legge til rette for å gjøre jernbanen viktigere for flere mennesker, er det nødvendig at vi tar vare på det som fungerer godt i dag.
+Da vil jeg nevne det aller viktigste først:
+ sikkerheten.
+Det er ingen som kan betvile at sikkerheten på norsk jernbane er meget god.
+Også regularitet og punktlighet har beveget seg i riktig retning, med punktlighetsoppnåelse på mer enn 90 pst. de senere årene.
+Derfor er det viktig å slå fast at sikkerheten ikke skal svekkes ved gjennomføring av reformen.
+I den forbindelse er vi også glad for at det er blitt tatt et initiativ fra statsråden for å fastsette en nasjonal standard for oppfyllelse av førerforskriftens krav til opplæring av lokførere.
+I dette arbeidet skal det også være involvering av en nyetablert bransjeorganisasjon.
+Vi tror det vil kunne ivareta kravene til sikkerhet på en betryggende måte.
+Det er i dag i stor grad enighet om at det har vært en uhensiktsmessig og til dels uklar oppgavefordeling innenfor jernbanesektoren.
+Det har vært en sammenblanding av myndighetsoppgaver og operative oppgaver.
+Jernbaneverket har vært både et myndighetsorgan og en leverandør av togselskapenes viktigste innsatsfaktor:
+ en velfungerende infrastruktur.
+Etablering av et eget infrastrukturforetak som skal eie, forvalte, drifte, vedlikeholde og fornye jernbaneinfrastrukturen samt utføre trafikkstyring og forvalte eiendom, tror vi er et godt grep for å koordinere og samle de oppgaver som ikke ligger innunder myndighetsoppgavene.
+Jernbanen skal fortsatt være et offentlig ansvar, det har vært viktig for Kristelig Folkeparti.
+Det skal satses på jernbane, slik som man har gjort de siste tre årene, hvor en nå begynner å ta igjen vedlikeholdsetterslepet på jernbanen.
+Det handler nå om å legge til rette for at jernbanen kan bli attraktiv for flere, både for reisende og for dem som er avhengig av å sende gods.
+Så har det vært en problemstilling rundt pensjon i forbindelse med gjennomføring av jernbanereformen.
+Kristelig Folkeparti er opptatt av at det blir en god dialog med fagforeningene om pensjon og oppfordrer partene til å komme fram til enighet.
+Ellers viser jeg til saksordførerens gode gjennomgang av saken.
+Det er ingen tvil om at det er politiske skillelinjer i denne salen når det gjelder denne saken.
+Denne saken er en følge av jernbanereformen, som Senterpartiet ikke støttet, og følgelig støtter vi heller ikke oppfølgingen som foreligger i dag.
+Senterpartiet var, og er, svært skeptisk til den oppsplittingen og privatiseringen som nå foretas av norsk jernbane, og frykter en ansvarspulverisering og oppbygging av et stort administrasjonsapparat som følge av alle enheter og selskaper som nå opprettes.
+Det opprettes en rekke nye selskaper og et direktorat, og det er stort og dyrt.
+Senterpartiet mener at det ikke er mer byråkrati og oppsplitting som sørger for en bedre jernbane – nei, det er faktisk viljen til å bygge mer jernbane og viljen til å satse penger på jernbane som kommer til å bety noe for framtiden.
+Vi så uroen i jernbanesektoren ved streiken som var tidligere i år, og ikke minst går det på sikkerheten.
+Folk er urolige for at man skal lempe på kravene til utdanningen til lokførere, og det må vi for all del ikke gjøre.
+Derfor mener Senterpartiet at det er helt betimelig å stille krav om en nasjonal sertifiseringsordning for lokførere.
+Det vil være med på å skape ro i sektoren hvis man får det til på en god måte.
+Det er heller ingen tvil om at man bør innføre bestemmelser om kjøre- og hviletid for togpersonell, etter en lignende løsning som den man har for tungtransport på vei.
+Det er også uro blant togpersonell fordi man ikke har bestemmelser om kjøre- og hviletid i dag, og at man ved reformen kan få så lange økter at det er uforsvarlig.
+Det må man finne en god løsning på.
+Og så skulle det bare mangle at man ikke løser pensjonsutfordringene, slik at de ansatte i jernbanesektoren ikke har den uroen i tillegg, og derfor fremmer vi de forslagene som vi har gjort i saken.
+Det er helt riktig at opposisjonen benytter enhver mulighet til å ta omkamp om jernbanereformen.
+Det er fordi det er et enormt privatiserings- og konkurranseutsettingsprosjekt forkledd som et luftslott, og luftslottet heter «det blir så mye bedre».
+Men kostnadene er store, og resultatene av det som skjer på jernbanesektoren, vil vi først se om mange år, særlig siden det ikke er utredet på en rimelig og god måte.
+Den omorganiseringen som skjer, er alvorlig, og det ser vi tydeligere og tydeligere.
+En får et fokus på omstilling til byråkratisering og privatisering i NSB og hele jernbanesektoren istedenfor å satse på en bedre jernbane, slik vi har sett en positiv utvikling på i de siste åtte årene.
+Det er vanskelig å snu hvis man først skjener ut i feil retning, og det er et storstilt eksperiment med jernbanen vår uten at det har vært konsekvensutredet på en skikkelig måte.
+Vi ser allerede nå at det er ukontrollert bruk av konsulenter innenfor jernbanesektoren.
+Senest i spørretimen her for et par uker tilbake sto Ketil Solvik-Olsen på talerstolen og ga inntrykk av at han ikke hadde kontroll over konsulentbruken, og jeg vil vel tippe at dette er et eksperiment og et forsøk på avbyråkratisering i staten.
+Istedenfor å ansette folk i Jernbaneverket hyrer man inn konsulentfirmaer, og så ser det pent ut på papiret, men en får ikke kompetansen «in-house» i det hele tatt.
+En har uavklarte pensjonskrav, som jeg også har tatt opp, og på tross av at Venstre garanterte for at pensjonene ville være like gode, vet vi nå at de overhodet ikke vil være like gode dersom det blir privatisert, altså at NSB eller Mantena eller andre taper konkurransen, og i tillegg er ikke dekningen av pensjonene dersom det skjer, avklart.
+Det er tydelig at dette ikke bekymrer noen av regjeringspartiene eller opposisjonspartiene, som logrer for Ketil Solvik-Olsen som sier at dette jobber vi med juridisk.
+Så til det store kuttet i vedlikehold som er foreslått i det budsjettet som nå foreligger:
+ Jeg behøver vel ikke minne om at i de åtte årene de rød-grønne styrte, var kuttene i vedlikeholdet vesentlig større både fra Høyre og Fremskrittspartiet, og som hadde gjort at vi hadde hatt et større etterslep, men vi ser hva regjeringen egentlig ønsker i det budsjettet de har lagt fram nå, og det er kutt i investeringer.
+Etter min oppfatning er man også fra Kristelig Folkepartis side bekymret over at det er for lave planleggingsmidler i jernbanen sånn som det er, og det viser vel hvor fokuset fra statsråden og regjeringen er:
+ Det er mer motorvei og mindre satsing på det som er viktigst på jernbanesiden.
+Det skjer i det hele tatt en partering av NSB med medvirkning fra støttepartiene.
+Påstanden har vært at dette er noe man gjør for å tydeliggjøre ansvaret.
+Jeg har sittet lenge nok på Stortinget til å huske hvordan diskusjonene mellom Jernbaneverket og NSB har vært når togene har stått, men den gangen hadde i det minste NSB ansvaret for rutene og togsettene.
+Men hvem er det som har ansvaret når togene står i framtiden?
+Det oppfordrer jeg Ketil Solvik-Olsen til å svare på.
+Er det eierne av togsettet, er det de som driver vedlikehold av togsettet, som er en annen gjeng, er det de som drifter togsettene, eller er det direktoratet som har fastsatt rutene og eventuelt hatt for lite slakk i rutene?
+I tillegg til dette får en ved oppsplittingen tap av stordriftsfordelene ved det å ha en felles pool av reservetog.
+Hvem er det som har ansvaret hvis et togsett går i stykker?
+Er det operatørene som ikke har betalt for nok ekstratogsett, eller er det noen andre?
+Alle disse spørsmålene står ubesvart.
+Tydeliggjøring av ansvar, kaller Ketil Solvik-Olsen det.
+Jeg kaller det rør og uklarhet.
+Noe av det som er sentralt i saken, og som gjør at vi støtter Arbeiderpartiets og Senterpartiets forslag, handler om kjøre- og hviletid.
+Det er tre ting operatører som vinner anbud, kan spare penger på, og det er lønns- og arbeidsvilkår – jeg har allerede nevnt pensjoner – kompetanse har vært et sentralt streikemoment tidligere, det er renhold, og det er bemanning, men jeg vil bruke 19 sekunder på å snakke om arbeidsvilkår.
+Kjøre- og hviletid er et sentralt arbeidsvilkår.
+Delvis handler dette selvfølgelig om ønskene og behovene til dem som jobber der, men delvis handler det også om sikkerhet.
+Det er en grunn til at vi i den øvrige transportsektoren har kjøre- og hviletidsbestemmelser sentralt og ikke gjennom tariffavtaler.
+Det er uforståelig for meg at det ikke avklares i denne reformen at vi sier ja til å ha sentralt bestemte kjøre- og hviletidsbestemmelser istedenfor å gjøre det til et konkurransespørsmål.
+Satsingen på jernbane har vært en av de store satsingene fra dagens regjering.
+Når en hører debatten så langt, skulle en tro at det var det motsatte, men jeg minner om at jernbanebudsjettet er rundt 7 mrd. kr høyere nå enn da vi overtok.
+Når SV og Arbeiderpartiet gir inntrykk av at en glemmer å satse på infrastruktur, virker det som om de har glemt at de selv har styrt dette landet på langt lavere budsjett, med langt mindre satsing.
+Jeg synes vi skal forholde oss til fakta i en sak.
+Selv om en kan ha ulike politiske vurderinger av hvordan organiseringen fungerer best, er det greit å huske at under åtte rød-grønne år økte forfallet på jernbanen hvert år.
+Under dagens flertall – borgerlig flertall – har forfallet blitt redusert.
+Nesten 1 mrd. kr reduserte en etterslepet med i 2016.
+Det er en ganske stor forskjell i forhold til tidligere, da en økte forfallet med 1 mrd. kr.
+Det er en av hovedgrunnene til at togene nå i større grad er i rute, at passasjerene kommer seg fra perrongen og inn til jobb istedenfor å stå på perrongen og lure på hva som skjer.
+Jeg tror mange av oss husker de ganske mange årene da tidligere samferdselsministre sto og ble kryssforhørt på tv fordi jernbanen ikke var blitt vedlikeholdt og ting hadde gått i stykker.
+Nå kan vi bytte ut delene før de går i stykker, og det er en av de viktigste tingene vi holder på med, og en av de viktigste tingene vi skal gjøre, for at folk får tillit til jernbanen.
+Istedenfor å prøve å skape et inntrykk av at jernbanen nå er i forfall og alt er galt, bør en heller anerkjenne at vi faktisk har snudd trill rundt på dette:
+ Det har aldri vært investert mer enn på disse tre årene, det har aldri blitt vedlikeholdt mer.
+Jeg vet det smerter for SV og Arbeiderpartiet å innrømme, men det er likevel fakta.
+Så har vi også gjort noe som har vært etterlyst lenge.
+Under forrige regjering ble det satt i gang et internt utredningsarbeid der alle de store aktørene i norsk jernbane var med og deltok med innspill, og alle var enige om at slik som organiseringen av jernbanen var, slik burde den ikke være.
+Det er litt rart at Arbeiderpartiet søker tilbake til det som alle i bransjen mente i hvert fall ikke var den gode løsningen.
+Det er nettopp det vi ordner opp i.
+Denne proposisjonen er et eksempel på det.
+Når vi ser at vi må styrke tilsynsmyndighetenes rolle, foreslår vi det.
+Når vi må sørge for at de ulike offentlige aktørene i jernbanesektoren får tydeligere hjemler for det de skal gjøre, foreslår vi det.
+Denne proposisjonen løser mange utfordringer, som jeg registrerer knapt blir nevnt i innleggene fordi en er så opptatt av å snakke ned jernbanesatsingen, men på feil grunnlag.
+Så er det ikke slik at det bygges opp en ny, stor administrasjonsenhet.
+Alle dem vi snakker om her, jobber allerede i ulike deler av jernbanesektoren.
+Men det som har vært problemet, er at ansvaret har vært spredt.
+Ansvaret for eiendom og infrastruktur har vært fordelt over flere steder.
+Vi samler det på ett sted.
+Det reformen handler om, er å samle ansvar slik at de som har med eiendom å gjøre, ikke sitter litt i Jernbaneverket og litt i NSB, men at de sitter i én enhet.
+Det blir ikke flere folk av det, men de folkene som har ansvaret, sitter nå i det samme lokalet, med det samme budsjettet – de samme investeringsperspektivene – og ser utgift og inntekt i ett regnskap, istedenfor i splittede regnskap.
+Der vi ser at det vil være forskjell i bemanningen, er i NSB, ved at de ser at de kan trenge færre mellomledere.
+Det er ingen av disse områdene der en sier at en må ut og ansette en haug med nye mellomledere, men flere steder ser vi nå effektiviseringspotensial.
+Det er derfor det koster litt penger nå, fordi det koster penger å omorganisere – det gjør det alle steder – akkurat som det koster penger å investere i ny produksjonsfasilitet i industrien, men på sikt, når ting er oppe og går, ser en at flere oppgaver kan bli løst av færre folk.
+Det betyr at vi frigjør ressurser til andre ting.
+For eksempel skal vi da frigjøre ressurser til å ha flere tog på skinnene, som gir et bedre tilbud til de reisende, istedenfor at det er færre tog på skinnene, men flere folk som sitter og administrerer dem.
+Den gevinsten vil langt, langt oppveie den kostnaden en nå har med å sørge for at ting blir bedre.
+Så er det litt rart å høre at det skapes det inntrykket at alt nå skal privatiseres.
+Vi skal eie skinnene, vi skal eie svillene, vi skal eie sporvekslene, vi skal eie perrongene, vi skal eie togsetene, stasjonene – alt vil fortsatt være statlig eid.
+SV etterlyser bl.a. at vi må ha en felles togpool, for det er rett og slett fordeler NSB har i dag.
+Ja, i dag har vi jo faktisk to togpooler – én som tilhører NSB, og én som tilhører Flytoget.
+Vi sier at vi skal ha alt dette på ett sted, istedenfor på to steder.
+Det er det motsatte av det representanten Eidsvoll Holmås sier.
+Vi samler ansvaret også her.
+Da blir det litt rart å ha en debatt om en reform der de som argumenterer mot reformen, ikke har fått med seg innholdet i den.
+Det blir replikkordskifte.
+I innlegget sitt sa samferdselsministeren faktisk at alle dem vi snakker om, jobber i jernbanen i dag.
+Spørsmålet mitt er rett og slett:
+ Kan samferdselsministeren love at det som en følge av jernbanereformen ikke blir flere ansatte i administrative stillinger i jernbanen?
+Når reformen er gjennomført, vil det ikke være flere folk som driver med papirflytting i administrative stillinger.
+Men fordi det skal være mer satsing på jernbane framover, vil det jobbe flere folk i jernbanen om ti år enn det gjør i dag.
+Det er iallfall min ambisjon, fordi jernbanen skal ha en enda mer sentral rolle i trafikkavviklingen – i å hjelpe pendlere å komme seg inn og ut av byene for å komme seg på jobb, at mer gods skal gå på skinner istedenfor på asfalt.
+Da vil en trenge flere folk som opererer tog, fikser tog, driver service overfor kundene, sørger for strategisk planlegging o.l. Noe av den utfordringen vi har hatt for norsk jernbane i dag, er at vi har vært mer opptatt av å finne ut hva som gikk galt for ti år siden, istedenfor å ha folk som sitter og tenker ut hvor jernbanen skal være om 20 år.
+Og det er jo derfor vi oppretter et direktorat, for å se mer på det strategiske arbeidet, så vi har en jernbane som hele veien er framtidsrettet istedenfor en jernbane der folk lurer på hvorfor ting stopper, ting vi trodde skulle fungere.
+Derfor vil det være bedre effektivitet jo flere folk som jobber der, men ikke som en følge av den siden av reformen som representanten Myrli tar opp.
+La oss håpe det kommer til å jobbe flere i jernbanen i åra som kommer, men det bør jo være konduktører, lokførere, jernbaneekspeditører, banearbeidere, folk som er ute i trafikken.
+Jeg skjønner at samferdselsministeren ikke kan garantere at det ikke blir færre administrativt ansatte, og grunnen til det er åpenbar – det bygges jo opp et enormt administrativt apparat.
+Neste spørsmål er direkte knyttet til innstillingen som vi i dag har til behandling, og spørsmålet om nasjonal sertifiseringsordning for lokførere.
+Jeg oppfatter det slik at regjeringen og dens talspersoner i forbindelse med lokførerstreiken signaliserte at de var enig i at det skulle lages en slik nasjonal sertifiseringsordning, altså at det er statlige myndigheter som godkjenner – sertifiserer – lokførere, uavhengig av hvilket selskap de skal jobbe for.
+Spørsmålet mitt er rett og slett:
+ Hvorfor er samferdselsministeren imot å innføre en nasjonal sertifiseringsordning for lokførere?
+Hele debatten om kompetansekrav og sertifisering og den typen ting har vi hatt mange ganger, og vi jobber nå i tråd med den avtalen som vi har med de partene som var i streik, for å finne løsninger på dette.
+Det stoler jeg på at vi skal få til.
+Vi opplever at vi har en god dialog med de aktørene.
+La meg likevel gå tilbake til noe av det som representanten Myrli skaper et inntrykk av, at det er et enormt administrativt apparat.
+Jeg minner om at ROM Eiendom eksisterer i dag.
+Vi overdrar virksomheten fra NSB til Jernbaneforetaket.
+Det betyr ikke at de blir flere folk, det blir ikke nye enheter, men en samler ansvar.
+Det betyr at en kan ha færre folk til å gjøre den samme jobben.
+Det er litt rart hvis representanten Myrli tror at det i dag nesten ikke jobber noen administrativt i jernbanen, og at ting opprettes.
+Stort sett flytter vi enheter som etter vårt skjønn er organisert og plassert litt feil, og samler dem på et bedre sted.
+Det betyr ikke at de oppstår på nytt, det blir bare gjort på en bedre måte.
+Vi ser altså at NSB sier at dette gjør at de kan ha langt færre administrativt ansatte, og det er altså en gevinst, ikke en ulempe.
+Jeg kommer inn på dette med virkelighetsbeskrivelser og togpool etterpå – til en god diskusjon – men jeg har ett spørsmål, som jeg tok opp i mitt innlegg, og som jeg synes er et springende punkt, og det gjelder forslaget fra Arbeiderpartiet og Senterpartiet, forslag nr. 2:
+«Stortinget ber regjeringen fremme forslag om at det innføres bestemmelser for kjøre- og hviletider for togpersonell.»
+Så vidt jeg har vært i stand til å bringe på det rene, er dette i dag regulert i tariffavtale, mens det i framtiden vil være arbeidsmiljøloven og minstereglene der som styrer.
+Én ting er hva dette har å si for arbeidstid og den typen ting, at man gjør arbeidstid til et konkurransevilkår, men det er jo en grunn til at også statsråden er tilhenger av kjøre- og hviletidsbestemmelser i transportsektoren – lovfestet eller regelverksfestet.
+Kan statsråden fortelle meg hvorfor han ikke ønsker å ha et regelverk for kjøre- og hviletidsbestemmelser innenfor jernbanesektoren, slik Arbeiderpartiet, Senterpartiet og SV ønsker?
+Sammenligningsgrunnlaget er ikke helt relevant, mener jeg, for hvis en kjører lastebil, kan en kjøre hvor en vil, når en vil.
+Og da må en ha et strengt regelverk, for fleksibiliteten til sjåføren er veldig stor.
+I jernbanen er fleksibiliteten til lokføreren veldig liten, for han kjører etter en oppgitt rutetabell, der staten har bestemt når en får lov til å kjøre, hvor langt en får kjøre, hvor toget skal starte og hvor toget skal stoppe.
+Og det er faktisk sånn i dagens regelverk at jernbaneloven § 3 sier at en ikke kan kjøre tog hvis en er trøtt, og arbeidsmiljøloven sier at arbeidsgiver forplikter seg til å organisere arbeidsdagen slik at sikkerhetshensynet er ivaretatt.
+Så du sammenligner et veldig fleksibelt system, der sjåføren selv har stor fullmakt til å bestemme når og hvor han kjører, med et annet system som er rigid og satt opp, og som gjør at det blir ivaretatt på den måten.
+Men som en del av den jobben vi gjør, er dette noe vi diskuterer med Lokomotivmannsforbundet og andre aktører.
+Så det er ikke sånn at vi ikke ser på det, det er ikke sånn at vi ikke ønsker det.
+Vi skal sikre at det er best mulig ivaretatt.
+Men det er ikke sikkert en trenger nytt lovverk, for det er mange hjemler i dag en kan benytte.
+Jeg sier ikke nødvendigvis «nytt lovverk».
+Jeg sier at et nytt regelverk må på plass, og det er derfor jeg synes det hadde vært fornuftig å stemme for og være med på det forslaget.
+Vi har ingen garanti for at statsråden kommer til å komme med noe regelverk på dette hvis ikke Stortinget vedtar at statsråden skal gjøre det, for han benytter seg jo av vide fullmakter.
+Jeg mener at statsrådens beskrivelse av virkeligheten når det gjelder rutetabeller og hvordan man styrer tiden til lokførere, vitner om for dårlig innsyn i hvordan jernbanen fungerer.
+Det er jo slik at man setter opp ruter, og så er det ingen begrensinger på muligheten for å gå fra et togsett til et annet togsett og kjøre et annet togsett på en annen rute, for det ligger i dag ingen føring fra det nye direktoratet om at man skal binde lokførerne til én rute.
+Særlig innenfor lokaltransporten i østlandsområdet vil det være veldig mye fleksibilitet for togførere til å gå fra det ene stedet til det andre, og den typen generelle bestemmelser er det jo en grunn til at man ikke har som absolutte innenfor veitrafikken.
+Neste replikant er – nei, statsråd Ketil Solvik-Olsen skal få lov til å svare.
+Takk, president – det er hyggelig hvis jeg også får svare!
+Da må jeg bare minne om at vi ikke har fjernet en eneste hjemmel eller regel når det gjelder dette.
+Og det er litt rart at en ikke så behov for å gjøre noe som helst med dette tidligere hvis det er sånn at dette er veldig kritisk nå.
+For det er jo regelverk i arbeidsmiljøloven i dag, det er regelverk i jernbaneloven, og det syntes åpenbart Arbeiderpartiet og SV var tilstrekkelig tidligere, mens det plutselig nå nesten er forferdelig og grusomt at det ikke er annerledes.
+Som jeg nevnte i mitt forrige svar:
+ Dette er noe av det vi jobber med.
+Sikkerheten er ikke noe vi skal gamble med, sikkerheten er ikke noe vi skal forhandle ned, uansett om det er rent statlig, rent privat eller en blandingsøkonomi som ligger til grunn.
+Derfor skal vi jobbe godt sammen med fagbevegelsen og sørge for at dette blir ivaretatt.
+Men det er altså ikke fritt fram i dag.
+Togselskapene har et lovverk de må følge for å sikre at de som kjører togene, er uthvilte og kan gjøre jobben sin skikkelig.
+Jeg synes det er beklagelig at man ikke vil se på kjøre- og hviletidsbestemmelser for togpersonell, for det er en sak de er veldig opptatt av, de som er på togene og jobber i dag.
+La oss tenke oss en lokfører som skal kjøre godstog fra Alnabru til Bodø, eller fra Alnabru til Bergen eller til Stavanger.
+Det er lange strekninger, og det må jo da være sikkerhet for at lokføreren og personellet som er på toget, får hvilt seg i løpet av den tiden og ikke minst får muligheten til å ha et sted å hvile seg i løpet av turen.
+Hvordan vil samferdselsministeren sikre at de som er lokførere, eller de som er på et tog, får den hviletiden de trenger, og at de faktisk har et sted å kunne hvile seg?
+For det første:
+ En del av disse spørsmålene jeg får nå, gjelder jo ting som er uendret fra da den som spør, var med på å styre landet.
+Derfor lurer jeg på hvorfor dette plutselig er en problemstilling i dag, mens en ikke anså det som en problemstilling før.
+Det er det ene.
+Det andre er:
+ Jeg sa jo nettopp i mitt forrige innlegg at noe av det vi jobber med fagforeningene om, er å se på kjøre- og hviletidsbestemmelser.
+Så når premisset i det spørsmålet jeg får nå, er at vi ikke gjør det, er premisset rett og slett feil, og det informerte jeg om i forrige svar.
+Det synes jeg går igjen i mye av denne debatten.
+Nå har vi altså fått høre påstander om at vedlikeholdsetterslepet går opp.
+Det er feil.
+Det gikk opp under forrige regjering, det går ned under vår.
+Vi får høre at investeringsnivået går ned.
+Det er feil; investeringsnivået går opp.
+Vi har fått høre at vi splitter opp togpoolene.
+Nei, vi samler vi dem på ett sted.
+Vi samler ansvaret for eiendom, og vi splitter dem ikke opp.
+Vi oppretter ikke nye organisatoriske enheter som ikke allerede finnes, men flytter dem fra å være under NSB-paraplyen til å ligge rett under Samferdselsdepartement-paraplyen.
+Det betyr altså mindre privatisering, det betyr mer direkte statlig styring enn før.
+Nå ligger de under et statlig AS, i framtiden vil de ligge under et departement.
+Jeg vil over på den store usikkerheten som nå råder blant ansatte i jernbanen – i særdeleshet ansatte i NSB og i NSB som selskap, men også blant ledelsen og de styrende organer – om hva som skjer med pensjonsforholdene framover, spesielt i NSB, men i bransjen som sådan.
+Som svar på et skriftlig spørsmål sa samferdselsministeren nylig at det er satt i gang en prosess overfor ESA for å avklare det juridiske handlingsrommet.
+Det var svar på et spørsmål om pensjonsforholdene i NSB og hva samferdselsministeren gjør for å ordne opp i det.
+Spørsmålet mitt er:
+ Når ble henvendelsen rettet til ESA?
+Har det vært møtevirksomhet mellom norske myndigheter og ESA?
+Og i det hele tatt:
+ Hvordan jobbes det nå overfor ESA for å bringe svar på dette, og når ser samferdselsministeren for seg at saken er klarert?
+Dette er et viktig tema for oss.
+Vi skal sørge for at jernbanen oppleves som et godt sted å jobbe.
+Vi ønsker det skal være trygghet for folk, både knyttet til den sikkerheten de skal ha i hverdagen når de utøver jobben sin, og knyttet til rammene de jobber innenfor.
+For bare en uke siden var dette også tema i Stortingets spørretime, og i det svaret sa jeg det samme som jeg kommer til å si nå, at for oss er det viktig å ha en god og effektiv jernbane.
+Vi skal behandle dem som arbeider der, på en god og respektfull måte.
+Vi har vært tydelige på at vi ikke skal ta vekk opptjente pensjonsrettigheter i forbindelse med denne reformen.
+Det har jeg sagt mange ganger, jeg har vært og sagt det når Lokførermannsforbundet har hatt møte, og når Jernbaneforbundet har hatt møte.
+Dette er ikke en reform der vi skal ta vekk opptjente rettigheter.
+Dette er en reform der vi skal gi et bedre reisetilbud til passasjerene, sørge for å organisere jernbanen mer effektivt, slik at vi kan ha færre folk som administrerer, og flere som utøver tjenester.
+Jeg forstår at Arbeiderpartiet ikke tror noe på det, men all erfaring fra de årene Arbeiderpartiet styrte, tyder på at deres løsning ikke var bedre.
+Resultatene ser vi nå.
+Ting blir bedre på jernbanen, flere reiser
+Dermed er replikkordskiftet omme.
+De talere som heretter får ordet, har en taletid på inntil 3 minutter.
+Jeg kan fortsette der vi slapp.
+Det er jo helt utrolig at samferdselsministeren overhodet ikke var inne på det jeg stilte spørsmål om:
+ Hva foretas nå overfor ESA for å bringe klarhet i de svært alvorlige pensjonsutfordringene som NSB har?
+Det er kun måneder igjen før det blir konkurranse på det norske jernbanenettet, og det er stor usikkerhet i NSB for hvordan selskapet nå skal rette seg før de får avklart spørsmålet om pensjonsforholdene.
+Samferdselsministeren svarte overhodet ikke på hva som er gjort overfor ESA, hvilke møter og kontakter som er foretatt, og når vi kan forvente at det er brakt klarhet i spørsmålet.
+Kanskje mange ikke er klar over det, men egentlig er det et stort jubileum i dag, for 1. desember 1996 ble den gamle forvaltningsbedriften Norges Statsbaner omorganisert til særlovselskapet NSB og Jernbaneverket.
+Det er 20 år på dagen i dag, og egentlig burde vi hatt boller og brus for å feire Jernbaneverkets 20-årsjubileum.
+Det var riktig å foreta den omorganiseringen som skjedde for 20 år siden, og det er ikke riktig som samferdselsministeren påstår, at Arbeiderpartiet er imot alle omorganiseringer.
+Den omorganiseringen – og andre endringer og omorganiseringer – motbeviser samferdselsministerens påstand, men vi skal gjøre de omorganiseringene som er riktige.
+Hvis det er noe vi burde ha tatt lærdom av i disse 20 årene, så er det at vi ikke trenger enda flere selskaper og enheter innenfor jernbanefamilien.
+Vi burde heller samle mer, istedenfor å splitte opp enda mer.
+Nå er det altså det motsatte som skjer – masse enheter, masse selskaper, ansvarspulverisering og et stort administrativt apparat.
+Stordalen fra Fremskrittspartiet sa at Arbeiderpartiet ikke har noen løsninger.
+Det er veldig dumt å skrive ferdig innleggene sine og kommentere andre partis talere før en har hørt hva de andre talerne sier.
+Jeg hadde masse konkrete forslag om hva som er Arbeiderpartiets jernbanepolitikk:
+ bygge mer jernbane, kjøpe flere tog, sette NSB i stand til å bli et enda bedre transportselskap.
+Og så kan vi legge til:
+ samle eierforholdet til stasjoner på ett sted, beholde Flytoget i offentlig eie istedenfor å åpne for salg, slik som regjeringen har gjort.
+Det er i det hele tatt mange gode forslag, men de peker i en helt annen retning enn det stortingsflertallet dessverre nå har vedtatt.
+Det siste poenget mitt er til Grøvan.
+Han prater om at det er god dialog med fagforeningene.
+Slik oppfattes det ikke i fagforeningene.
+Det er stor frustrasjon over det som nå skjer.
+Jeg anbefaler Grøvan å ha møter med tillitsvalgte i ulike fagforeninger, både om det som skjer med pensjonsforhold og om andre spørsmål, for det er stor frustrasjon.
+Nok en gang driver statsråden med det som er hans favorittøvelse, nemlig stråmannsargumentasjon.
+Han framstiller det som om jeg driver svartmaling av utviklingen i jernbanen.
+Tvert imot, det gjorde jeg ikke, jeg sa i mitt innlegg at de åtte siste årene har vi hatt en positiv utvikling i jernbanesektoren.
+Han sa at det har bygd seg opp et vedlikeholdsetterslep under de rød-grønne, og framholdt at det var helt annerledes med Fremskrittspartiet.
+Faktum er at med Høyres og Fremskrittspartiets alternative budsjetter ville vedlikeholdsetterslepet vært større i de åtte årene vi styrte.
+Han framstilte det som at investering og vedlikehold gikk opp, men faktum er at i budsjettet som er framlagt, går de ned i forhold til det nivået som vi har i år.
+Han framholdt at det ble foretatt en rekke interne utredninger som anbefalte endringer.
+Ja, det er riktig, men faktum er at NSB f.eks. aldri har fremmet forslag om den skrivebordsreformen til Ketil Solvik-Olsen, som han og regjeringen valgte å gå videre med.
+Det er også veldig tydelig at han nekter å svare på det enkle spørsmålet mitt om hvem som har ansvaret når togene står.
+Er det de som har ansvaret for vedlikehold, som er ett selskap, er det de som er eierne av togsettene, som er ett selskap, de som drifter togsettene, som er ett selskap, eller er det direktoratet, som har satt opp rutene?
+Han trekker også fram det spørsmålet som handler om hvorfor vi ikke gjorde noe med kjøre- og hviletidsbestemmelsene og regelfestet dette.
+Det kan man godt kritisere oss for, men han må være så ærlig å innrømme at det er mindre behov for det i en situasjon der det er statens eget selskap som kjører og opererer etter et statlig opplegg, framfor en situasjon der det er konkurranse.
+For når det er konkurranse på den måten flertallet har gått inn for at konkurransen skal være – i realiteten bare en konkurranse innenfor persontrafikken som kan konkurrere på bemanning, lønns- og pensjonsvilkår og på renhold – når det bare er de tingene man kan konkurrere på, så skjønner man jo at det må være nettopp på disse områdene en har muligheten til å spare på kostnader.
+Og da er jo nettopp det som handler om kjøre- og hviletid en av de tingene en risikerer at kan komme til å bli en konkurransefaktor.
+Så poenget er at jo mer konkurranse en har, desto større er behovet for å sikre like konkurransevilkår gjennom reguleringer.
+Det er liksom ABC fra Handelshøyskolen, og det burde jo Ketil Solvik-Olsen kjenne til.
+Det siste – og som jeg gjerne skulle hatt et svar fra statsråden på – er:
+ Hvorfor er det sånn at han ikke nå klart vil si fra at han ønsker kjøre- og hviletidsbestemmelser og vil komme tilbake med et regelverk for å sikre at dette ikke blir en ting som det konkurreres på?
+For det første er det jo bra at man er engasjert i tog.
+Det har ikke bestandig vært sånn fra alle partiene.
+Det er ikke noen tvil om at det som nå er gjort, er en enorm byråkratisering.
+Man splitter opp istedenfor å samordne, selv om man prøver å si noe annet.
+Det er heller ikke tvil om at selv om det kanskje ikke blir mange flere folk, så øker man i hvert fall konsulentbruken enormt.
+Jeg synes det også er bemerkelsesverdig at man ikke benytter anledningen til å være tydelig når det gjelder pensjon.
+Jeg registrerer at statsråden i media har forsøkt å berolige alle ansatte, men når man i dag har muligheten i denne salen til å si fra om hva man egentlig mener, benytter man ikke den muligheten.
+Da tenker jeg på det forslaget som ligger i innstillingen fra Arbeiderpartiet og Senterpartiet, som nå også blir støttet av SV, forslag nr. 3.
+Da hadde den tvilen blitt lagt til side.
+Men jeg registrerer at det vil man ikke, og da har man fortsatt grunn til å være bekymret.
+Det er to forhold knyttet til dette:
+ Det ene er pensjonsrettighetene som sådan, og det andre er om man faktisk ønsker lik konkurranse.
+For hvis man ikke ordner opp i pensjonsforholdene, går man faktisk med åpne øyne ut og sidestiller NSB og setter dem for så vidt ikke i stand til å konkurrere på like vilkår.
+Så til dette med sertifiseringsordningen for lokførerne:
+ Ja, det er ikke lenge siden den streiken var over.
+Også da sa statsråden at hadde man kommet tidligere til ham, skulle de ha ryddet opp i det.
+Ja, i dag har han hatt muligheten til å få folk på Stortinget til å være med og rydde opp i den saken også, ved å gå inn for forslaget som ligger i innstillingen fra Arbeiderpartiet og Senterpartiet når det gjelder sertifiseringsordningen for lokførerne.
+Det velger man heller ikke å gjøre, og da forstår man godt at tvilen er stor ute blant fagorganisasjonene.
+Så til det siste:
+ kjøre- og hviletida.
+I spørretimen i går hadde vi en sak som gikk på sikkerhet i luftfarten, og jeg blir veldig usikker på hva slags regjering vi har, når man også setter sikkerheten i spill når det gjelder tog.
+I går hadde vi et eksempel på at man gjorde det i luftfarten, og i dag gjør man det på togsida, for man vil heller ikke være med på å lage klare regler når det gjelder kjøre- og hviletid.
+Legg merke til det.
+Statsråden kan godt stå her og forsøke å si at de ikke vil privatisere, men vi har nettopp lest i Fremskrittspartiets programutkast at det er nettopp det de vil.
+De vil selge NSB, og de vil ha fri konkurranse på jernbanenettet.
+De vil ikke bare konkurranseutsette, de vil ha fri konkurranse, og hvorfor skal vi være trygge på det når vi ser at de allerede har foreslått å selge Flytoget?
+Nei, det er ingen grunn til å føle seg trygg.
+Det er ikke rart at fagforeningene er urolige i disse tider.
+Det er ikke lett å føre en debatt når noen tror at konkurranseutsetting er det samme som privatisering.
+La meg først fortelle representanten Juvik at privatisering er når staten eller det offentlige fraskriver seg alt ansvar.
+Det er ikke det vi snakker om i dag.
+Det er faktisk snakk om at staten fortsatt har et eierskap, det er staten som legger rammebetingelsene, og dét er konkurranseutsetting og ikke privatisering.
+Konkurranseutsetting er sunt for mangfoldet.
+Det kunne være fristende å spørre Heikki Eidsvoll Holmås, som mener det er så ille at man skal konkurranseutsette denne tjenesten:
+ Er det slik at staten kanskje da skulle ha alle bussene, all kollektivtransporten, og også kjøre alle bussene, at de skal være statlig ansatte alle sammen?
+Skal alle som kjører taxi være statlig ansatte, skal de ansettes i ett selskap fordi det er mye bedre?
+Den type monopol vil iallfall ikke denne regjeringen ha noe mer av.
+Så var det kritikk fra Myrli, som sier at her lurer man på hva vi egentlig vil, at Arbeiderpartiet vil satse på jernbane og mener at vi nedprioriterer.
+Da vil jeg minne om at forfallet økte i et gedigent tempo – for Myrli sa at man skulle øke tempoet.
+Ja, ett tempo klarte man å øke i Arbeiderparti-regjeringen:
+ Forfallet økte i et forrykende tempo.
+Det er nå snudd ved at man har tatt igjen forfallet – man har altså økt vedlikeholdet på jernbanen, man har økt innsatsen, og man kjøper sågar betydelig flere togsett enn det Arbeiderpartiet la opp til, ca. ett togsett i måneden.
+Dét vil jeg påstå er å satse på jernbanen.
+Det blir for meg mye retorikk og lite politikk og få løsninger.
+Representanten Myrli sier at man skal «sette NSB i stand», men hva mener man med «å sette i stand» når man fortsetter å gjøre det samme som før?
+Hva er løsningen?
+Man kan ikke bare stå her og kritisere uten å ha noen løsning selv.
+Det savner jeg fra opposisjonen.
+Det blir veldig enkelt å snakke om privatisering når vi snakker om konkurranseutsetting.
+Jeg savner mer tydelighet:
+ Hvor er opposisjonen?
+Skal man fortsette å gjøre det samme?
+Skal man reversere reformen?
+Skal man reversere innkjøp av togsett?
+Skal man nå reversere å gi mer midler til vedlikehold?
+Skal man reversere og gå tilbake til lavere investeringstakt?
+Jeg husker at det var demonstrasjoner nesten hver eneste måned.
+Jeg var selv togpendler til Oslo.
+Jeg var selv den som opplevde å ikke få informasjon, opplevde at det ikke ble satset på jernbanen, opplevde at det ikke gikk tog, opplevde at det ikke ble kjøpt tog, for det var materiellmangel, personellmangel.
+Nå går det iallfall flere tog.
+Til Jernbaneverkets 20-årsjubileum:
+ Ja, det er vel en del av en reform som Arbeiderpartiet i dag ville sagt var å splitte opp jernbanen, men som de nå synes er fantastisk bra, og at det nesten er trist at Jernbaneverket nå i stedet skal bli et jernbaneforetak.
+Det som Arbeiderpartiet før syntes var bra, er de plutselig nå imot.
+Da handler det mer om retorikk og polemikk enn om faktisk å diskutere realitetene for jernbanen.
+For det jeg har hørt i dag, er et arbeiderparti som sier at de vil ha mer investeringer, mer vedlikehold, flere tog, flere avganger og de vil samle eiendomsmassen ett sted.
+Det er vel det beste argumentet jeg har hørt for å stemme borgerlig ved 2017-valget.
+Det er nettopp det en har fått med de fire budsjettene som det borgerlige flertallet har laget – og som er stikk motsatt av det vi så under forrige regjering, da man faktisk økte etterslepet, altså ikke vedlikeholdt, når en ikke klarte å samle eiendomsmassen.
+En hadde altså åtte år på seg til å gjøre disse strukturelle endringene, som ikke hadde trengt å være akkurat slik som de vi har gjort, men det var ingen tegn til forsøk på å samle disse ansvarsoppgavene.
+Det vi gjør, handler ikke om å splitte opp.
+Jeg hører at det argumenteres sånn, og da regner jeg med at det også kommer til å være en del av valgkampen.
+Det skal skapes et feil bilde av det som skjer, men vis meg det elementet som faktisk splittes.
+Vi tar billettelementet som ligger i NSB i dag, og overfører det, men fortsatt i én organisasjon, og der vi sier at oppgavene deres ikke bare skal være billettsystemet til NSB, men billettsystemet til kollektivsektoren i Norge.
+Det handler om å samle ansvar som i dag egentlig er splittet opp mellom alle kollektivselskapene, og sørge for at vi får én nasjonal tilnærming til det.
+Det trodde jeg faktisk var bra, men her er en så opptatt av at dette kun må gjelde NSB, og at det skal ligge i NSBs organisasjon, og så blir det noe negativt.
+Mantena skal kunne tilby tjenester til alle som skal vedlikeholde togene sine.
+Noe av det vi har diskutert mye her i Norge, er den sveitsiske modellen.
+Den sveitsiske modellen har en god strategisk enhet, et direktorat, og det er det vi oppretter.
+Dette er ikke en jernbanereform à la Sverige, sosialdemokratisk styrt, eller à la England, eller à la Tyskland for den saks skyld.
+Tyskland har mye mer konkurranseutsetting enn det vi har i Norge, men det er plutselig blitt et forbilde for Jonas Gahr Støre.
+Dette er den norske modellen, der vi skal ha strategiske visjoner, vi skal ha statlig kontroll og statlig eierskap, men vi skal også sørge for at de som er best i stand til å levere tjenester, skal få lov til å gjøre det.
+Og så skal vi ivareta dem som jobber i sektoren.
+Alle de spørsmålene som har kommet opp, har vi svart på tidligere:
+ Vi jobber med ESA for å få svar på dette, og det kommer så fort som mulig, men jeg styrer ikke ESA.
+Tog ved stans:
+ Samme ansvarsforhold i framtiden som i dag.
+En trenger ikke å gjøre det vanskeligere.
+Da bør en heller sette seg ned og lese de reformpapirene vi har lagt fram, før en sier at ting ikke eksisterer.
+Når jeg hører debatten og lovprisingen av dagens situasjon for jernbanen kontra det nye vi skulle få, får jeg det ikke helt til å stemme med den hverdagen jeg selv sitter i hver dag.
+Myrli spør hvem som får ansvaret når toget står.
+Ja, hvem har ansvaret i dag når toget står?
+Når det er signalfeil enten på Stabekk eller på Høvik, på Oppegård eller på Ski, hvem har ansvaret?
+Når toget kommer med halvt togsett i rushtiden, hvem har ansvaret?
+I det nye systemet definerer man ansvaret.
+Der står det at infrastrukturforetaket skal ha ansvar for operative oppgaver som drift, vedlikehold og bygging av jernbaneinfrastruktur.
+Det vil si at når skinnen ikke holder mål, eller det er signalfeil på Oppegård, er det klart hvem som har ansvaret.
+De har ansvar for bygging av infrastruktur – selvfølgelig – og trafikkstyring.
+Transportselskapet får et klart ansvar for å sørge for at det er transport på åpne skinner.
+Det er det transportørene som må ta ansvaret for.
+Det betyr at jeg som kunde, hvis skinnen ikke virker eller strømmen ikke er der, vet at jeg ikke skal klage til NSB eller den som måtte være operatøren.
+Det er faktisk infrastrukturselskapet som har ansvaret.
+Det er dette denne reformen rydder opp i.
+Fra 1996 var det noen eiendommer som var eid av ROM Eiendom, andre eiendommer var eid av Jernbaneverket.
+Stedet der skinnen går og det der parkeringsplassen er, er det forskjellig hvem som eier.
+Nå gjøres det en gjennomgang som sier at fra skinnen og ut er det samme lover som gjelder, og det er samme regelverk.
+Så er det det andre spørsmålet, om konkurranse.
+Ja, hva kan man konkurrere om?
+Staten tar ut 600 mill. kr i året av NSB.
+Selskapet NSB hadde i 2015 et driftsresultat på 1,2 mrd. kr.
+Da kan man si at det er fint, men når det gjelder et selskap som har som hovedoppgave å transportere folk – og jeg er en av dem – vil man gjerne vite at den prisen man betaler, er riktig satt.
+I Ruter-systemet har vi flere monopoler; vi har sporveiene, T-banen og toget.
+Men på buss-siden kan vi være sikker på at der er prisen riktig, for der er den satt i en konkurranse.
+Til slutt har jeg lyst til å si at Bybanen i Bergen er et offentlig ansvar, men den kjøres av det franske selskapet Keolis.
+Alle land som har lyktes med sin jernbane, har ikke valgt oppsplitting av jernbanen.
+Det de i stedet har prioritert, er mer samordning og å bruke penger på jernbane.
+Jernbanereformen medfører et komplisert system med stor fare for at de negative konsekvensene blir større enn de positive, og oppbygging av et enormt administrasjonsapparat med en stor konsulentbruk – 500 mill. kr per dags dato.
+Disse pengene kunne med stor fordel heller ha vært brukt på vedlikehold eller kjøp av togsett.
+Jeg synes det er forunderlig at man ikke vil innføre en nasjonal sertifiseringsordning for lokførerne.
+Jeg synes det er forunderlig at man ikke vil innføre bestemmelser om kjøre- og hviletid for togpersonell.
+Jeg synes det er forunderlig at regjeringen ikke vil innføre et felles regelverk for pensjon for ansatte i selskaper i jernbanesektoren – hvis man da ikke vil bruke kompetanse, lønn og pensjon til en konkurransefordel for dem som skal konkurrere på anbudsstrekningene.
+Det vil i hvert fall svekke sikkerheten, og det kan i hvert fall ikke Senterpartiet være bekjent av.
+Representanten Heikki Eidsvoll Holmås har hatt ordet to ganger tidligere og får ordet til en kort merknad, begrenset til 1 minutt.
+Jeg skal bare svare kort på utfordringen fra Fremskrittspartiet.
+Jeg mener at det ikke har fungert dårlig å ha et offentlig monopol på f.eks. T-bane og trikk i Oslo.
+Jeg tror heller ikke – og det kan sikkert representanten Jegstad, hvis han har lyst, underskrive på – at lønns- og arbeidsvilkårene for folk som jobber i bussbransjen, etter at man fikk anbud, ikke er så gode som det de tidligere var innenfor Kommuneforbundet.
+Det er en konsekvens av akkurat det samme som vi vil se innenfor jernbanen.
+Og var ikke det poenget, da?
+Var ikke litt av poenget at noen skulle kunne tjene penger på nettopp å gi dårligere pensjonsvilkår enn det vi har i det offentlige nå, slik at de istedenfor kan hentes inn på en annen måte?
+Til slutt:
+ Statsråden sier alltid når det er snakk om bompenger, at alle vet at det hadde vært annerledes hvis Fremskrittspartiet hadde fått det som de ville.
+Det hadde vært kjekt om han begynte å si det om jernbanesatsingen også.
+Vi vet at mer enn halvparten kommer fra opposisjonen.
+Det hadde vært kjekt om han sa:
+ Det hadde vært annerledes om Fremskrittspartiet hadde fått det som de ville.
+Representanten Sverre Myrli har hatt ordet to ganger tidligere og får ordet til en kort merknad, begrenset til 1 minutt.
+Det er sannelig mye rart en skal høre.
+Nå er det altså et problem at NSB går så godt at det går med et stort overskudd.
+Det er jo et tegn på at det gjøres noe veldig bra innenfor norsk jernbanepolitikk, at NSB som selskap går så bra.
+Desto mer uforståelig er det at selskapet skal radbrekkes og vingeklippes.
+Jegstad sa at vi lovpriser den nåværende organiseringen – det er ingen som har gjort det.
+Det er åpenbart ting som bør endres innenfor jernbanen, men da må vi gjøre det som fungerer, og som gir en bedre jernbane.
+Jegstad sa at han hadde problemer; han er pendler på Østfoldbanen, går jeg ut ifra.
+Ja, det er fordi vi har gammel jernbane mellom Oslo og Ski!
+Mellom Lillestrøm og Asker fungerer det nesten knirkefritt, fordi der er det ny, moderne, dobbeltsporet jernbane.
+Mellom Oslo og Ski er det gammel jernbane.
+Derfor bygger vi Follobanen, for å få ny, moderne jernbane også der – og sånn må vi fortsette.
+Det er løsningen også andre steder.
+Løsningen er ikke å male om jernbanevognene til en annen farge.
+Vi må bygge mer ny jernbane og kjøpe flere nye vogner.
+Jeg har ikke noen problemer med at NSB går med overskudd i seg selv, og at det er et selskap som driver bra.
+Det jeg har problemer med, er når man fremstiller det som om det eneste momentet man kan konkurrere på, er pensjonsordninger og lønninger i selskapene – at det er de ansette som skal bære konkurranseutgiftene.
+Et selskap som har et driftsresultat på 1,2 mrd. kr i året, har en buffer å gå på, og det er ikke nødvendig at de ansatte kommer til å lide, selv om det blir konkurranse.
+Når en snakker om pensjonsordninger:
+ Nei, det var ikke noen pensjonsordning for bussjåførene da vi begynte med anbudene.
+Pensjonsordningen for bussjåførene kom inn som en del av anbudsrunden etter hvert, for man så at bussjåførene ikke hadde en tilfredsstillende pensjonsordning.
+Det ble innført i Ruter-systemet etter hvert som vi fikk konkurranse, og det var også et av elementene i forhandlingen.
+Så det kom etter hvert.
+NSB, eller jernbanen, er bedre enn sitt rykte.
+Det er ikke stopp så ofte som man kan få inntrykk av.
+Feilene kan oppstå like mye vest for Oslo som på Østfoldbanen, men vi skal selvfølgelig glede oss over at vi har fått nye spor, og at vi får flere spor.
+Det er kapasitet som er hovedproblemet på Østfoldbanen, der vi kjører i kø etter hverandre.
+Lokaltoget fra Oslo til Ski går 12 minutter før lokaltoget til Moss.
+Når vi kommer til Kolbotn, har vi tatt dem igjen.
+Fra Kolbotn til Ski kjører vi i lokaltogsfart, til vi endelig kommer til Ski og kan kjøre i 160 km/t videre.
+Kapasitet er et problem.
+Men å si at en anbudsprosess nødvendigvis skal føre til at de ansatte får dårlige arbeidsvilkår, den kjøper jeg ikke.
+Det er ikke sånn.
+Vi har regler i dette samfunnet som vil gjelde, og det står for så vidt også i Prop.
+143 L for 2015–2016, der statsråden bl.a. skriver at man skal tilstrebe like konkurranseforhold mellom utenlandske og eventuelt innenlandske selskaper, og det er en del av prosessen.
+Det er et spørsmål om vi har nok selskaper som vil gi anbud – vi har jo pre-kvalifisert noen – men anbudsrunder er tingen.
+Vi har brukt det innenfor bussektoren i mange år.
+Det er ingen som klager på og ser på om bussen er eid av Schaus Buss eller av Nettbuss, som er NSBs selskap, eller av Unibuss, som er eid av Oslo kommune, men det vi vet, er at den prisen vi betaler, er den markedsprisen man kan få.
+Det vet man ikke når det gjelder offentlige monopoler.
+Flere har ikke bedt om ordet til sak nr. 2.
+Etter ønske fra transport- og kommunikasjonskomiteen vil presidenten foreslå at sakene nr. 3 og 4 behandles under ett.
+– Det anses vedtatt.
+Etter ønske fra transport- og kommunikasjonskomiteen vil presidenten foreslå at taletiden blir begrenset til 5 minutter til hver partigruppe og 5 minutter til medlemmer av regjeringen.
+Videre vil presidenten foreslå at det – innenfor den fordelte taletid – blir gitt anledning til inntil seks replikker med svar etter innlegg fra medlemmer av regjeringen, og at de som måtte tegne seg på talerlisten utover den fordelte taletid, får en taletid på inntil tre minutter.
+– Det anses vedtatt.
+Jeg vil takke komiteen for en god jobb og godt samarbeid om en prinsipiell, viktig sak.
+Jeg vil begynne med Prop.
+160 L for 2015–2016 – det er stort sett en samlet komité og hovedsakelig enighet om den.
+Det dreier seg om endringer i lov 21. juni 1963, veglova, med det formål å ha et fristilt vegtilsyn som skal føre tilsyn med både Statens vegvesen og det statlige utbyggingsselskapet Nye Veier.
+Både Statens vegvesen og Nye Veier skal ivareta sikkerheten på veinettet de har ansvaret for.
+Vegtilsynet skal holde tilsyn med og sørge for at sikkerheten for transport på det offentlige veinettet er i tråd med nullvisjonen og de nasjonale målene.
+Det er spesielt to grunner til å fristille Vegtilsynet.
+For det første er det helt feil at det organet som skal kontrollere kvaliteten på veinettet, skal være underlagt samme myndighet som det skal kontrollere.
+Det er ulogisk, og det er uheldig rolleblanding når en aktør, som først har ansvaret for å bygge og drifte veier, også skal ha ansvaret for å påse at kvaliteten på bygging og vedlikehold er bra nok.
+Det er viktig og riktig at dette nå skilles, og at Vegtilsynet fristilles 100 pst. fra Statens vegvesen.
+Det er et godt gammelt norsk ordtak om at bukken ikke skal passe på havresekken.
+Ved at man nå gjennomfører dette skillet mellom utøvende og kontrollerende aktør, unngår man nettopp at bukken passer på havresekken.
+For det andre er det viktig å skille Statens vegvesen og Vegtilsynet nå som vi har etablert et nytt statlig veiselskap.
+Vegtilsynet må jo være fristilt i forhold til begge disse to aktørene og sørge for likebehandling.
+Et fristilt veitilsyn er en viktig seier for Fremskrittspartiet, og det er en oppfyllelse av regjeringserklæringen.
+Dette vil sette et skarpere søkelys på veikvaliteten.
+Dårlig veikvalitet og elendig vedlikehold er en av de største trafikksikkerhetsutfordringene vi har.
+Derfor er et fristilt veitilsyn et viktig gjennombrudd for å styrke trafikksikkerhetsarbeidet.
+Forhåpentligvis vil også det nye veitilsynet gjøre at Statens vegvesen nå øker sin oppmerksomhet på veikvaliteten.
+Det vil gjøre veiene bedre og sikrere for alle trafikanter.
+Fristilling av Vegtilsynet er nok et eksempel på at Fremskrittspartiet og regjeringen tenker nytt i veipolitikken, og vi ønsker å spre makt i sektoren.
+Det er for mye makt i Statens vegvesen.
+Det nye veitilsynet og veiselskapet vil bidra til en ny dynamikk i sektoren.
+Litt om Prop.
+159 L for 2015–2016.
+Jeg vil også her takke komiteen for et godt samarbeid i forbindelse med behandlingen av saken om å gi begrenset myndighet til det nye statlige utbyggingsselskapet Nye Veier.
+I den sammenheng er det viktig med endringer både i plan- og bygningsloven og vegloven.
+Nye Veier må f.eks. kunne varsle oppstart av planarbeid, utarbeide og fremme forslag til planprogram, kommunedelplan og reguleringsplan.
+I tillegg er det viktig at Nye Veier må kunne utfordre standarder, rutiner, håndbøker og arbeidsmetoder for å redusere byråkrati og kostnader både under planlegging og under anleggsperioden.
+Med de grep som nå tas med det statlige veiselskapet og den myndighet Nye Veier nå gis, vil norske skattebetalere og bilister få mer vei for pengene.
+Takket være at vi nå har en Høyre–Fremskrittsparti-regjering med støtte fra Venstre og Kristelig Folkeparti, tar vi grep.
+Vi sørger for å rydde opp i byråkratiet.
+Vi reduserer planleggingstiden.
+Vi kutter kostnadene ved veibygging.
+Dette er viktige grep som blir tatt ved etablering av Nye Veier.
+Siden selskapet ble etablert 1. januar 2016, ser vi allerede nå meget positive resultater ved at store nasjonale veiprosjekter framskyndes mange år og bygges vesentlig billigere.
+Nye Veiers mandat er å bygge ut, drifte og vedlikeholde et stort motorveinettverk på over 500 km.
+Det blir slutt på å bygge stykkevis og delt, Nye Veier skal sørge for mer helhetlig og mer rasjonell og sammenhengende utbygging og ikke minst også en langsiktig og forutsigbar finansiering.
+Men for å gjøre det mulig, er det viktig å gi veiselskapet begrenset myndighet.
+Det er det vi nå gjør i forbindelse med Prop.
+159 L.
+Dette er en historisk sak og en historisk dag.
+Stortinget åpner med dette for at Nye Veier kan bidra til å revolusjonere norsk veibygging, bidra med nye tanker, nye ideer, mer fleksibilitet og økt konkurranse i forhold til Statens vegvesen, slik at det norske folk og norske bilister kan få mer vei for skattepengene.
+Jeg tar ordet for å knytte noen merknader til Prop.
+159 L for 2015–2016, som handler om endringer i plan- og bygningsloven og vegloven.
+Det er åpenbare utfordringer og svakheter ved å organisere myndighetsoppgaver på en slik måte at de er lagt til et aksjeselskap.
+Ikke minst viser de siste ukers medieoppslag angående entreprenørselskaper som er under etterforskning for korrupsjon, og Nye Veier AS’ forretningsetikk på dette området, det.
+Statsråden har i svar til Stortinget vist til at han mener det er formelle skranker som gjør at han som statsråd ikke bør blande seg inn i hvordan Nye Veier AS arbeider med disse spørsmålene.
+Jeg mener at det finnes mange og mer proaktive måter å utøve eierskapet på, også innenfor den rolledelingen som følger av selskapslovgivingen og statens prinsipper for god eierstyring, enn hva statsråden legger opp til i sitt svar til Stortinget.
+Det å bygge ut, drifte og vedlikeholde riksvegnettet i Norge er et ansvar som etter Arbeiderpartiets oppfatning bør tilligge staten.
+Nye Veier AS er et heleid statlig aksjeselskap, så det er mulig å argumentere for at det fortsatt er staten som bygger ut, mens selskapet står for operasjonaliseringen.
+Det er likevel ikke åpenbart hvorfor en velger en organisasjonsform som først og fremst er beregnet for kommersiell virksomhet for å løse myndighetsoppgaver.
+Selskapet er likevel stiftet og i virksomhet, og vi etterlyser derfor en tydeliggjøring av forholdet mellom forvaltningsloven og aksjeloven – og for så vidt andre relevante lover, som f.eks. offentlighetsloven.
+Spesielt er dette viktig når selskapet skal få fullmakter til å fatte enkeltvedtak.
+Det som er mest oppsiktsvekkende med denne proposisjonen, er at statsråden ikke har full oversikt over hvilke områder der det kan være aktuelt å tildele utbyggingsselskapet myndighet.
+I likhet med statsrådens egen fagetat, Vegdirektoratet, savner jeg en omtale av når det kan være aktuelt med delegering av myndighet.
+Når det ikke foreligger, blir det veldig krevende å vurdere konsekvensene av det lovvedtaket som statsråden ønsker.
+På denne bakgrunn kan ikke Arbeiderpartiet støtte forslaget til endringer i vegloven § 9.
+Det å komme til Stortinget og be om en lovhjemmel til å innføre regler som kan virke sterkt inngripende i enkeltmenneskers liv uten å vise til annen begrunnelse enn at det kan oppstå et behov for regler, er ikke godt nok – spesielt ikke når man ikke engang er i stand til å vise til hva dette f.eks. kan være.
+Statsråden burde ha trukket forslaget og eventuelt komme tilbake til Stortinget med et forslag når det samlede opplegget for selskapets ansvar, drift og vedlikehold er fastsatt og man har oversikt over hvilke områder det kan være aktuelt å delegere myndighet på.
+Hvis statsråden likevel velger å fortsette å presse gjennom sine svakt funderte reformer hurtigst mulig i Stortinget, må de partiene som sikrer flertall for det, bære konsekvensene av det.
+Hvis det nå er sånn at det blir flertall for å delegere denne myndigheten til utbyggingsselskapet, må det fastsettes en klageinstans.
+Det synes å være bred enighet om at det skal være Vegdirektoratet, noe som også Arbeiderpartiet eventuelt da vil slutte seg til.
+I tillegg har statsråden likevel foreslått at en kan sette dette til side og bestemme en annen klageinstans.
+Det er ikke begrunnet og ikke omtalt i proposisjonen.
+Vi kan derfor ikke støtte et forslag til ny § 11 annet ledd annet punktum.
+Saksordføreren og proposisjonen var inne på utbyggingsselskapets ansvar for planprogram og kommunedelplan.
+Men la meg få lov til å understreke at det er en forsøksordning som er begrenset til prosjektene Dørdal–Tvedestrand og Arendal–Grimstad på E18.
+Det framgår ikke av forslaget til endring i plan- og bygningsloven § 3-7.
+I denne sammenheng viser jeg til Arbeiderpartiet og Senterpartiets merknader til endringen, som understreker at det er en forsøksordning.
+Jeg forutsetter at statsråden har merket seg det og eventuelt vil komme tilbake til Stortinget hvis det er behov for å utvide ansvaret til selskapet.
+Så er det flere som har vært opptatt av feiringen her i dag.
+Det er mange gode grunner til å feire denne dagen, men jeg tror ikke jeg står inne for saksordførerens merknad om at denne proposisjonen er grunnlag for at det skal være en festdag.
+Etter å ha hørt foregående taler, kunne en egentlig bare sagt at en var imot hele veiselskapet og avsluttet med det, men det får være greit.
+Jeg har lyst å si litt om dette med et uavhengig veitilsyn.
+Etableringen av et uavhengig veitilsyn har vært en prioritert sak for Høyre i mange år, og vi har tidligere fremmet forslag om dette i Stortinget, delvis sammen med våre samarbeidspartier.
+Ut fra et raskt søk i Stortingets database kunne jeg finne representantforslag som har vært fremmet i både 2007 og 2010, uten at den daværende regjeringa fant å kunne imøtekomme et slikt forslag.
+Derimot ble det opprettet et eget veitilsyn som er underlagt Statens vegvesen.
+Og da er vi inne på kjernen i problemstillinga, nemlig at et tilsyn må være uavhengig av dem det skal føre tilsyn med.
+De endringene vi nå gjør i veglova, tar hensyn til det og fristiller Vegtilsynet fra Statens vegvesen, både organisatorisk og formelt.
+Innenfor jernbane og luftfart fører Jernbanetilsynet og Luftfartstilsynet kontroll og sikkerhetstilsyn, og organisasjonene er frittstående med hensyn til Jernbaneverket og Avinor og driver tilsyn med både private og offentlige bedrifter som driver med transportvirksomhet, og som står for bygging og drift av infrastruktur.
+Det er ingen grunn til å behandle veisektoren vesentlig annerledes med hensyn til organisering av sikkerhetsarbeidet.
+Det er mange gode grunner til å ha et uavhengig og fristilt veitilsyn.
+Det viktigste er behovet for en styrking av arbeidet med trafikksikkerheten.
+Statens vegvesen har etablert et system for oppfølging av trafikksikkerhet og ulykker og samarbeider tett med andre organisasjoner på dette området.
+Vegtilsynet vil påse at både Statens vegvesen og Nye Veier AS har tilstrekkelige og effektive styringssystem som kan bidra til trafikksikre riksveier.
+Gjennom en uavhengig tilsynsinstans kan det bli enklere for aktører og privatpersoner å varsle og avdekke uakseptable forhold.
+Kontinuiteten knyttet til oppfølgingen av sikkerhetsarbeidet kan bli ivaretatt på en bedre måte, og kontroll- og tilsynsoppgaver vil foregå uavhengig av de sikkerhetsansvarlige partene.
+Jeg registrerer at både Arbeiderpartiet og Senterpartiet nå synes å være for et uavhengig og fristilt veitilsyn, og det synes jeg er positivt.
+De begrunner det med at en del av ansvaret for bygging av vei er overført til Nye Veier AS.
+Det er for så vidt et godt poeng i seg selv.
+Det er flott at vi nå får en samlet komité som slutter seg til det forslaget og lovendringene, men dette burde vi ha gjort mye tidligere.
+Det er behov for et uavhengig veitilsyn som følger opp både Statens vegvesen og Nye Veier AS.
+Så til Prop.
+159 L for 2015–2016:
+ Det er et mål for regjeringa og samarbeidspartiene ikke bare å satse mer penger på samferdsel i Norge, men også på å organisere oss bedre.
+Derfor er det også etablert et nytt utbyggingsselskap for vei.
+Det er et viktig verktøy for å få til det vi ønsker innenfor samferdselsområdet.
+Selskapet vil ha forutsigbare økonomiske rammer og vil kunne planlegge prosjekter mer effektivt.
+En slank byggherreorganisasjon vil bety at selskapet må tenke nytt, utfordre standarder og arbeidsmetoder, utvikle en effektiv leverandørstrategi og velge tilpassede kontraktsformer.
+Nye Veier AS vil være komplementær til Statens vegvesen, og begge organisasjonene kan utfordre og lære av hverandre.
+Det er et godt utgangspunkt for nytenkning og et godt bidrag til å bygge vei, ikke bare raskere, men også billigere.
+Nye Veier har i utgangspunktet fått en avgrenset portefølje:
+ i hovedsak firefeltsveier på E6, E18 og E39.
+De endringene som nå er foreslått i veglova og plan- og bygningsloven, er nødvendige formelle endringer for at utbyggingsselskapet for vei kan etableres og fungere i tråd med intensjonen i Meld.
+St. 25 for 2014–2015 På rett vei.
+Det er viktig at det blir etablert et rammeverk for utbyggingsselskaper, slik at en kan oppfylle formålet om en raskere og mer helhetlig utbygging av hovedveinettet i Norge.
+Jeg skal ikke gå inn på alle enkeltparagrafene, annet enn å si at for vår del er dette en ren oppfølging av den stortingsmeldinga jeg nettopp viste til, og det er tilpasset lovverket nettopp for å få veiselskapet Nye Veier AS til å fungere så rasjonelt og effektivt som mulig, nettopp for å bygge mer vei raskere og billigere.
+La meg begynne med å si at et tilsyn er noe man oppretter fordi man føler et behov, enten fordi man mener den oppgaven som noen er satt til å gjøre, ikke utføres godt nok – da snakker vi om en offentlig etat eller et offentlig organ – eller fordi man har konkurranseutsatt store deler av det man driver på med, og man har behov for å føre tilsyn med det.
+Det er utvilsomt mer byråkratisk.
+Det blir utvilsomt bygd opp et parallelt byråkrati som skal føre tilsyn med at noen andre følger lover og regler.
+Derfor er det alltid viktig og fornuftig å tenke gjennom om vi trenger et tilsyn på et felt, eller om vi synes det fungerer godt nok med en etatsstyring.
+Jeg er f.eks. sikker på at saksordfører Tor André Johnsen tenker som så at han selv vet best hva hans egne penger skal brukes til, han trenger ikke noe tilsyn til å passe på hva han bruker pengene sine til, selv om han helt sikkert ikke alltid bruker pengene på den mest fornuftige måten.
+Men la nå det ligge som en spøk til Tor André Johnsen.
+Jeg ser ingen grunn til å være imot det tilsynet som nå foreslås.
+Jeg har ingen gode argumenter for å være imot det.
+Jeg synes det er argumenter som taler for, f.eks. innenfor veisektoren, at et tilsyn kan påpeke at man bruker for lite penger til vedlikehold og bør bruke mer penger til vedlikehold for å sikre en veikvalitet og en veistandard som man er enig om på Stortinget, framfor å bruke mer penger på nye veiprosjekter som kanskje kan være mer prestisjefylte, men likevel.
+Et tilsyn kan bidra til at man tar vare på det man har, i større grad enn å satse på nye hester.
+Det nye veiselskapet Nye Veier er et grep for å gjøre det motsatte, for der sier man at man nå setter noe utenfor direkte politisk styring.
+Jeg husker presentasjonen av dette.
+Det var nærmest et hederstegn å sette noe utenfor politisk styring, for da sørget man for at noen fikk holde på for seg selv.
+Men det er utvilsomt en ting som drar i retning av økte behov for låneopptak, økte behov for veiinvesteringer, selv om kanskje samfunnet sett under ett burde prioritert vedlikehold istedenfor.
+Men la nå det ligge.
+Jeg prøvde ikke å gjøre dette til den store budsjettdebatten eller den store styringsdebatten, men bare peke på at vi bør problematisere akkurat dette med hvor trenger vi tilsyn, og hvor vi ikke trenger det.
+Men regjeringen får i dag flertall for tilsyn.
+Den andre diskusjonen er diskusjonen om hva slags type fullmakter vi gir til veiselskapet.
+Der slutter jeg meg til det Eirik Sivertsen fra Arbeiderpartiet var oppe og sa.
+Jeg vil komme til å gå imot § 9 første ledd tredje punktum og § 11 nytt annet ledd annet punktum, om at departementet kan «
+ gi føresegner som fråvik føresegna i første punktum».
+Man sier altså at Vegdirektoratet er klageinstans, men departementet kan gjøre unntak.
+Jeg er for at Vegdirektoratet skal være klageinstans, men mot at departementet kan gjøre unntak.
+Det handler om at jeg er kritisk til opparbeidelsen av Nye Veier, og mener vi ikke burde hatt det, men selvsagt er det fornuftig at det finnes regler, tilsyn, den type ting, som skal gjelde Nye Veier, når først det statlige selskapet er kommet.
+Med det har jeg vel egentlig forklart og grunngitt hva vi kommer til å stemme, og gitt uttrykk for de prinsipielle sidene ved saken.
+I dag er en historisk dag.
+I forrige debatt fikk vi høre at dagen markerer at det er 20 år siden Arbeiderpartiet viste vilje til å reformere transportsektoren ved at en opprettet Jernbaneverket.
+Det er 20 år for lenge å ha stillstand.
+Men i dag markerer vi den første kontrakten som Nye Veier gir på Arendal–Tvedestrand.
+Det er det første solide signal om at det skal bygges mer vei – raskere, bedre, billigere og mer helhetlig.
+At ikke hele Stortinget støtter dette, synes jeg er trist, selv om det er vedtatt.
+I mange, mange år har Stortinget diskutert og bekymret seg over at man bygger stykkevis og delt.
+I forbindelse med Nasjonal transportplan som nå ligger til grunn, er det mange steder også rød-grønne lokalpolitikere som sier at Nasjonal transportplan håndterer veistrekninger stykkevis og delt.
+Vi har ikke klart å rette opp i alle de problemene, men vi har klart å gjøre mye.
+Den kontrakten som i dag vil bli kunngjort for Arendal–Tvedestrand, er et tegn på det.
+Den veistrekningen bygges lenger enn det den opprinnelig var planlagt.
+Det er jeg veldig fornøyd med.
+Jeg vet at noen i opposisjonen frykter at Nye Veier vil representere en veibonanza.
+Det var Arbeiderpartiets kritikk av dette.
+Jeg tror folk flest i dette landet synes det er greit at vi bygger flere veier mellom byene og ut i distriktene.
+Da tåler vi en veibonanza, for folk foretrekker det framfor krøtterstier, dårlig vedlikeholdte veier og ikke minst utrygge veier.
+Jeg synes det er veldig bra at representanten fra SV nå sier at det er viktig å vedlikeholde veinettet, slik at forfallet reduseres.
+Jeg skulle ønske at man gjorde det for lenge siden da man selv hadde kontroll på pengestrømmene gjennom regjeringen.
+Da ble veivedlikeholdet nedprioritert.
+Faktisk foreslo den rød-grønne regjeringen å kutte i veivedlikehold i sitt budsjett for 2014, altså rett før de gikk av, mens det under dagens borgerlige flertall får en kraftig vekst i veivedlikeholdet akkurat som på jernbanevedlikeholdet, nettopp fordi vi skal ivareta det vi har.
+Senterpartiet sa at Nye Veier ville sette norsk veibygging tiår tilbake i tid.
+Vel, jeg tror at i dag vil man se at de i så fall får en reise tilbake til framtiden, for nå framskynder vi tvert imot veiprosjekt, og vi gjør dem mer helhetlige.
+De forslagene som ligger til behandling i Stortinget i dag, er ikke ny politikk, men det handler rett og slett om å formalisere og gjennomføre de vedtak Stortinget tidligere har gjort.
+Det at vi nå ser resultatene samtidig som vi videreutvikler reformene, er den måten en bør jobbe på for å sørge for at en får gode resultat.
+Det er viktig at vi også får noen som kikker oss i kortene.
+Det er det Vegtilsynet handler om.
+Når man lytter til representanten Holmås’ innlegg, skulle man nesten tro at Vegtilsynet nå blir opprettet for første gang, men det har jo eksistert lenge.
+Det som er viktig nå, er å gjøre det uavhengig.
+Jeg er ganske uenig i den holdningen som jeg oppfatter at SV har, nemlig at et tilsyn trenger man kun når det er konkurranse, eller når det er private aktører, at det ikke er viktig når det er statlige aktører inne, eller når det er bare én enhet.
+Tvert imot, vi trenger noen som kikker oss i kortene alltid, for selv om man mener selv at man gjør jobben sin perfekt, er det greit at noen andre som har et annet ansvar, som ser hva samfunnet krever, som sørger for at spillereglene følges, kan kikke en i kortene.
+Derfor er det også så viktig at Vegtilsynet er uavhengig, at det ikke ligger under Vegdirektoratet, men at det faktisk kan ha en fristilt rolle.
+Nå vil jeg samtidig skynde meg og understreke at det er ingen grunn til å tro at Vegdirektoratet har utøvd noen negativ myndighet overfor Vegtilsynet med å prøve å fordekke ting.
+Men det handler likevel om å få de rollene så tydelig at ingen skal kunne mistenke det, og da må man fristille Vegtilsynet.
+Jeg er glad for at det som opposisjonen under forrige regjering argumenterte hardt for lenge, men ikke ble hørt, faktisk gjennomføres.
+Dermed kan vi gå videre.
+Vi kan gå videre med å sørge for at noen kikker oss i kortene enda bedre enn noen gang tidligere.
+Vi kan sørge for at de ser både på fylkene, at de ser på staten, og at de ser på aktørene som jobber der.
+For å gå tilbake til Nye Veier:
+ Det er også viktig at Nye Veier har de fullmaktene de trenger for å gjøre en jobb.
+Men i motsetning til det som opposisjonen gir inntrykk av, foreslår regjeringen at klageinstansen her skal være Vegdirektoratet og ikke Vegtilsynet, for dette er ikke tilsynsoppgaver, men praktiske vurderinger.
+Men det er også naturlig, synes jeg, i et demokrati at en har mulighet til å anke en beslutning videre til det politiske styret i Samferdselsdepartementet, istedenfor at det er et teknokrati som skal styre, og at Vegdirektoratet får siste ordet uansett.
+Det blir replikkordskifte.
+Mitt spørsmål til statsråden er:
+ Hva skal selskapet bruke den delegerte myndigheten etter § 9 i veglova til?
+Det vil de selv kunne bestemme når de ser at de trenger det.
+Jeg forstår at Arbeiderpartiet setter spørsmålstegn ved det som vi gjør.
+Men det at en skal kunne sørge for at et veiselskap kan ta de beslutningene som de trenger for å få framdrift på arbeidet sitt, synes jeg er viktig.
+Så er det ikke unaturlig at Arbeiderpartiet stiller spørsmål, for Arbeiderpartiet var jo imot dette til å begynne med.
+En mente at veiselskapet ville skape en veibonanza.
+Jeg mener det er bra at en får jobbe videre med dette.
+Så ser jeg også at Nye Veier går inn i mange prosjekter – ser på helhet, ser på hvordan de kan jobbe med kommunene, finner bedre planløsning, og ikke minst at de ser lange strekninger under ett.
+Det synes jeg er bra, og det vil vi at de skal jobbe videre med.
+Jeg gjentar spørsmålet mitt:
+ Hva skal selskapet bruke den delegerte myndigheten etter § 9 i veglova til?
+Hvilke beslutninger er det selskapet skal fatte, og hva er konsekvensene for dem som blir berørt?
+Her kommer statsråden til Stortinget og ber om en lovhjemmel til å fatte beslutninger som berører mennesker, men er ikke i stand til å redegjøre for hvilke typer beslutninger selskapet skal fatte.
+Jeg gjentar spørsmålet:
+ Hva skal selskapet bruke den delegerte myndigheten etter § 9 i veglova til?
+Det står i proposisjonen, eller i den innstillingen som en har:
+«Myndigheten skal være begrenset til enkeltvedtak som gjelder utbygging, drift og vedlikehold av riksveger selskapet har ansvaret for.»
+Det er naturlig når en skal bygge en vei, at en må ta en del beslutninger om hvordan veien faktisk skal bygges.
+Det er den fullmakten de må ha, på samme måten som Vegvesenet trenger å ha den type ting når de skal bygge sine veier.
+Så vil en kunne anke dette hvis en mener lokalt at en ikke får de beslutningene som en burde ha.
+En vil kunne anke til Vegdirektoratet, og jeg mener også anke det opp til departementet.
+Statsråden har jo helt rett når han skriver i proposisjonen at han ikke har oversikt over hva disse delegerte hjemlene skal brukes til.
+Jeg har nå to ganger bedt statsråden gjøre rede for det.
+Han er ikke i stand til å svare på hvilke typer enkeltvedtak det er vi skal gjøre, hvilke beslutninger som skal fattes.
+Han peker derimot på at Vegdirektoratet er klageinstans.
+Det sa jeg på talerstolen at det er det bred tilslutning til, men det er også foreslått, i andre punktum, at departementet kan sette til side den bestemmelsen og peke på en annen klageinstans.
+Da får jeg vel forsøke med et annet spørsmål:
+ Hvilke klageinstanser er det statsråden ser for seg som skal erstatte Vegdirektoratet, siden han foreslår en slik hjemmel?
+Nå synes jeg det blir mye kommaflytting her, for vårt primære forslag er altså Vegdirektoratet, ikke Vegtilsynet, slik som representanten Sivertsen ga inntrykk av.
+Og for å gå tilbake til § 9:
+ Når en skal bygge vei, er det mange små og store beslutninger som tas, om hvor veien skal ligge, hva slags utforming den skal ha, osv.
+Jeg synes ikke det er naturlig at alle de beslutningene skal tas f.eks. i Vegvesenet eller i Vegdirektoratet.
+Jeg har merket meg at Arbeiderpartiet i mange debatter gir inntrykk av at det blir masse byråkrati og masse dobbeltadministrasjon.
+Ja, hvis det er sånn at Arbeiderpartiet er imot at et selskap skal ha fullmakter, ja, så får en dobbeltadministrasjon.
+Det er jo nettopp derfor vi sier at en del av disse beslutningene må en faktisk kunne ta lokalt, hos dem som jobber med veien og skal planlegge den, bygge den og drifte den.
+Da skal en selvsagt ta hensyn til aktørene.
+Hvis det er sånn at dette er en så grusom måte å organisere ting på, hvorfor er det da sånn at Arbeiderpartiet synes at NSB AS burde gjort mye mer, og synes at det er greit at Avinor hadde en oppgave?
+Hvordan klarte statsråden å unngå å få med seg at jeg i mitt innlegg sa at det noen ganger kunne være nødvendig med et tilsyn som kunne føre tilsyn med offentlige oppgaver?
+Jeg la merke til i innlegget til representanten Holmås at han ga inntrykk av at dette tilsynet nærmest var noe som ble nyopprettet.
+Det var det jeg reagerte på.
+Jeg reagerte på at han kommenterte veldig at når det er private aktører, er det viktig å ha tilsyn.
+Der vil jeg bare understreke og minne om at dette veitilsynet har eksistert lenge.
+Det viktige her er ikke at man oppretter det, det viktige er at man skiller det ut fra Vegdirektoratet, sånn at man ikke har en situasjon med bukken og havresekken.
+Jeg la merke til at statsråden heller ikke denne gangen svarte på spørsmålet.
+Han unngikk å legge merke til det faktum at jeg nevnte at det finnes to grunner for å ha tilsyn, både å føre tilsyn med offentlige oppgaver og føre tilsyn med konkurranseutsatte tjenester.
+Dette er liksom statsrådens måte å være på i Stortinget, nemlig å lytte selektivt til hva som er sagt fra talerstolen.
+Siden vedlikehold var tatt opp:
+ Stemmer det at mer enn halvparten av satsingen på jernbanesektoren er påtvunget fra opposisjonen, og ikke er kommet fra statsråden selv?
+Det er riktig at i budsjettforlikene med Kristelig Folkeparti og Venstre har det vært økt satsing på jernbane utover det som regjeringen foreslo.
+Samtidig er det sånn at i budsjettforslaget for 2017 er bevilgningene foreslått høyere enn det som var budsjettenigheten i 2016.
+Det en får dobbelt bonus på med dagens borgerlige flertall, er at først får en en satsing fra regjeringen, og så får en en ytterligere satsing fra den konstruktive delen av opposisjonen.
+Det har gjort at selv med regjeringens foreslåtte budsjett ville en sett reduserte vedlikeholdsetterslep.
+En får redusert etterslepet enda mer etter at det har vært innom Stortinget – i motsetning til da representanten Holmås satt i regjering og la fram budsjett som økte forfallet på jernbanen, og Stortinget ikke gjorde noe for å endre det til tross for at en samlet opposisjon – under den rød-grønne regjeringen – ville kutte forfallet.
+Det er litt rart at de rød-grønne partiene i Stortinget nå er kritiske og snakker om et forfall som de selv var med og skapte, og som ble fjernet under dagens flertall.
+Vi skal prise oss lykkelig for at ikke Fremskrittspartiets eller Høyres alternative budsjetter ble vedtatt i de forrige åtte årene da det var rød-grønt flertall.
+Dette har utredningsseksjonen lagt fram dokumentasjon på, og vi har gått gjennom alle budsjettene.
+Det viser seg at vedlikeholdsetterslepet ville ha vært større på jernbanesiden både med Høyre og med Fremskrittspartiet.
+Man kan velge å forholde seg til fakta, eller man kan la være å forholde seg til fakta.
+Jeg tror at de siste dagene har vist at det antakelig ville vært mye større muligheter for Kristelig Folkeparti og Venstre til å oppnå vesentlig bedre satsing på jernbane – på vedlikehold, på investering, og ikke minst på planlegging – dersom de hadde valgt å samarbeide motsatt vei av det de gjør i dag.
+Men «time will show», og da får vi se hvordan valget går.
+Når det gjelder valget som representanten Holmås tar opp, vil jeg forholde meg til fakta.
+Det synes jeg ofte bruker å være det mest ryddige.
+Fakta er at forfallet økte i de årene representanten Holmås styrte.
+Forfallet på jernbane har gått ned i de årene et borgerlig flertall styrer.
+I 2012 var planleggingsbudsjettet til den rød-grønne regjeringen for ny jernbane på rundt 46 mill. kr.
+I 2017-budsjettetforslaget fra dagens regjering er det nærmere 1 500 mill. kr – det er 30 ganger mer.
+Det er godt mulig at Kristelig Folkeparti og Venstre kunne satt et større avtrykk hvis de hadde fått lov til å påvirke de rød-grønne budsjettene, for der var det ganske mye mer å forbedre.
+Men jeg tror at når en ser på hva man har fått til, har en i samlede bevilgninger fått til mye mer med tre borgerlige år enn en gjorde med nesten åtte rød-grønne år.
+Bare i kollektivsatsing i byene har en bevilget 4,8 mrd. kr på tre år – den forrige regjeringen bevilget 1,8 mrd. kr.
+Jeg tror at det er på borgerlig side det er mest å hente på klima, på miljø og på god transport.
+Replikkordskiftet er omme.
+De talere som heretter får ordet, har en taletid på inntil 3 minutter,
+Nå skal ikke jeg legge opp til noen lang Nye Veier-debatt her, det kommer vel mer i budsjettet, vil jeg tro.
+Men jeg har lyst til å kommentere litt rundt Eirik Sivertsens innlegg.
+Han ønsket ikke å feire, representanten Sivertsen.
+Det var ikke noen grunn til å feire i dag, hører jeg.
+Jeg tror jeg må feire dobbelt for å veie opp for manglende feiring i Arbeiderpartiet, for det som skjer med Nye Veier, og det som nå skjer på samferdselssiden, er historisk.
+Jeg synes det er litt rart at representanter fra venstresiden ikke allerede nå ser de positive resultater av Nye Veier.
+I dag velges entreprenør for å komme i gang med utbygging av E18 Tvedestrand–Arendal.
+På E6 nordover er det ikke bare framskyndinger med et par–tre år for utbyggingen, det er snakk om mange år.
+Det er snakk om å bygge ut veistrekninger som ikke engang var planlagt og ønsket utbygd under de rød-grønne.
+Det må jeg si er litt underlig.
+Når det gjelder Heikki Eidsvoll Holmås fra SV, er jeg veldig glad for at representanten fra SV mener at jeg selv vet best hvordan mine skattepenger skal brukes.
+Jeg setter pris på den tilliten, men jeg er veldig fornøyd med at skattepengene brukes til å sikre trygg, god veistandard slik at både representanter fra SV og Fremskrittspartiet kan ferdes trygt på det norske veinettet.
+Men jeg sliter litt med å forstå.
+Jeg oppfattet representanten fra SV litt som at det var frykt for at Nye Veier var utenfor politisk styring.
+Nye Veier er absolutt ikke utenfor politisk styring, men det er utenfor politisk detalj styring, og det er en stor forskjell.
+Det er ikke omkamper, ikke krangling fra år til år, du kommer ikke ut og inn av NTP.
+Det er politikerne som legger de generelle føringene på rammer, på de økonomiske rammene, på hvilke prosjekter som legges inn i Nye Veier, og på framdriftsplan totalt sett, men ikke detaljert sett.
+Så det er absolutt innenfor politisk styring.
+Så synes jeg det strider litt mot dette – iallfall slik jeg oppfatter både SV og Arbeiderpartiet – at de tydeligvis ikke ønsker at departementet og sånn sett ministeren kan ha politisk styring ved ankemuligheter i forbindelse med § 11 og tilsyn og avvik for søknader og dispensasjoner.
+Hvis en skal kunne fravike fra Vegdirektoratet og kunne gi dispensasjoner, er jo det nettopp å ta politisk styring.
+Så jeg synes det blir litt ulogisk.
+Prop.
+159 L for 2015–2016 er en lovsak som i dag behandles av landets lovgivende forsamling.
+Lovsaker gir rettigheter og muligheter for innbyggere, men det kan også være inngripende og føre til innskrenkede rettigheter for innbyggerne i dette landet.
+Derfor er det helt avgjørende når vi behandler lovsaker, at vi har tilstrekkelig grunnlag til å være i stand til å vurdere konsekvensene av de lovvedtakene denne forsamlingen faktisk gjør.
+Stortinget gir i stor utstrekning forskriftshjemler til departementet – delegert myndighet som også kan delegeres videre – eller til andre selskap.
+Det er det som er foreslått i denne saken.
+Det jeg forsøkte å problematisere i mitt innlegg i sted, var – som det også framgår av proposisjonen – at man ikke har full oversikt.
+For meg er ikke dette en debatt om Nye Veier AS.
+Det selskapet kom med flertallets vilje.
+Det er operativt og vil inngå sin første kontrakt i dag.
+Det kan vi være imot og la være å like, men allikevel har vi i denne salen et ansvar for å sørge for at saken er godt nok opplyst til å fatte en beslutning.
+Det mener jeg den ikke er i dag.
+Og når jeg utfordrer statsråden på formalia knyttet til dette og en begrunnelse for de lovforslagene som er fremmet, og hva konsekvensene av lovforslagene vil være for innbyggerne, så vil ikke statsråden svare, eller så er han ikke i stand til å svare.
+Jeg har stor forståelse for at det kan være krevende å holde oversikt over et stort felt, men jeg synes ikke dette er et godt nok beslutningsgrunnlag.
+Jeg er ikke i stand til å vurdere konsekvensene av de delegasjonsvedtakene vi i dag fatter.
+Når statsråden sier at når vi bygger vei, fattes det mange små og store beslutninger, ja, så vil de mange små og store beslutningene også berøre ganske mange mennesker, uten at vi vet konsekvensene.
+Når det gjelder klageinstans, er Vegdirektoratet foreslått som klageinstans.
+Det er det bred støtte til, men jeg får ikke noe svar på hvorfor departementet, uten at det er drøftet eller nevnt i proposisjonen, skal ha hjemmel til å fastsette en annen klageinstans.
+Det kan det være mange gode grunner til, men jeg får ikke den begrunnelsen.
+Jeg var innstilt på og trodde jeg skulle få noen svar i dag, så vi fikk lagt ved det som et forarbeid til loven sånn at man når man tolker den, kan forstå det.
+Det har jeg ikke fått.
+Etter forretningsorden er det for sent å fremme et løst forslag i saken, men jeg vil be om at presidenten vurderer om vi kan få lov til å behandle et løst forslag om å sende denne saken tilbake til departementet, fordi den ikke er godt nok opplyst.
+Slik jeg har forstått det, vil både Senterpartiet og Sosialistisk Venstreparti støtte et sånt forslag.
+Jeg hadde egentlig tenkt å avslutte debatten.
+Fra vår side mener vi at denne saken er godt nok opplyst slik den foreligger.
+Dette er en ren oppfølging av Meld.
+St. 25, På rett vei, for 2014–2015, det er å gi den nødvendige fullmakten – i tråd med den reformen som et flertall i Stortinget har vedtatt – til veiselskapet, nettopp for at veiselskapet skal kunne utøve den jobben det er tiltenkt av stortingsflertallet å gjøre.
+Jeg har respekt for at det kan være noen spørsmål til de forskjellige paragrafene.
+Men det vil jo være slik at når det f.eks. etter veglova § 9 vil kunne gis fullmakter til veiselskapet, er det nettopp for at det skal kunne gjøre den jobben det er satt til å gjøre, nemlig både å bygge, drifte og vedlikeholde de veiene som det selskapet har fått tildelt.
+Når det står i en setning her at en kanskje ikke har «full oversikt» over alle eventualitetene, er det jo gjerne sånn også når det gjelder andre veier som er omfattet av veglova § 9.
+Blant annet står det også om delegering av «myndighet til fylkeskommunen, regionvegkontor og kommunen».
+Det vil ikke på ett tidspunkt være mulig å ha full oversikt over alle eventualiteter, over hva det vil innebære en gang i framtida.
+Det kan oppstå situasjoner som gjør at det er behov for å ha en viss åpning for at det ikke er mulig å forhåndsdefinere alt.
+Jeg ser ikke det helt store problemet knyttet til dette.
+Jeg har respekt for at Arbeiderpartiet, Senterpartiet og SV er imot etablering av veiselskapet, men det er tross alt et stort flertall i dette storting som er for etablering av Nye Veier AS, som står bak det, og som nå legger til rette for at det selskapet skal kunne utøve sin oppgave på vegne av stortingsflertallet, på vegne av innbyggerne i dette landet, nemlig å bygge vei både raskere og billigere enn det vi har sett så langt.
+For vår del slutter vi oss helt og fullt til lovendringene slik de foreligger, slik de er presentert fra regjeringas side.
+Vi stemmer for dem.
+Representanten Eirik Sivertsen har hatt ordet to ganger tidligere og får ordet til en kort merknad, begrenset til 1 minutt.
+Jeg hører representanten Orten si at flertallet mener saken er godt nok opplyst, men faktum er at heller ikke flertallet er i stand til å redegjøre for hvilke beslutninger vi snakker om.
+Jeg skjønner at man ikke kan forutsi alle beslutninger som kan fattes i et konkret veiprosjekt, men det vi snakker om her, er enkeltvedtak.
+Det er enkeltvedtak, og det er vedtak som berører juridiske personers rettigheter og plikter.
+Det er en alvorlig sak, og jeg kan ikke se at flertallet er i stand til å redegjøre for det.
+Jeg synes det er veldig beklagelig at man lar dette hastverket få høyere prioritet enn det å vedta lover på et ansvarlig grunnlag.
+Jeg blir ikke beroliget når jeg hører saksordføreren snakke som om at en av begrunnelsene for å kunne fastsette en annen klageinstans enn Vegdirektoratet er at man skal kunne ha politisk styring med klager.
+For meg – jeg håper jeg misforsto dette – er det ikke betryggende, og det er ikke en slik lov jeg ønsker.
+Det er ikke uvanlig at en delegerer myndighet nedover i systemet.
+I dag er det sånn at en delegerer myndighet ned til kommunene og fylkeskommunene når de håndterer sine veiprosjekt.
+Men det å delegere myndighet sånn at du faktisk kan ta beslutningen på det nivået som er nærmest de berørte, betyr ikke at du setter dem i stand til å gå på siden av eller over eller under loven.
+Nye Veier må forholde seg til lovverket akkurat som kommuner og fylkeskommuner, og for så vidt Statens vegvesen, når de tar disse beslutningene.
+Når en hører Arbeiderpartiet i denne debatten, virker det som de tror at vi lager en stat i staten, der Nye Veier ikke trenger å forholde seg til noen andre enn sin egen synsing.
+Sånn er det jo ikke.
+Regelverket skal følges.
+Det er veinormaler som beskriver hvordan veiene skal bygges.
+Så kan Nye Veier be om å få unntak fra disse veinormalene.
+Da vil det håndteres fra sak til sak.
+Vi kan ikke nå stå og si at det vil skje på den og den kilometermarkeringen på Arendal–Tvedestrand.
+Hvis det er den typen tilnærming Arbeiderpartiet vil ha – at vi nærmest skal kunne peke allerede nå på hvilke veistrekninger og på hvilke punkter vi skal be om unntak fra hvor en gjerne legger sykkelveien i forhold til veinormalen, hvor en gjerne har litt bredere eller smalere sidefelt enn veinormalen, hvor en har litt annen tunnelutforming enn veinormalen, så er det en helt meningsløs tilnærming.
+Det er jo nettopp derfor vi har klageorgan, fordi hvis Nye Veier tar en beslutning som lokalsamfunnet er kraftig imot, og som en mener går på tvers av loven eller ikke ivaretar gode nok lokale hensyn, ja, så skal en kunne klage det opp til Veidirektoratet, som er det organet som også er klageorgan når Statens vegvesen gjør vedtak som lokalbefolkningen ikke er enig i.
+Hvis en da fortsatt mener dette ikke ivaretar demokratiet på en god nok måte, er faktisk Samferdselsdepartementet noe en kan klage til.
+Dermed er alle disse rettssikkerhetsaspektene som ble tatt opp, ivaretatt.
+Det er ikke noe unaturlig i at Nye Veier får denne tilnærmingen.
+Den finnes allerede.
+Jeg synes det er litt rart hvis det er sånn at Nye Veier fordi det er et AS, plutselig er kjempeproblematisk, når vi vet at Avinor også er et AS, som altså har store fullmakter, men der Arbeiderpartiet aldri etter min kunnskap, har vært ute og protestert.
+Når vi vet at jernbanereformforslaget til fagbevegelsen er å lage et NSB Holding, altså et aksjeselskap som skal styre norsk jernbane, ja, så ville det vært umulig med den tilnærmingen som Arbeiderpartiet tar i denne saken.
+Derfor lurer jeg litt på hva som er den egentlige begrunnelsen for den formalismen som Arbeiderpartiet viser her, og som også er en kritikk på det jeg mener er et ufullstendig grunnlag, fordi den påpeker en problemstilling som egentlig ikke er reell, fordi lovverket gjelder også for Nye Veier.
+De er ikke hevet over det, selv om de skal bygge vei raskere, bedre og billigere.
+Jeg hadde i utgangspunktet tenkt at vi ikke skulle være imot alt som lå i denne saken om lovendringen.
+Men jeg må innrømme at det er svært betenkelig at samferdselsministeren ikke kan redegjøre for hva lovendringene innebærer på spørsmål fra representanten Sivertsen.
+Det synes jeg er såpass alvorlig at hvis ikke vi kan få fram et løst forslag om å sende lovforslaget tilbake, ser ikke jeg noen annen løsning for Senterpartiet enn at vi stemmer imot.
+Flere har ikke bedt om ordet til sakene nr. 3 og 4.
+Senterpartiet og Sosialistisk Venstreparti har varslet at de vil stemme imot.
+Det voteres over lovens overskrift og loven i sin helhet.
+Presidenten antar at Senterpartiet og Sosialistisk Venstreparti vil stemme imot.
+Da tror presidenten at vi prøver en gang til.
+Lovvedtaket vil bli satt opp til andre gangs behandling i et senere møte i Stortinget.
+Under debatten er det satt fram i alt tre forslag.
+Det er forslagene nr. 1–3, fra Sverre Myrli på vegne av Arbeiderpartiet og Senterpartiet.
+Forslag nr. 1 lyder:
+«Stortinget ber regjeringen innføre en nasjonal sertifiseringsordning for lokomotivførere».
+Forslag nr. 2 lyder:
+«Stortinget ber regjeringen fremme forslag om at det innføres bestemmelser om kjøre- og hviletider for togpersonell».
+Forslag nr. 3 lyder:
+«Stortinget ber regjeringen innføre et felles regelverk for pensjon for ansatte i selskaper i jernbanesektoren».
+Sosialistisk Venstreparti og Miljøpartiet De Grønne har varslet støtte til forslagene.
+Arbeiderpartiet, Senterpartiet, Sosialistisk Venstreparti og Miljøpartiet De Grønne har varslet at de vil stemme imot.
+Det voteres over lovens overskrift og loven i sin helhet.
+Presidenten antar nå at Arbeiderpartiet, Senterpartiet, Sosialistisk Venstreparti og Miljøpartiet De Grønne vil stemme imot.
+Lovvedtaket vil bli satt opp til andre gangs behandling i et senere møte i Stortinget.
+Det voteres over lovens overskrift og loven i sin helhet.
+Lovvedtaket vil bli satt opp til andre gangs behandling i et senere møte i Stortinget.
+Da kommer vi til voteringen over innstillingen fra transport- og kommunikasjonskomiteen om endringer i veglova og plan- og bygningsloven.
+Her har representanten Eirik Sivertsen bedt om ordet.
+I behandlingen av denne saken har det oppstått flere uklarheter enn hva som var tilfellet da vi startet behandlingen av saken.
+Etter Arbeiderpartiets mening er saken ikke tilstrekkelig opplyst til at den kan behandles av Stortinget.
+Jeg ønsker derfor å framsette et forslag i henhold til forretningsordenen § 41 om å sende saken tilbake til komiteen.
+Hvis det ikke er flertall for det, kan jeg legge til en stemmeforklaring.
+Da vil Arbeiderpartiet stemme imot innstillingen om lovendringen slik den foreligger.
+Presidenten gjør oppmerksom på at Eirik Sivertsen også har fremmet dette forslaget under debatten, i tråd med § 41, der det står:
+«Før debatten om en sak er avsluttet, kan det fremsettes forslag om at saken sendes tilbake til komiteen.»
+Vi støtter Arbeiderpartiet.
+Da har presidenten notert det.
+Og det samme gjelder Senterpartiet.
+Da går vi til votering i sak nr. 4.
+Vi tar først opp forslaget fra Eirik Sivertsen om å sende saken tilbake til ny komitébehandling.
+Det voteres over I § 9 første ledd tredje punktum.
+Arbeiderpartiet, Senterpartiet og Sosialistisk Venstreparti har varslet at de vil stemme imot.
+Det voteres over I § 11 nytt andre ledd andre punktum.
+Arbeiderpartiet, Senterpartiet og Sosialistisk Venstreparti har varslet at de vil stemme imot.
+Det voteres over resten av I samt II.
+Arbeiderpartiet, Senterpartiet og Sosialistisk Venstreparti har varslet at de vil stemme imot.
+Det voteres over lovens overskrift og loven i sin helhet.
+Presidenten antar nå at Arbeiderpartiet, Senterpartiet og Sosialistisk Venstreparti vil stemme imot.
+Lovvedtaket vil bli satt opp til andre gangs behandling i et senere møte i Stortinget.
+Det foreligger ikke noe referat.
+Dermed er dagens kart ferdigbehandlet.
+Forlanger noen ordet før møtet heves?
+– Møtet er hevet.

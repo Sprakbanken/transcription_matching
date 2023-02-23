@@ -1,0 +1,1269 @@
+Representanten Torgeir Knag Fylkesnes vil fremsette et representantforslag.
+På vegner av representanten Kirsti Bergstø og meg sjølv vil eg setje fram eit representantforslag om ein samordna og offensiv strategi for vidare utvikling av Nord-Noreg.
+Forslaget vil bli behandlet på reglementsmessig måte.
+Stortinget mottok fredag 28. april meddelelse fra Statsministerens kontor om at statsrådene Solveig Horne, Bent Høie og Terje Søviknes vil møte til muntlig spørretime.
+De annonserte regjeringsmedlemmene er til stede, og vi er klare til å starte den muntlige spørretimen.
+Vi starter da med første hovedspørsmål, som er fra representanten Torgeir Micaelsen.
+På Arbeiderpartiets landsmøte for snart 14 dager siden varslet vi at vi mener at Norge skal ha som mål å bli best i Europa på e-helse innen 2025, fordi riktig bruk av digitale verktøy kan bedre pasientsikkerheten, øke arbeidsgleden til våre flotte helsearbeidere og ikke minst bidra med nye våpen i kampen mot alvorlige sykdommer.
+Men vi varslet samtidig at det er en visjon og et mål det ikke er mulig å nå uten at ambisjonsnivået jekkes kraftig opp, for Norge har gode muligheter til å lykkes, og flere helseregioner har allerede gjort mye bra som nå åpner for større samhandling mellom pasient og sykehus enn tidligere.
+Men regionene har valgt ulike strategier.
+Det ser ut til å være enighet om at det er pasientene på Vestlandet og i Nord-Norge som så langt har kommet best ut.
+Der har de i stor grad valgt å utvikle denne digitale grunnmuren i sykehusene i egen regi, med egne ansatte.
+Her på Østlandet går man motsatt vei.
+Her har landets største helseregion valgt å konkurranseutsette driften av disse systemene til et utenlandsk selskap, og det ble gjort i fjor.
+Denne bestemmelsen og avtalen, som jeg forstår at også departementet ved statsråd Bent Høie har vært inne i på et tidspunkt, settes det nå store spørsmålstegn ved.
+I dag melder NRK at 110 utenlandske IT-arbeidere kan ha hatt full tilgang og utvidede rettigheter til datasystemet som også handler om pasientdata i Helse Sør-Øst.
+Dette er – hvis man skal ha som mål å bli best i Europa på e-helse – svært foruroligende opplysninger.
+Spørsmålet mitt til helseministeren er derfor:
+ Kan helseministeren som øverste ansvarlige nå garantere pasientene i vår største helseregion at ikke IT-arbeidere i Bulgaria, Malaysia eller i andre land har mulighet til å komme inn og se på pasientopplysningene deres?
+Først til det overordnede bildet.
+Det er veldig gledelig at også Arbeiderpartiet nå er ambisiøse når det gjelder Norges muligheter på e-helseområdet.
+Da jeg overtok som helseminister, fikk jeg utarbeidet tre rapporter om statusen på det tidspunktet, og det var ganske nedslående.
+Derfor har det vært viktig å sikre de grunnleggende forutsetningene for å ta i bruk nye og mer moderne e-helseløsninger, som å investere i den grunnleggende infrastrukturen, som å få på plass et lovverk som faktisk gjør moderne løsninger lovlige, som ikke var lovlige før, og sikre nasjonal styring gjennom etablering av et e-helsedirektorat – tre helt vesentlige områder som gjorde at Norge hang bakpå i denne utviklingen, og der vi nå er i ferd med å se en helt annen utvikling.
+Når det gjelder den konkrete saken i Helse Sør-Øst, har jeg svart Stortinget på spørsmål knyttet til det tidligere.
+Saken i NRK i dag omhandler den transformasjonsfasen som en nå er inne i, og der er det motstridende opplysninger som gis fra Helse Sør-Øst, og i det som framkom i NRK-saken.
+Jeg kommer derfor til å be om å få en ytterligere grundig redegjørelse fra Helse Sør-Øst om de påstandene som kom fram i NRKs sak.
+Det er en helt klar forutsetning i saken fra Helse Sør-Østs styre at forhold knyttet til personvern og pasientsikkerhet, sikkerhet rundt pasientenes opplysninger, skal være ivaretatt.
+Det er styret i Helse Sør-Øst som har ansvaret for å ta denne typen beslutninger.
+Beslutningen som ble tatt i foretaksmøtet av meg, var knyttet til et spørsmål om økonomiske forhold rundt avtalen og ikke innholdet i selve avtalen eller gjennomføringen av den.
+Jeg hører at regjeringen nå varsler at de skal se på saken på nytt, og det bringer meg over til en annen dimensjon rundt spørsmålet om hvordan vi kan bli best i Europa.
+Det handler om å ha både politiske ledere og et embetsverk som har nok teknologisk forståelse til å stille de riktige spørsmålene i tide.
+Og selv om det er riktig at dette er et avtaleverk som tilligger styret i Helse Sør-Øst, er det ikke bra nok at regjeringen først når det på nytt blir satt spørsmålstegn ved dette gjennom mediene, varsler Stortinget om at nå skal man se på saken på nytt.
+Det vi trenger, er økt teknologisk og digital kompetanse og forståelse på en lang rekke nivåer, også i helsetjenesten.
+Jeg har lyst til å stille spørsmålet til helseministeren:
+ Hvordan har han sikret at hans politiske ledelse og hans toppembetsverk, som tar stilling og får informasjon om disse sakene løpende, har nok teknologisk kompetanse til å ivareta de hensynene vi er på jakt etter her?
+Når det gjelder den politiske ledelsen, skal jeg ikke gi noen dom over vår teknologiske kompetanse.
+Jeg tror at enhver politisk ledelse er helt avhengig av at den konkrete fagkompetansen på de ulike områdene først og fremst skal ivaretas av embetsverket.
+Som sagt har vi gjort én grunnleggende viktig endring, og det er å opprette et eget e-helse-direktorat for å bygge opp et nasjonalt miljø som har den fremste kompetansen på dette området, om både styring og ledelse.
+Samtidig har vi gjort omorganiseringer i Helsedepartementet direkte og opprettet en egen avdeling med en egen ekspedisjonssjef for dette området, nettopp for å styrke Helsedepartementets egen mulighet til å styre dette feltet.
+Det åpnes for oppfølgingsspørsmål – først til Sverre Myrli.
+Aller først har jeg lyst til å si:
+ At vi aldri lærer!
+Her snakker vi altså om en av Europas aller største IKT-outsourcinger.
+Jeg stilte spørsmål til helseministeren om denne store bortsettingen, og etter tre uker fikk jeg endelig svar – tre uker!
+Han er veldig for denne bortsettingen – og andre typer bortsettinger i helsevesenet, skriver han.
+Og han viser flere ganger til tiltak som må gjennomføres før virksomhetsoverdragelsen av IKT-infrastrukturen i Helse Sør-Øst finner sted.
+Formuleringer som «tiltak må iverksettes», «videre arbeid» og «ytterligere tiltak» forteller om et arbeid som ikke er ferdig, et arbeid som en rett og slett ikke har gjort.
+Det kan ikke forstås annerledes enn at sikkerhetstiltak og risiko- og sårbarhetsanalyser ikke er gjennomført.
+Spørsmålet mitt til helseministeren er rett og slett:
+ Hvorfor har han ikke forsikret seg om at alle sikkerhetsvurderinger er utført og godkjent før denne store virksomhetsoverdragelsen?
+For det første er det slik at det er styret i Helse Sør-Øst som har ansvar for å foreta den type vurderinger.
+Det er også de som har ansvar for å vurdere om denne type tjenester skal gjennomføres i egen regi, av Sykehuspartner eller av andre private underleverandører.
+Det er ikke gitt noen politiske føringer overfor Helse Sør-Øst knyttet til valg av løsning.
+De har sitt oppdrag og må bruke samfunnets ressurser som er stilt til disposisjon til helse, på en best mulig måte, og der det er helt klart at det som prioriteres, er pasientbehandling, forskning og utvikling og å lage et grunnlag for god behandling videre.
+Så er det slik at svarene – som også er videreformidlet til representanten – på de spørsmålene som var stilt, handler om de forsikringene som er gitt av Helse Sør-Øst når det gjelder hvilke sikkerhetsbarrierer som skal bygges opp, og eventuelt overføring av ansvar.
+Olaug V. Bollestad – til neste oppfølgingsspørsmål.
+Journaler og sikkerhet har alltid vært et problem, også da vi hadde papirjournaler som fløt rundt mellom nivåer og avdelinger.
+Men det er en utfordring for meg å skjønne det som i dag har kommet fram, at utenlandske IT-arbeidere har fått større tilgang enn de fleste av IT-konsulentene som jobber i Helse Sør-Øst.
+De IT-konsulentene som har etiske retningslinjer å forholde seg til, får altså mindre tilgang enn det man har gitt i dette anbudet.
+Jeg lurer på hva statsråden tenker om etisk grunnlag når en vil utsource IKT.
+Hvilket grunnlag ligger det for etiske retningslinjer?
+Vi er ulike som nasjoner.
+Vi behandler IT-opplysninger helt ulikt.
+Når vi ikke har det grunnlaget, risikerer vi jo at opplysninger kommer på avveier.
+Når det gjelder de konkrete opplysningene som framkom i NRKs sak i dag, må jeg be om å få komme tilbake igjen og eventuelt svare etter at jeg har fått en nærmere redegjørelse fra Helse Sør-Øst om den situasjonen som denne saken omhandler, som er selve transformasjonsfasen som vi nå er inne i – om det er Helse Sør-Østs uttalelser i dag som er korrekte, eller om det er det som NRK hevder at de kan dokumentere.
+Når det gjelder den permanente situasjonen, har Helse Sør-Øst forsikret meg om at de som jobber i dette selskapet, ikke skal ha samme type tilgang som de som jobber i Sykehuspartner og jobber med de samme forholdene, i dag har, at det skal gjennomføres sårbarhets- og sikkerhetsvurderinger i forkant av overføring, og at det også skal bygges opp en rekke sikkerhetsbarrierer hvis og når ulike tjenester skal utføres fra utlandet, bl.a. kryptering.
+Det er forhold som skal bygge opp nettopp den type barrierer, og det er norsk lov som skal gjelde.
+Kjersti Toppe – til oppfølgingsspørsmål.
+Denne saka er mykje meir alvorleg enn det som har kome fram hittil i denne debatten.
+Utanlandske IT-arbeidarar har fått tilgang til pasientopplysningar i Noreg.
+Saka er ingenting anna enn ein stor skandale, og det rokkar ved tilliten til heile det norske helsevesenet.
+Eg meiner at statsråden må slutta å skulda på Helse Sør-Aust.
+Han må stå til ansvar.
+Statsråden stod her i Stortinget for eitt år sidan og sa at dette prosjektet ikkje handlar om pasientsystemet eller andre system der personopplysningar vert behandla.
+Han sa i Stortinget at det var eit absolutt krav i avtalen at informasjonssikkerheit og personvern var varetatt.
+Eg meiner at statsråden her har villeia Stortinget, og at statsråden kan svara på denne måten på det som har skjedd no, kan eg ikkje forstå.
+Eg vil oppmoda statsråden i denne saka, som er svært alvorleg, om å koma tilbake til Stortinget med ei fullstendig utgreiing om saka.
+Jeg kan ikke trekke den typen bastante konklusjoner som representanten gjør, på bakgrunn av saken i NRK i dag.
+Jeg har behov for å få en grundig redegjørelse, også fra Helse Sør-Øst, siden det er ganske motstridende opplysninger som i dag gis fra Helse Sør-Øst, og det som framkommer i NRK.
+Helse Sør-Øst hevder bl.a. at tilgangen som er gitt, er en midlertidig tilgang i en begrenset periode for tolv ansatte i HPE for opplæring, at denne tilgangen ble gitt via leverandørportalen og begrenser seg til en definert periode, at denne tilgangen ble lukket den 27. april, da opplæringen var gjennomført, og at det også er 16 personer fra HPE som har hatt en midlertidig tilgang til infrastrukturen for kartlegging.
+Denne tilgangen ble kun benyttet i Sykehuspartners lokaler under kontroll av Sykehuspartner.
+Denne tilgangen er også lukket.
+Dette er den foreløpige redegjørelsen jeg har fått fra Helse Sør-Øst, men jeg har behov for å få en grundigere redegjørelse, fordi NRK hevder at de har dokumentasjon på noe som går utover dette.
+Ketil Kjenseth – til oppfølgingsspørsmål.
+Ambisjonen om å bli best i e-helse i 2025 er bra, men akkurat nå har vi behov for å bli best i Europa når det gjelder digital sårbarhet og sikkerhet.
+Det handler om både personvern og datasikkerhet, men det handler også om objektsikring.
+Det grunnleggende spørsmålet som statsråden må stille til Helse Sør-Øst, er om det er mulig å drifte databaser i Norge fra utlandet uten at en kommer i berøring med persondata – hvilket eksperter veldig betviler.
+Den informasjonen er vi nødt til å få.
+Det litt mer prinsipielle i dette er – vi skal revidere sikkerhetsloven i løpet av våren – om helsedata bør underlegges objektsikring.
+Det er i dag ikke mulig å gi IT-arbeidere utenfor Norges grenser sikkerhetsklarering, og det er ikke mulig for Norge å drive tilsyn.
+Da er ikke norsk lov all verdens mye verdt.
+Spørsmålet til statsråden er om han vil vurdere helsedata som en del av sikkerhetsloven.
+Jeg er helt enig med representanten i at det første spørsmålet han stiller, er et helt sentralt spørsmål i denne saken og også må være grunnleggende for det arbeidet som skal gjøres på dette området.
+Når det gjelder spørsmålet om sikkerhetsloven, gjelder den for Helse Sør-Øst.
+Helse Sør-Øst og Sykehuspartner har gjennomført sårbarhets- og risikoanalyser som også berører forhold spesielt knyttet til det særskilte landet, inkludert forhold rundt den lokale lovgivningen.
+Dette omhandler tilgang til pasienters helseopplysninger og om infrastruktur som inneholder pasientopplysninger, bør falle inn under sikkerhetsloven.
+Det ville i så fall vært en helt annen diskusjon.
+I utgangspunktet vil helseopplysninger om den enkelte pasient i Norge ikke ha betydning for rikets sikkerhet og dermed ikke falle inn under sikkerhetsloven slik den er i dag.
+Men Helse Sør-Øst, som foretak, er omfattet av sikkerhetsloven og gjør denne type vurderinger, men da med bakgrunn i dagens lov.
+Torgeir Knag Fylkesnes – til oppfølgingsspørsmål.
+Det er ei sjokkerande sak som har kome opp, som vi har fått vite om i dag, som helseministeren blei informert om for ei veke sidan, og som han framleis påstår han ikkje har oversikt over.
+Vi snakkar her ikkje berre om at nokon har hatt tilgang frå utlandet – dei har hatt tilgang og har kunna ta ut opplysningar utan at det har vore mogleg å spore det.
+Og dei har kunna gi tilgang til andre personar igjen, utan at det har kunna bli spora.
+Vi må nesten gå ut frå at informasjon om over ein tredjedel av Noregs befolkning har hamna på avvegar.
+Berre for å illustrere med eit lite eksempel kor alvorleg dette er:
+ Lat meg nemne helseopplysningar om abort, som kan kome ut, og kva trussel det kan bli for kvinner i minoritetsmiljø.
+Kan ein førestille seg andre saker – psykiske lidingar, sjølvmord osv.?
+Dette har hamna på avvegar, ut av landet.
+Noreg er verst i Europa når det gjeld sikkerheit.
+Og dette er forhold som statsråden har stått her i salen og garantert sikkerheita for.
+Korleis kan Noregs befolkning ha tillit til ministeren etter dette?
+Det er en rekke påstander i dette innlegget som ikke er dokumentert.
+Jeg tror det kan være lurt også for representanten å avvente en grundig redegjørelse om denne saken.
+Det er en rekke av de påstandene som her kommer fram, som ikke er bekreftet i den foreløpige redegjørelsen jeg har fått fra Helse Sør-Øst, men som er forhold som vi vil gå inn på.
+Det tror jeg også representanten gjør lurt i å avvente et grundig svar på, før han trekker bastante konklusjoner.
+Vi går videre til neste hovedspørsmål.
+Det er godt at helsestatsråden står her, for mitt spørsmål går til ham.
+Den 1. mai fikk jeg en flott dag i Odda.
+Mange tusen var møtt opp for å gå under parolen om å bevare det akuttkirurgiske tilbudet ved Odda sykehus, som har et nedslagsfelt som er større enn Vestfold fylke.
+En ROS-analyse som ligger til grunn, viser at Odda har den høyeste alvorlighetsgraden når det gjelder faren for store trafikkulykker.
+Det er stor fare for eksplosjonsulykker og naturkatastrofer med stein og snøras, de har mye natur, og ikke minst lever de av mye turisme.
+Økende ekstremvær gjør at luftambulansen til tider ikke kan lande, det er umulig med både bil- og båttransport.
+I dag klarer Odda sykehus selv å behandle ca. 80 pst. av de traumepasientene og de akuttkirurgiske pasientene de får inn.
+Så transporterer de 20 pst. til Traumesenteret på Haukeland eller til sykehuset i Haugesund.
+Mitt spørsmål til statsråden er:
+ Hva ligger bak statsrådens valg om å legge ned akuttkirurgien i Odda, med den traumefunksjonen de har, til å sortere det de kan ta selv, og det de må og skal transportere videre, mens han griper inn og vil beholde dette i Flekkefjord?
+Hva er forskjellen på begrunnelsene i Flekkefjord og i Odda, når statsråden allikevel griper inn?
+Vi har nå vært i en situasjon der det har vært årelang strid om nedleggelse knyttet til mange av de mindre sykehusene i Norge.
+Det er noe av det som en ønsket å bli kvitt gjennom Stortingets behandling av Nasjonal helse- og sykehusplan, der en har definert ulike typer sykehus.
+Men en av hovedkonklusjonene fra regjeringen, som også stortingsflertallet sluttet seg til, er at svaret i Norge ikke lenger er større og færre sykehus, men at en skal bevare og videreutvikle også de mindre sykehusene.
+Odda sykehus er i dag landets minste sykehus, med et opptaksområde på om lag 11 000 pasienter.
+Det er et sykehus som flere ganger har opplevd nettopp å ha nedleggelsesspøkelset hengende over seg.
+Helse Vests anbefaling etter en grundig utredning og vurdering er at Odda sykehus skal videreføres som akuttsykehus, i tråd med det som er føringene i Nasjonal helse- og sykehusplan.
+Det skal også utarbeides en videre plan for hvordan dette skal gjennomføres.
+Jeg vil selvfølgelig påse at også det videre arbeidet skjer i tråd med de føringene som er gitt i Stortinget når det gjelder Nasjonal helse- og sykehusplan.
+Men dette innebærer at den kontinuerlige bekymringen for om Odda sykehus skal eksistere videre som akuttsykehus, nå er vekk, og at Odda sykehus skal videreføres som akuttsykehus, skal legges til grunn i utviklingsplanene som Helse Vest nå skal jobbe med, og som gjelder fram mot 2035.
+Odda sykehus vil da få et tilbud på nivå med det som en fant ved andre sykehus i fjoråret i Norge, slik som i Lærdal og i Nordfjord – sykehus som nettopp fungerer veldig godt, og som skaper en god trygghet for befolkningen lokalt.
+Befolkningen i Odda er opptatt av at sykehuset blir bevart, men de er også opptatt av hva som er i sykehuset.
+Inntil i dag har de behandlet 80 pst. av dem som har kommet inn akutt, i eget sykehus.
+Nå ser det ut som at det er flertall i denne sal for å bevare det akuttkirurgiske tilbudet og traumefunksjonen i Odda, noe som betyr at en da skal kunne skille ut dem som skal til Traumesenteret, og dem som skal til Haugesund, og så skal man kunne behandle det man har kompetanse til, lokalt.
+Hva tenker statsråden nå når vi vet at det er flertall i denne sal for å bevare Odda sykehus?
+Vil statsråden komme til den samme avgjørelsen og si til befolkningen i Odda at vi tverrpolitisk står bak Odda sykehus, eller vil han anbefale sin stortingsgruppe faktisk å være imot å bevare Odda sykehus?
+Det er nå ingen tvil om at sykehuset i Odda skal bestå som akuttsykehus.
+Det skal videreføres som akuttsykehus med akuttfunksjoner i indremedisin, det skal være radiologiske tjenester, laboratorietjenester og planlagt kirurgi, det skal være anestesilege til stede 24/7 i døgnvakt, og det skal være en skadepoliklinikk.
+En må ikke framstille det som at den endringen Helse Vest nå har gått inn for, innebærer en nedleggelse eller en vei mot nedleggelse av Odda sykehus.
+Det er direkte feil, det er det motsatte som skjer.
+Det har ikke vært større trygghet for at Odda sykehus skal videreføres som akuttsykehus, enn med det som har skjedd gjennom disse beslutningene.
+Når det gjelder Stortingets behandling av saken, vil jeg selvfølgelig avvente det og se hva komiteen kommer fram til, men jeg legger til grunn dagens styringsmodell, som innebærer at det er helseforetaket og helseforetaksmøtet som avgjør innholdet i det enkelte sykehus.
+Det blir oppfølgingsspørsmål – først Hans Fredrik Grøvan.
+Helseministeren besluttet i forrige uke at utviklingsplanen for Sørlandet sykehus skal utarbeides med utgangspunkt i at dagens akuttfunksjoner ved Flekkefjord sykehus videreføres.
+Dette er en svært god nyhet for Flekkefjord sykehus og Sørlandet.
+Kristelig Folkeparti er opptatt av at det nå blir ro rundt Flekkefjord sykehus, og at det ikke gis rom for flere tolkninger.
+Vi forventer derfor at de utredningene som Helse Sør-Øst har bestilt om Flekkefjord, og som skulle ferdigstilles i løpet av våren 2018 etter at vedtaket i Helse Sør-Øst ble avvist, nå kan skrinlegges.
+Kan statsråden bekrefte at de bestilte utredningene nå legges vekk, slik at det kan bli ro rundt Flekkefjord sykehus, og at vi alle i framtiden kan være trygge på videreføringen av dagens akuttkirurgi og traumefunksjonene?
+Det er ingen grunn til uro for om dagens tilbud ved Flekkefjord sykehus skal videreføres, det skal også legges til grunn i Helse Sør-Østs arbeid med utviklingsplanen mot 2035.
+Min beslutning i foretaksmøtet skilte seg fra beslutningene i styret i Helse Sør-Øst på ett punkt, og det var nettopp dette punktet.
+Prosessen som var gjennomført ved Sørlandet sykehus Flekkefjord, var etter min vurdering – og for så vidt også styrene i Sørlandet sykehus og Helse Sør-Østs vurdering – ikke i tråd med de kvalitetskravene som ble stilt i Nasjonal helse- og sykehusplan.
+Jeg mener at det ville være svært uheldig for sykehuset i Flekkefjord å måtte leve med denne usikkerheten i ett år – det kunne ha ført til utfordringer knyttet til sykehuset som jeg mener var feil.
+Det var riktig for befolkningen å få en avklaring nå om hvilken rolle Flekkefjord sykehus skal ha videre – og det er den rollen de har i dag.
+Tove Karoline Knutsen – til oppfølgingsspørsmål.
+Da Stortinget behandlet Nasjonal helse- og sykehusplan, la man tydelige, men samtidig prinsipielle, føringer for hvordan man kan ivareta en akuttkirurgisk beredskap, slik at Stortinget skal slippe å sitte og detaljstyre sykehusene.
+Da la man inn parametre som avstand og geografi, og ba om at dette ble lagt til grunn for tilpassede modeller som ivaretar en akuttkirurgisk beredskap.
+På Gravdal sykehus, Lofoten, har man gjort nettopp det.
+Man har laget en Gravdal-modell, som er en løsning som holder seg innenfor det Stortinget har bestilt, og slik vi ser det, er det mange likhetstrekk mellom Odda og Gravdal.
+Mitt spørsmål er:
+ Har ikke helseministeren sett til Gravdal og lagt fram denne typen løsninger når man har hatt dialog med Odda?
+I forbindelse med Nasjonal helse- og sykehusplan er det helt riktig som representanten sier, at det av regjeringen i utgangspunktet, men også av Stortinget, ble understreket at geografi, avstand, klima skulle vektlegges i de lokale prosessene knyttet til å definere på hvilket nivå beredskapen skulle være innenfor de ulike definisjonene av sykehus – i denne sammenhengen er det snakk om akuttsykehus.
+Den på en måte nedre vurderingen av innholdet her vil være i tråd med det som en finner i Nordfjord og i Lærdal.
+Men så er det nettopp ut fra forhold knyttet til avstand og geografi man vurderer om man har behov for tjenester og beredskap utover det.
+Den prosessen er gjennomført i Helse Fonna og i Helse Vest, og de har kommet til den konklusjonen som de har gjort når det gjelder Odda sykehus, på lik linje med at lokale prosesser har ført til andre modeller, i Narvik, i Lofoten – og andre sykehus som nå kan føle trygghet for at de skal videreføres som akuttsykehus.
+Kjersti Toppe – til oppfølgingsspørsmål.
+I NOU 2015:
+ 17 «Først og fremst.
+Et helhetlig system for håndtering av akutte sykdommer og skader utenfor sykehus» vert det vist til fleire studiar som peikar på at risikoen for å døy etter traume er større i tynt befolka område enn i tett befolka område.
+I Nasjonal traumeplan, som nyleg er revidert, er dei faglege tilrådingane at dersom det er 45 minutt transporttid til eit traumesenter, skal pasienten transporterast til det nærmaste lokalsjukehuset med traumefunksjon.
+Når no Odda sjukehus skal mista sin akuttkirurgiske beredskap, mister dei òg traumefunksjonen.
+Da er det mellom to og tre timar til eit anna sjukehus.
+Spørsmålet mitt er korleis statsråden kan forsvara at folk i Hardanger ikkje skal ha den garantien som folk elles i Noreg har, med dei faglege tilrådingane om å ha eit lokalsjukehus med traumefunksjon i nærleiken.
+For det første er det sånn at det som er viktig i den type planer, er å ha en veldig avklart forståelse av hvilken kompetanse som finnes på de ulike sykehusene.
+Vi har flere akuttsykehus i Norge som ikke inngår i et traumeteam, men det har med de lokale forholdene, avstander og kompetansen på sykehusene å gjøre, som jeg har redegjort for tidligere.
+Det er heller ikke sånn at alle i Norge bor nærmere enn 45 minutter fra et traumesykehus.
+Og det er heller ikke sånn som representanten her leste opp, at en kan legge det opp ut fra det.
+Det kommer også veldig tydelig fram i den NOU-en som representanten viste til, at det er den samlede akuttmedisinske kjeden som er avgjørende for befolkningens trygghet.
+Den starter lenge før sykehuset.
+Det som er viktig, er at det legges gode, forutsigbare planer for dette.
+Det vil også bli gjort i indre Hardanger.
+Terje Breivik – til oppfølgingsspørsmål.
+Både Venstre og partiet til ministeren gjekk i 2013 til val på innføringa av ein nasjonal helseplan, med mål om at Stortinget igjen, etter etableringa av føretaksmodellen i 2002, skulle ta tilbake den overordna styringa av spesialisthelsetenesta.
+Helseplanen er no ein realitet, og usikkerheita som har rådd rundt mange lokalsjukehus etter åtte år med raud-grønt fleirtal, er i regelen fjerna – kjempebra!
+Så er det diverre eitt viktig unntak frå regelen, nemleg Odda, med vedtaket om nedlegging av akuttkirurgien.
+Éin ting er tryggleiken som akuttkirurgien representerer for lokalbefolkninga, som fleire har peika på, men kanskje like viktig er rolla funksjonen har for å gjera sjukehuset attraktivt for andre legegrupper.
+Det har vorte hevda, med stor truverde, at vedtaket slik sett er starten på ei gradvis tapping og nedlegging av sjukehuset og framleis usikkerheit.
+Har ministeren forståing for dette argumentet, og kva er svaret hans?
+Jeg har stor forståelse for den uro og det engasjementet som er i Odda, knyttet til de endringene som er vedtatt gjennomført ved Odda sjukehus.
+Det som har vært viktig for meg, og som jeg også opplever representanten sier seg enig i, er at den uroen ikke lenger handler om hvorvidt sykehuset skal legges ned, som det har gjort mange ganger før.
+Sykehuset skal videreføres som et akuttsykehus.
+Det kommer ofte en rekke påstander om hva den typen endringer vil føre til.
+Da er det viktig for meg å understreke at den modellen som velges her, ikke er en skrivebordsmodell, det er en modell som er vel utprøvd i den norske helsetjenesten, nettopp ved sykehus som har opplevd at de har fått ro og forutsigbarhet rundt sin videre drift, noe som også har gitt trygghet for rekruttering.
+Det er en rekke sykehus i Norge som drives innenfor den og tilsvarende modeller, som nettopp befolkningen slutter opp om, og som også har god rekruttering.
+Audun Lysbakken – til oppfølgingsspørsmål.
+Representanten Bollestad har vært i Odda på 1. mai.
+Jeg tror en SV-er blir omtrent like glad for å se en KrF-er i 1. mai-tog som en Krf-er blir for å se en SV-er i kirken – så det var kjekt.
+Det kan nevnes at til og med Odda Høyre var med i 1. mai-tog i år, riktignok med blå plakater, men det var den samme protesten mot partiets egen helseminister fra Høyre-folkene som fra de andre i det 1. mai-toget.
+De signalene som de siste dagene har kommet fra Arbeiderpartiet, tyder på at det er flertall i Stortinget for å hindre nedleggelse av akuttkirurgien.
+Da vil jeg gjerne spørre helseministeren, siden han i sted gjorde rede for hvordan han mener systemet skal fungere, nemlig at det er foretaket som bestemmer – det er jo likevel slik at det er helseministeren som i foretaksmøtet har godkjent Helse Vests planer – jeg regner det som en selvfølge, men vil gjerne få det bekreftet at om det skulle komme et vedtak i Stortinget som peker i en annen retning, vil helseministeren følge det opp og sørge for at det blir satt ut i livet.
+Jeg forholder meg til det som er dagens styringsmodell, og så får vi eventuelt følge opp hvis stortingsflertallet bestemmer seg for ikke å følge den i denne saken.
+Dagens styringsmodell legger opp til at det ikke er Stortinget som tar stilling til f.eks. hvilke typer kompetanse som skal være på det enkelte, navngitte sykehus.
+Det vil være en ny praksis, noe som, så vidt jeg kjenner til, aldri har skjedd etter at staten overtok ansvaret for sykehusene.
+Det er noe som hvert enkelt parti må tenke igjennom konsekvensene av, hvis en bryter det prinsippet.
+Det er alltid lurt for en statsråd å følge opp stortingsvedtak.
+Sånn har det alltid vært, og sånn kommer det alltid til å være.
+Vi går videre til neste hovedspørsmål.
+Spørsmålet mitt går til statsråd Høie.
+Regjeringa fører ein sjukehuspolitikk med nye omgrep for akuttkirurgi som ikkje er fagleg forankra.
+I Nasjonal helse- og sjukehusplan forsvann omgrepet «lokalsjukehus».
+Regjeringa meinte at dette ikkje var presist nok.
+Heretter skulle sjukehus definerast som «regionsjukehus», «stort akuttsjukehus», «akuttsjukehus» eller «sjukehus utan akuttfunksjonar».
+Stortinget slo fast at alle akuttsjukehus skal ha beredskap for kirurgisk vurdering og stabilisering og handtering av akutte hendingar.
+Spørsmålet er kva dette betyr.
+I Nasjonal traumeplan er det slått fast at ved skade og ulykke skal pasientar med lang reiseveg fraktast til lokalsjukehus med traumefunksjon.
+Kva eit lokalsjukehus med traumefunksjon må ha av akuttberedskap, er nøyaktig definert i den nasjonale traumeplanen.
+Dei må ha vaktberedskap for kirurg, anestesilege og operasjonspersonell med traumekompetanse.
+Uttrykket «kirurgisk vurdering og stabilisering» er ikkje definert, verken i sjukehusplanen eller i den nasjonale traumeplanen.
+Det er eit politisk konstruert ord, utan faglege realitetar.
+Det er eigna til å tilsløra debatten, gi falsk tryggleik og gjera folk usikre – stikk motsett av det som var føremålet med Nasjonal helse- og sjukehusplan.
+Dette kan sjølvsagt ikkje fortsetja.
+Statsråden må kunna svara Stortinget på kva dette betyr i praksis.
+Som eitt eksempel har statsråden stadfesta at Narvik sykehus skal ha akuttsjukehus med beredskap for kirurgisk vurdering og stabilisering og handtering av akutte hendingar, men det skal ikkje ha kirurgar i døgnvakt.
+Korleis er dette fagleg mogleg?
+Eg forstår det ikkje.
+Vi får no akuttsjukehus som ikkje skal kunna ta imot akutt sjuke pasientar.
+Spørsmålet mitt er:
+ Korleis vil statsråden sørgja for beredskap for kirurgisk vurdering og stabilisering utan at sjukehusa skal ha kirurgar i vakt?
+Det er svært få store akuttsykehus – kanskje bare ett – i Norge som kan ta imot alle akuttpasienter.
+Hele ideen bak Nasjonal helse- og sykehusplan handler om at sykehus er nødt til å samarbeide i nettverk, også om akuttpasientene.
+Det er ikke noe nytt.
+Det er slik det er i dag.
+Veldig mange akuttpasienter sendes i dag forbi det nærmeste sykehuset, rett og slett fordi det nærmeste sykehuset ikke har den kompetansen som skal til for å håndtere akkurat den pasienten.
+Det som er viktig for at dette skal gi god kvalitet, er at det er gode planer for og forutsigbarhet for hvilke typer kompetanse og hvilken rolle det enkelte sykehuset skal ha i forbindelse med ulike typer akutte hendelser, og ikke minst at de prehospitale tjenestene har kunnskap om det.
+Den modellen som ligger til grunn for Nasjonal helse- og sykehusplans definisjon av det som skal være minimumstilbudet i et akuttsykehus, er hentet fra Nordfjord sjukehus og Lærdal sjukehus.
+Diskusjonen rundt innholdet i Nordfjord sjukehus bør ikke være ukjent for en stortingsrepresentant fra Senterpartiet.
+Vi husker alle episoden der Senterpartiets leder sto i Nordfjord og fortalte befolkningen at de ikke visste hva de snakket om.
+Den modellen for framtidens lokalsykehus som ble utviklet og igangsatt under den rød-grønne regjeringen, er den modellen som også ligger til grunn for Nasjonal helse- og sykehusplan, og som vi nå har mange års erfaringer med, bl.a. fra Nordfjord og Lærdal, men også fra andre ulike typer løsninger ved mindre akuttsykehus.
+Legger en til grunn – som det virker som om Senterpartiet gjør – et mye høyere krav for å få lov til å være et akuttsykehus, vil det være veldig mange av våre mindre sykehus i dag som ikke vil ha mulighet til å bli videreført som akuttsykehus.
+Det ville føre til en sentralisering av sykehusstrukturen i Norge.
+Det er kanskje nokon andre her som ikkje veit kva dei snakkar om.
+Når det gjeld traumepasientar, er det ikkje rett at dei fleste går forbi det lokale sjukehuset.
+Ein kan lesa i Nasjonal traumeplan at dei fleste faktisk vert behandla på eit lokalsjukehus.
+Eg vil visa til eit brev som komiteen har fått frå Torben Wisborg.
+Han er professor og leiar av Nasjonal kompetansetjeneste for traumatologi.
+Det er datert 28. mars.
+Han skriv:
+«Ved nedlegging av akuttberedskapen ved norske sykehus, vil nødvendigvis avstand og tid til livsbevarende behandling øke
+. Dette kan ikke kompenseres ved innføring av nye begreper som ikke har dekning i fagmiljøet.»
+Og vidare:
+«Når man innfører nye begrep som vurderings- og stabiliseringsteam er det viktig at de inneholder noe som faktisk er nyttig for pasientene.
+Et vurderings- og stabiliseringsteam som er mindre og har dårligere kompetanse enn dagens akuttsykehus
+ er å lure pasientene og befolkningen.»
+Eg vil spørja på nytt:
+ Korleis skal ein sikra kirurgisk beredskap for vurdering og stabilisering utan at det er kirurgar i vakt?
+Blant annet kan en gjøre det på samme måte som en gjør i Nordfjord og i Lærdal, der de som jobber der, gir uttrykk for et helt annet syn, at dette fungerer veldig bra.
+Ledelsen ved Nordfjord sjukehus sier at de i løpet av de tolv årene ikke har opplevd den typen episoder som mange sier vil oppstå.
+Det er derfor lang erfaring med denne modellen.
+Ved sykehusene i Nordfjord og Lærdal er det etablert et medisinsk akutteam som utnytter den samlede kompetansen ved sykehusene.
+Dette teamet består av turnuslege, indremedisiner, anestesilege og generell kirurg eller ortoped og kan rykke ut dersom det er behov for å vurdere en pasient også utenfor sykehus.
+Ved Lærdal sjukehus er det en ortopedisk vaktordning som er knyttet til den planlagte kirurgien, og i Nordfjord er den knyttet til skadepoliklinikken.
+Anestesilege kan gjennomføre stabiliserende tiltak og eventuelt også følge med ved transport.
+Det blir oppfølgingsspørsmål – først Janne Sjelmo Nordås.
+Narvik kan nå bli et sykehus som ikke tar imot akutt syke pasienter som har behov for kirurgi.
+Det å ta hånd om akutt syke mennesker er vel noe av det de fleste forbinder med nettopp det å ha et sykehus.
+Hvordan skal Narvik sikres vurderings- og stabiliseringskompetanse for akutte hendelser når akuttkirurgien legges ned og kirurgene fjernes fra akuttmottaket?
+I Narvik opplever jeg at det har vært et godt samarbeid mellom sykehuset, kommunen, Universitetssykehuset Nord-Norge og senere Helse Nord om å finne en god modell for videreutvikling av Narvik sykehus.
+Det er sånn at der vil en ha et gastrokirurgisk tilbud utover vanlig åpningstid og utover ettermiddag og kveld.
+Det betyr at det vil være mulig å håndtere gastrokirurgiske pasienter, 90 pst. av akuttpasientene, innenfor den tiden.
+Det vil også bli en utvidelse av det ortopediske tilbudet, som har vært viktig for Narviks befolkning, bl.a. for å hindre at eldre mennesker med lårhalsbrudd, f.eks., må kjøres den lange veien til Harstad for å få behandling.
+Jeg opplever at den modellen en har kommet fram til i Narvik, er en modell som er god, og som også er innenfor de kravene som legges i Nasjonal helse- og sykehusplan.
+Tove Karoline Knutsen – til oppfølgingsspørsmål.
+Å gå fra en tilværelse som opposisjonspolitiker til posisjonspolitiker kan være en prøvelse for en hvilken som helst politiker, men makan til den rystelse som helseministeren har påført seg selv, skal man lete lenge etter.
+Ikke bare var han sterkt imot enhver fornuftig bruk av IKT i helsesektoren da han var i opposisjon – som han har innrømt her i Stortinget, i motsetning til hva han sa innledningsvis i dag – men han sa også at Nasjonal helse- og sykehusplan skulle være et fullstendig og uttømmende styringsverktøy, ja man trengte ikke engang regionale helseforetak eller andre ordninger.
+Alle dører skulle åpne seg, og var det mot formodning noen som var misfornøyd, kunne de gå til Stortinget og be om å få saken løst.
+I dag har Stortinget prøvd å få helseministeren til å løse de uløste problemene overfor enkelte sykehus.
+Vi har nevnt Odda.
+Stortinget har behandlet Nasjonal helse- og sykehusplan og lagt gode føringer.
+Ble ikke planen så uttømmende og fullstendig som helseministeren tenkte den skulle bli?
+Det kan godt være det er en rystende opplevelse å gå fra opposisjon til posisjon, men når jeg ser på Arbeiderpartiet i opposisjon, tror jeg kanskje det kan være en enda større rystende opplevelse å gå fra posisjon til opposisjon.
+Spesielt må det være rystende for hukommelsen noen ganger.
+Jeg mener det er helt åpenbart hvordan Nasjonal helse- og sykehusplan har virket i tråd med den måten som også partiene gikk inn for å sikre større politisk styring på.
+Det var alle partier utenom Arbeiderpartiet.
+Vi ser at nettopp den usikkerheten som har vært rundt en rekke av de mindre sykehusene, nå er avklart.
+Noen av dem har vært igjennom prosesser.
+De fleste lokale prosessene har vært gode.
+Det har vært noen unntak knyttet til det, bl.a. i Flekkefjord, og det har også fått konsekvenser.
+Nå ligger den beslutningen til grunn for utviklingsplanen mot 2035.
+Det betyr at sykehuskartet for Norge er tegnet for framtiden, og det tror jeg skal skape ro og forutsigbarhet.
+Olaug V. Bollestad – til oppfølgingsspørsmål.
+Jeg tror ikke det er noen i denne sal som er uenig i at alle sykehus ikke kan gjøre alt.
+Vi er nødt til å ha noen nasjonale funksjoner, og vi er nødt til å ha noen regionale funksjoner.
+Likevel er det noe jeg ikke forstår i denne rekken.
+Vi sier at vi skal ha en vurderings- og stabiliseringskompetanse på kirurgiske pasienter, og vi har spesialister i norske sykehus som kalles kirurger, nettopp fordi det er deres spesialitet.
+Hvordan kan en da forklare at en skal ha beredskap med vurderings- og stabiliseringskompetanse som skal gjøres av andre enn kirurger?
+Jeg har også fått signaler fra Narvik om at selv om det er kirurger på jobb, har de ikke lov til å gjøre tiltak som de har kompetanse til, etter kl. 15.
+Da skal pasienten transporteres.
+Det er det sykehuset sitter igjen med av plikt.
+Da spør jeg:
+ Hva tenker statsråden om denne ordbruken om vurdering og stabilisering uten kirurg?
+For det første er begrepet «kirurg» en forenkling av det som er dagens virkelighet og framtidens virkelighet.
+Innenfor kirurgifaget foregår det en betydelig spesialisering.
+Det betyr at enhver kirurg ikke kan gjøre ethvert kirurgisk inngrep eller vurdering.
+Derfor er det utrolig viktig at det enkelte sykehus også har en helt konkret vurdering av hvilken type akuttpasienter som skal til sykehuset, og hvilke vurderinger som skal gjøres ved det enkelte sykehus.
+Når det gjelder Narvik, er det helt klart at det at det skal være et gastrokirurgisk tilbud utover vanlig arbeidstid, på ettermiddag og kveld, nettopp vil innebære at de gastrokirurgene som er på jobb da, også kan brukes i vurdering og behandling av akuttpasienter når det er riktig.
+Vi går til neste hovedspørsmål.
+Mitt spørsmål går til barne- og likestillingsministeren.
+I et moderne og sammensatt samfunn er det helt avgjørende at vi klarer å opprettholde en situasjon med likhet for loven, og at vi har felles rettigheter og plikter.
+I NRKs morgensending i går kunne vi høre at utelivsdiskriminering er utbredt i Oslo, og at Oslo kommune igjen har avdekket at det forekommer diskriminering ved flere av utestedene i byen.
+Det skjer typisk ved at personer med minoritetsbakgrunn nektes adgang til utesteder, enten det er med begrunnelse i at man opererer med gjestelister, eller at det er fullt.
+Diskriminering skjer ifølge kontrollmyndigheten først og fremst basert på hudfarge, selv om det også kan være andre eksempler på diskriminering.
+Ifølge direktøren for Næringsetaten i Oslo er det store mørketall.
+Gjennom mange år har det kommet meldinger fra minoritetsungdom om at man blir diskriminert på utesteder, og at man er godt kjent med hvor man har begrensninger og det er vanskelig å komme inn.
+Diskriminering i utelivet skal ikke forekomme.
+Det er ulovlig, og det er en alvorlig forskjellsbehandling som det må slås hardt ned på.
+Tidligere kunne kommunene selv bestemme hvor strenge reaksjoner ulike overtredelser skulle møtes med, og det var dermed mulig, som for Oslo kommune, bl.a., ved tidligere næringsbyråd Hallstein Bjercke, å sette inn strenge reaksjoner for å få bukt med denne diskrimineringen.
+Mitt spørsmål til statsråden blir:
+ Har statsråden noen initiativer, eller hva mener statsråden kan og må gjøres for endelig å kunne få bukt med den diskrimineringen i utelivsbransjen som vi vet foregår?
+Det er viktig at vi har et sterkt og tydelig lovverk som viser et forbud mot diskriminering.
+Vi vet at mange blir utsatt for diskriminering, og utelivsbransjen er en av verstingene når det gjelder diskriminering.
+Lovverket er veldig tydelig på at det er et forbud mot diskriminering, og det er også blitt strammet inn i de nye diskrimineringslovene som ble vedtatt av Stortinget i 2013.
+Regjeringen har også sendt over til Stortinget forslag til ny likestillings- og diskrimineringslov, som skal styrke diskrimineringsvernet på mange områder, spesielt diskriminering på flere grunnlag.
+Det nytter ikke alltid med et godt lovverk hvis vi ikke også håndhever lovverket, og i dag er regelverket slik at det ikke får noen konsekvenser hvis man diskriminerer.
+Og for første gang har regjeringen sendt over til behandling i Stortinget et forslag om å endre hele håndhevingsapparatet på diskrimineringsfeltet, der det for første gang skal få konsekvenser å diskriminere, og en ny, styrket likestillingsnemnd kan gi oppreisning hvis man blir utsatt for diskriminering.
+For meg er det viktig at vi har et lovverk, det er viktig at det blir håndhevet, og selvfølgelig er det også viktig når det er et forbud i loven, at dette blir håndhevet.
+Det er nok flere saker som kunne vært tatt til domstolene for å bli prøvd.
+Jeg takker for svaret, men mitt oppfølgingsspørsmål går til helse- og omsorgsministeren.
+For litt over to år siden vedtok et bredt flertall i Stortinget et nytt system for kontroller kommunene fører med utelivsnæringen.
+Vi har nå et nasjonalt system med prikkbelastning.
+I forskriften som fastsetter hvilke prikkbelastninger som gis for ulike overtredelser, fastslås det at diskriminering skal medføre to prikker.
+Inndragning av skjenkebevilling kan kun skje dersom et serveringssted har pådratt seg tolv prikker i løpet av en toårsperiode.
+Det betyr at skjenkekontrollen må avdekke seks tilfeller av diskriminering før skjenkebevillingen kan inndras for en uke.
+Som jeg viste til tidligere, er det et paradoks at på grunn av dette regelverket er en kommune som Oslo blitt nødt til å myke opp arbeidet mot diskriminering i utelivet som følge av innføringen av et nasjonalt regelverk.
+Nå har dette vart en periode.
+Mitt spørsmål er:
+ Er statsråden villig til å se på dette på nytt, slik at kommunene får større handlingsrom til å skjerpe sitt arbeid, for endelig å få slutt på en helt uakseptabel situasjon med diskriminering i utelivsbransjen?
+For det første er det riktig som representanten sier, at det var en del av våre større kommuner som allerede hadde innført ulike former for prikkbelastning.
+Det var en ordning som fungerte godt, men det vi så på det tidspunktet, var at det var veldig ulik praksis i kommunene når det gjaldt håndtering av alkoholloven.
+Derfor var det et bredt ønske om, også fra næringen selv på et tidspunkt, å få en nasjonal ordning som ga mer lik behandling i kommunene, basert på prikkbelastningssystemet.
+Når en innfører en nasjonal ordning der enkelte kommuner allerede har innført en ordning, vil det nødvendigvis bli slik at enkelte kommuner da må justere sitt opprinnelige system, selv om de prikkbelastningene som ble innført, også var basert på erfaringer fra den enkelte kommune.
+Når det gjelder spørsmålet om diskriminering, er det riktig at det er lagt inn som et punkt som gir to prikker.
+Det er allikevel et ganske stort prinsipielt spørsmål, for alkohollovens formål er knyttet til regulering av skjenking, mens det ofte politisk er fristende å bruke sanksjonene i alkoholloven også for å ivareta andre samfunnshensyn.
+Der bør en begrense seg.
+Det blir oppfølgingsspørsmål – først Trine Skei Grande.
+På bakgrunn av det helseministeren avsluttet med, har jeg lyst til å følge opp til statsråd Horne.
+Det er soleklart at vi har et politi i Norge for å bekjempe kriminalitet.
+Det kan være fristende å bruke det til noe annet, som helseministeren fikk inn.
+Vi har reglement for utelivsbransjen, vi har reglement for arbeidslivet vårt, vi har reglement for hvordan boligmarkedet vårt fungerer, og alle disse er felt der folk opplever diskriminering.
+Men på den andre sida ser vi at regjeringa og andre er veldig aktive i å bekjempe ekstremisme, bekjempe utenforskap, snakke fint om det på alle arenaer man har mulighet til å gjøre det, og lager handlingsplaner for å gjøre det.
+Men man er likevel redd for å bruke det som i hverdagen til mange ungdommer virkelig oppfattes som ekstremt urettferdig.
+Ser statsråden en viss konflikt mellom det helseministeren avsluttet sitt svar med, og den jobben hun har?
+For meg er det viktig at vi har et godt lovverk som hindrer diskriminering, og at alle grupper, både unge og eldre, har et vern i diskrimineringsloven, og det vil jeg påstå at regjeringen har styrket med den nye felles likestillings- og diskrimineringsloven.
+Så er det jo sånn at det er ikke bare å ha et lovverk, en må også følge opp, og i dag får det altså ingen konsekvenser hvis en blir diskriminert.
+Vi har lang saksbehandlingstid, og jeg ønsker at vi skal ha et likestillingsombud som skal være både en veileder og en pådriver, som kan være en vaktbikkje der ute, og ivareta både barn og unge som blir utsatt for diskriminering.
+På det området jeg har ansvaret for, er det viktig at folk har opplysninger om hvilke rettigheter de har, at vi har et godt og tydelig lovverk, at de som blir diskriminert, blir ivaretatt, og at de får en rask avklaring i eller behandling av sakene sine.
+Det mener jeg blir styrket med en ny likestillingsnemnd, og den vil også ivareta den gruppen representanten tar opp her.
+Hege Haukeland Liadal – til oppfølgingsspørsmål.
+Mitt oppfølgingsspørsmål går til barne- og likestillingsministeren, som har ansvaret for diskriminering.
+Ungdom med innvandrerbakgrunn dropper å dra til utesteder på vestkanten, med visshet om at de ikke kommer inn.
+Dette gjelder Oslo.
+Hva konkret har ministeren gjort for å se om dette også er en nasjonal utfordring og et nasjonalt problem?
+Vi vet i dag at det er mange som blir utsatt for dobbeltdiskriminering.
+De blir diskriminert på grunn av sin bakgrunn og etnisitet, og de kan også bli utsatt for diskriminering når det gjelder en funksjonsnedsettelse.
+Hvis man har begge deler, er man ekstra utsatt for å bli diskriminert.
+Derfor har regjeringen i den nye felles likestillings- og diskrimineringsloven tydeliggjort det som går på sammensatt diskriminering, og styrket det vernet.
+Så må det også få konsekvenser å diskriminere.
+Dette er en viktig oppgave som jeg mener også Likestillingsombudet må ha.
+Likestillingsombudet skal ha både en styrket pådriverrolle og en veilednings- og tilsynsoppgave, og det må være tydelig også når det gjelder de utfordringene som er i utelivsbransjen.
+Vi har ikke gjort noen nasjonal undersøkelse om det, men det er sikkert statistikker, som Likestillingsombudet har.
+Hans Olav Syversen – til oppfølgingsspørsmål.
+Mitt spørsmål går til helseministeren.
+Jeg synes det kanskje blir en litt vel overordnet debatt når man sier at diskrimineringsspørsmål innenfor skjenkenæringen egner ikke alkoholloven seg særlig godt til, det må vi ha andre lovmessige grunnlag for å ta fatt i.
+Jeg tror det er helt feil.
+Hvis man virkelig setter som et krav – for det er en rettighet å ha bevilling – at her skal det ikke skje diskriminering, er også sanksjonssystemet best tjent med at det går via samme lovgivning som bevillingen gis ut fra.
+Det er altså et faktum at etter lovendringen er det vanskeligere å ta fatt i næringen som diskriminerer på grunnlag av hudfarge.
+Så mitt spørsmål er:
+ Når det nå skal evalueres, vil statsråden se på om den endringen som ble gjort, bør endres igjen, slik at man kan reagere mot den type atferd som vi har sett eksempler på?
+Det er sånn at vi kan reagere.
+Derfor er det prikker også for dette forholdet med grunnlag i alkoholloven.
+Det som allikevel er et spørsmål som det er verdt å tenke igjennom, er at diskriminering foregår ikke bare i utelivsbransjen, men vi som er politikere, har overfor utelivsbransjen et virkemiddel som vi har overfor veldig få andre bransjer, det at vi kan ta fra dem selve livsgrunnlaget, som er skjenking.
+Grunnlaget for det mener jeg i all hovedsak burde være knyttet opp til det som er alkohollovens formål, nemlig å hindre overskjenking og uforsvarlig salg og skjenking av alkohol.
+Der må de strengeste reaksjonene komme.
+Hvis vi velger å løfte inn mange andre samfunnsforhold i alkoholloven, er det sånn at vi har én bransje som vi har et ekstremt sterkt virkemiddel overfor, som vi kan bruke til mye, mens overfor alle andre samfunnets næringer har vi ikke muligheten til de samme reaksjoner, rett og slett fordi de ikke har alkoholloven.
+Det er noe som også et næringsvennlig parti som Kristelig Folkeparti bør tenke igjennom.
+Vi går videre til neste hovedspørsmål.
+Mitt spørsmål går til barneministeren.
+Barnevern handler om trygghet, og det handler om å skape trygghet for de mest utsatte barna vi har.
+En av de tingene som har skapt utrygghet for barnevernsbarn, og som mange derfor har vært engasjert i å få gjort noe med, er anbudssystemet, et anbudssystem som gjør at man risikerer at barn rykkes opp fra et miljø de er kjent med og trygg på, fordi f.eks. den institusjonen de er bosatt på, taper i en anbudskonkurranse.
+Omsorg er omtanke – det er ikke butikk.
+Det var en viktig grunn til at den rød-grønne regjeringen vedtok å slutte med anbudsbruken i det statlige barnevernet.
+Noe av det første statsråd Horne gjorde, var å oppheve det vedtaket og gjeninnføre beskjeden om at anbud skulle brukes.
+Hun ønsker kommersielle aktører velkommen i barnevernet og ønsker ikke å prioritere ideelle eller lage langsiktige avtaler.
+Vi har sett de siste årene en kraftig økning i kjøp fra kommersielle barnevernsselskaper, og vi vet at nærmere 90 pst. av kommersielle barnevernstjenester nå leveres av fem store konserner.
+Barnevernet er altså en lukrativ næring for en del store konserner.
+Så har statsråden bestilt en rapport fra Vista Analyse, som kom i 2016, og den har det treffende navnet «Bruken av private aktører i barnevernet – ansvar på avveie?».
+Jeg har lyst til å sitere:
+«Dagens praksis innebærer høy profitt til leverandørene, mer omfattende tjenester enn nødvendig og økte kostnader hos kommunene og Bufetat til oppfølging og kontroll mv.»
+Hvor mye av de pengene statsråden bevilger til statlig barnevern, ender opp som profitt hos kommersielle eiere?
+La meg først få innlede med å si at for meg er det ikke så viktig hvem som drifter tilbudet, men kvaliteten som blir gitt til det enkelte barn, og at barn og unge som har behov for hjelp av barnevernet, får den hjelpen de trenger, og et tilbud som er tilpasset den enkelte.
+Vi har mange dyktige kommersielle aktører som leverer tjenester til det offentlige.
+De leverer gode tjenester, og det har de gjort gjennom mange år, også under den forrige regjeringen.
+Jeg ser det ikke som et problem at kommersielle tjener penger på å levere tjenester som det offentlige har behov for, men det er viktig at vi er sikre på at det ikke betales mer enn det som er nødvendig, og at de leverer den kvaliteten som vi bestiller.
+Tjenester som ytes av de private aktørene, skal tilfredsstille akkurat den samme kvaliteten og kravet til kompetanse og kvalitet som de tjenestene som staten utfører.
+Jeg har lyst til å understreke at de kontraktene som denne regjeringen har operert under, ble inngått under den forrige regjeringen.
+Vi inngikk nye kontrakter i fjor med private og ideelle aktører på samme linje som den forrige regjeringen gjorde.
+I de senere årene – også under den forrige regjeringen – er ca. halvparten statlige institusjoner og halvparten private og ideelle aktører.
+Det er det samme som i dag.
+Jeg har ingen oversikt over hvilket utbytte som blir tatt, men jeg er opptatt av at barn har gode tilbud når de til enhver tid trenger det, og om det er en statlig, en ideell eller en kommersiell aktør, så har ikke det vært hovedkriteriet.
+Det viktigste er at det er kvalitet, at vi har et tilbud som tilpasses det enkelte barn og unge til enhver tid.
+Selv om statsråden har fått en rapport som slår fast at ansvaret er på avveier og at det er unødvendig høye kostnader, er hun ikke interessert i å finne ut hvor pengene blir av.
+Det er en interessant holdning fra Fremskrittspartiet til bruk av skattepenger.
+Nå har vi fått svar på det, så la meg da flytte meg til det kommunale barnevernet.
+Statsråd Horne har altså mottatt en rapport fra Helsetilsynet, som er dramatisk.
+Den slår fast at mange barnevernstjenester henlegger saker, og at de ikke er i stand til å følge opp bekymringsmeldinger på en god måte.
+Penger er ikke alt, har statsråden kommentert til den rapporten, til tross for at hun, da hun var i opposisjon, foreslo en opptrappingsplan for kommunalt barnevern.
+Da SV hadde regjeringsansvar på dette området, gjennomførte vi en opptrapping, om lag 1 000 stillinger ble gjennom en øremerket plan – barnevernsløftet – tilført i de årene.
+Det var den største satsingen på kommunalt barnevern på over 20 år.
+Under statsråd Horne har altså barnevernsløftet stoppet opp.
+Det er blitt bevilget vekslepenger til tross for at målet var å komme opp i 1 500 nye stillinger totalt.
+Hvor mange nye stillinger i kommunalt barnevern har statsråd Horne sørget for?
+La meg tilføye til det første spørsmålet at vi har bestilt den rapporten.
+Det er en rapport som vi nå går igjennom, for det er også viktig å se på hvordan det statlige barnevernet blir drevet, spesielt opp mot både de statlige institusjonene og de kommersielle institusjonene.
+Så til spørsmålet.
+Regjeringen har økt bevilgningene til det kommunale barnevernet med over 150 mill. kr de siste årene, og det har også vært en stor satsing på noe av det som er den grunnleggende kritikken av barnevernet, nemlig på manglende kompetanse.
+Vi ser at det barnevernsløftet som den forrige regjeringen satte i gang, og som vi nå viderefører med å styrke flere andre tiltak, er med på å redusere saksbehandlingstiden ved at flere saksbehandlere har færre barn i det kommunale barnevernet.
+Det et også viktig å understreke at kommunene har fått økte midler, og at de har en lovfestet plikt til å ha et forsvarlig barnevern og å satse på barnevern.
+Jeg er i likhet med representanten bekymret for at det er for store forskjeller ute i kommunene knyttet til det å satse på barnevern.
+Det åpnes for oppfølgingsspørsmål – først Kirsti Bergstø.
+Statsråden snakker om kompetansepakken, men vi snakker om folk som knapt har tid til å spise matpakken.
+Problemene har igjen hopet seg opp i barnevernet etter at dagens regjering stoppet Barnevernsløftet framfor å fullføre det.
+På statsråd Hornes post har det rundhåndet blitt gitt til landets økonomiske elite, mens barnevernet avspises med småpenger.
+Og vi hører nå at det ikke finnes kontroll med om penger satt av til barnevern går til utsatte unger eller til barnevernsbaroner – gjennom anbudskonkurransen, som er gjeninntatt i barnevernet, der vi ser at markedskreftene igjen skal rå.
+Jeg lurer på om statsråd Horne er tilfreds med utviklingen, som hun selv har ansvar for, eller om hun kanskje håper på SV i regjering igjen, slik at det kan bli et nytt løft for de mest sårbare gruppene her i landet.
+Barnevernet er et av de viktigste områdene vi holder på å jobbe med.
+Det viktigste arbeidet for barnevernet skjer også ute i en kommune, at kommunen har et godt og trygt barnevern.
+Regjeringen har videreført satsingen på det kommunale barnevernet, som den forrige regjeringen la fram.
+Vi har fått på plass flere stillinger, som også har gjort at det er færre barn per saksbehandler.
+Jeg har lyst til å understreke at det viktigste vi kan gjøre for barnevernet, er å forebygge.
+Vi vet at omsorgsovertakelse er dyrt.
+Derfor har denne regjeringen satset på det forebyggende arbeidet:
+ De kommunene som bruker mer på helsestasjoner, bruker mindre på barnevern.
+Det er å kunne komme tidlig inn og hjelpe familiene der de trenger det, og gjøre foreldrene trygge, slik at en ikke trenger en omsorgsovertakelse.
+Så er det viktig det som de rapportene som har kommet, viser, og som Helsetilsynets tilsyn viser, at det er manglende kompetanse.
+Det mangler også kompetanse i å praktisere det lovverket som er.
+Derfor har regjeringen også en storstilt satsing på kompetanse i det kommunale barnevernet, som vil komme barn og unge til gode.
+Sonja Mandt – til oppfølgingsspørsmål.
+Barnevernsbarn trenger trygge voksne i barnevernet som kan jobben sin.
+Under den rød-grønne regjeringa prøvde også vi å legge barnevernet inn i rammen, noe som viste seg ikke å virke.
+Deretter kom Barnevernsløftet, og der hadde vi stort hell med øremerkede midler.
+Det følges nå ikke opp.
+I den nye loven – som vi nå vi behandler – ser vi at flere oppgaver skal overføres til barnevernet i kommunene, og pengene skal legges inn i rammen.
+Jeg lurer på hva slags ny informasjon statsråden har som tilsier at rammetilskudd vil øke bemanningen og kompetansen i barnevernet framover.
+Jeg undrer om hun kan dele det med oss.
+Regjeringen har i disse årene videreført den øremerkingen til det kommunale barnevernet som den forrige regjeringen satte i gang.
+Det har også vært viktig for oss å sikre at kommunene satser på flere ansatte innenfor barnevernet.
+Jeg har lyst til å understreke én gang til at kommunene har et selvstendig ansvar for ha et barnevern som er forsvarlig, som samarbeider med andre tjenester, og som jobber forebyggende og med tidlig innsats.
+Det er også målet med den barnevernsreformen som regjeringen har lagt fram.
+Regjeringen ønsker å gi kommunene et større ansvar for barnevernet, for vi vet at det er et incentiv til å kunne jobbe forebyggende, til å se flere tjenester under ett og å komme tidlig inn.
+Jeg har også lyst til å understreke – og det står veldig tydelig og klart i den barnevernsreformen som er lagt fram for Stortinget – at skal kommunene få et større ansvar, må de også få et større finansielt ansvar.
+Det er da overføring av penger.
+Jeg har tro på lokaldemokratiet, på at når kommunene får penger over rammen, vil de pengene gå til det viktige arbeidet med barnevern.
+Geir Jørgen Bekkevold – til oppfølgingsspørsmål.
+I familie- og kulturkomiteen behandler vi nå en proposisjon:
+ Endringer i barnevernloven, en barnevernsreform.
+Proposisjonen gir en god oppsummering av utfordringene i norsk barnevern:
+ mangel på fosterhjem, mange fosterhjemsplasseringer ender i brudd, og det står mange barn i fosterhjemskø.
+I tillegg er det store kommunale forskjeller og en mangel på differensierte tiltak til de barna som trenger det.
+Spørsmålet er om denne proposisjonen svarer på de utfordringene som er i barnevernet i dag.
+Hvordan vil statsråden sørge for at det blir færre brudd, og at vi får flere fosterhjem og mer støtte til fosterhjemsfamiliene i tiden framover?
+Regjeringen har lagt fram en fosterhjemsmelding som ble behandlet i Stortinget for ett års tid siden, der det var mange gode tiltak, og der det også var anmodningsvedtak fra Stortinget som vi skal følge opp, og det er et arbeid vi jobber med.
+Vi vet at vi trenger flere fosterhjem.
+Det er vanskelig å rekruttere, og derfor er jeg glad for at også Kristelig Folkeparti har vært med på å øke budsjettene på rekrutteringsarbeidet opp mot fosterhjem.
+I tillegg ligger det inne i den barnevernsreformen at kommunene får en lovfestet plikt til å søke etter fosterhjem i nettverk og slekt, som vi vet også er gode fosterhjem.
+Så har jeg lyst til å nevne at vi nettopp har satt ned et utvalg som nå skal gå gjennom hele fosterhjemsomsorgen og også se på ordningene opp mot familiene, for vi vet at det er mange fosterfamilier som tar på seg et viktig arbeid, som ikke får den oppfølgingen og veiledningen som de må ha for å stå i det viktige arbeidet.
+Kjersti Toppe – til oppfølgingsspørsmål.
+Barnevernet treng stabilitet.
+Stavanger Aftenblad fortalde i januar 2016 historia om tenåringsjenta «Ida» som vart tvangsflytta til ein barnevernsinstitusjon 130 mil nord for heimplassen sin.
+I 2015 var det totalt 478 barn i Noreg som vart flytta til ein barnevernsinstitusjon eller ein statleg fosterheim i ein annan landsregion enn den dei sjølve kjem frå.
+Barne-, ungdoms- og familiedirektoratet uttalte til Stavanger Aftenblad 20. desember i fjor at Barne- og likestillingsdepartementet har gitt beskjed om at høg produktivitet og kapasitetsutnytting av barnevernsinstitusjonar er viktigare enn å plassera barn i nærleiken av heimplassen.
+Spørsmålet mitt er kvifor statsråden ikkje grip inn her og arbeider for å gi barn ein lovmessig rett til tilbod i nærleiken av barnets heimstad når det er til barnets beste?
+Det er til enhver tid viktig å sikre at barn og ungdom som har behov for en institusjonsplass, får den plasseringen som er det beste for dette barnet.
+Så må vi også være klar over at det er ca. 1 000 barn som bor på institusjon, og det vil være umulig å ha et spesialisert tilbud til det enkelte barn i hver eneste region og hver eneste kommune.
+Men det er viktig at både kommunene og staten lytter til det barnet og den ungdommen – som var det som sviktet i Ida-saken – for å finne det tilbudet som er der.
+Jeg har vært opptatt av at vi skal ha et institusjonstilbud som er et mangfold, og at kommunene nå i den nye barnevernsreformen får en større valgfrihet til å kunne velge den rette institusjonen.
+Det har de ikke muligheten til å gjøre i dag, de må ofte ta den institusjonen som er ledig.
+Men vi er opptatt av å ha et mangfold og ha god kvalitet på disse institusjonene, og også sikre at barna medvirker i valget av de institusjonene de trenger.
+Vi går videre til neste hovedspørsmål.
+Mitt spørsmål går til olje- og energiministeren:
+ Når store utbyggingsprosjekter har blitt satt ut til asiatiske verft, har vi fått høre at dette skyldes at norske verft ikke var konkurransedyktige.
+Likevel har vi gang på gang sett at prosjektene kommer til norsk sokkel med en prislapp som ligger langt over anbudssummen.
+Økonomiske overskridelser, feil som må repareres, og betydelige forsinkelser i produksjonsstart fører til at de ekstrakostnadene blir ekstra store.
+Gjennom vårt skattesystem kommer en svært stor del av dette til fradrag i oljeselskapenes skatt.
+Det er derfor viktig at vi ser på hvordan dette kan forhindres.
+Norske verft har markert seg som pålitelige leverandører på både pris og kvalitet.
+Høy standard på arbeidet og høyt sikkerhetsnivå sikrer det.
+Men det har også blitt reflektert i anbudssummene som disse verftene har levert.
+Byggingen av Totals Martin Linge-plattform ble tildelt Samsung-verftet i Korea i 2012.
+I forrige uke ble det klart at prosjektet var i trøbbel.
+Det ble varslet både kostnadsoverskridelser og forsinkelser – 10,4 mrd. kr over budsjett og mer enn ett års forsinkelse.
+På 1. mai kom også den triste beskjeden at 6 mennesker omkom og over 20 ble skadd i en arbeidsulykke på dette prosjektet.
+I Arbeiderpartiet har vi sett behovet for å gi myndighetene hjemmel til å gjøre noe for å forhindre sånne prosjekthavarier.
+Det er selskapenes ansvar å velge seg leverandører, men når felleskapets risikoandel er så stor som den er, burde myndighetene ha en finger på rattet.
+Vi har derfor fremmet forslag om at det utredes hvordan myndighetene gjennom tettere oppfølging av utbyggingsprosjekter kan sikre at kontraktstrategier og prosjektgjennomføring bidrar til at våre overordnede målsettinger i petroleumspolitikken nås.
+Vi har også merket oss at HMS-standarden i f.eks. Korea er svært forskjellig fra Norge.
+Mens vi hadde en dødsfallfrekvens i arbeidslivet i 2013 på 1,8 per hundre tusen årsverk, hadde Korea 12,5.
+Vi fremmet derfor forslag om å utrede hvorvidt forskrift om HMS i petroleumsvirksomheten også kunne gjøres helt eller delvis gjeldende ved bygging av installasjoner til norsk sokkel.
+Med tanke på utviklingen i Martin Linge-prosjektet, med hensyn til både overskridelser, forsinkelser og den tragiske ulykken, hvilke tanker gjør statsråden seg om hva som kan gjøres for å unngå denne typen uønsket utvikling ved bygging av prosjekter til norsk sokkel?
+For det første vil også jeg uttrykke at det var en fryktelig beskjed å få at vi har hatt en storulykke ved Samsung-verftet med tragisk utfall for arbeidere der, og det er grunn til å la våre tanker gå til dem som nå sitter igjen uten sine kjære.
+Det er riktig at vi har hatt en periode tilbake fra 2010, under den forrige regjeringen, der veldig mange store prosjekt knyttet til norsk olje- og gassbransje gikk til verft i Asia.
+Den trenden har vi sett en betydelig endring på de siste årene, og en stadig større andel prosjekt går til norske verft, norsk leverandørindustri.
+Det ser jeg på som et uttrykk for at olje- og gasselskapene både ser helheten i sine anskaffelser og også tar inn forsinkelser og eventuelle kostnadsoverskridelser i sine totale risikovurderinger når de tildeler kontrakter.
+Det er også gjort et godt stykke arbeid i norsk leverandørindustri sammen med oljeselskapene de to siste årene, etter oljeprisfallet, som bidrar til at norsk leverandørindustri er mer konkurransedyktig enn tidligere.
+Det har vært kostnadsreduksjoner, det har vært gjort grep på standardisering og kontraktsform mellom partene.
+Det har bidratt til at vi denne vinteren f.eks. har sett at norskandelen i nye tildelte kontrakter har vært veldig stor.
+Det er godt nytt for norsk leverandørindustri.
+Så vil jeg understreke at når det gjelder prosjekt som blir satt ut til andre land, er det myndighetene i de respektive land som har ansvaret for regulering og oppfølging av HMS-arbeidet, akkurat som det gjelder i Norge, at norske myndigheter har ansvaret for oppfølging av arbeidsmiljølov og HMS-arbeid ved norske leverandørbedrifter.
+Jeg takker for svaret.
+Det er riktig at det har blitt gjort et godt stykke arbeid i industrien, og jeg håper at oljeselskapene har tatt inn over seg de resultatene vi har sett, med overskridelser og forsinkelser på tidligere prosjekter som har gått til utenlandske verft.
+Jeg tror ikke vi er ute av faresonen.
+Derfor ville jeg svært gjerne sett at vi fikk på plass et skikkelig regelverk og en hjemmel til å gå oljeselskapene nærmere etter i sømmene når det gjelder prosjektoppfølgingen.
+På samme måte som vi gjør når det gjelder utvinning og så langt ned som til drenering av de enkelte feltene på norsk sokkel, må vi kunne være sikre på at selskapene har kontroll på utbyggingsprosjektene.
+Derfor har vi sagt at vi ønsker å få utredet dette.
+Det samme gjelder for HMS.
+Vi kan gjennom plan for utbygging og drift stille vilkår om at det skal være god oppfølging av HMS under byggeperioden.
+Det er helt riktig at myndighetene har oppfølging av olje- og gassvirksomheten på norsk sokkel gjennom det regelverket vi har forvaltet gjennom 50 år, og som gradvis er utviklet.
+Når det gjelder arbeidsdelingen her, er det viktig å ha den tydelig og klar:
+ Det er selskapene som er ansvarlige for sine anskaffelser, og som byggherre må de være det overfor de leverandører de velger, enten det er utenlandske eller norske.
+Fra myndighetenes side er vi tydelige på at selskapene skal utøve en virksomhet som er i tråd med de HMS-krav vi stiller – som er blant de strengeste i verden – for aktiviteten på norsk sokkel.
+Petroleumstilsynet har en rolle i utbyggingsfasen knyttet til å følge opp prosjekt og se til at de blir bygd på en måte som gjør at de kan bli godkjent for virksomhet på norsk sokkel når de kommer og skal settes i drift.
+Derfor har Petroleumstilsynet fulgt opp f.eks. utbyggingen av Martin Linge, som det ble referert til i hovedspørsmålet.
+Det åpnes for oppfølgingsspørsmål – først Torstein Tvedt Solberg.
+Jeg oppfatter egentlig ikke at statsråden svarer på det som er spørsmålet her.
+Han kommer med noen generelle betraktninger og generelle vendinger om utviklingen i bransjen, men vil ikke svare noe på det som er det alvorlige i spørsmålet som ble tatt opp.
+Vi ser at overskridelsene har blitt større, forsinkelsene blitt lengre og ulykkene – sist nå 1. mai – mer alvorlige.
+Jeg mener det nå har kommet til et kritisk nivå og at dette ikke kan fortsette.
+Jeg håper statsråden kan svare på om en ikke ser dette, at utviklingen nå har gått for langt, at det er behov for å ta grep, og at det trengs en slik hjemmel som Arbeiderpartiet har spurt om.
+Det ville være interessant å høre statsrådens bemerkninger om hvorvidt han i det hele tatt ser for seg noe som helst scenario.
+Fortsetter det med større ulykker og lengre forsinkelser?
+Skal en fortsette med den samme passiviteten?
+Eller vil en i noe som helst scenario se for seg at det kan være mulig å ta noen grep og få på plass en slik hjemmel?
+Jeg vil understreke at de fleste utbyggingsprosjektene på norsk sokkel gjennomføres på plan, tid og kost og er gode prosjekter som er veldig samfunnsnyttige og gir inntekter til det offentlige.
+Utbygging av store olje- og gassprosjekter er komplisert.
+Disse prosjektene er noe av det mest kompliserte man kan tenke seg – ren ingeniørkunst!
+Det vil av og til oppstå utfordringer.
+Arbeiderpartiet går her inn på en helt ny modell som eventuelt vil bidra til at myndighetene skal være med og ta stilling til hvilken strategi de ulike selskapene skal velge for sine utbyggingsprosjekt.
+Det blir en sammenblanding av roller som jeg tror vi ikke er tjent med i den norske forvaltningen av olje- og gassressurser.
+Det er slik at man må han en ansvarsfordeling mellom selskapene som byggherre, og myndighetene som kan stille generelle krav til olje- og gassvirksomheten på norsk sokkel.
+Dermed er den muntlige spørretimen omme, og vi går videre til den ordinære spørretimen.
+Det blir noen endringer i den oppsatte spørsmålslisten, og presidenten viser i den sammenheng til den elektroniske spørsmålslisten i salappen.
+De foreslåtte endringene i dagens spørretime foreslås godkjent.
+– Det anses vedtatt.
+Endringene var som følger:
+Spørsmål 2, fra representanten Gunvor Eldegard til kommunal- og moderniseringsministeren, er overført til helse- og omsorgsministeren som rette vedkommende.
+Spørsmål 6, fra representanten Ingvild Kjerkol til helse- og omsorgsministeren, er trukket tilbake.
+««Det kan ikke stå på pengene.
+Det får koste hva det koste vil», sa Siv Jensen i 2013 om Fremskrittspartiets eldreløfter.
+Gitt regjeringens politikk de siste fire årene, er det grunn til å hevde at de eldre har måttet vike for skattekutt til dem som har mest fra før.
+Statlig finansiert eldreomsorg forsøkes i seks kommuner, lovfestet rett til sykehjemsplass møtte massiv motbør fra faginstanser, KS advarte mot endring av investeringstilskuddet.
+Det er mange eksempler.
+Er statsråden og partilederen fornøyd med svarene hun nå gir landets eldre?»
+Siden denne regjeringen tok over i 2013, har vi lagt til rette for bedre tjenester og høyere inntekt for eldre.
+Regjeringen har redusert skatter og avgifter med 21 mrd. kr, som også har kommet eldre til gode.
+Personer med hovedinntekt fra pensjon har fått en gjennomsnittlig lettelse på 3 000 kr.
+Pensjonister på alle inntektsnivåer har i gjennomsnitt fått lettelser.
+Mange pensjonister har også høy netto formue og har nytt godt av lettelsene i formuesskatten.
+Samtidig sikrer et særskilt skattefradrag at pensjonister på minste pensjonsnivå ikke betaler skatt på pensjonsinntekten i det hele tatt.
+Vi mener at pensjonister skal få beholde mer av egen pensjon.
+Pensjonister har bygd Norge gjennom hardt arbeid i mange år.
+Derfor har også regjeringen redusert den urimelige avkortingen av pensjonen til gifte og samboende pensjonister.
+Det gjør at pensjonistpar i gjennomsnitt har fått 8 000 kr mer å rutte med i året.
+Samlet gir Regjeringens politikk en betydelig styrking av pensjonistenes inntekter.
+Så tar representanten Gahr Støre feil når han sier at eldreomsorgen har fått vike for regjeringens skattelettelser.
+De store pengene har under denne regjeringen gått til å styrke velferden – også for eldre.
+Det var store mangler i eldreomsorgen etter åtte rød-grønne år.
+Det er vi på god vei til å rette opp.
+Jeg vil minne representanten Gahr Støre om Arbeiderpartiets egne innrømmelser etter åtte år med helseminister fra Arbeiderpartiet.
+Denne perioden ble innledet med en erkjennelse fra Arbeiderpartiet av at de hadde sviktet eldreomsorgen.
+De siste fire årene har Arbeiderpartiet likevel brukt på å stemme imot regjeringens forslag for å sikre kapasitet og kvalitet i eldreomsorgen.
+Eldre har ikke tid til Arbeiderpartiets passive holdning i eldreomsorgen.
+Med Fremskrittspartiet og Høyre i regjering ser vi nå et taktskifte i eldreomsorgen.
+Bevilgningene til omsorgstjenestene har økt med 1,5 mrd. kr.
+Staten tar et større ansvar for utbygging av sykehjemsplasser.
+Staten tar halve regningen.
+Det har ført til at kommunene nå bygger ut mer.
+Vi har lagt til rette for fornying og bygging av over 9 000 omsorgsplasser.
+Vi har gitt tilskudd til over 3 000 nye dagaktivitetsplasser for personer med demens, som gjør at flere eldre kan oppleve livsmestring og livsglede i hverdagen, samtidig som behovet for sykehjemsplass utsettes.
+Vi lovfester retten til sykehjemsplass.
+Vi har redusert egenandelen for personer som ufrivillig bor på dobbeltrom.
+Vi har satt i gang et forsøksprosjekt med statlig finansiering av eldreomsorgen.
+Kommunene melder om stort læringsutbytte ved å delta i forsøket.
+De opplever at helse- og omsorgstjenestene, administrasjonen og politikerne samarbeider både mer og bedre enn før.
+Det vil kunne bidra til å øke kvaliteten.
+Nå starter regjeringen arbeidet med en eldrereform – Leve hele livet.
+Vi må tørre å tenke nytt også i eldreomsorgen.
+Vi greier ikke å viske ut forskjellene fra et skrivebord i Oslo.
+Derfor reiser vi ut for å snakke med dem som har skoene på.
+Det er i kommunene forskjellene oppstår, men det er også der de gode løsningene finnes.
+Jeg er ganske enig i at det er i kommunene kunnskapen er og skoen trykker.
+Derfor har det vært interessant at kongstanken til Fremskrittspartiet har vært at staten skal overta finansieringen av eldreomsorgen.
+Det forsøket var noe kommunene ikke var særlig interessert i – mange trakk seg fra det, og det har blitt stående som et ganske bortkastet løft, om man kan si det slik, for eldreomsorgen i kommunene.
+Regjeringen startet for ett år siden forsøket med såkalt statlig finansiering av eldreomsorgen i seks kommuner.
+Et stort antall hadde før det trukket seg fra forsøket, bl.a. fordi man mente man ville tape økonomisk på å delta.
+Så et spørsmål i oppfølgingen når det gjelder eldreomsorg, er:
+ Hvordan er de gjenværende kommunene fulgt opp av regjeringen gjennom dette året?
+Kan statsråden redegjøre for status for prøveprosjektet så langt?
+Og er dette et prosjekt hun kan tenke seg å gå videre med og eventuelt utvide etter den mottakelsen det har fått i Kommune-Norge?
+Dette svarte jeg egentlig på i mitt forrige svar, nemlig at de erfaringene som kommunene som deltar i forsøksprosjektet så langt har gjort seg, er veldig positive – bedre samarbeid, som danner grunnlag for bedre kvalitet i omsorgen i de kommunene som er en del av dette.
+Nå er altså ikke forsøksprosjektet avsluttet, men jeg mener som jeg sa, at vi må tørre å tenke nytt.
+Vi kommer til å stå overfor formidable utfordringer i eldreomsorgen fordi mange flere blir eldre i årene som kommer.
+Da må vi ikke bare være opptatt av antall plasser, men også opptatt av kvaliteten i det.
+Derfor legger vi også til rette for å bedre kvaliteten på den omsorgen som gis.
+Det vi ser Arbeiderpartiet gjør, som er mye mer urovekkende, er i kommunepolitikken aktivt å gå inn for å rekommunalisere sykehjem.
+Det reduserer mangfoldet.
+Det reduserer valgfriheten.
+Og man har begynt å bruke begrepet «velferdsprofittører» om aktører innenfor privat helse- og omsorgstjeneste, som bidrar til mer mangfold og bedre kvalitet i omsorgstjenestene.
+Jeg mener at Arbeiderpartiet tar et stort skritt i negativ retning når det gjelder å bedre kvaliteten i eldreomsorgen.
+I 2015 la Arbeiderpartiet fram fra opposisjon et ganske gjennomtenkt opplegg for bedre kvalitet i eldreomsorgen, hvordan vi kan måle innsatsen inn mot våre eldre på kvalitet og komme bort fra at det bare går på pengevolum.
+Det er ganske sammenfallende med hva denne regjeringen nå sier den vil gjøre – og nå skal den ut og lytte til kommunene.
+Jeg synes det er påfallende at etter fire år i regjeringskontorene og med noen uker igjen av sesjonen skal regjeringen altså ut og lytte og innhente erfaringer fra kommunene for å se hva som kan gjøres på kvalitet.
+Jeg har lyst til å spørre statsråden:
+ Når det gjelder bygging av nye sykehjemsplasser, er statsråden fornøyd med takten på det, hva som har skjedd i virkeligheten som følge av det finansieringsopplegget regjeringen har valgt?
+Det er tall som tyder på at det ikke akkurat har gitt et løft.
+Mener statsråden da at man har truffet med det opplegget man har valgt fra regjeringens side?
+For det første er det ikke sånn at regjeringen først nå har begynt å lytte til kommunene.
+Noe av det første vi gjorde, og det var det helseministeren som tok initiativ til, var å gå i dialog med KS for å få kartlagt hvordan de faktiske behovene ute i Kommune-Norge var.
+Under den rød-grønne regjeringen var det jo ikke mulig å få en oversikt engang over hva som var de faktiske behovene når det gjaldt sykehjemsplasser.
+Det var ikke lov for kommunene å føre ventelister.
+Nå har vi tatt aktive grep for å sørge for å vite hvor behovene er, og det er gjennom den kartleggingen av behov at vi også kan planlegge for en mye mer omfattende utbygging.
+Og parallelt med at vi får kartlagt det, har vi altså styrket innsatsen, økt den statlige finansieringen og fått opp farten i byggingen av nye sykehjemsplasser.
+Det er altså et taktskifte i bygging av nye sykehjemsplasser nå i forhold til under den rød-grønne regjeringen, og jeg synes det hviler på den erkjennelsen Arbeiderpartiet hadde etter åtte år i regjeringskontorene, at de hadde sviktet eldreomsorgen.
+Denne regjeringen gjør ikke det.
+Vi har beredt grunnen, og vi legger nå til rette for nok en reform som skal styrke kvaliteten i eldreomsorgen i årene som kommer.
+Dette spørsmålet, fra Gunvor Eldegard til kommunal- og moderniseringsministeren, er overført til helse- og omsorgsministeren som rette vedkommende.
+«Regjeringen har gang på gang stemt mot forslag som vil bedre innholdet i eldreomsorgen.
+Vi er spesielt bekymret for tilbudet til demente.
+Stortinget har vedtatt en plikt til å ha dagaktiviteter i alle kommuner, men det bevilges ikke nok penger.
+De som er rammet av sykdommen og deres pårørende blir skadelidende hvis ikke tilbudet trappes kraftig opp.
+Hvorfor har statsråden valgt å se bort fra de faktiske tallene, behovene hos dem som er rammet og konsekvensene for dem og deres nærmeste?»
+Vi har tatt veldig mange grep for å gi bedre tjenester til eldre generelt og til mennesker med demens og deres pårørende spesielt.
+Vi er i full gang med en storstilt satsing for å heve kompetansen i de kommunale helse- og omsorgstjenestene.
+Vi har styrket investeringstilskuddet til heldøgns pleie- og omsorgsplasser betydelig.
+Vi har laget en egen plan for å bedre tjenestetilbudet til mennesker med demens – Demensplan 2020.
+For første gang er en slik plan utviklet i samarbeid med mennesker som selv har demens, og deres pårørende.
+Gjennom Demensplan 2020 satser regjeringen målrettet på økt kapasitet, kompetanse og kvalitet i tilbudet til mennesker med demens, i tråd med brukeres og pårørendes behov.
+Utbyggingen av dagaktivitetstilbud til personer med demens er en viktig satsing i Demensplan 2020.
+Aktivitetstilbud kan bidra til gode og meningsfulle opplevelser for den enkelte og avlastning til pårørende, som ofte er i krevende situasjoner.
+Regjeringen har varslet at vi vil foreslå en endring i helse- og omsorgstjenesteloven om å fastsette en plikt for kommunene til å tilby dagaktivitetstilbud til hjemmeboende personer med demens, gjeldende fra 1. januar 2020.
+For å legge til rette for dagaktivitetsplasser i kommunene er det opprettet en egen tilskuddsordning som alle kommuner kan søke på.
+Det er anslått et behov for 9 200 plasser, mens det ved utgangen av 2016 var 2 984 plasser i drift.
+I 2017 har regjeringen lagt til rette for om lag 750 flere dagaktivitetsplasser til personer med demens i 2017.
+Dessverre er tilskuddet utnyttet i mindre omfang enn forutsatt.
+Jeg mener at kommunene nå har sterke økonomiske incentiver for å bygge ut et aktivitetstilbud for personer med demens.
+Undersøkelser viser at dette kan utsette bruk av dyrere tjenester og avlaste og forebygge helseskader hos pårørende, i tillegg til at det gir bedre livskvalitet for brukerne.
+Det er også en god støtteordning staten har, men dessverre har vi fortsatt utfordringer med å få kommunene til å bruke de pengene som er bevilget til dette formålet, øremerket.
+Jeg vil oppfordre kommunene nå spesielt til å bruke det statlige tilskuddet som regjering og storting har bevilget, til å bygge opp tilbudet før den varslede plikten trer i kraft i 2020.
+På denne måten vil vi nettopp skape et bedre tjenestetilbud for personer med demens og deres pårørende.
+Takk for svaret.
+Me er einige om at Stortinget har vedteke at kommunane skal ha plikt til å etablera dagaktivitetstilbod til menneske med demens, og det skal vera på plass innan 2020.
+Men då vil det faktisk vera behov for om lag 5 400 fleire aktivitetsplassar for heimebuande med demens i perioden frå 2018 til 2020, og det er eit godt stykke igjen til ein når dette målet.
+Likevel valde regjeringa å redusera midlane til dagaktivitetstilbod i 2017.
+I årets statsbudsjett er det, som statsråden sa, lagt opp til 750 fleire plassar.
+Det er for lite, og utbygginga vil gå for sakte.
+Med dette tempoet – kan statsråden forsikra demente og deira pårørande at kommunane vert sette i stand til å oppfylla plikta si innan 2020?
+Bakgrunnen for at tilskuddet ble satt ned, er at pengene ikke ble brukt.
+Det er en utfordring hvis vi prioriterer å sette av store beløp i statsbudsjettet til eldreomsorgen som ikke blir brukt av kommunene.
+Da er det en dårlig disponering, og derfor er det viktigere å bruke de pengene som ikke blir brukt, på andre satsingsforslag, f.eks. det å heve kompetansen i tjenesten.
+Men jeg bruker enhver anledning til å oppfordre kommunene om å søke om disse midlene.
+Dessverre ser vi fortsatt at det er for liten aktivitet i kommunene når det gjelder å bygge ut dagaktivitetstilbud og bruke den gode, statlige støtteordningen som er.
+Det vil då seia at statsråden kanskje ikkje trur at det kjem på plass innan 2020 at alle har eit tilbod i kommunen sin.
+Eit anna område, kulturuttrykk, song og dans, har vist seg å ha ein veldig positiv verknad på menneske med demens.
+Song i fellesskap bidreg til glede og trivsel, og det stimulerer språkevne og forankrar gode minne frå tidlegare år.
+Doktorgradsarbeidet til Tone Kvamme konkluderer med at musikkterapi kan ha stor positiv innverknad hjå demensramma med symptom på depresjon og angst.
+Lege og spesialist Audun Myskja har i sin doktorgrad fokusert på bruk av musikk i eldreomsorga.
+Han har bl.a. engasjert seg i eit spennande prosjekt ved Bergen Røde Kors Sykehjem, der musikk er teken i bruk i stellesituasjonar.
+Dette viser veldig gode erfaringar med omsyn til korleis dette roar pasientane og hindrar angst og slike ting.
+Trass i det føreslo dagens regjering at me skulle ta vekk Den kulturelle spaserstokken.
+Han vert heldigvis ikkje teken vekk, men eg ønskjer at statsråden kan forsikra at Den kulturelle spaserstokken framleis er eit tilbod.
+Jeg mener at det er funnet en god løsning for ordningen knyttet til Den kulturelle spaserstokken, men det er veldig viktig at ikke representanten setter likhetstegn mellom Myskjas forskning på musikkterapi og Den kulturelle spaserstokken.
+Den kulturelle spaserstokken handler om det å gi kulturelle tilbud.
+Det er viktig, og det er bra for livskvaliteten.
+Musikkterapi handler om på en profesjonell måte å bruke musikk integrert i behandling og pleie av og omsorg for mennesker med demens.
+Derfor har denne regjeringen valgt å styrke bevilgningene nettopp til musikkterapi som en etter- og videreutdanning for ansatte i sektoren.
+Ved siden av den kulturelle opplevelsen, som er viktig for livskvalitet, som Den kulturelle spaserstokken bidrar til, handler dette om å bruke musikk på en profesjonell måte i f.eks. pleie av pasientene, og det krever noe helt annet.
+Derfor har denne regjeringen valgt å styrke nettopp musikkterapi som en utdannelse for å bedre tilbudet på det området.
+«Vedtaket om å etablere ein genbank i Hardangerfjorden kom etter ein lang dragkamp om ei eige forskrift om oppdrettsaktivitet i fjorden og ut frå behovet for å sikre bestand av ville laksefisk i Hardangerfjorden.
+Genbankprosjektet har på kort tid vekt eit stort og breitt engasjement for å ta vare på restane av unike bestand for framtidige generasjonar.
+Kva vil regjeringa gjere for å sikre at den planlagde genbanken kjem på plass, og at innsamlingsarbeidet kan vidareførast?»
+La meg først si at jeg setter stor pris på det arbeidet som er gjort lokalt for laksefiskbestandene i Hardanger.
+Den typen lokalt engasjement er svært viktig i forvaltningen av de anadrome laksefiskene.
+Når det gjelder den planlagte genbanken for laksefiskbestander fra Hardanger, ble den omtalt i budsjettproposisjonen for 2017.
+Det kom nye kostnadsanslag i 2016 som viste at genbanken ville koste 66 mill. kr., som er en kostnadsøkning på over 50 pst. i forhold til tidligere anslag.
+Fordi prisen var økt så mye, besluttet regjeringen å ikke bygge genbanken.
+Ved Stortingets behandling av budsjettet ble det heller ikke bevilget penger til formålet.
+Den 4. april i år behandlet Stortinget et representantforslag om å ta vare på truede bestander av villaks og sjøørret i Hardanger.
+Ved behandlingen forelå det et forslag fra et mindretall i energi- og miljøkomiteen om å be regjeringen sikre fullføringen av arbeidet med å etablere en genbank for laksefisk fra Hardanger.
+Det forslaget fikk ikke flertall ved avstemningen i Stortinget.
+I 2015 og 2016 er det samlet inn materiale fra laksefiskbestandene fra Hardanger som kunne være aktuelle for en genbank.
+Det innsamlede materialet vil bli tatt vare på på Ims i Rogaland inntil videre.
+Laksefiskbestandene i Hardanger kommer fortsatt til å være omfattet av det øvrige arbeidet som drives for å ta vare på villaksen i Norge.
+I det arbeidet gjennomfører vi strenge regulereringer i fisket.
+Vi bruker også store ressurser på å bekjempe lakseparasitten Gyrodactylus salaris og på kalking i forsurede vassdrag.
+De viktigste påvirkningene på de ville laksebestandene i dag er lakselus og rømt oppdrettsfisk.
+Tiltak og virkemidler på dette feltet er fiskeriministerens ansvarsområde, og vi har tett dialog om disse utfordringene.
+Det som statsråden seier, er for så vidt velkjent ut ifrå debatten både ved behandlinga av statsbudsjett og ved behandlinga av representantforslaget.
+Men det er framleis eit stort og godt lokalt engasjement og ein vilje til å oppretta ein genbank.
+Det som er det prekære no, er at dersom det ikkje kjem meir finansiering av prosjektet, vil ein ikkje kunna samla inn meir, men må avslutta innsamlinga.
+Da vert det ingen veg tilbake.
+Kan statsråden bekrefta at regjeringa har gjort eit fullstendig og endeleg vedtak i denne saka, slik at det ikkje er håp om å kunna fortsetja innsamlingane med tanke på å kunna etablera ein genbank?
+Som jeg har vært inne på, var altså situasjonen at den veldige økningen i kostnadene gjorde at vi ikke fant rom for genbanken i budsjettet.
+Siden budsjettforliket, hvor det heller ikke ble avsatt midler til en genbank, har vi satt trykk på å få til en midlertidig løsning med oppbevaring av det innsamlede materialet.
+Det gir oss et pusterom til å vurdere neste skritt, men ingen konklusjon er trukket i så måte.
+Det var bra å høyra at ein har gjort ei mellombels løysing, men poenget er at dersom ein ikkje snart bestemmer seg, vil det vera vanskeleg å fortsetja fordi ein ikkje kan fortsetja innsamlinga.
+Da vil òg arbeidet vera forgjeves.
+Ein kan argumentera med kostnadsauke, men det er veldig mykje i dette landet det er kostnadsauke på.
+Når vi ser kva ein kan oppnå med dette prosjektet, er det vel få andre tiltak som hadde monna i arbeidet med å bevara villfisken i Hardanger.
+Kva slags andre tilsvarande tiltak er det statsråden ser føre seg dersom ein ikkje skal fortsetja arbeidet med å få ein genbank i Hardangerfjorden?
+Jeg legger nå vekt på å gjennomføre den midlertidige løsningen som vi har funnet for det materialet som ble samlet inn i 2015 og 2016.
+Hvis det ikke etableres en permanent genbank, vil det materialet være forsvunnet for ettertiden.
+Men det betyr ikke at vi ikke har en rekke andre tiltak for å forvalte det ansvaret Norge har for den atlantiske villaksen.
+Laksefiskbestanden i Hardanger er omfattet av det øvrige arbeidet vi gjør:
+ strenge reguleringer i fiske, som jeg har vært inne på, bekjempelse av lakseparasitt, kalking og ikke minst det nye «trafikklyssystemet» for oppdrettsnæringen, som skal redusere påvirkningen på de ville laksebestandene.
+«Arbeiderpartiet har fremmet et representantforslag om opprettelse av en tilskuddsordning til aktivitetsprosjekter for mennesker med hukommelsessvikt og demenssykdommer.
+Et godt eksempel på et slikt prosjekt, som viser hvordan frivillighet kan bidra til aktivitet og livsglede, er HamKams prosjekt Minneballen.
+Her brukes fotballinteresse som utgangspunkt for samvær og mimring.
+Vil statsråden støtte vårt forslag for å få i gang flere slike prosjekter?»
+Regjeringen vil styrke tilbudet til personer med demens.
+Vi har som mål at mennesker med demens skal få oppleve å leve i et aktivt fellesskap med andre, og at det legges til rette for mer både fysisk og sosial aktivitet tilpasset den enkelte.
+Jeg er glad for at Arbeiderpartiet deler denne målsettingen.
+I arbeidet med Demensplan 2020 fortalte brukere og pårørende oss at dagtilbud er viktig for å ha et godt liv med demens.
+Regjeringen vil fremme et lovforslag som fastsetter en plikt for kommunene til å tilby et dagaktivitetstilbud til hjemmeboende med demens, gjeldende fra 1. januar 2020.
+I 2012 ble det opprettet en øremerket tilskuddsordning for å stimulere kommunene til oppbygging av den typen dagaktivitetstilbud.
+Prosjekter av den typen Arbeiderpartiet etterlyser, vil kunne gjennomføres innenfor rammen av denne tilskuddsordningen.
+Det er bl.a. gitt tilskudd til prosjekter som har prøvd ut ulike modeller og ulikt innhold i aktivitetstilbudet.
+Gjennom andre ordninger gis det tilskudd til utvikling og utprøving av miljøterapeutiske metoder, som f.eks. bruk av sang og musikk i behandlingstilbudet.
+Tilskuddet har vært utnyttet i mindre grad enn forutsatt og ønsket.
+Undersøkelser tyder imidlertid på at kommunene nå har sterke incentiver til å bygge opp et dagtilbud.
+Sammenholdt med den varslede plikten til å tilby et slikt tilbud bør kommunene ha tilstrekkelige incentiver til å bygge ut dagaktivitetstilbudet til hjemmeboende personer med demens fram mot 2020.
+Heller enn å opprette nye tilskuddsordninger med samme formål ønsker regjeringen at kommunene skal benytte de ordningene som allerede eksisterer.
+Gjennom arbeidet med reformen «Leve hele livet» vil vi også vurdere tiltak og virkemidler for å sikre at kommunene lærer raskere av hverandre og gjennomfører endringer basert på erfaringer med hva som virker, bl.a. for å stimulere til økt aktivitet og innhold i livet for eldre.
+Takk for svaret.
+Det er jo bra at de mål som Stortinget har satt for demensomsorgen, følges opp, og at det finnes en ordning.
+Det er noen bekymringer knyttet til den, bl.a. at den kun dekker en mindre del av kommunenes totale kostnader knyttet til både etablering og drift.
+I tillegg ser vi at det går sakte med byggingen av nye plasser.
+Det er også en utfordring at den ordningen som finnes i dag, kun retter seg mot hjemmeboende med demens.
+Vi ser at det er et behov for lett tilgjengelige penger som kan stimulere til tiltak og aktiviteter som vi vet virker innenfor f.eks. både kultur og fysisk aktivitet – ikke bare for hjemmeboende, men ikke minst også for personer i sykehjem og omsorgsboliger.
+Spørsmålet er om statsråden ser at en slik ordning som vi foreslår, ville ha vært viktig i kommunenes arbeid med å fylle nye dagsentre og dagtilbud med innhold.
+Noe av utfordringen på dette området er å få kommunene til å ønske å etablere et tilbud som helt åpenbart er bra for brukerne, for deres pårørende og også for kommunene.
+Vi har ulike tilskuddsordninger.
+Vi har tilskuddsordninger for dagaktivitetstilbud for hjemmeboende, og så har vi prosjekter rettet inn mot sykehjem.
+Kommunene har i utgangspunktet gode økonomiske incentiver, spesielt når det gjelder hjemmeboende personer med demens, utover de statlige tilskuddsordningene ved faktisk å etablere tilbud.
+Så jeg tror også det er behov for rett og slett å jobbe mer systematisk med kommunene når det gjelder det å se hvilke tilbud som faktisk gir god effekt, og å lære av hverandre.
+Det er nettopp det som også skal gjøres gjennom reformen Leve hele livet.
+Når vi ser at ordninger ikke blir fullt ut benyttet ut fra det som var målsettingen, er det mulig å stille flere spørsmål, bl.a. om ordningene treffer bra nok, og om de treffer det behovet som fins.
+Jeg viste i mitt første spørsmål til det prosjektet som HamKam har fått på plass sammen med Nasjonalforeningen for folkehelsen.
+HamKam sier selv at de håper å kunne drifte dette som et varig tiltak, men at prosjektmidlene de har fått fra Nasjonalforeningen, har vært utløsende.
+Vi ser at fotballklubber og andre frivillige aktører fra hele bredden av lag og foreninger kan være viktige samarbeidspartnere i demensomsorgen.
+Jeg mener at vårt forslag vil kunne gi kommuner og fylker et godt verktøy til å stimulere til og utløse den typen frivillig innsats.
+Ser statsråden at det å legge bedre til rette for samarbeid med frivillige kan være viktig for å nå de målene som vi har satt for demensomsorgen?
+Jeg er også veldig positiv til at både Nasjonalforeningen, Extrastiftelsen og andre tilbyr penger til gode prosjekter.
+Det er et veldig godt supplement til de pengene som bevilges til Helsedirektoratet, som de forvalter, og som kommunene kan søke på.
+Vi ser også ofte at det gjerne er penger som treffer andre typer prosjekter enn det den offentlige tilskuddsordningen gjør.
+Dette oppleves ofte, spesielt av frivillige og ideelle aktører, som mer tilgjengelige penger, som det f.eks. kreves mindre dokumentasjon knyttet til, og som de kan søke på direkte, mens veldig mye av de pengene som bevilges over statsbudsjettet, må gå gjennom kommunen som søker.
+Jeg har også etterspurt det som representanten tar opp, som er et veldig godt spørsmål:
+ Er den tilskuddsordningen som vi har i dag, vanskelig å bruke?
+Det er et spørsmål jeg har stilt ofte når jeg har vært ute i kommunene, og svaret som jeg får fra de kommunene som bruker ordningen, er nei, det er den ikke.
+Hvis vi hadde fått innspill på at den var lite tilgjengelig, ville jeg selvfølgelig ha vært åpen for å få gjort endringer i ordningen.
+«Regjeringen har fra 2017 foreslått å endre kriteriene for dagens investeringstilskudd til kun å gjelde prosjekter med netto tilvekst av heldøgns omsorgsplasser.
+Dette er vedtatt før regjeringens lovendring om å innføre ventelister, som skal gi bedre oversikt over behov i sektoren, har trådt i kraft.
+Hvordan forsvarer statsråden en så stor omlegging av investeringstilskuddet når tallgrunnlaget er usikkert og motviljen er så stor både i fagmiljøene og i kommunesektoren?»
+Regjeringen foreslo i statsbudsjettet for 2017 en omlegging av investeringstilskuddet fra 2021 til kun å omfatte plasser som gir netto tilvekst.
+Dette sluttet Stortinget seg til i budsjettbehandlingen før jul.
+De tre siste årene har regjeringen prioritert en høyere sats og en høyere ramme for investeringstilskudd enn hva tidligere regjeringer har gjort, og i disse årene har det vært høy aktivitet fra kommunenes side.
+Mange uhensiktsmessige plasser er byttet ut og renovert gjennom handlingsplan for eldreomsorg og gjennom investeringstilskuddet til heldøgns omsorgsplasser.
+Det har imidlertid vært et problem at vi ikke har hatt nok kunnskap om behovene framover, om kommunenes planer og om tilstanden til eksisterende bygg.
+Regjeringen har derfor i samarbeid med KS tatt initiativ til en rekke utredninger for å få ny og oppdatert kunnskap, og vi har nå et bedre kunnskapsgrunnlag å fatte beslutninger på enn tidligere.
+Utredningene som er gjort, sannsynliggjør at det er behov for flere plasser i årene som kommer.
+Dette må vi ta hensyn til gjennom virkemiddelapparatet vi har tilgjengelig.
+Derfor foreslo regjeringen å legge om ordningen fra 2021, noe også Stortinget har vedtatt.
+Selv om kommunene siden 1997 har kunnet søke om midler til renovering og utskifting, er det vedtatt en overgangsordning for årene 2017–2020.
+I denne perioden kan det også søkes om investeringstilskudd til renovering og utskifting av eksisterende bygningsmasse.
+Men når overgangsperioden er slutt, mener regjeringen det er viktigst at de nasjonale virkemidlene stimulerer til at det bygges flere plasser, i tråd med at også behovene da i veldig stor grad tiltar.
+Fra 2021 må kommunene bruke den ordinære rammen til oppgradering og vedlikehold, som de får gjennom inntektssystemet.
+Regjeringen lytter til kommunenes innspill, vurderer behovene og følger situasjonen utover i 2017 nøye.
+Samtidig må vi erkjenne at tilskuddet må brukes til å dekke brukernes behov.
+Det må bety at vi må få flere heldøgns plasser for omsorg, og det er også det investeringstilskuddet skal stimulere til.
+Kommunene har nå en overgangsperiode, men fra og med 2021 må også statens virkemidler rettes inn på at kommunene dekker den reelle økningen i behov som kommer i årene framover.
+Og landets eldre, de som blir eldre i Norge i årene framover, har ikke tid til Arbeiderpartiets vente-og-se-holdning i eldrepolitikken.
+Forskerne har litt ulike svar på hva vi egentlig trenger, vi som nå begynner å bli gamle.
+Vi trenger antagelig et mye større mangfold av tilbud enn det regjeringa legger opp til.
+Jeg har lyst til å minne om at for en stund siden ble Kristiansand kåret til den beste eldrekommunen blant de fem største byene i landet.
+Det er en kommune som bruker minst av sine omsorgspenger til sykehjemsplasser, men langt mer til andre typer gode tiltak.
+Så det er viktig å tenke mangfold.
+Fra investeringstilskuddet ble innført i 2008 og fram til 2015 sto det faktisk nøkkelferdig 7 700 nye og renoverte plasser.
+Det er det veldig viktig å notere seg.
+Så gikk det litt trått for investeringstilskuddet.
+Hvis jeg skal være ærlig, og hvis vi skal bruke litt god hoderegning, må man vel kunne si at man kan hilse tilbake til Erna Solbergs tid som kommunalminister.
+Men det var en annen ting som skjedde da.
+I den stillstanden som var i kommunene, kom det altså bare 1 690 nye årsverk i pleie og omsorg, mens det kom 22 000 nye på rød-grønn vakt.
+Kan statsråden fortelle hvor mange nye årsverk som har kommet i pleie og omsorg per år på hans vakt?
+Når det gjelder det siste spørsmålet, må jeg ta det på hukommelsen, men jeg tror at de siste KOSTRA-tallene for 2016 tilsvarer noe i overkant av 2 000 flere bare det siste året.
+Vi ser også at kommunene har fått betydelig bedre kommuneøkonomi under denne regjeringen og prioriterer ikke minst pleie- og omsorgssektoren, både på investeringssiden og når det gjelder å ansette flere, flere årsverk.
+Så er jeg helt enig med representanten i at det er behov for mer mangfold.
+Jeg er også helt enig med dem som sier at flere eldre kommer til å bo hjemme lenger – det er jeg veldig glad for – ikke minst som følge av omsorgsteknologi.
+Men jeg advarer veldig sterkt mot en forestilling om at når vi blir så mange flere eldre og lever så mye lenger, vil det føre til en reduksjon i behovet for heldøgns pleie og omsorg.
+Nei, det kommer til å være et stort behov for økt antall heldøgns pleie- og omsorgsplasser i årene framover.
+Selv om veksten kommer til å være mindre, kommer det til å være en betydelig vekst hvis vi tenker på mangfoldet.
+Der er vi faktisk enige.
+Vi har behov for flere plasser.
+Men vi har også behov for folk som jobber i sektoren, og vi har behov for mange andre typer løsninger.
+Jeg er dessverre redd for at statsråden og denne regjeringa ikke ser på de andre løsningene.
+De tallene jeg har fått fra Helse- og omsorgsdepartementet og fra Statistisk sentralbyrå, tyder på at det er rundt 1 400 nye årsverk per år på helseministerens vakt.
+Hvis det er flere, er det bra, men det er likevel langt under den årsverksveksten som vi hadde på rød-grønn vakt.
+Så har vi altså fått statlig finansiering av eldreomsorgen, en omlegging av investeringstilskuddet – tiltak som har fått det glatte lag fra statsrådens egne partifeller – kutt i dagaktivitetstilskuddet og det at man ville fjerne Den kulturelle spaserstokken.
+Da tenker jeg:
+ Er det ikke litt kleint og en liten fallitterklæring at statsråden klokka fem på tolv – to minutter på tolv – plutselig ikke har oppe en eldrereform som skal ha dette innholdet som han så langt har sagt nei til?
+Det syns jeg er merkelig.
+Det er helt feil.
+Reformen Leve hele livet, som bygger på erfaringene fra bl.a. min hjemkommune, Stavanger, som er styrt av Høyre, Fremskrittspartiet, Kristelig Folkeparti og Venstre, viser nettopp hvilke muligheter som ligger der for å kunne gi mer innhold i dagene.
+Fundamentet for den reformen er mye av det som er gjennomført til nå.
+Det handler om at vi har innført lovfestet rett til heldøgns pleie og omsorg, krevd at kommunene fører ventelister – mot Arbeiderpartiets stemmer.
+Vi har også kommet med en kommunal helsetjenestelov som stiller krav til kompetanse – mot Arbeiderpartiets stemmer.
+Vi stiller strengere krav til at kommunen bygger ut flere plasser, noe som Arbeiderpartiet er imot.
+Vi har dessuten gjort en rekke tiltak for å heve kvaliteten – kompetanseløft, innføring av kommunalt kvalitetsregister og innført nasjonale kvalitetsindikatorer på dette området.
+Dette spørsmålet er trukket tilbake.
+«Regjeringen har brukt uforholdsmessig mye tid, ressurser og verdifull kompetanse på å foreslå, utrede og innføre systemer som ikke gir eldre et bedre tilbud.
+Det kan synes som om regjeringen hovedsakelig har brukt tiden sin på skrivebordsreformer.
+Først nå hører vi statsråden snakke om at han skal lytte til kommunene gjennom innspill til en reform som ennå ikke har hørt startskuddet.
+Mener statsråden han driver god eldrepolitikk når han stadig går på tvers av faglige råd, kommuners innspill og eldres ønsker?»
+Regjeringen har tatt svært mange grep som vil gi bedre tjenester til eldre.
+Vi har forsterket de økonomiske virkemidlene til kompetanseutvikling og er i gang med en storstilt satsing for å heve kompetansen i de kommunale helse- og omsorgstjenestene.
+Vi utdanner flere ledere og stiller tydeligere krav til ledelse.
+Vi har styrket investeringstilskuddet til heldøgns omsorgsplasser betydelig.
+Vi har laget en egen demensplan, som er utviklet i et tett samarbeid med mennesker som har demens, og deres nærmeste.
+Vi arbeider med å innføre en trygghetsstandard for sykehjem, noe som er under utprøving.
+Vi stiller krav om en legemiddelgjennomgang for alle beboere på sykehjem.
+Vi har innført rett til sykehjemsplass eller tilsvarende bolig og redusert egenandelen for dem som mot sin vilje blir plassert på dobbeltrom.
+Denne regjeringen har satset målrettet på å øke kapasiteten, kompetansen og kvaliteten, og det har vært helt nødvendig å få på plass disse endringene før vi nå går i gang med en kvalitetsreform i tjenestene til eldre.
+Mange eldre opplever store forskjeller i helse, mestring, trivsel og trygghet, og vi vet at kvaliteten på tjenestene varierer mellom kommunene og innad i kommunene.
+Mange steder fører sen hjelp og mangelfulle tjenester til at sykdommer og plager forverres, og at alderdommen blir tung og vanskelig å mestre for de eldre og ikke minst for pårørende.
+Vi har derfor satt i gang arbeidet med en reform hvor målet er at eldre skal få hjelp til å mestre hele livet, at pårørende skal slippe å slite seg ut, og at ansatte skal kunne bruke sin kompetanse.
+Vi skal finne verktøyene som fungerer i praksis, og sørge for at de blir tatt i bruk i hele landet, og vi griper fatt i de områdene der det dessverre oftest svikter:
+ mat, aktivitet og felleskap, helsehjelp og det å ha tjenester som henger sammen.
+«Leve hele livet» er derfor en reform som blir til i samarbeid med dem som trenger tjenestene, dem som yter tjenestene, og dem som er ansvarlige for tjenestene.
+Vi har erkjent at vi ikke kan viske ut kvalitetsforskjeller og legge planer bare på et skrivebord i hovedstaden.
+Derfor skal vi ut i landet og lytte til dem som har skoen på.
+Slik skal pasientens og pårørendes helse- og omsorgstjeneste bli en realitet, gjennom en kvalitetsreform for eldre.
+Jeg er veldig glad for å høre at Arbeiderpartiet er veldig enig i denne reformen.
+Det lover bra for at regjeringen også i neste periode skal ha bred støtte for å gjennomføre reformen.
+Det som er bra med både svaret fra statsråden og den politiske debatten om eldreomsorg, er at det ser ut til å være enighet om et par forhold.
+En lang rekke av disse forslagene som statsråden her henviser til, har helt tverrpolitisk tilslutning, noe som bygger på planverk fra forrige periode, og som har fått enstemmig oppslutning her i Stortinget.
+Det er veldig bra.
+Det andre som det ser ut til at både Arbeiderpartiet og Høyre har oppdaget med årene, er hvor systematisk forskjell det er på kvaliteten mellom kommuner som i utgangspunktet har ganske like forutsetninger for å levere god eldreomsorg, og at det ikke ser ut til å være noe en-til-en-svar når det gjelder f.eks. ressursinnsats kontra opplevd kvalitet.
+Derfor tok vi til orde for å gjøre noe med dette allerede for to år siden, men erkjente at vi fra Stortingets side ikke kan igangsette arbeidet med en stor eldrehelsereform.
+Det er det regjeringen som må gjøre.
+Derfor er det grunn til på nytt å stille spørsmål om hvorfor det nå helt på slutten av denne perioden igangsettes et arbeid som er i tråd med det Arbeiderpartiet tenker.
+Grunnen til at den kom på dette tidspunktet, er at det er et riktig tidspunkt.
+Som jeg sa i mitt svar, og som jeg også har svart flere andre av Arbeiderpartiets representanter i dag, er mye av fundamentet for denne reformen lagt tidligere i denne regjeringsperioden.
+Det er f.eks. først nå vi får på plass et kvalitetsregister for de kommunale helse- og omsorgstjenestene.
+Det er et arbeid som vi måtte starte på da vi kom inn i regjeringskontorene, og jeg tror representanten er klar over hvor mye tid og arbeid det krever å etablere den typen kvalitetsregister for en sektor som ikke har hatt det før.
+Vi har etablert nasjonale kvalitetsindikatorer.
+Men ikke minst handler det om tidspunkt – et tidspunkt der vi har utdannet nok ledere i sektoren, slik at de har den nødvendige endringsledelseskompetansen.
+Og med den takten som vi nå har når vi utdanner ledere i denne sektoren, vil nettopp implementeringstidspunktet være et veldig godt tidspunkt, for da har kommunene mange personer som har vært igjennom en lederutdannelse og står klar til å ta imot denne typen reform.
+Det var mye bra i det svaret, men det er helt nytt for meg at det er disse programmene for lederutvikling, som for øvrig er veldig bra, som har stoppet regjeringen med å sette i gang arbeidet for bedre eldrehelse i løpet av de siste fire årene.
+Jeg mener vel også at hvis man ser tilbake på tidsbruken til Høyre–Fremskrittsparti-regjeringen, gikk den f.eks. til et stort lovarbeid hvor man fikk igjennom i Stortinget at man som pleietrengende pasient på sine eldre dager skulle ha rett til sykehjemsplass.
+Problemet var bare at man allerede hadde en rett til sykehjemsplass, og hele lovarbeidet ble sterkt kritisert i en omfattende høringsrunde.
+Når man i tillegg har brukt masse tid, penger og ressurser på å utrede ulike varianter for statliggjøring av eldreomsorgen, noe som knapt en eneste kommune har vært interessert i å være med på, så har man – med all respekt – også brukt tiden på mye som ikke har vært veldig pasientrettet eller bedre for norsk eldreomsorg.
+Jeg står fast ved det.
+Mener statsråden at tidsbruken har vært riktig?
+Ja, tidsbruken har vært riktig, og den har vært fornuftig.
+Det kan være at det virker overraskende for representanten at det er et poeng f.eks. å ha latt ordningen med utdanning av ledere i sektoren fungere i noen år før en kommer med en sånn reform.
+Men dette er noen av de erfaringene som vi bl.a. har fra reformene som Arbeiderpartiet igangsatte overfor kommunene, f.eks. Samhandlingsreformen, som var en reform som kommunene ikke var godt nok forberedt på, og som mange kommuner har måttet slite med ettervirkningene av i lang tid, rett og slett fordi det ble brukt for liten tid på å sette kommunene i stand til å ta imot reformen og gjennomføre de forventningene som reformen skapte.
+Den feilen ønsker ikke denne regjeringen å gjenta, og det er bl.a. en av grunnene til at denne reformen kom på et riktig tidspunkt og skal bli gjennomført, etter det som er vår vurdering, på en riktig måte.
+«Som Norsk Sykepleierforbund viser til, er det stor sykepleiermangel, og vi står i fare for å mangle 30 000 sykepleiere innen 20 år.
+Samtidig har søkertallene til utdanning gått opp med 2,7 prosent, og det er totalt 3 566 flere søkere enn i 2016, ifølge Samordna opptak.
+Likevel foreslo Høyre–Fremskrittsparti-regjeringen ingen flere studieplasser i statsbudsjettet for 2017.
+Hvordan vil statsråden da sikre nok sykepleiere i eldreomsorgen?»
+Tilgang på tilstrekkelig og kompetent personell er en forutsetning for gode og trygge helse- og omsorgstjenester.
+Som kunnskapsminister samarbeider jeg tett med helse- og omsorgsministeren for å få dette til.
+Fremtidige personell- og kompetanseutfordringer i helse- og omsorgstjenestene – også når det gjelder sykepleiere – kan ikke møtes bare med enkelttiltak, men må møtes med flere tiltak samtidig.
+Da spiller både utdanningskapasitet, gjennomføring, rekruttering, innovasjon, oppgavedeling, organisering og en rekke andre faktorer inn.
+Dette er sentrale temaer både i primærhelsemeldingen, Meld.
+St. 26 for 2014–2015, Fremtidens primærhelsetjeneste, og i Nasjonal helse- og sykehusplan, Meld.
+St. 11 for 2015–2016.
+Meldingene omtaler endrede og økende personell- og kompetansebehov også når det gjelder sykepleiere, og det fremmes tiltak for å møte behovene.
+God ledelse, kompetansehevende tiltak og muligheter til videreutdanning er viktig for å rekruttere og beholde sykepleiere i de kommunale helse- og omsorgstjenestene.
+Regjeringen satser på dette i arbeidet med å få flere til å velge slike jobber, og dette er løftet frem i nevnte stortingsmeldinger.
+Jeg vil også fremheve at det er særdeles viktig at kommunene følger opp sitt ansvar for å tilrettelegge for god praksis.
+Det gir mange fordeler for kommunene å ta imot og veilede sykepleierstudenter i praksis.
+Gjennom relevante prosjektoppgaver forberedes studentene på sitt kommende yrke, ansatte i kommunesektoren blir oppdatert og stimulert til faglig refleksjon, og de får tilgang til bredere fagmiljøer ved utdanningsinstitusjonene.
+Dermed øker også muligheten for å utvikle fag- og forskningssamarbeid og innovasjon.
+Samlet sett kan dette bidra til økt kompetanse og bedre kvalitet i de kommunale helse- og omsorgstjenestene.
+Positive erfaringer fra praksisstudier vil også kunne bidra til rekruttering av arbeidskraft gjennom at kommunene kan motivere sykepleierstudenter til å søke jobb hos dem når de er ferdig utdannet.
+Regjeringen har i årets statsbudsjett satt av om lag 1,2 mrd. kr til tiltak i Kompetanseløft 2020, som er regjeringens plan for rekruttering, kompetanse- og fagutvikling i de kommunale helse- og omsorgstjenestene frem mot 2020.
+Kompetanseløft 2020 omfatter i budsjettåret 2017 over 50 tiltak, fordelt på seks strategier.
+Vi har økt bevilgningene til videre- og etterutdanning av ansatte i de kommunale omsorgstjenestene.
+I dette ligger også økt bevilgning til den nasjonale lederutdanningen for primærhelsetjenesten, slik at det fra høsten 2016 var 160 ledere som begynte på dette studiet.
+Vi trenger ledere som vet hvor skoen trykker, som vet å etterspørre ansatte med riktig kompetanse, og som organiserer arbeidet godt.
+Når det gjelder opptak til sykepleierutdanningen, som er en del av dette rekrutteringsarbeidet, er det heller ikke der slik at det blir færre utdannede.
+Opptaket har økt siden 2010, og hvis man ser på tallene f.eks. fra 2010 til 2016, har de gått fra 4 885 til 5 422.
+Antallet som har fullført denne utdanningen, har også økt, med omtrent 20 pst. fra 2010 – fra 3 179 til 3 784 i 2016.
+Det går med andre ord i riktig retning.
+Her fikk vi høre om mange gode tiltak som gjøres for å bedre kvaliteten når det gjelder sykepleie som fag, hva vi kan gjøre i kommunene, og hva som kan gjøres på utdanningsinstitusjonene våre, osv.
+Men det jeg spurte om, var hvordan vi skal øke antall personer som faktisk jobber som sykepleiere, utover dem vi har i dag.
+Det synes jeg ikke statsråden svarte noe på.
+Vi trenger flere sykepleiere.
+Vi trenger ikke bare bedre kvalitet, men også flere sykepleiere.
+I likhet med en del andre områder hvor det er større behov for kompetanse i arbeidsmarkedet, for at flere tar fagskole, har det ikke kommet flere studieplasser.
+Det er så vidt det har kommet noen studieplasser innen IKT, hvor vi trenger massivt mange flere studieplasser.
+Der har det heller ikke blitt lagt fram noe fra regjeringen – svært få plasser sammenliknet med behovet.
+Hvorfor vil ikke regjeringen etablere flere studieplasser?
+Regjeringen er for å etablere flere studieplasser og har også gjort det.
+På helseområdet er det f.eks. aktuelt med studieplasser innenfor helseteknologi, som vi har bevilget penger til.
+Men den største diskusjonen med Arbeiderpartiet om studieplasser har vært at Arbeiderpartiet i hvert fall tilsynelatende har ønsket å bruke det som en slags motkonjunkturpolitikk.
+Det mener jeg har vært en dårlig idé og en dårlig politikk, for det er først og fremst nye arbeidsplasser man trenger.
+Når det gjelder det som er spørsmålet, er mitt poeng at hvis man ser på tallene, har det ikke vært en negativ utvikling.
+Snarere er det både flere sykepleiere som blir tatt opp på studiene, altså studenter, og flere kandidater, med en økning på 20 pst. fra 2010 til i dag.
+Det er også slik at fremtidens rekrutteringsutfordringer, som jeg redegjorde for, ikke bare kan løses gjennom å øke antall studieplasser.
+Og helt til slutt er det selvfølgelig sånn at hvert eneste år når vi skal sette sammen statsbudsjettet, vurderer vi behovet for flere studieplasser – og det kommer vi til å gjøre også i år.
+Hvorfor Arbeiderpartiet fremmer forslag om flere studieplasser, har åpenbart statsråd Røe Isaksen bedre svar på enn oss, tror han – at det handler om motkonjunkturpolitikk.
+Det handler om et behov.
+Statsråden kan jo spørre Sykepleierforbundet eller IKT-Norge om det handler om motkonjunkturpolitikk for dem.
+Nei, det gjør ikke det.
+Det handler om at det er ledige jobber som må besettes av fagfolk.
+Det er derfor vi må øke antall studieplasser også.
+Det er primærårsaken.
+I tillegg er det faktisk et veldig godt tiltak når det er så høy ledighet blant folk under 30 år, og når det attpåtil er sånn at sykepleierstudiet er blant de ti mest populære studiene i Norge.
+Man ville lett klare å fylle opp mange studieplasser med svært kompetente studenter.
+Det er riktig at det økes, men det er ikke i nærheten av behovet.
+Så fortsatt står spørsmålet ubesvart:
+ Hvorfor gjør ikke regjeringen mer for å mette behovet vi har framover, ved å utdanne nok sykepleiere?
+Jeg mente ikke at økningen av studieplasser i seg selv er en motkonjunkturpolitikk.
+Mitt inntrykk etter å ha møtt dette flere ganger i løpet av denne stortingsperioden er at Arbeiderpartiet i hvert fall tidligere, da arbeidsledigheten var på vei opp – nå er den jo på vei ned – var veldig opptatt av det som et motkonjunkturtiltak.
+La nå det ligge, for nå er det sykepleierstudentene vi snakker om.
+Det enkle og kompliserte svaret er at regjeringen har brukt mest ressurser på andre rekrutteringstiltak som er viktig i helsevesenet og for den kommunale helse- og omsorgstjenesten.
+Det er viktig for oss at når vi ser på tallene, går det i riktig retning – det blir flere sykepleierstudenter.
+Så er spørsmålet:
+ Hvorfor har vi ikke lagt det frem tidligere?
+Nei, det er fordi vi har hatt andre prioriteringer som også har vært viktige innenfor helse og omsorg, innenfor helse og kunnskap, men i fremtidige budsjetter vurderer vi hvert eneste år – også fordi vi vet at det er et stort behov – om vi trenger flere studieplasser, både innenfor IKT og innenfor sykepleierstudiet.
+«Ny pleiepengeordning blir en forbedring for mange, men noen får det betydelig vanskeligere.
+Foreldre til utviklingshemmet ungdom over 18 år, som tidligere har hatt rett til pleiepenger når ungdommen har blitt alvorlig eller kritisk syk, mister nå denne retten.
+Dette gjelder få familier, men de rammes hardt.
+Det framstår som en uforståelig endring.
+Hvordan vil statsråden sikre at disse familiene ikke får enda flere belastninger som en konsekvens av denne innstrammingen?»
+Jeg er glad for at representanten er enig i at regjeringens forslag til ny pleiepengeordning blir en forbedring for de aller fleste.
+Det var det også stor enighet om her på Stortinget for et par uker siden da det ble vedtatt ny ordning.
+I dag er ordningen preget av et komplisert regelverk med mange krevende skjønnsvilkår og unntak.
+Det gjør det vanskelig å forstå for pårørende og utfordrende å saksbehandle for forvaltningen.
+I ny ordning ønsket vi derfor å forenkle regelverket, samtidig som vi ønsket å utvide ordningen slik at vi kunne innlemme flere foreldre og deres syke barn.
+Et av grepene var å slå sammen to ulike bestemmelser, der den ene hadde en aldersgrense på 12 år, og den andre hadde en aldersgrense på 18 år.
+Vi mente det var riktig at foreldrene skulle få pleiepenger så lenge barnet anses som barn etter folketrygdloven, og foreslo derfor en generell øvre aldersgrense på 18 år.
+Det er en betydelig utvidelse.
+Når barn fyller 18 år, regnes de som voksne og får selvstendige rettigheter i folketrygden som voksne.
+Dette gjelder for funksjonshemmede som for funksjonsfriske.
+Når en person fyller 18 år, vil vedkommende kunne få egen livsoppholdsytelse fra staten, som f.eks. uføretrygd, som skal sikre at personen kan få dekket sine nødvendige behov.
+Videre kan hjelpestønad ytes til varig syke personer med særskilt tilsyns- og pleiebehov, slik at disse kan få etablert privat pleie.
+Det gjelder selv om personen bor hjemme hos foreldre etter fylte 18 år.
+Vi foreslo derfor å oppheve dagens unntaksregel om at det kan gis pleiepenger til foreldre til hjemmeboende psykisk utviklingshemmede over 18 år i de perioder de har en svært alvorlig sykdom.
+Jeg vil påpeke at det er et kommunalt hovedansvar å tilby nødvendige helse- og omsorgstjenester til familier med store omsorgsforpliktelser.
+Den gruppen representanten omtaler, vil være kronisk funksjonshemmet og ha varige behov, også etter fylte 18 år.
+Disse familiene vil ha god tid til å planlegge og etablere et samarbeid med det kommunale hjelpe- og tjenesteapparatet, også om hvordan akutte situasjoner skal håndteres.
+Jeg har tillit til at kommunene og sykehusene i samarbeid med pårørende kan håndtere dette.
+Jeg vil også påpeke at vi nå inkluderer varig syke barn i pleiepengeordningen.
+Disse er i dag inne bare i snevre unntakstilfeller.
+Det er en stor utvidelse og vil komme mange familier med utviklingshemmede personer til gode.
+Dette er en liten gruppe, men det er familier som allerede har det veldig tøft.
+Mange av disse barna – for det er kanskje det en må kalle dem selv om de har fylt 18 år – kan ikke klare å gjøre seg forstått.
+De er svært avhengig av noen som faktisk forstår dem.
+Da er det ikke bare å trylle fram mennesker som kan klare det.
+Hvem skal følge disse barna når de blir over 18 år, hvis foreldrene mister pleiepengerettigheter i lovverket?
+Blir det da kun opp til hver enkelt kommune å sørge for det?
+Ser ikke statsråden at den innstrammingen er uheldig og vil ramme disse familiene, og ikke minst brukerne, som er i en helt annen kategori enn andre syke ungdommer på 18 år som selv kan snakke sin sak, mens dette er ungdom som er helt avhengig av nære pårørende som kan bidra i en ekstra vanskelig situasjon?
+Pleiepenger vil i framtiden, som i dag, være en midlertidig inntektssikring for yrkesaktive foreldre som skal pleie sine syke barn.
+I tillegg til det har vi hjelpestønad og den kommunale omsorgsstønaden.
+Det er et kommunalt ansvar i dag å sørge for gode og forsvarlige tjenester til sine innbyggere.
+Omsorgsstønad er nevnt.
+I tillegg kan kommunene også ha andre ordninger, hvor de sammen med familiene lager et opplegg rundt familiene.
+Det kan være andre behov for dem over 18 år som bor hjemme, enn for dem som bor i institusjon.
+De som bor i institusjon, kan også få hjelp av andre.
+Samtidig vil det veldig ofte være slik at det kan være bra for barn over 18 år å ha med seg sin familie.
+Jeg har tillit til at kommunene sammen med foreldrene og sykehusene vil kunne finne gode løsninger for de familiene det gjelder.
+Jeg er ikke sikker på om jeg deler den tilliten når en ser hvordan systemet faktisk fungerer i dag.
+Det fungerer veldig tilfeldig, og dette er svært utsatte familier.
+Dessuten er hjelpestønad en stønad som familien får fram til barnet blir 18 år.
+Da bortfaller hjelpestønaden.
+Omsorgsstønad, eller det som tidligere ble kalt omsorgslønn, er svært vilkårlig fra kommune til kommune, så det er heller ikke noen sikring i så måte.
+Jeg forstår at det har vært behov for forenkling.
+Jeg anerkjenner at det har vært en forbedring av pleiepengeordningen, men spørsmålet er om statsråden vil følge denne utviklingen nøye og se om disse familiene får en ekstra byrde og et ekstra problem når ungdommene deres kanskje skal legges inn på sykehus og ikke klarer å gjøre seg forstått.
+Vil statsråden følge dette nøye?
+Jeg merker meg at representanten ikke levner kommunene mye tillit.
+Jeg velger å ha tillit til at kommunene vil finne gode løsninger sammen med familiene.
+Men til det konkrete spørsmålet om statsråden vil følge med på dette:
+ Ja, det er åpenbart at vi må følge med på det.
+Vi gjennomfører nå en stor reform innenfor pleiepengordningen, hvor vi innlemmer mer enn dobbelt så mange brukere – anslagvis 9 000 flere brukere enn det som er i dagens ordning.
+Vi dobler budsjettet og gjennomfører betydelige forenklinger og forbedringer, også ved at vi lemper på sykdomskravet.
+At vi skal følge med på ordningen, er åpenbart.
+Det er viktig at vi også passer på at ikke reformen har utilsiktede konsekvenser.
+Den endringen som representanten tar opp, vil selvfølgelig være en av de tingene man vil måtte se på.
+«Regjeringspartienes stortingsrepresentanter har flere ganger forsikret om at regjeringen vil ordne opp slik at utbetalingsinformasjon fra Nav sendes i posten til dem som har behov for det.
+Fortsatt får vi meldinger om at dette ikke er gjennomført.
+Hvorfor har ikke statsråden oppfylt disse løftene?»
+Ja, jeg har ved flere anledninger svart både muntlig og skriftlig på spørsmål fra Stortinget om Navs praksis hva gjelder de månedlige utbetalingsmeldingene til pensjonistene.
+I mine svar har jeg lagt vekt på at alle vedtak og nye opplysninger som er å betrakte som viktige meldinger i henhold til eForvaltningsforskriften, fortsatt skal sendes skriftlig til personer som ikke er digitale brukere, eller som har reservert seg mot å motta digital post.
+Månedlige utbetalingsmeldinger som ikke inneholder ny informasjon sammenliknet med foregående måneds utbetalingsmelding, anses derimot ikke å være en viktig melding som krever at meldingen sendes som post til dem som har reservert seg eller ikke er digitale brukere.
+Arbeids- og velferdsetaten vil imidlertid alltid sende melding dersom ytelsen endrer seg utover reguleringer og satsendringer, og vil fortsatt sende årsoppgaven til brukerne.
+Har brukerne reservert seg mot digital post, vil de få årsoppgaven og slike meldinger om endringer i posten.
+De som ikke har pc, elektronisk identifikasjon eller kompetanse til selv å logge seg inn på Ditt Nav, kan henvende seg til NAV Kontaktsenter og få disse utbetalingsopplysningene lest opp.
+I spesielle tilfeller kan brukere fortsatt ha behov for å dokumentere inntektsopplysninger.
+I slike tilfeller kan brukeren også be om utskrift av utbetalingsmeldingen.
+Som jeg svarte representanten Erlend Wiborg 29. mars i år, vil veilederen ved NAV Kontaktsenter sammen med den som ringer, vurdere om det er behov for en utskrift i det enkelte tilfellet.
+Slike behov vil f.eks. være om brukeren har behov for dokumentasjon til en lånesøknad, eller for å klage ved mulige feilutbetalinger.
+Jeg har bedt Arbeids- og velferdsetaten om å opptre smidig overfor dem som henvender seg til NAV Kontaktsenter.
+Dette har arbeids- og velferdsdirektøren forsikret meg om at de vil være, og jeg har ingen indikasjoner på at det ikke følges i praksis.
+Erfaringen så langt er at det er relativt få som nå ber om å få disse opplysningene tilsendt skriftlig.
+Det var relativt mange henvendelser da dette var nytt, men nå er henvendelsene tilbake igjen på om lag normalt nivå, dvs. hvordan det var før endringen ble gjort.
+Takk for svaret.
+Det var jo ikke mye nytt i det svaret som statsråden nå ga.
+Jeg regner med at når den nevnte representanten Wiborg i sine leserinnlegg skriver at Fremskrittspartiet er klare på at Nav må vise fleksibilitet overfor sine brukere som spør etter utskrift om sine pensjoner – det er faktisk mange som trenger jevnlig brev i posten for å føle trygghet for at de får den pensjonen de skal ha – betyr det svaret statsråden nå gir, at dersom man som pensjonist ønsker å få et brev i posten hver måned, vil man kunne få det.
+Hvis ikke er det jo feilopplysninger som blir gitt i de leserbrevene som representanten Wiborg sender ut.
+Da er et spørsmål til Hauglie:
+ Vil statsråden bidra til at det er en enhetlig oppfatning mellom Fremskrittspartiets representanter i Stortinget som har ansvaret for dette, og statsråden?
+Som jeg har sagt, både i det forrige svaret og i tidligere svar, har jeg vært opptatt av at Nav skal vise fleksibilitet særlig innledningsvis, når dette er nytt og oppfattes som nytt blant mange av Navs brukere.
+Som jeg også har sagt, skal Nav fortsatt sende skriftlig informasjon når informasjonen endrer seg.
+Når det er den samme informasjonen måned etter måned, vil det ikke sendes ut skriftlig.
+Det er da man kan ta kontakt med NAV Kontaktsenter og få den opplest.
+Dersom man må ha det skriftlig fordi man skal søke om lån eller annet, kan man også få den printet ut.
+Etter det jeg har fått opplyst av direktoratet, har ikke Nav systemer hvor man kan tilby utskrift løpende til enkeltpersoner.
+Enten gjelder det ingen, eller så gjelder det alle.
+Det betyr at en endring, slik at man skal kunne få løpende utskrifter uansett, vil innebære at alle må få det.
+Datasystemene må da i så fall gjøres om, og det må bevilges i hvert fall 30 mill. kr for å rette det opp.
+Derfor har jeg vært opptatt av at man skal få informasjonen når det er nye opplysninger, men når det er den samme informasjonen måned etter måned, må man ta kontakt med Nav for å få det lest opp.
+Da er systemene viktigere enn menneskene, skjønner jeg.
+Men jeg skjønner ikke helt hva statsråden legger i den avgrensningen som gjøres for når man kan få denne ytelsen på papir.
+Flertallet i Stortinget sa at man «understreker viktigheten av at alle sikres tilstrekkelig informasjon om ytelse og utbetalinger».
+Nå var riktignok ikke Arbeiderpartiet med i det flertallet, men flertallet, bl.a. statsrådens eget parti, skrev det i merknad.
+Men nå er det statsråden som definerer at det som er viktig informasjon og grunnlag for å få ytelsen skriftlig, er en lånesøknad, men den enkelte persons trygghet for at man får dette, settes til side.
+Mener statsråden at statsråden har bedre forståelse av hva en pensjonist trenger, enn f.eks. pensjonistforeningene, som mener at dette er helt feil?
+Som jeg sa i mitt første svar, ser vi nå at antall henvendelser til NAV Kontaktsenter er på om lag samme nivå som det var før man gjorde dette.
+Så mye kan også tyde på at nå som dette har blitt mer kjent og man har fått mer informasjon om hva som gjelder og ikke gjelder, har det beroliget mange pensjonister.
+Hva som er å anse som en viktig melding, er definert i eForvaltningsforskriften § 9 – det handler om enkeltvedtak og forhåndsvarsel etter forvaltningsloven, andre meldinger som har betydning for vedkommendes rettsstilling, og meldinger som det av andre grunner er av særlig betydning å sikre at vedkommende mottar.
+De trygdeslippene som vi diskuterer nå, er de trygdeslippene hvor samme informasjon blir sendt ut måned etter måned, hvor det ikke er noen endringer i det som står.
+Fortsatt skal man få informasjon når det er nye opplysninger, åpenbart, da er det jo andre opplysninger, og da må man få beskjed om det, eller f.eks. årsoppgaven, som også mange vil være opptatt av.
+Men når det ikke er endring i informasjonen, vil man som hovedregel ikke sende ut det.
+Det kan man få via NAV Kontaktsenter.
+«På vegne av ein filmprodusent har eit dansk advokatfirma sendt ut krav til norske forbrukarar dei mistenker har sett film via fildelingssider.
+Forbrukerrådet meiner kravet framstår som grunnlaust, og ber folk sjå bort frå både brev og krav.
+Selskapet har gått til sak for å få utlevert identiteten til rundt 12 000 IP-adresser frå ulike nettleverandørar, noko domstolen har løyve til med heimel i åndsverklova.
+Meiner statsråden at lova nyttast på tenlegt vis?»
+Reglene som skal hindre ulovlig nedlasting og deling av opphavsrettslig beskyttet materiale på internett, ble innført i åndsverkloven i 2013.
+Bakgrunnen var at ulovlig nedlasting har påført dem som skaper og utøver kunst, betydelige økonomiske tap.
+I loven er det lagt inn strenge vilkår for utlevering av abonnementsopplysninger samt innført sikkerhetsmekanismer slik at disse sakene skal få en forsvarlig saksbehandling.
+Det er domstolene som etter en interesseavveining skal vurdere om internettilbyderne skal pålegges å utlevere identiteten til en abonnent.
+Utgangspunktet er at abonnementet kan knyttes til en IP-adresse som har blitt brukt i forbindelse med ulovlig nedlasting av åndsverk, som regel film.
+For at identiteten skal kunne utleveres, må domstolen finne at hensynene som taler for utlevering, veier tyngre enn hensynet til taushetsplikten.
+Ved vurderingen skal retten avveie hensynet til abonnenten mot rettighetshavers interesse av å få tilgang til de opplysningene, sett hen til inngrepets grovhet, omfang og skadevirkninger.
+I tillegg skal Nkom, Nasjonal kommunikasjonsmyndighet, i forkant av rettens avgjørelse ta stilling til om tilbyderen skal fritas fra taushetsplikten.
+Det er altså strenge vilkår som det er lagt til domstolene å vurdere.
+Den konkrete saken som representanten Rotevatn viser til, er fortsatt til behandling i rettssystemet, og derfor finner jeg det ikke naturlig å kommentere den saken så lenge den ikke er endelig avgjort.
+Høyesterett har imidlertid nylig, i en annen sak, vurdert spørsmålet om utlevering av abonnementsinformasjon.
+I Høyesteretts kjennelse av 26. april ble identiteten til åtte IP-adresser som kunne knyttes til fildeling av én enkelt film, ikke utlevert rettighetshaveren.
+Bakgrunnen for det var at omfanget av krenkelsen og krenkelsene ikke tilfredsstilte lovens krav til utlevering.
+Derfor mener jeg at Høyesteretts avgjørelse viser at loven balanserer de ulike interessene på en fornuftig måte.
+Eg er kjend med den orskurden frå Høgsterett som statsråden viser til, og eg er glad for han.
+Eg har også i og for seg forståing for at statsråden vegrar seg for å kommentere ei konkret sak som framleis verserer i rettsvesenet.
+Samtidig er dette ikkje noko nytt.
+Det har vore ei rekkje eksempel på saker dei siste åra der ulike rettshavarar har fått lov av retten til å sende krav, og det er tusenvis som mottek desse krava.
+Mange av krava er utforma på ein måte som gjer forbrukarar redde og i tvil om kva rettar dei har.
+Som statsråden sa, er eit av føremåla bak den opninga som vart gjeve i åndsverklova, at ein skal gå etter det ein kunne kalle dei store fiskane, altså folk som driv kommersiell fildeling i stor skala osv.
+Men det som er heilt opplagt, er at ein her går etter veldig mange som opplagt ikkje er i kategorien «store fiskar».
+Har ikkje statsråden eit syn på om det er ei praktisering av lova som ho meiner er føremålstenleg?
+Jo, det har jeg, og det mener jeg også at vi vektlegger i den nye åndsverkloven som nå er til behandling i Stortinget.
+Jeg ser frem til at vi skal debattere og behandle før sommeren nettopp det som representanten Rotevatn er inne på, at det er de store, som systematisk og åpenbart med forsett gjør det, loven er ment å skulle ramme – ikke de små, der det kanskje også er enkelte som ikke helt vet hva de faktisk gjør.
+Jeg mener at listen skal ligge svært høyt for å ta i bruk såpass drastiske virkemidler som vi får høre om her.
+Derfor mener jeg at Høyesteretts avgjørelse viser at loven klarer å balansere det på en god måte, og den kjennelsen som nå er kommet fra Høyesterett, vil derfor også være med på å danne rettspraksis på dette området.
+Eg er glad for det siste svaret.
+No meiner eg at statsråden er tydeleg og – etter mitt syn – tydeleg i riktig retning.
+Ikkje minst er det eit viktig poeng å ha med seg her at det er mange som ikkje alltid veit at dei gjer noko ulovleg.
+Men eg vil følgje eit siste spor, som også kjenneteiknar den saka eg tek utgangspunkt i her.
+Det er at dei krava det her er snakk om, blir fremja frå Danmark og ikkje frå Noreg.
+Ein ting som er vesentleg med det, er at det i åndsverklova er krav om at ein skal varsle personvernmyndigheitene før ein går til innsamling av IP-adresser – i vårt tilfelle er det Datatilsynet.
+Det kravet skal sikre at norske myndigheiter kan føre nødvendig tilsyn med aktørar som behandlar sensitiv personinformasjon, noko som IP-adresser absolutt er.
+Det kravet omgår ein når ein rettar denne typen krav frå eit anna land enn Noreg.
+Då er spørsmålet:
+ Korleis vil statsråden hindre – eller forsøkje å hindre, i alle fall – at ein omgår viktige personopplysningskrav på den måten?
+Representanten Rotevatn stiller et veldig relevant spørsmål, som jeg ikke tror det er siste gang vi er vitne til.
+Vi kan ikke ha det slik at alle som bor innenfor Norges grenser, skal forholde seg til den strenge personlovgivningen vår, mens aktører fra utlandet skal kunne omgå den.
+Derfor kommer jeg til å se nærmere på den problemstillingen og den aktuelle saken som blir tatt opp.
+Nå venter jeg på denne saken og på at en eventuell dom skal bli rettskraftig, men dette er helt klart problematikk som jeg er sikker på at vi kommer til å se mer av, og som vi fra politisk side derfor er nødt til å gå nærmere inn i.
+Jeg tillater meg å stille følgende spørsmål til kulturministeren:
+«Sangsolistene ved Den Norske Opera & Ballett er bekymret for framtiden i forbindelse med at ledelsen ønsker korttidskontrakter for framtidige sangsolister.
+I 2016 inngikk sangsolistene en avtale om ikke å øke antall fast ansatte pga. den økonomiske situasjonen.
+Nå brukes argumentet kunstneriske hensyn.
+Hva mener statsråden om at Den Norske Opera & Ballett ønsker mer bruk av midlertidige stillinger i Norges største musikk- og scenekunstinstitusjon?»
+Den Norske Opera & Ballett skal presentere opera, ballett og konserter av høyeste kunstneriske kvalitet.
+Jeg forstår at det høye kravet til kunstnerisk kvalitet og behovet for fleksibilitet i programmeringen gjør at dette spørsmålet blir reist i en institusjon som Operaen.
+I et prestasjonsmiljø som det Operaen representerer, forventer vi at hver eneste oppsetning og forestilling skal være av ypperste kvalitet.
+Spørsmålet om faste og midlertidige ansettelser er forhold som reguleres i tariffavtale, og er dermed en sak mellom partene lokalt i Operaen.
+Departementet forutsetter, både som eier og tilskuddsyter, at Operaen opererer i samsvar med gjeldende lover og forskrifter, også de lover og regler som gjelder for arbeidslivet.
+Jeg har full tillit til styret og ledelsen i Operaen og at de som en ansvarlig arbeidsgiver behandler spørsmålet om midlertidige ansatte på en skikkelig måte.
+Jeg hører antydninger til at statsråden har tillit til at styre og ledelse ivaretar tariffavtale og avtaler mellom partene.
+Men det er grunn til å påpeke at de signalene ledelsen har uttrykt, ikke er i tråd med den særavtalen som i dag finnes.
+Adgangen til midlertidige ansettelser er nettopp på grunn av antallet faste stillinger.
+Konsekvensen av å bryte dette er at arbeidsmiljøloven da vil være gjeldende.
+Ser og skjønner kulturministeren alvoret i situasjonen?
+Jeg registrerer selvsagt og følger nøye med på at det er en viss uro ved Den Norske Opera & Ballett.
+Jeg har full tillit til styret og ledelsens arbeid med å rekruttere nye ledere som kan bidra til at det fortsatt skal formidles opera og ballett av høy kvalitet og til et bredt publikum.
+Så håper jeg representanten Liadal har forståelse for at jeg som ansvarlig statsråd ikke kan gå inn i enkeltsaker som handler om forhold som reguleres i tariffavtaler, heller ikke enkeltsaker som er en sak mellom partene lokalt.
+Vi er fra Kulturdepartementets side opptatt av at Den Norske Opera & Ballett følger de lover og regler som er, og vi har også tillit til styrets evne til å legge strategien og retningen videre for institusjonen.
+Det er grunn til å stille spørsmålet en gang til.
+Skjønner statsråden at det ligger et premiss for å kunne benytte seg av åremålsstillinger i den avtalen som man forholder seg til per i dag, det vil si minimum 15 faste stillinger for i det hele tatt å kunne benytte seg av åremålsstillinger?
+Skjønner statsråden at dette er et brudd på dagens avtale, og at alternativet er å ansette alle i faste stillinger?
+Det vil bety mange flere enn 15.
+Jeg må gjenta svaret mitt.
+Det er styrets ansvar å sørge for en forsvarlig organisering av virksomheten, jamfør aksjeloven.
+Departementet, eller jeg som minister, verken vil eller skal legge føringer for den interne organiseringen av Operaen.
+Vi går ikke inn i enkeltsaker som handler om forhold som reguleres i tariffavtalen, og dette er en sak som er opp til partene lokalt.
+Jeg tillater meg å stille følgende spørsmål til kulturministeren:
+«Kulturdepartementet har i mange år kommunisert at de kommer til å legge fram forslag om å forandre loven som regulerer pensjonen til ballettdansere og operasangere ved Den Norske Opera & Ballett
+. I fjor vår ble det presentert noen parametere for det nye systemet, men det ble ikke lagt fram en helhetlig modell.
+Hvordan er fremdriften i Kulturdepartementets arbeid med ny operapensjonslov?»
+Den økonomiske situasjonen for Den Norske Opera & Ballett er svært anstrengt.
+Det skyldes i all hovedsak de økonomiske belastningene som følger av operapensjonsloven.
+Det må utvikles bærekraftige pensjonsordninger i Operaen.
+Det krever at dagens operapensjonslov avvikles.
+Kulturdepartementet har over lengre tid arbeidet med et forslag til endring av operapensjonsloven.
+Det er et komplisert arbeid, som tar tid.
+Onsdag i forrige uke ble Operaens ledelse og arbeidstakerorganisasjonene orientert om hovedlinjene i forslaget som departementet jobber med.
+Departementet ønsker å erstatte dagens operapensjonslov med en ordning som sikrer de kunstneriske utøverne flerårig støtte til omstilling når de når aldersgrensen for pliktig fratreden.
+Detaljene i en slik ny ordning bør i størst mulig grad avtales lokalt mellom partene.
+Jeg håper på god dialog i arbeidet med Operaens ledelse og arbeidstakerorganisasjonene om det vi ser på som helt nødvendige endringer i et pensjonsopplegg som ikke er bærekraftig for Operaens økonomi.
+Takk for svaret.
+Det som forundrer meg lite grann, er at regjeringen også har satt ned et annet utvalg, som ser på pensjonen for alle som har særpensjonsavtaler.
+Det som forundrer meg, er at man ikke har kunnet ta operapensjonsloven og de som har særavtaler i forbindelse med den, inn i det samme arbeidet.
+Man velger altså å behandle operasangere og ballettdansere for seg.
+Hva er grunnen til at man ikke har kunnet se dette i sammenheng med alle de andre som nå er under vurdering når det gjelder særpensjonsavtaler?
+Det er fordi – som jeg også sa i mitt svar – dette er et arbeid som tar lang tid.
+Det er en god stund siden dette arbeidet ble satt i gang.
+Regjeringen mener at det er et helt nødvendig arbeid som ble satt i gang, fordi vi ikke kan forsvare å opprettholde et særskilt pensjonsopplegg for de kunstnerisk ansatte i Operaen som innebærer en pensjonsalder som faktisk ligger 31, 20 og 16 år under det arbeidsmiljøloven i dag setter som øvre aldersgrense, nemlig 72 år.
+Forslaget handler om å legge til rette for at kunstnerne kan gå over i annet arbeid etter en karriere i Operaen, i stedet for å motta pensjon livet ut ved oppnådd aldersgrense.
+Vi snakker om særaldersgrense på 41 år for dansere, 52 år for sangsolister og 56 år for korsangere.
+Jeg er fullstendig klar over at pensjonsutgiftene ved Den Norske Opera & Ballett har vært og er en krevende sak.
+Men samtidig handler dette også om å ivareta noen som faktisk har valgt å gjøre dette til sitt livsverk – og gått inn i dette under det pensjonsregimet som har vært fram til nå.
+I sitt første svar refererte kulturministeren til et møte som hadde vært med Operaens ledelse og arbeidstakerorganisasjonene.
+Kan hun si litt om hva denne overgangsperioden handler om?
+Og hvor lenge vil man ha en slik overgangsperiode?
+Vi har hatt noen møter med de berørte – vi har jo jobbet en tid med dette forslaget – og vi har invitert partene til å komme med sitt syn på saken før vi ferdigstiller høringsnotatet.
+Høringsnotatet tar vi sikte på å sende ut om ikke så altfor lenge.
+Der vil vi komme tilbake til detaljene.
+Men det er riktig at vi er nødt til å komme med en erstatning, som et omstillingstilskudd, når de når aldersgrense for pliktig fratreden, når vi faser ut pensjonsordningen slik den er i dag.
+Jeg skjønner at det skaper usikkerhet.
+Det er derfor jeg synes det er helt nødvendig at vi, når vi har startet på dette arbeidet – som var for en god stund siden – fortsetter det, i dialog med partene, og at dette er noe vi får avklart, slik at det ikke blir altfor lang tid med usikkerhet for dem som berøres.
+Jeg vil gjerne stille følgende spørsmål til justis- og beredskapsministeren:
+«I tiårene etter den kalde krigens dager har vurderingen av behovet for raskt tilgjengelige tilfluktsrom forandret seg, og mye av kapasiteten som fins, vil det ta noe tid å klargjøre.
+Men i dagens situasjon med terror og alternativ krigføring vil trusselbildet mot sivilbefolkningen kunne handle om angrep med giftige gasser, virus, radioaktiv stråling med mer, og angrepene vil kunne komme raskt og uten forvarsel.
+I hvilken grad anser statsråden at byområder som Oslo og andre har en god og egnet beredskap når det gjelder tilfluktsrom?»
+I Meld.
+St. 39 for 2003–2004 fremgår det bl.a.:
+«Tilfluktsrom skal fortsatt være en del av den beskyttelse samfunnet skal kunne gi borgerne.
+Eksisterende tilfluktsrom skal vedlikeholdes.
+Sivilforsvaret skal gjennomføre tilsyn med tilfluktsrom for å sikre at disse holder en tilfredsstillende standard.»
+Tilfluktsrom er permanente beskyttelsesrom som skal verne befolkningen mot skader, primært ved væpnet konflikt.
+Et moderne samfunn har behov for sivile beskyttelsestiltak.
+Eksisterende tilfluktsrom skal derfor opprettholdes og vedlikeholdes.
+Det er nedfelt i sivilbeskyttelsesloven av 2010, hvor bl.a. følgende tre beskyttelsestiltak fremgår:
+ varsling av befolkningen, evakuering av sivilbefolkningen i krig eller når krig truer, og offentlig og private tilfluktsrom for beskyttelse av sivilbefolkningen.
+Disse tiltakene anses nødvendig under en væpnet konflikt.
+Tiltakene utgjør en god beskyttelse for sivilbefolkningen, gitt tilstrekkelig varslingstid.
+Det finnes heller ingen andre alternativ som kan erstatte de nåværende tiltakene og samtidig gi en tilsvarende beskyttelsesgrad.
+Selv om beskyttelsestiltakene primært er for væpnet konflikt, altså krig, kan det oppstå kriser og situasjoner hvor man kan tenke seg at det er behov for denne type beskyttelsestiltak.
+I motsetning til væpnet konflikt vil et eventuelt terroranslag med bruk av giftige gasser, virus, radioaktiv stråling m.m. sannsynligvis ikke bli varslet på forhånd.
+De aller fleste tilfluktsrom benyttes i det daglige til annen virksomhet som lagring og lignende med fastsatt krav til klargjøringstid.
+Tilfluktsrommene vil derfor være vanskelig å ta i bruk ved hendelser som inntrer uten varsel.
+Et terrorangrep i fredstid krever umiddelbar beskyttelse av befolkningen.
+I disse situasjonene er også sivilbefolkningen utsatt fordi vi erfaringsmessig har sett at denne type trusselaktører kan rette angrep direkte mot sivile mål.
+NATO understreker at sivil beredskap, krisehåndtering og robuste samfunnskritiske funksjoner er en forutsetning for det enkelte lands og dermed alliansens samlede beredskap og forsvar.
+NATO har vedtatt en rekke grunnleggende forventninger til medlemsstatene.
+I alle kriser skal landene sørge for å kunne opprettholde en fungerende nasjonal kriseledelse, håndtere mange skadde og forflytting av mennesker, sikre mat, vann og energiforsyning og sikre kommunikasjon og transportsystemer.
+Regjeringen har derfor etablert et program for videreutvikling av totalforsvaret og samfunnets motstandsdyktighet.
+En mer utfordrende sikkerhetspolitisk situasjon betyr at de som skal sikre samfunnet, trenger bedre verktøy i verktøykassen.
+Jeg takker statsråden for svaret.
+Det kan være mange resonnementer rundt overgangene mellom en tradisjonell væpnet konflikt og det vi vil kunne se av stater som f.eks. bruker terror som sin form for krig i framtiden, og andre terrororganisasjoner.
+Så Den diskusjonen er omfattende, men jeg vil begrense meg nå – vi har ganske kort tid – til å gå på hva som er status i forhold til lovverket, som også statsråden refererer til.
+I konseptutredningen som Direktoratet for sivil beredskap gjorde om Sivilforsvaret i 2016, heter det i konklusjonen at:
+«Tilfluktsrom har i praksis ikke vært håndtert som et beskyttelsestiltak på lang tid.
+Nye tilfluktsrom har ikke blitt bygget, og de eksisterende har en uavklart status.»
+Det står også at man trenger en beredskapsstyrke for å kunne ta i bruk anleggene, og den finnes ikke, og det står også at de private som har ansvar for størstedelen av tilfluktsrommene, sjelden er klar over dette ansvaret og hva det innebærer.
+Så den situasjonen som beskrives, er ganske dramatisk i denne konseptutredningen.
+Jeg vil spørre statsråden om han er enig i at situasjonen er alvorlig når det gjelder statusen på tilfluktsrommene.
+Norge har i dag 25 000 tilfluktsrom med plass til om lag 2,5 millioner mennesker.
+Disse er fordelt på ca. 300 000 plasser i offentlige tilfluktsrom og ca. 2,2 millioner plasser i private tilfluktsrom.
+Det er riktig at man etter lovendringer i 1998 ikke lenger har krav til at alle nybygg over en viss størrelse skal ha tilfluktsrom.
+Det ble endret på slutten av 1990-tallet.
+Så er det selvfølgelig sånn at den sikkerhetssituasjonen man ser for seg, og de endringene som har skjedd rundt oss, tilsier at man kanskje må ha en ny gjennomgang av forholdene for norske tilfluktsrom, men igjen er det viktig for meg å understreke at i det trusselbildet, når vi snakker om den type terrorhandlinger, vil tilfluktsrom ikke være det best egnede instrumentet, men det er viktig at vi uansett har et godt tilbud på tilfluktsromsiden.
+Jeg takker for tilleggssvaret også.
+Det er mange ting som kan sies om mulige situasjoner opp mot en terrorhendelse, hvor tilfluktsrommenes rolle kan aktualiseres, og jeg nevnte stater som bruker terror.
+Jeg tror vi kan få se mange alternative former for krigføring i framtiden, hvor tilfluktsrommenes relevans kan bli større.
+Det som er situasjonen i dag, er at 80 pst. av de tilfluktsrommene for 2,5 millioner mennesker som statsråden nevnte, håndteres av private.
+Det står i denne konseptutredningen at de sjelden er klar over sitt ansvar for å utstyre dem, vedlikeholde dem og kunne klargjøre dem osv.
+Vi ser det f.eks. her i Oslo, hvor Stortinget stasjon, Nationaltheatret stasjon, Grønland stasjon er de store hovedtilfluktsrommene i sentrum.
+Spørsmålet er:
+ Hvordan skal vi sørge for at de er utstyrt for å møte angrep med gass, med virus, med kjernefysiske våpen og for å kunne ta imot store deler av befolkningen på kortest mulig tid?
+Det er jo ikke et poeng å fastslå at det skal ta lang tid å klargjøre dem.
+Etter gjeldende forskrift fra 1995 fremgår det at eier og bruker av tilfluktsrommet skal holde rommet ved like og ha ansvar for at det klargjøres til bruk ved beredskap.
+Kontroller i perioden 2008 til 2012 avdekket mangelfullt vedlikehold ved flere tilfluktsrom, men – og det er viktig å understreke – det viste også at rom som brukes aktivt i fredstid, er i god stand.
+Så det er et sammensatt bilde.
+De senere årene har det vært rimelig stor pågang fra private for å få lagt ned tilfluktsrom, men jeg kan sikre representanten at DSB ved Sivilforsvaret, som forvalter systemet, har lagt til grunn en streng praksis.
+Derfor er også få tilfluktsrom lagt ned, men det er selvfølgelig nødvendig å se nærmere på forholdene for en del av tilfluktsrommene, nettopp fordi at sikkerhetssituasjonen har endret seg.
+Det ser ikke ut som representanten er kommet, men vi venter litt.
+Ettersom representanten nå er kommet, går vi til spørsmålet, fra representanten Lene Vågslid til justis- og beredskapsminister Per-Willy Amundsen.
+Presidenten gjør oppmerksom på at representantene er pliktige til å være til stede når spørsmålet skal stilles.
+Beklagar så mykje, president.
+Det skal ikkje gjenta seg.
+«På Notodden jobbes det med spennende planer for etablering av overgangsboliger i forbindelse med tilbakeføring etter soning.
+Overgangsbolig i Telemark står høyt på prioriteringslista i kapasitetsplanen, jf.
+Meld.
+St. 12
+Utviklingsplan for kapasitet i kriminalomsorgen.
+Justiskomiteen har i budsjettet for 2017 skrevet en positiv merknad om Notodden-modellen og det gode arbeidet som er i gang.
+Hva er status for arbeidet med å etablere flere overgangsboliger?»
+Regjeringen jobber med å øke soningskapasiteten i Norge og har gjort dette gjennom hele regjeringsperioden.
+Overgangsboligene er fengsler med lavere sikkerhetsnivå.
+De er et særskilt rehabiliteringstiltak for innsatte som har behov for botrening eller sosial trening, planlegging av løslatelse, nettverksarbeid mv. som ikke kan tilbys gjennom straffegjennomføring i ordinært fengsel.
+Soning i overgangsbolig kombineres med frigang, hvor innsatte på dagtid har sysselsetting i form av enten arbeid eller utdanning ute i samfunnet.
+Kriminalomsorgen har i dag åtte overgangsboliger fordelt rundt i landet.
+Meld.
+St. 12 for 2014–2015, Utviklingsplan for kapasitet i kriminalomsorgen, la frem prognoser som viser et langsiktig behov for økt kapasitet tilsvarende 1 000 nye plasser innen 2040, og at 550 av disse må være etablert innen 2020.
+Det er gjennomført kvalitetssikrende konseptvalgutredninger for Østlands-området inklusiv Telemark og for Agder-fylkene.
+Det er først og fremst behov for å utvide kapasitet med høy sikkerhet.
+I 2015 ble det bevilget penger til å etablere 41 nye lukkede fengselsplasser og én egen ungdomsenhet med inntil fire plasser.
+Det er bevilget penger til utvidelse ved Ullersmo fengsel og ved Indre Østfold fengsel avdeling Eidsberg, med henholdsvis 96 og 85 plasser.
+Dette er nødvendig for å erstatte deler av Oslo fengsel som må legges ned.
+Disse plassene står ferdig i juni 2017.
+Det er bevilget penger i 2016 og 2017 til prosjektering av nytt fengsel i Agder med til sammen 300 plasser.
+Regjeringen vil fortsette arbeidet med sikte på å utvide norsk fengselskapasitet for å unngå at soningskøene øker igjen, og at kriminalomsorgen kan stille et tilstrekkelig antall varetektsplasser til disposisjon for politiet.
+Vi må se på behovet for fengselsplasser i et nasjonalt perspektiv og ut fra faglige vurderinger.
+I den sammenheng vil også flere overgangsboliger bli vurdert, men som nevnt er det altså behov for å øke kapasiteten for plasser med høy sikkerhet.
+Regjeringen vil derfor komme tilbake til prioritering av tiltak, bevilgningsbehov og fremdrift i forbindelse med de årlige budsjettprosessene.
+Eg takkar for svaret.
+På Notodden og i Telemark har me over ein lang periode jobba med å utvikle ein modell for overgangsbustader.
+Justis- og beredskapsministeren kjenner nok også til Notodden-modellen og at det skjer mykje spennande på Notodden når det gjeld innsatsen til bedrifter og kommunen, som kunne betydd mykje for innsette som er ferdige med soning, og som skal tilbake til samfunnet.
+Eg skjønar at justis- og beredskapsministeren ikkje kan kommentere saka konkret, men meiner justis- og beredskapsministeren at det arbeidet som er gjort, f. eks. på Notodden, vil vere eit godt grunnlag og eit viktig utgangspunkt for rammer rundt etablering av overgangsbustader?
+Notodden-modellen, som representanten Vågslid viser til, er absolutt verdt å se nærmere på, noe også komiteen i merknads form har vist til.
+Jeg mener dette er noe vi absolutt bør kunne vurdere i det videre arbeidet.
+Departementet skal i det videre arbeidet med å utvikle kriminalomsorgen vurdere ulike samarbeidsmodeller, ulike organisatoriske løsninger hvor nettopp målet er å legge best mulig til rette for tilbakeføring gjennom god og mulig straffegjennomføring.
+Som nevnt vil regjeringen komme tilbake til prioritering av tiltak, bevilgningsbehov og fremdrift.
+Vi vil selvfølgelig også se på denne modellen i den sammenhengen og komme tilbake til Stortinget på egnet måte.
+Takk for svaret.
+Eg synest det er veldig positivt at justis- og beredskapsministeren seier at dei ynskjer å vurdere dette.
+Som eg sa i spørsmålet mitt, er Telemark nemnt i kapasitetsplanen, og det finst sikkert ulike, gode lokasjonar for nye overgangsbustader.
+Men for Arbeidarpartiet er det veldig viktig at me legg godt til rette for at ein blir mindre kriminell når ein kjem ut av fengsel, enn då ein kom inn i fengsel.
+Slik sett er det behov for fleire overgangsbustader.
+Justis- og beredskapsministeren seier han ynskjer å kome tilbake til Stortinget med dette.
+Har justis- og beredskapsministeren eit tidsperspektiv på det?
+Det er klart at i forbindelse med de ordinære budsjettene vil også dette være berørt.
+Jeg deler representanten Vågslids syn på at det er et viktig, prioritert tiltak å legge til rette for tilbakeføring til samfunnet.
+Det er også noe regjeringen har prioritert og tatt på alvor.
+Vi har flere tiltak som skal bidra til nettopp dette.
+Det er bevilget 12 mill. kr i inneværende budsjett for 2017 til å etablere tre nye enheter for behandling av rusproblemer i fengsel.
+Ordningen skal gi innsatte rusbehandling i fengsel og gode overganger til videre behandling etter løslatelse.
+Regjeringen har også sørget for 10 mill. kr slik at flere innsatte kan overføres til behandlingsinstitusjon under soning, og regjeringen har sørget for bevilgninger slik at narkotikaprogram med domstolskontroll har blitt utvidet og nå er et landsdekkende tilbud.
+I det hele tatt er dette noe regjeringen har tatt på alvor, og som vi gjennom tiltak viser gjennomføringskraft på.
+Dermed er sak nr. 2 ferdigbehandlet.
+Det foreligger ikke noe referat.
+Dermed er sakene på dagens kart ferdigbehandlet.
+Forlanger noen ordet før møtet heves?
+– Møtet er hevet.

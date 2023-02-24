@@ -6,18 +6,23 @@ from typing import Dict, Set, List, Tuple
 
 from Levenshtein import ratio, editops, matching_blocks
 
-from utils.normalization import normalize
-
 
 @dataclass
 class Segment:
     file: str
     start: float
     end: float
-    text: List[str]
+    text_bm: List[str]
+    text_nn: List[str]
 
     def to_dict(self) -> Dict:
-        return dict(file=self.file, start=self.start, end=self.end, text=self.text)
+        return dict(
+            file=self.file,
+            start=self.start,
+            end=self.end,
+            text_bm=self.text_bm,
+            text_nn=self.text_nn,
+        )
 
 
 @dataclass
@@ -42,14 +47,22 @@ def load_segments(file: Path) -> List[Segment]:
     with open(file) as f:
         for l in f:
             data = json.loads(l)
-            ret.append(Segment(data['file'], data['start'], data['end'], data['text'].strip().split()))
+            ret.append(
+                Segment(
+                    data["file"],
+                    data["start"],
+                    data["end"],
+                    data["text_bm"].strip().split(),
+                    data["text_nn"].strip().split(),
+                )
+            )
     return sorted(ret, key=lambda x: (x.file, x.start))
 
 
 @dataclass
 class Dictionary:
-    word2id: Dict[str, int] = field(default_factory=lambda: {'<unk>': 0})
-    id2word: Dict[int, str] = field(default_factory=lambda: {0: '<unk>'})
+    word2id: Dict[str, int] = field(default_factory=lambda: {"<unk>": 0})
+    id2word: Dict[int, str] = field(default_factory=lambda: {0: "<unk>"})
 
     def put(self, words: Set):
         for id, word in enumerate(sorted(list(words))):
@@ -67,7 +80,7 @@ class Dictionary:
         return self.id2word[id]
 
     def get_text(self, ids: List[int]) -> str:
-        return ' '.join([self.get_word(x) for x in ids])
+        return " ".join([self.get_word(x) for x in ids])
 
     def get_ids(self, text: str, warn_oov: bool = False) -> List[int]:
         return self.to_ids(text.strip().split(), warn_oov)
@@ -79,9 +92,9 @@ class Dictionary:
         return [self.get_word(x) for x in ids]
 
     def save(self, file: Path):
-        with open(file, 'w') as f:
+        with open(file, "w") as f:
             for id, word in self.id2word.items():
-                f.write(f'{id} {word}\n')
+                f.write(f"{id} {word}\n")
 
     def load(self, file: Path):
         self.word2id = {}
@@ -96,20 +109,20 @@ class Dictionary:
 
 
 class Matcher:
-    '''Matcher utility class
+    """Matcher utility class
 
     This class loads a large text corpus and allows matching short text segments to it.
-    '''
+    """
 
     def __init__(self, corpus: Path):
         lines = []
-        self.corpus = []
+        self.corpus = [] # expl: Corpus is a list of ids in the vocabulary
         words = set()
         self.vocab = Dictionary()
         with open(corpus) as f:
             for l in f:
-                tok = normalize(l.strip())
-                tok = tok.strip().split()
+                tok = l.strip()
+                tok = tok.strip().lower().split() # PE: Could we remove punctuation here too, without removing punctuation in output?
                 lines.append(tok)
                 words.update(tok)
             self.vocab.put(words)
@@ -117,7 +130,7 @@ class Matcher:
                 for w in l:
                     self.corpus.append(self.vocab.get_id(w))
 
-    def _findall(self, id):
+    def _findall(self, id): # expl: find pos of all instances of a vocabulary id
         ret = []
         off = 0
         N = len(self.corpus)
@@ -134,16 +147,16 @@ class Matcher:
         N = len(ids)
         if N == 0:
             return 0, 0
-        p1 = self._findall(ids[0])
-        poff = 1
-        while (len(p1) == 0 or len(p1) > 1000) and poff < N:
+        p1 = self._findall(ids[0]) # expl: list of pos in text corpus of first vocabulary id in ids
+        poff = 1 
+        while (len(p1) == 0 or len(p1) > 1000) and poff < N: # expl: if first words is non-existing or very common, adjust p1 to pos before 2nd (or subsequent) words
             p2 = self._findall(ids[poff])
             p1 = [x - poff for x in p2]
             poff += 1
         max_r = 0
-        pf = []
-        for p in p1:
-            sm = SequenceMatcher(a=ids, b=self.corpus[p:p + N], autojunk=False)
+        pf = [] # expl: store list of best matches
+        for p in p1: # expl: Loop through p1 positions
+            sm = SequenceMatcher(a=ids, b=self.corpus[p : p + N], autojunk=False) # expl: Difflib sequence matcher of ids and seq. of idx from corpus of same l as ids starting w p
             r = sm.ratio()
             if r > max_r:
                 max_r = r
@@ -152,40 +165,48 @@ class Matcher:
                 pf.append(p)
 
         if len(pf) == 0:
-            print('ERROR: no candidates found!')
+            print("ERROR: no candidates found!")
             return 0, 0
         # elif len(pf) > 1:
         #     print('WARNING: multiple candidates found!')
 
-        pf = pf[0]
+        pf = pf[0] # expl: get first loc of (first) best matches
 
         # print('C  ' + self.vocab.get_text(self.corpus[pf:pf + N + 10]))
         # print('S  ' + self.vocab.get_text(ids))
 
-        mb = SequenceMatcher(a=ids, b=self.corpus[pf:pf + N + 10], autojunk=False).get_matching_blocks()
+        mb = SequenceMatcher(
+            a=ids, b=self.corpus[pf : pf + N + 10], autojunk=False
+        ).get_matching_blocks() # expl: get matching blocks (from difflib seq.matcher) of ids in best match sequence + 10 words
         # print(mb)
-        m = mb[-2]
-        M = m.b + m.size
+        m = mb[-2] # expl: Get the second to last matching block (because last match is a dummy)
+        M = m.b + m.size # expl: end loc of longest match
 
-        return pf, pf + M
+        return pf, pf + M # expl: beg and end of longest perfect (?) match 
 
     def _ids2str(self, ids: List[int]) -> str:
-        return ''.join([chr(x) for x in ids])
+        return "".join([chr(x) for x in ids])
 
-    def match(self, segments: List[Segment]) -> List[Position]:
+    def match(self, segments: List[Segment], bm=True) -> List[Position]:
         positions = []
 
         # skip segments at start that have too little words
         sit = 0
         for sit in range(len(segments)):
-            N = len(segments[sit].text)
+            if bm:
+                N = len(segments[sit].text_bm)
+            else:
+                N = len(segments[sit].text_nn)
             if N >= 15:
                 break
-            print(f'Skipping {sit}\'th segment because too little words: {N}')
+            print(f"Skipping {sit}'th segment because too little words: {N}")
             positions.append(Position(-1, -1, -1, -1, 0, segments[sit]))
 
         # find position of first (non-trivial) segment
-        segint = self.vocab.to_ids(segments[sit].text)
+        if bm:
+            segint = self.vocab.to_ids(segments[sit].text_bm)
+        else:
+            segint = self.vocab.to_ids(segments[sit].text_nn)
 
         b, e = self._close_match(segint)
         d = ratio(self._ids2str(self.corpus[b:e]), self._ids2str(segint))
@@ -195,7 +216,10 @@ class Matcher:
 
         # for other segments in sequence
         for sit in range(sit + 1, len(segments)):
-            segint = self.vocab.to_ids(segments[sit].text)
+            if bm:
+                segint = self.vocab.to_ids(segments[sit].text_bm)
+            else:
+                segint = self.vocab.to_ids(segments[sit].text_nn)
 
             # determine amount of words to match in reference
             L = len(segint)
@@ -208,7 +232,7 @@ class Matcher:
             else:
                 L += 10
             # extract that portion of reference
-            tm = self.corpus[e:e + L]
+            tm = self.corpus[e : e + L]
 
             # match ASR segment to reference
             ops = editops(self._ids2str(tm), self._ids2str(segint))
@@ -245,21 +269,50 @@ class Matcher:
 
         return positions
 
-    def print_debug(self, positions: List[Position]):
-        print(f'Printing {len(positions)} segments:')
-        print('==============')
+    def print_debug(self, positions: List[Position], bm=True):
+        print(f"Printing {len(positions)} segments:")
+        print("==============")
         for pos in positions:
-            words = self.vocab.to_words(self.corpus[pos.corp_start:pos.corp_end])
-            words = '\t'.join(words)
-            print('CORPUS\t' + words)
-            words = pos.segment.text[pos.seg_start:pos.seg_end]
-            words = '\t'.join(words)
-            print('SEGMENT\t' + words)
-            print(f'RATIO \t {pos.ratio}')
-            print('--------------')
+            words = self.vocab.to_words(self.corpus[pos.corp_start : pos.corp_end])
+            words = "\t".join(words)
+            print("CORPUS\t" + words)
+            if bm:
+                words = pos.segment.text_bm[pos.seg_start : pos.seg_end]
+            else:
+                words = pos.segment.text_nn[pos.seg_start : pos.seg_end]
+            words = "\t".join(words)
+            print("SEGMENT\t" + words)
+            print(f"RATIO \t {pos.ratio}")
+            print("--------------")
 
-    def resegment_positions(self, positions: List[Position], max_time_gap: float = 5.0, max_word_gap: int = 10,
-                            max_seg_len: float = 20.0 * 60.0) -> List[Position]:
+    def get_matches(self, positions: List[Position], bm=True):
+        returnlist = []
+        for pos in positions:
+            corpus_words = self.vocab.to_words(
+                self.corpus[pos.corp_start : pos.corp_end]
+            )
+            if bm:
+                segment_words = pos.segment.text_bm[pos.seg_start : pos.seg_end]
+            else:
+                segment_words = pos.segment.text_nn[pos.seg_start : pos.seg_end]
+            matchdict = {
+                "start": pos.segment.start,
+                "end": pos.segment.end,
+                "corpus_text": " ".join(corpus_words),
+                "asr_text": " ".join(segment_words),
+                "ratio": pos.ratio,
+                "file": pos.segment.file,
+            }
+            returnlist.append(matchdict)
+        return returnlist
+
+    def resegment_positions(
+        self,
+        positions: List[Position],
+        max_time_gap: float = 5.0,
+        max_word_gap: int = 10,
+        max_seg_len: float = 20.0 * 60.0,
+    ) -> List[Position]:
         ret = []
         for pos in positions:
             if len(ret) == 0:
@@ -274,9 +327,15 @@ class Matcher:
             delta_ref = pos.corp_start - ls.corp_end
             # if the gap is between 0..5 seconds and 0..10 words and current length of segments is less than 20 mins
             # then merge segments
-            if 0 <= delta_time <= max_time_gap and 0 <= delta_ref <= max_word_gap and len_time < max_seg_len:
+            if (
+                0 <= delta_time <= max_time_gap
+                and 0 <= delta_ref <= max_word_gap
+                and len_time < max_seg_len
+            ):
                 ret[-1].segment.end = pos.segment.end
-                ret[-1].seg_end = pos.seg_end + len(ret[-1].segment.text)
+                ret[-1].seg_end = pos.seg_end + len(
+                    ret[-1].segment.text
+                )  # TODO: Differentier mellom bm og nn om denne skal brukes
                 ret[-1].segment.text.extend(pos.segment.text)
                 ret[-1].corp_end = pos.corp_end
             else:
@@ -293,23 +352,28 @@ class Matcher:
 
         outdir.mkdir(exist_ok=True)
 
-        with open(outdir / 'wav.scp', 'w') as wav_f, \
-                open(outdir / 'segments', 'w') as seg_f, \
-                open(outdir / 'text', 'w') as text_f:
+        with open(outdir / "wav.scp", "w") as wav_f, open(
+            outdir / "segments", "w"
+        ) as seg_f, open(outdir / "text", "w") as text_f:
             for fn, (fid, segs) in enumerate(files.items()):
-                wav_f.write(f'reco{fn:03} {(wavdir / fid).absolute()}\n')
+                wav_f.write(f"reco{fn:03} {(wavdir / fid).absolute()}\n")
                 for sn, seg in enumerate(segs):
-                    seg_f.write(f'seg{fn:03}-{sn:04} reco{fn:03} {seg.segment.start} {seg.segment.end}\n')
+                    seg_f.write(
+                        f"seg{fn:03}-{sn:04} reco{fn:03} {seg.segment.start} {seg.segment.end}\n"
+                    )
                     text_f.write(
-                        f'seg{fn:03}-{sn:04} {self.vocab.get_text(self.corpus[seg.corp_start:seg.corp_end])}\n')
+                        f"seg{fn:03}-{sn:04} {self.vocab.get_text(self.corpus[seg.corp_start:seg.corp_end])}\n"
+                    )
 
 
-def ctm_to_segments(wavscp: Path, ctm: Path, max_gap: float = 1.0, max_len: float = 20.0) -> List[Segment]:
+def ctm_to_segments(
+    wavscp: Path, ctm: Path, max_gap: float = 1.0, max_len: float = 20.0
+) -> List[Segment]:
     scp = {}
     with open(wavscp) as f:
         for l in f:
             tok = l.strip().split()
-            scp[tok[0]] = ' '.join(tok[1:])
+            scp[tok[0]] = " ".join(tok[1:])
 
     words = {}
     with open(ctm) as f:

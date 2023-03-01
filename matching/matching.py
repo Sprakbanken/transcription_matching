@@ -6,6 +6,7 @@ from typing import Dict, Set, List, Tuple
 
 from Levenshtein import ratio, editops, matching_blocks
 
+from . import util
 
 @dataclass
 class Segment:
@@ -61,11 +62,13 @@ def load_segments(file: Path) -> List[Segment]:
 
 @dataclass
 class Dictionary:
-    word2id: Dict[str, int] = field(default_factory=lambda: {"<unk>": 0})
-    id2word: Dict[int, str] = field(default_factory=lambda: {0: "<unk>"})
+    word2id: Dict[str, int] = field(default_factory=lambda: {"<unk>": 0, "": 1})
+    id2word: Dict[int, str] = field(default_factory=lambda: {0: "<unk>", 1: ""})
 
     def put(self, words: Set):
         for id, word in enumerate(sorted(list(words))):
+            if word == "": # not strictly necessary, but makes "" <-> 1 mapping explicit
+                continue
             self.word2id[word] = id + 1
             self.id2word[id + 1] = word
 
@@ -117,14 +120,15 @@ class Matcher:
     def __init__(self, corpus: Path):
         lines = []
         self.corpus = [] # expl: Corpus is a list of ids in the vocabulary
+        self.original_text = []
         words = set()
         self.vocab = Dictionary()
         with open(corpus) as f:
             for l in f:
-                tok = l.strip()
-                tok = tok.strip().lower().split() # PE: Could we remove punctuation here too, without removing punctuation in output?
-                lines.append(tok)
-                words.update(tok)
+                tokens, norm_tokens = util.tokenize(l)
+                lines.append(norm_tokens)
+                self.original_text.extend(tokens)
+                words.update(norm_tokens)
             self.vocab.put(words)
             for l in lines:
                 for w in l:
@@ -187,6 +191,11 @@ class Matcher:
     def _ids2str(self, ids: List[int]) -> str:
         return "".join([chr(x) for x in ids])
 
+    def ed_ratio(self, b, e, segint):
+        # exclude empty normalized tokens in corpus from ed computation
+        return ratio(self._ids2str([c for c in self.corpus[b:e] if c != 1]),
+                     self._ids2str(segint))
+
     def match(self, segments: List[Segment], bm=True) -> List[Position]:
         positions = []
 
@@ -209,7 +218,7 @@ class Matcher:
             segint = self.vocab.to_ids(segments[sit].text_nn)
 
         b, e = self._close_match(segint)
-        d = ratio(self._ids2str(self.corpus[b:e]), self._ids2str(segint))
+        d = self.ed_ratio(b, e, segint)
         hb = 0
         he = len(segint)
         positions.append(Position(b, e, hb, he, d, segments[sit]))
@@ -249,13 +258,13 @@ class Matcher:
                 he = mb[-2][1] + mb[-2][2]
 
                 # get the ratio of segments that match in length
-                d = ratio(self._ids2str(self.corpus[b:e]), self._ids2str(segint))
+                d = self.ed_ratio(b, e, segint)
 
             # if ratio is bad
             if d < 0.5:
                 # try to find the segment elsewhere
                 b, e = self._close_match(segint)
-                d = ratio(self._ids2str(self.corpus[b:e]), self._ids2str(segint))
+                d = self.ed_ratio(b, e, segint)
                 hb = 0
                 he = len(segint)
 
@@ -288,9 +297,7 @@ class Matcher:
     def get_matches(self, positions: List[Position], bm=True):
         returnlist = []
         for pos in positions:
-            corpus_words = self.vocab.to_words(
-                self.corpus[pos.corp_start : pos.corp_end]
-            )
+            original_words = self.original_text[pos.corp_start : pos.corp_end]
             if bm:
                 segment_words = pos.segment.text_bm[pos.seg_start : pos.seg_end]
             else:
@@ -298,7 +305,7 @@ class Matcher:
             matchdict = {
                 "start": pos.segment.start,
                 "end": pos.segment.end,
-                "corpus_text": " ".join(corpus_words),
+                "corpus_text": " ".join(original_words),
                 "asr_text": " ".join(segment_words),
                 "ratio": pos.ratio,
                 "file": pos.segment.file,

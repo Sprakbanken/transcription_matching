@@ -314,6 +314,8 @@ class Matcher:
                 "asr_text": " ".join(segment_words),
                 "ratio": pos.ratio,
                 "file": pos.segment.file,
+                "corpus_start": pos.corp_start,
+                "corpus_end": pos.corp_end,
             }
             returnlist.append(matchdict)
         return returnlist

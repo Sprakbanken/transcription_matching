@@ -183,9 +183,12 @@ class Matcher:
             a=ids, b=self.corpus[pf : pf + N + 10], autojunk=False
         ).get_matching_blocks() # expl: get matching blocks (from difflib seq.matcher) of ids in best match sequence + 10 words
         # print(mb)
+        m = None
         if len(mb) < 2:
             print("ERROR: Insufficient matches")
             return 0, 0
+        else:
+            m = mb[-2]
         M = m.b + m.size # expl: end loc of longest match
 
         return pf, pf + M # expl: beg and end of longest perfect (?) match 

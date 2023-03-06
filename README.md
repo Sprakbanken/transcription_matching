@@ -19,3 +19,11 @@ from sprakbanken_normalizer.inverse_text_normalizer import inv_normalize
 
 print(inv_normalize("dette tallet er tre hundre tusen fire hundre og tjueto"))
 ```
+
+## Lagring i SQLite database
+
+En SQLite database må først opprettes for å samle referanser til alle referater og transkripsjoner.
+
+```
+python3 run.py results.db
+```

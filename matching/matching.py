@@ -25,7 +25,6 @@ class Segment:
             text_nn=self.text_nn,
         )
 
-
 @dataclass
 class Position:
     corp_start: int
@@ -43,7 +42,7 @@ class CTMWord:
     text: str
 
 
-def load_segments(file: Path) -> List[Segment]:
+def load_segments(file: Path, normalize = True) -> List[Segment]:
     ret = []
     with open(file) as f:
         for l in f:
@@ -53,8 +52,8 @@ def load_segments(file: Path) -> List[Segment]:
                     data["file"],
                     data["start"],
                     data["end"],
-                    data["text_bm"].strip().split(),
-                    data["text_nn"].strip().split(),
+                    util.tokenize_segment(data["text_bm"], normalize),
+                    util.tokenize_segment(data["text_nn"], normalize)
                 )
             )
     return sorted(ret, key=lambda x: (x.file, x.start))
@@ -117,7 +116,7 @@ class Matcher:
     This class loads a large text corpus and allows matching short text segments to it.
     """
 
-    def __init__(self, corpus: Path):
+    def __init__(self, corpus: Path, remove_punctuation = True):
         lines = []
         self.corpus = [] # expl: Corpus is a list of ids in the vocabulary
         self.original_text = []
@@ -125,7 +124,7 @@ class Matcher:
         self.vocab = Dictionary()
         with open(corpus) as f:
             for l in f:
-                tokens, norm_tokens = util.tokenize(l)
+                tokens, norm_tokens = util.tokenize_reference(l, remove_punctuation)
                 lines.append(norm_tokens)
                 self.original_text.extend(tokens)
                 words.update(norm_tokens)

@@ -43,6 +43,7 @@ for proc in proceedings:
     segs = [ s for s in segments if date in s ]
     if len(segs) != 1:
         print("Error with ", proc)
+    print("saving session %s..." % date)
 
     c = cursor.execute("INSERT INTO session(sessionid, proceedingsfile, transcriptionfile) VALUES(?,?,?)",
                        (sessionid, proc, segs[0]))
@@ -55,5 +56,6 @@ for proc in proceedings:
             cursor.execute("INSERT INTO segment(sessionid, segmentindex, audiofilename, duration) VALUES(?,?,?,?)",
                            (sessionid, segmentindex, data['file'], data['duration']))
             segmentindex += 1
+    print("\t%d segments saved" % segmentindex)
 
 connection.close()

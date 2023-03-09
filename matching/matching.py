@@ -157,8 +157,6 @@ class Matcher:
             p1 = [x - poff for x in p2]
             poff += 1
         max_r = 0
-
-
         pf = [] # expl: store list of best matches
         for p in p1: # expl: Loop through p1 positions
             sm = SequenceMatcher(a=ids, b=self.corpus[p : p + N], autojunk=False) # expl: Difflib sequence matcher of ids and seq. of idx from corpus of same l as ids starting w p

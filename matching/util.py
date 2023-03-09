@@ -16,4 +16,5 @@ def tokenize_segment(s, normalize_numbers = True):
     t = s.strip()
     if normalize_numbers:
         t = inv_normalize(t)
-    return t.split()
+    tokens = t.split()
+    return [ t for t in tokens if t not in ['eee', 'mmm', 'qqq'] ]

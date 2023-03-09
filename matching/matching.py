@@ -56,7 +56,7 @@ def load_segments(file: Path, normalize = True) -> List[Segment]:
                     util.tokenize_segment(data["text_nn"], normalize)
                 )
             )
-    return sorted(ret, key=lambda x: (x.file, x.start))
+    return ret
 
 
 @dataclass
@@ -133,9 +133,9 @@ class Matcher:
                 for w in l:
                     self.corpus.append(self.vocab.get_id(w))
 
-    def _findall(self, id): # expl: find pos of all instances of a vocabulary id
+    def _findall(self, id, from_pos = 0): # expl: find pos of all instances of a vocabulary id
         ret = []
-        off = 0
+        off = from_pos
         N = len(self.corpus)
         while off < N:
             try:
@@ -153,7 +153,7 @@ class Matcher:
         p1 = self._findall(ids[0]) # expl: list of pos in text corpus of first vocabulary id in ids
         poff = 1 
         while (len(p1) == 0 or len(p1) > 1000) and poff < N: # expl: if first words is non-existing or very common, adjust p1 to pos before 2nd (or subsequent) words
-            p2 = self._findall(ids[poff])
+            p2 = self._findall(ids[poff], from_pos = poff)
             p1 = [x - poff for x in p2]
             poff += 1
         max_r = 0
@@ -214,6 +214,10 @@ class Matcher:
                 break
             print(f"Skipping {sit}'th segment because too little words: {N}")
             positions.append(Position(-1, -1, -1, -1, 0, segments[sit]))
+
+        # if end of list is already reached, return now
+        if sit == len(segments) - 1:
+            return positions
 
         # find position of first (non-trivial) segment
         if bm:

@@ -56,7 +56,7 @@ def load_segments(file: Path, normalize = True) -> List[Segment]:
                     util.tokenize_segment(data["text_nn"], normalize)
                 )
             )
-    return sorted(ret, key=lambda x: x.start)
+    return ret
 
 
 @dataclass

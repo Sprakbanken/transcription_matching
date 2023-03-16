@@ -6,7 +6,7 @@ from pathlib import Path
 
 # Constants
 
-SEG_QUERY = "SELECT seg.segmentid, seg.sessionid, seg.segmentindex, seg.audiofilename, seg.duration, ses.proceedingsfile, ses.transcriptionfile, ses.matched FROM segment seg LEFT JOIN session ses ON ses.sessionid = seg.sessionid;"
+SEG_QUERY = "SELECT segmentid, sessionid, segmentindex, audiofilename, duration, proceedingsfile, transcriptionfile, matched FROM segment JOIN session USING (sessionid);"
 SCORE_QUERY_TEMPLATE = "SELECT segmentid, score, language, pos_start, pos_end FROM score WHERE language = '{language}';"
 
 

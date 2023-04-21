@@ -3,6 +3,7 @@ import sqlite3
 import json
 
 from pathlib import Path
+from random import randint
 
 # Constants
 
@@ -25,9 +26,15 @@ class ProceedingsCorpus(object):
                 for w in l.strip().split():
                     self.tokens.append(w)
     
-    def get_corpus_text(self, start, end):
+    def get_corpus_text(self, start, end, safe=False):
         """Return slice of corpus text from start word index to 
         (but not including) end word index"""
+        if safe:
+            upper_limit = len(self.tokens)+1
+            if start < 0:
+                start = 0
+            elif end > upper_limit:
+                end = upper_limit
         return " ".join(self.tokens[start:end])
 
 class Transcriptions(object):
@@ -104,4 +111,32 @@ def add_text_cols(df: pd.DataFrame) -> pd.DataFrame:
     
     df["proceedings_text"] = df.apply(lambda row: add_proceedings_text(row), axis=1)
     df["transcription_text"] = df.apply(lambda row: add_transcription_text(row), axis=1)
+    return df
+
+def add_context_cols(df: pd.DataFrame) -> pd.DataFrame:
+    """Add columns 'text_before' and 'text_after' with text before and after the proceedings text.
+    the length of the context snippets varies between 43 and 75, i.e. one std below and above the
+    mean length"""
+
+    corpfile = ""
+    corpobj = None
+
+    min_len = 43
+    max_len = 75
+    
+    def add_context(row, before=True):
+        nonlocal corpfile
+        nonlocal corpobj
+        if corpfile != row.proceedingsfile:
+            corpfile = row.proceedingsfile
+            corpobj = ProceedingsCorpus(corpfile)
+        if before:
+            before_start = row.pos_start-randint(min_len, max_len)
+            return corpobj.get_corpus_text(before_start, row.pos_start, safe=True)
+        else:
+            after_end = row.pos_end+randint(min_len, max_len)
+            return corpobj.get_corpus_text(row.pos_end, after_end, safe=True)
+    
+    df["context_before"] = df.apply(lambda row: add_context(row), axis=1)
+    df["context_after"] = df.apply(lambda row: add_context(row, before=False), axis=1)
     return df

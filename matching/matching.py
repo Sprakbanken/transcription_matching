@@ -1,3 +1,8 @@
+# Attribution: This file contains a slightly modified version of the code
+# used in CLARINSI's ParlaSpeech project.
+# https://github.com/clarinsi/parlaspeech
+# License: Apache 2.0
+
 import json
 from dataclasses import dataclass, field
 from difflib import SequenceMatcher

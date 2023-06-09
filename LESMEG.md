@@ -27,3 +27,9 @@ En SQLite database må først opprettes for å samle referanser til alle referat
 ```
 python3 run.py results.db
 ```
+
+## Lag en CSV-fil med ekstraherte transkripsjoner
+
+```
+python3 make_match_csv.py /sti/til/utfil.csv
+```

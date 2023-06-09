@@ -33,3 +33,9 @@ An SQL database needs to be built first to save the references to the proceeding
 ```
 python3 run.py results.db
 ```
+
+## Make a csv file with extracted transcriptions
+
+```
+python3 make_match_csv.py /path/to/outfile.csv
+```

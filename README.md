@@ -1,10 +1,7 @@
-# Work repo for NPSC+
+# Work repo for Stortinget Speech Corpus
 ## Short introduction
-This repo contains the code used for creating the NPSC+, a large speech corpus with speech from Stortinget and transcriptions
-extracted from the proceedings at Stortinget. See [our paper](https://www.researchgate.net/publication/370766648_A_Large_Norwegian_Dataset_for_Weak_Supervision_ASR) for more information about this dataset. This is work in
-progress, but once the project is completed, the dataset will be shared with an open license. For the time being, the documentation
-of this code is rather basic.
-
+This repo contains the code used for creating the Stortinget Speech Corpus, a large speech corpus with speech from Stortinget and transcriptions
+extracted from the proceedings at Stortinget. See [our paper](https://www.researchgate.net/publication/370766648_A_Large_Norwegian_Dataset_for_Weak_Supervision_ASR) for more information about this dataset.
 
 ## Content
 * `data/` contains ASR transcriptions and proceedings
